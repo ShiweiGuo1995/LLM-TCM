@@ -1,0 +1,1 @@
+This project aims to enhance the translation ability of the large language model for traditional Chinese medicine texts through the term RAG, and the relevant instructions will be updated later. The current version is the verified version of the academic thesis.
