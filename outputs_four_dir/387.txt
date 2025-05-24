@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友向我诉苦，说是近来总感觉心下痛，尤其是在进食后更为明显。她还提到自己正处于更年期阶段，情绪波动较大，睡眠质量也不好。我建议她日常饮食上要特别注意，避免食用一些妊娠用药禁忌的食物，同时可以试试通过分消上下来调理身体。另外，她的舌形有些偏红，可能是因为体内有寒实结胸证，需要化瘀和胃。如果这些方法能帮到她缓解骨蚀带来的不适就好了。希望我的一些建议能对她有所帮助。
+Matched Terms
+['心下痛', '妊娠用药禁忌', '骨蚀', '分消上下', '舌形', '化瘀和胃', '更年期综合征', '寒实结胸证']
+Matched Terms Translation
+[['Pain below the heart'], ['Contraindicated medicines during pregnancy'], ['Bone lesion'], ['Induce vomiting and promoting bladder/ bowel movements'], ['Form of the tongue'], ['Transform stasis and harmonize the stomach'], ['Perimenopausal disorders', 'Menopausal disorder', ' Menopausal pattern'], ['Retained excess cold in the chest pattern']]
+Translation
+Recently, a friend complained to me that she has been feeling pain below the heart recently, which is more noticeable after eating. She also mentioned that she is currently in the menopausal stage, with significant mood swings and poor sleep quality. I suggested that she should pay special attention to her daily diet, avoiding foods contraindicated during pregnancy, while trying to regulate her body by inducing vomiting and promoting bladder/bowel movements. Additionally, her tongue appears somewhat red, possibly due to retained excess cold in the chest pattern, requiring transformation of stasis and harmonization of the stomach. If these methods can help alleviate the discomfort caused by bone lesions, it would be great. I hope my suggestions may be helpful to her.

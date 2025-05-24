@@ -1,0 +1,8 @@
+Original Text
+本文通过对血溢类病及肛裂等病症的研究，结合临床实践，探讨了大肠津亏证与蛇头疔之间的内在联系。研究发现，在治疗此类脏腑病时，采用异病同治的原则具有显著疗效。同时，通过运用振法与恰当的修治方法，能够有效改善患者症状，提高生活质量。此研究为临床治疗提供了新的思路和方法。
+Matched Terms
+['血溢类病', '肛裂', '大肠津亏证', '蛇头疔', '脏腑病', '异病同治', '振法', '修治']
+Matched Terms Translation
+[['Bleeding disorders'], ['Anal fissure'], ['Intestinal dryness pattern', 'Large intestine fluid deficiency pattern', ' Fluid insufficiency in the large intestine'], ['Snake head-like whitlow', 'Whitlow'], ['Diseases of zang–fu organs and associated meridians', 'Organ system disorders'], ['Same treatment for different diseases'], ['Vibrating manipulation'], ['Medicinal processing']]
+Translation
+This article, through the study of blood overflow disorders such as bleeding diseases and anal fissures, combined with clinical practice, explores the intrinsic connection between the pattern of fluid insufficiency in the large intestine and snake head-like whitlow. The research found that when treating such organ system disorders, the principle of same treatment for different diseases has significant efficacy. At the same time, by applying vibrating manipulation and appropriate medicinal processing methods, it can effectively improve patients' symptoms and enhance their quality of life. This study provides new ideas and methods for clinical treatment.

@@ -1,0 +1,8 @@
+Original Text
+在探讨肝热阴虚证时，我们发现平性药的应用对于调理体质具有独特效果。而在治疗厥病过程中，雁疮的识别与预防显得尤为重要。通过观察和研究十五络脉，我们可以更好地理解疾病的发生机制，并采用隔附子饼灸等外治法进行干预。此外，在某些情况下，使用逐水剂来调整体内水液代谢也是必要的，以达到主气调和的目的。这些方法共同构成了中医治疗复杂病症的重要组成部分。
+Matched Terms
+['肝热阴虚证', '平性药', '厥病', '雁疮', '十五络脉', '隔附子饼灸', '逐水剂', '主气']
+Matched Terms Translation
+[['Liver heat with yin deficiency pattern'], ['Neutral-property medicines'], ['Syncope', 'Syncope disorder'], ['Cat’s eye-shaped sore', 'Erythema multiforme'], ['The fifteen collaterals'], ['Monkshood cake- insulated moxibustion', 'Monkshood moxibustion'], ['Formulas that expel water'], ['Host qi']]
+Translation
+In the discussion of liver heat with yin deficiency pattern, we found that the application of neutral-property medicines plays a unique role in regulating the constitution. During the treatment of syncope disorder, the identification and prevention of cat's eye-shaped sore are particularly important. By observing and studying the fifteen collaterals, we can better understand the mechanism of disease occurrence and adopt external therapies such as monkshood cake-insulated moxibustion for intervention. Additionally, in certain cases, it is necessary to use formulas that expel water to adjust the metabolism of thick body fluids within the body to achieve the purpose of harmonizing host qi. These methods collectively form an essential part of TCM treatments for complex diseases.

@@ -1,0 +1,8 @@
+Original Text
+最近遇到一位患者，时常感叹身体不适，说是经常感到头痛发热，经过一番询问得知他属于辛凉解表药适用的症状，而且我发现他的眼皮有些红肿，这可能是睑弦赤烂的表现。进一步了解后发现他还有血不归经的问题，我推测他可能是因为外感风邪导致的，需要祛暑解表。另外还提到他时常感觉腹部胀满，疑似蛊胀的症状，同时他告诉我孩子出生后就一直有关节问题，怀疑是胎毒蕴结证。我建议他平时可以多按摩一下手太阴肺经，以帮助调理身体。
+Matched Terms
+['辛凉解表药', '叹息', '手太阴肺经', '睑弦赤烂', '血不归经', '祛暑解表', '蛊胀', '胎毒蕴结证']
+Matched Terms Translation
+[['Pungent cool exterior- releasing medicines', 'Wind-heat dissipating medicines'], ['Sighing'], ['The lung meridian of hand-Taiyin'], ['Red, wet and ulcerative eyelid', 'Marginal blepharitis'], ['Blood failing to flow within the vessels'], ['Eliminate summer heat and release the exterior', 'Release the exterior and clear summer heat'], ['Tympanites', 'Tympanites disorder'], ['Fetal toxin and heat accumulation pattern', 'Accumulation of fetal toxin pattern']]
+Translation
+Recently, I encountered a patient who often complained of physical discomfort, mentioning frequent headache and fever. After thorough inquiry, I learned that he exhibited symptoms suitable for treatment with pungent-cool exterior-releasing medicines, and I noticed his eyelids were somewhat red and swollen, possibly indicating marginal blepharitis. Further understanding revealed he had blood failing to flow within the vessels, which I speculated might be due to external invasion by pathogenic wind, requiring elimination of summer heat and release of the exterior. Additionally, he mentioned feeling abdominal distension, suspected to be tympanites, and he also told me that since his child's birth, he had joint issues, suspecting it might be the accumulation of fetal toxin pattern. I suggested he could massage the lung meridian of hand-Taiyin regularly to help regulate his body.

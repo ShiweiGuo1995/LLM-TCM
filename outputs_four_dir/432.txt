@@ -1,0 +1,8 @@
+Original Text
+在探讨痰饮中阻证与肺厥的临床表现时，我们发现两者虽有不同，但在某些情况下却可以相互影响。治疗过程中，合理应用活血止血药，不仅可以控制牙衄，还能增强机体抵抗力，促进疾病康复。同时，在药物的纯净处理上也需严格把关，以确保疗效。另外，关于气街与散脉的研究，为理解强中现象提供了新的视角，这些研究共同揭示了中医理论的深邃与博大。
+Matched Terms
+['痰饮中阻证', '肺厥', '活血止血药', '强中', '纯净处理', '散脉', '气街', '牙衄']
+Matched Terms Translation
+[['Phlegm dampness accumulating in the spleen pattern', 'Phlegm turbidity obstructing the middle jiao', ' Phlegm fluid obstructing the middle jiao', ' Phelgm-dampness accumulating in the spleen pattern'], ['Pulmonary syncope'], ['Blood-circulating haemostatic medicines', 'Stasis- transforming haemostatic medicines'], ['Persistent erection', 'Persistent erection disorder'], ['Cleaning'], ['Scattered pulse'], ['Qi streets'], ['Gum bleeding']]
+Translation
+In exploring the clinical manifestations of the phlegm-dampness accumulating in the spleen pattern and pulmonary syncope, we found that although they differ, they can influence each other under certain circumstances. During treatment, the rational use of blood-circulating hemostatic medicines not only controls gum bleeding but also enhances the body's resistance and promotes disease recovery. At the same time, strict quality control is necessary for the cleaning of medicinal substances to ensure efficacy. Additionally, studies on Qi streets and scattered pulse have provided new perspectives for understanding persistent erection disorders; these studies collectively reveal the profundity and vastness of traditional Chinese medical theory.

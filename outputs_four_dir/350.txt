@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们可以通过舌诊来观察自己的健康状况，比如发现舌质淡白可能是因为气血两虚证，这时候可以适当采用温补肾阳的方法调理身体。夏季高温容易导致暑风，这时解表宣肺就显得尤为重要。如果感觉身体不适，特别是出现消化不良的情况，可能是食瘕的表现，同时伴有肝积的症状，这时候要注意饮食调理，避免过于油腻的食物，以免加重肝脏负担。另外，对于一些体质偏于阴虚的人来说，滋阴也是非常必要的。总之，通过这些中医方法，我们可以更好地调养身体，保持健康。
+Matched Terms
+['温补肾阳', '舌诊', '暑风', '肝积', '滋阴', '解表宣肺', '气血两虚证', '食瘕']
+Matched Terms Translation
+[['Warm and tonify kidney yang', 'Warm and tonify kidney qi', ' Warm the kidney and strengthen yang'], ['Tongue diagnosis'], ['Summer heat convulsion'], ['Masses in the liver'], ['Nourish yin', 'Nourish and supplement yin fluids'], ['Release the exterior and disperse the lung'], ['Qi and blood deficiency pattern'], ['Stomach masses due to food retention']]
+Translation
+In daily life, we can observe our health condition through tongue diagnosis; for example, a pale tongue body might indicate a qi and blood deficiency pattern, at this time, it is appropriate to use methods to warm and tonify kidney yang to regulate the body. High summer temperatures can easily lead to summer heat convulsion, at such times, releasing the exterior and dispersing the lung becomes particularly important. If you feel unwell, especially if you experience indigestion, it may be a manifestation of stomach masses due to food retention, accompanied by symptoms of masses in the liver; at this point, attention should be paid to dietary regulation, avoiding overly greasy foods to avoid increasing the burden on the liver. Additionally, for those with a constitution tending towards yin deficiency, nourishing yin is also very necessary. In summary, through these TCM methods, we can better nourish and regulate the body to maintain health.

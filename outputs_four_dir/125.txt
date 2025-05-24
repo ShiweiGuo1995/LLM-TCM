@@ -1,0 +1,8 @@
+Original Text
+本文探讨了泻下剂在治疗虫兽伤及生殖病类方面的应用，并通过临床观察验证其疗效。在诊断过程中，我们采用了切脉、问诊等方法，发现患者存在遗精现象，同时伴有肝合胆功能失调。基于此，我们在治疗方案中融入了调气和营、活血舒筋的原则，旨在改善患者的整体状况。实验结果显示，该综合疗法对改善患者症状具有显著效果。
+Matched Terms
+['泻下剂', '虫兽伤', '生殖病类', '切脉', '遗精', '肝合胆', '调气和营', '活血舒筋']
+Matched Terms Translation
+[['Formulas that drain downward', 'Purgative formulas'], ['Animal/insect bites'], ['Reproductive system diseases'], ['Pulse diagnosis', 'Pulse-taking'], ['Nocturnal emissions'], ['The pairing between the liver and gallbladder'], ['Regulate qi and harmonize the Ying nutrients'], ['Circulate blood and relax tendons']]
+Translation
+This article explores the application of purgative formulas in treating animal/insect bites and reproductive system diseases, and verifies their therapeutic effects through clinical observations. During the diagnosis process, we adopted methods such as pulse diagnosis and inquiry, discovering symptoms of nocturnal emissions and simultaneous dysfunction in the pairing between the liver and gallbladder. Based on this, we incorporated principles of regulating qi and harmonizing the Ying nutrients, and circulating blood and relaxing tendons into our treatment plan, aiming to improve the patient's overall condition. The experimental results show that this comprehensive therapy has significant effects in improving the patient's symptoms.

@@ -1,0 +1,8 @@
+Original Text
+中医认为，治疗扁虫病时需注重调理脏腑功能，尤其是肝滞脾虚证患者，其常表现为消化不良等症状。对于此类病症，采用镇心安神之法，辅以化瘀止血药，可达到较好的疗效。此外，肺在志为悲，若情绪抑郁，亦会影响肺部健康，进而加重病情。在治疗过程中，还需注意饮食调养，避免辛辣刺激，以免造成金实不鸣或绝脉等现象，同时采取软坚润燥的方法，使疾病得以缓解。
+Matched Terms
+['镇心安神', '化瘀止血药', '软坚润燥', '绝脉', '肝滞脾虚证', '金实不鸣', '肺在志为悲', '扁虫病']
+Matched Terms Translation
+[['Tranquillize and calm the mind'], ['Blood-circulating haemostatic medicines', 'Stasis- transforming haemostatic medicines'], ['Soften hardness and moisten dryness'], ['Strange pulse', 'True visceral pulse', ' exhaustion pulse', ' failure pulse', ' critical pulse'], ['Liver hyperactivity with spleen deficiency pattern', 'Liver stagnation with spleen deficiency pattern'], ['Excess metal failing to sound'], ['The emotion of the lung is grief'], ['Fasciolopsiasis', 'paediatric fasciolopsiasis']]
+Translation
+In the treatment of Fasciolopsiasis, it is important to regulate the function of Zang-fu organs according to TCM theory, especially for patients with the Liver hyperactivity with spleen deficiency pattern, who often exhibit symptoms such as indigestion. For such syndromes, using methods to tranquillize and calm the mind, supplemented by Blood-circulating hemostatic medicines, can achieve better therapeutic effects. Additionally, the emotion of the lung is grief; if one is depressed emotionally, it will also affect lung health, thereby aggravating the condition. During the treatment process, attention should also be paid to dietary regulation, avoiding spicy and stimulating foods to prevent phenomena like Excess metal failing to sound or Strange pulse, while adopting methods to soften hardness and moisten dryness to alleviate the disease.

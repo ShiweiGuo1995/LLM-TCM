@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨温燥伤肺证患者出现渴不欲饮症状时的治疗策略。通过临床观察发现，此类患者常伴有干燥症表现，提示津液不足。基于此，采用滋阴安神之法，辅以平性药调节，旨在调和营血，恢复阴阳平衡。进一步分析表明，对于阴阳两虚证患者，需结合敛肺止咳药物，以达到标本兼治的效果。综上所述，针对温燥伤肺证患者的治疗，应注重滋阴润燥与调和营血并举，同时兼顾敛肺止咳，方能取得良好疗效。
+Matched Terms
+['温燥伤肺证', '渴不欲饮', '干燥症', '滋阴安神', '平性药', '营血', '阴阳两虚证', '敛肺止咳']
+Matched Terms Translation
+[['Warm dryness pattern', 'Warm dryness damaging/ attacking the lung pattern'], ['Thirst with no desire to drink'], ['Xerosis'], ['Nourish yin and calm the mind'], ['Neutral-property medicines'], ['Ying-nutrient blood'], ['Yin and yang deficiency pattern'], ['Astringe the lung and relieve cough']]
+Translation
+This study aims to explore the treatment strategies for patients with the Warm Dryness Damaging the Lung Pattern who exhibit symptoms of thirst without desire to drink. Clinical observations have revealed that such patients often present with signs of xerosis, indicating a deficiency of body fluids. Based on this, the method of nourishing yin and calming the mind is adopted, supplemented by neutral-property medicines to regulate, aiming to harmonize Ying-nutrient blood and restore yin-yang balance. Further analysis indicates that for patients with Yin and Yang Deficiency Pattern, astringent lung and relieving cough drugs should be combined to achieve the effect of treating both the tip and root. In summary, for the treatment of patients with the Warm Dryness Damaging the Lung Pattern, it is essential to emphasize both nourishing yin and moistening dryness as well as harmonizing Ying-nutrient blood, while also considering astringent lung and relieving cough, in order to achieve good therapeutic effects.

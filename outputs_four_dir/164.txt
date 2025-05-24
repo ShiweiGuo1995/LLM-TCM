@@ -1,0 +1,8 @@
+Original Text
+在探讨乳腺疾病如乳癌的治疗时，我们常需结合中医理论，比如通过观察患者是否出现痰热结胸证来调整治疗方案。同时，在日常保健方面，学习太极拳流派不仅能够强身健体，还能辅助治疗某些妇科疾病如缩阴病。对于一些急症如卒腹痛，了解小肠主液的功能有助于更好地理解病情。此外，睡眠时若出现睡时露睛的现象，可能与体内气血不畅有关，需要辨证施治。在诊断过程中，运用横指同身寸的测量方法能更准确地判断穴位位置，提高治疗效果。
+Matched Terms
+['痰热结胸证', '乳癌', '横指同身寸', '缩阴病', '睡时露睛', '卒腹痛', '小肠主液', '太极拳流派']
+Matched Terms Translation
+[['Phlegm heat affecting the chest pattern'], ['Rocky mass in the breast', 'Breast cancer'], ['Four-finger measurement', 'Four-finger breadth measurement'], ['Genital retraction'], ['Sleep with exposed eyeballs'], ['Sudden abdominal pain'], ['The small intestine governs thick body fluids'], ['Taijiquan styles']]
+Translation
+In discussing the treatment of breast diseases such as breast cancer, we often need to integrate Traditional Chinese Medicine (TCM) theory, for example, by adjusting the treatment plan based on whether the patient exhibits the syndrome of phlegm heat affecting the chest. Meanwhile, in daily health maintenance, learning Taijiquan styles can not only strengthen the body but also assist in the treatment of certain gynecological diseases such as genital retraction. For some acute conditions like sudden abdominal pain, understanding the function of the small intestine governing thick body fluids can help better comprehend the condition. Additionally, if one experiences sleep with exposed eyeballs during sleep, it may be related to the disharmony of qi and blood within the body, requiring pattern identification and treatment. In the diagnostic process, using the four-finger breadth measurement method can more accurately determine the location of acupoints, thereby enhancing therapeutic effects.

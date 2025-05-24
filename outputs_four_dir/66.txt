@@ -1,0 +1,8 @@
+Original Text
+在探讨胃气虚证时，我们发现清胃泄火法对毒蕈中毒所致之胃肠功能紊乱具有显著疗效。同时，临床观察显示，清心泻肺与五味调和亦能有效缓解症状，其机制在于通过调整体内阴阳平衡，使邪去正安。此外，结脉之象常见于此类患者，提示病情复杂，需结合从革理论以辨证施治。针对重症患者，泻火通腑法成为必要措施，以期达到邪去正安之效。综上所述，多种治疗方法并举，方能提高治疗效果，促进患者康复。
+Matched Terms
+['胃气虚证', '清胃泄火', '毒蕈中毒', '清心泻肺', '五味', '结脉', '从革', '泻火通腑']
+Matched Terms Translation
+[['Stomach qi deficiency pattern'], ['Clear and reduce stomach heat', 'Clear the stomach and reduce fire'], ['Mushroom poisoning'], ['Clear heat in the heart and lung'], ['Five flavours'], ['Knotted pulse', 'Bound'], ['Metal is characterized by yielding and changing'], ['Clear heat and promote bowel movements', 'Fire-clearing purgation', ' Purgation with bitter-cold', ' Drastic purgation']]
+Translation
+In exploring the pattern of Stomach qi deficiency, we found that the method of Clearing and reducing stomach heat has significant therapeutic effects on gastrointestinal dysfunction caused by mushroom poisoning. Meanwhile, clinical observations indicate that Clearing heat in the heart and lung and harmonizing the Five flavours can also effectively alleviate symptoms, with the mechanism being the adjustment of Yin-Yang balance within the body to achieve the effect of dispelling pathogenic factors and restoring normalcy. Furthermore, the appearance of a Bound pulse is commonly observed in such patients, suggesting complex conditions that require the integration of Metal is characterized by yielding and changing theory for syndrome differentiation and treatment. For severe cases, Fire-clearing purgation becomes a necessary measure to achieve the effect of dispelling pathogenic factors and restoring normalcy. In summary, adopting multiple therapeutic methods concurrently can enhance treatment outcomes and promote patient recovery.

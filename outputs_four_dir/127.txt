@@ -1,0 +1,8 @@
+Original Text
+最近在学习太极推手时，发现自己的体质有些问题，尤其是面黄和食养方面需要注意。朋友推荐我尝试一下提插补泻的方法来调理身体。同时，我也在网上查阅了一些资料，发现自己可能有膀胱蓄血证的情况，需要及时调理。还有人提到镇肝熄风对于改善面色也有帮助。不过最让我好奇的是透热转气这个方法，听说对很多慢性病都有很好的效果。希望这些方法能够帮助我改善身体状况，恢复健康。
+Matched Terms
+['食养', '摄领疮', '膀胱蓄血证', '镇肝熄风', '提插补泻', '透热转气', '太极推手', '面黄']
+Matched Terms Translation
+[['Food therapy', 'Dietary therapy'], ['Collar sore', 'Oxhide lichen'], ['Taiyang blood retention pattern', 'Blood accumulation in the bladder pattern', ' Blood and heat build up in the bladder pattern Blood retention in the urinary bladder'], ['Soothe the liver and extinguish wind', 'Calm the liver and stop wind'], ['Reinforcing and reducing by lifting and thrusting', 'Tonifying and sedating by lifting and thrusting'], ['Formulas that clear heat in the Ying nutrients phase'], ['Taiji pushing hands'], ['Yellow facial complexion']]
+Translation
+Recently, while learning Taiji pushing hands, I found that there are some issues with my physical constitution, especially regarding yellow facial complexion and dietary therapy. A friend recommended that I try the reinforcing and reducing by lifting and thrusting method to regulate my body. At the same time, I searched online and found that I might have the blood accumulation in the bladder pattern, which needs timely adjustment. Someone also mentioned that soothing the liver and extinguishing wind can help improve my facial complexion. However, what intrigued me the most was the method of clearing heat and transforming Qi, as it is said to have good effects on many chronic diseases. I hope these methods can help me improve my physical condition and restore health.

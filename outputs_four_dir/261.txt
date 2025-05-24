@@ -1,0 +1,8 @@
+Original Text
+中医认为阴囊风多由外感六气，湿热下注所致，而阻病和脘痞则常与脾胃功能失调有关。阳明病证通常表现为高热、大汗出等症状，而痘疹的发生则多因心气亏虚证或毒蕴结证所致，这些病症均需辨证施治，以恢复机体平衡。
+Matched Terms
+['阴囊风', '六气', '🗎阻病', '脘痞', '阳明病证', '痘疹', '心气亏虚证', '🗎毒蕴结证']
+Matched Terms Translation
+[['Scrotal eczema'], ['Six qi'], ['Dampness obstruction'], ['Stomach stuffiness'], ['Yangming disorders', 'Middle yang stage pattern', ' Yang brightness pattern'], ['Smallpox'], ['Heart qi deficiency pattern'], ['Damp toxin pattern', 'Accumulation of damp toxin pattern']]
+Translation
+Scrotal eczema is often caused by the invasion of the six qi from the external environment and the downward flow of dampness and heat, while stomach stuffiness is commonly associated with the dysfunction of the spleen and stomach. Symptoms of Yangming disorders usually include high fever and profuse sweating, whereas the occurrence of smallpox is mostly due to the heart qi deficiency pattern or the stagnation of toxic factors; all these conditions require pattern differentiation for treatment to restore the balance of the body.

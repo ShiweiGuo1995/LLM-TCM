@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，补益剂常用于调理身体虚弱状态，对于因心肺不足引起的不寐病，采用滋补心肺的方法可以有效改善症状。另外，在日常保健中，太极推手是一种很好的锻炼方式，有助于调和气血，但对于口腔疾病如齿漏和疖的治疗，则需要根据具体病情选择合适的治疗方法。值得注意的是，某些脉象如反关脉可能提示体内有热毒，而口淡可能是脾胃功能不佳的表现，这些都需要通过辨证施治来解决。
+Matched Terms
+['补益剂', '疖', '滋补心肺', '齿漏', '太极推手', '反关脉', '口淡', '不寐病']
+Matched Terms Translation
+[['Formulas that tonify or reinforce'], ['Furuncles', 'Furuncle disorders', ' Boil disorders Boils'], ['Nourish and supplement the heart and lung', 'Nourish the heart and lung'], ['Dental fistula'], ['Taiji pushing hands'], ['Pulse on the back of the wrist'], ['A bland taste'], ['Insomnia', 'Insomnia disorder Sleeplessness']]
+Translation
+In TCM theory, tonifying formulas are commonly used to regulate physical weakness. For insomnia caused by deficiency of heart and lung, nourishing the heart and lung can effectively improve symptoms. Additionally, Taiji pushing hands is a good exercise method in daily health care, which helps to regulate and harmonize qi and blood, but for oral diseases such as dental fistula and furuncles, appropriate treatment methods should be selected based on specific conditions. It is worth noting that certain pulse conditions such as pulse on the back of the wrist may indicate heat toxicity inside the body, while a bland taste in the mouth might be a manifestation of spleen and stomach dysfunction; all these require resolution through pattern identification and treatment.

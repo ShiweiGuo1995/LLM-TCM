@@ -1,0 +1,8 @@
+Original Text
+在探讨经络之气与人体健康的关系时，我们不能忽视关门不利所导致的液代谢障碍，这常常引发五刺现象。隐痛作为常见症状之一，往往提示着脉痿的存在，而热蕴结证则是其背后的重要病理机制。阳脉之海的通畅与否直接影响到气血运行，进而影响身体各部位的功能状态。
+Matched Terms
+['经络之气', '液', '五刺', '关门不利', '脉痿', '隐痛', '🗎热蕴结证', '阳脉之海']
+Matched Terms Translation
+[['Qi of meridians'], ['Thick fluids', 'Ye', ' thick body fluids'], ['The five needling techniques'], ['The water gate failing to operate'], ['Heart vessel flaccidity'], ['Dull pain'], ['Damp heat pattern', 'Damp heat accumulation pattern'], ['The sea of yang meridians']]
+Translation
+When discussing the relationship between the Qi of meridians and human health, we cannot ignore the disorder of fluid metabolism caused by the water gate failing to operate, which often triggers the five needling techniques phenomenon. Dull pain as a common symptom usually indicates the existence of heart vessel flaccidity, while heat accumulation syndrome is an important pathological mechanism behind it. The unimpeded state of the sea of yang meridians directly affects the circulation of Qi and Blood, thereby influencing the functional states of various parts of the body.

@@ -1,0 +1,8 @@
+Original Text
+在探讨瘴疟与晚期蛊虫病的关联时，我们发现两者在病理机制上有一定的相似性，特别是在食物中毒引发的急性症状方面。针对这些病症，临床实践中采用升清固涩法以调整脏腑功能，同时结合活血调经以改善血液循环，对缓解症状具有显著效果。对于下疳患者，该方法同样显示出良好的疗效。此外，在治疗小儿惊厥和反胃病的过程中，也观察到了类似的效果，提示升清固涩法可能在多种疾病治疗中有广泛应用前景。然而，具体机制仍需进一步研究以验证其有效性。
+Matched Terms
+['瘴疟', '升清固涩', '下疳', '食物中毒', '晚期蛊虫病', '小儿惊厥', '反胃病', '活血调经']
+Matched Terms Translation
+[['Miasmic malaria', 'Epidemic malaria'], ['Lift and secure qi'], ['Chancroid'], ['Food poisoning'], ['Advanced schistosomiasis', 'Advanced snail fever'], ['Infantile convulsions'], ['Stomach reflux'], ['Circulate blood and regulate menstruation', 'Harmonize blood and regulate menstruation']]
+Translation
+In exploring the association between miasmic malaria and advanced schistosomiasis, we found certain similarities in their pathological mechanisms, particularly in acute symptoms caused by food poisoning. For these diseases, clinical practice employs the method of lifting and securing qi to adjust Zang-fu functions, combined with harmonizing blood and regulating menstruation to improve blood circulation, which demonstrates significant effects in alleviating symptoms. This approach also shows good efficacy for chancroid patients. Additionally, during the treatment of infantile convulsions and stomach reflux, similar effects have been observed, suggesting that the method of lifting and securing qi may have broad application prospects in the treatment of various diseases. However, the specific mechanisms still require further research to verify its effectiveness.

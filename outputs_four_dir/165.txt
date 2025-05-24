@@ -1,0 +1,8 @@
+Original Text
+最近在学习中医的过程中，发现五行理论真是博大精深，不仅能够解释人体的生理病理，还能指导我们日常养生。比如脚气病这种常见问题，其实与五行中的土和水有着密切的关系。记得有一次，朋友的孩子因为胎疮问题烦恼不已，后来通过调整饮食，补充土元素的食物，情况有所改善。而我自己的一个老毛病，就是脾痟，医生建议我用员利针治疗，效果果然不错。生活中我们的情绪变化，也就是七情，也会影响到我们的健康。最近发现自己的脉象呈现数脉，看来得好好调理一下了。希望这些经验能对大家有所帮助。
+Matched Terms
+['胎疮', '脾痟', '续筋接骨', '员利针', '五行', '脚气病', '七情', '数脉']
+Matched Terms Translation
+[['Paediatric eczema'], ['Wasting of the spleen'], ['Repair broken sinews and bones'], ['Round-sharp needle', 'Yuan Li zhen'], ['Five elements', 'Five phases'], ['Beriberi'], ['Seven emotions'], ['Rapid pulse']]
+Translation
+Recently in the process of studying Traditional Chinese Medicine, I found that the theory of Five Elements is truly profound and extensive, not only can it explain human physiology and pathology, but it can also guide our daily health preservation. For example, a common problem like beriberi is actually closely related to the elements of earth and water in the Five Elements. I remember once, a friend's child was troubled by paediatric eczema, later through adjusting diet and supplementing foods rich in earth element, the condition improved somewhat. My own old ailment, wasting of the spleen, was advised by the doctor to be treated with Yuan Li zhen, and indeed the effect was quite good. The changes in our emotions, known as the Seven Emotions, also affect our health. Recently, I found my pulse conditions showing rapid pulse, seems I need to regulate myself properly. I hope these experiences can be helpful to everyone.

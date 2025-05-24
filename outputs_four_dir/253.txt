@@ -1,0 +1,8 @@
+Original Text
+在探讨血为气之母理论时，我们发现血虚会导致气虚，进而引发肺风痰喘等病症。针对此类情况，采用含有温燥病特性的药物治疗显得尤为重要。然而，在实际临床操作中，亦需警惕火邪过旺导致体内毒素积聚，形成所谓的毒蕈中毒现象，此乃内闭外脱证的一种表现形式。对于此类复杂病情，应用锭剂进行治疗不仅能够有效控制症状，还能促进气血调和，从而达到标本兼治的效果。同时，乳悬的应用也显示出其在改善上述症状方面的潜力。
+Matched Terms
+['血为气之母', '火邪', '乳悬', '肺风痰喘', '锭剂', '毒蕈中毒', '内闭外脱证', '温燥病']
+Matched Terms Translation
+[['Blood is the mother of qi'], ['Pathogenic fire', 'Fire (Heat)'], ['Sagging breasts'], ['Paediatric pneumonia'], ['Pastille/troche'], ['Mushroom poisoning'], ['Interior blockage and exterior collapse pattern'], ['Warm dryness']]
+Translation
+In discussing the theory of Blood being the mother of Qi, we find that Blood deficiency can lead to Qi deficiency, which in turn can cause diseases such as lung wind phlegm wheezing. In such cases, it is particularly important to use drugs with properties of Warm Dryness for treatment. However, in actual clinical practice, one must also be cautious about the overabundance of Fire (Heat) pathogen leading to toxin accumulation inside the body, forming what is known as mushroom poisoning, which is a manifestation of the Interior Blockage and Exterior Collapse pattern. For such complex conditions, using Pastilles not only effectively controls symptoms but also promotes the harmony of Qi and Blood, achieving the effect of treating both the tip and root. Meanwhile, the application of Sagging Breasts also shows its potential in improving the aforementioned symptoms.

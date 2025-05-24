@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于调理气血的问题，其实生活中我们经常会遇到一些小毛病，比如混合痔这样的问题，有时候饮食不当或者劳累过度就会出现，这时候我们可以用一些活血行气的方法来缓解，同时对于那些因为暴痢导致身体虚弱的情况，我们也可以采用类似的方法来调理。当然，如果是因为瘿劳或者其他精气不足引起的身体不适，我们就需要更加全面地调整生活习惯，包括饮食和作息，甚至可以尝试一些驱虫法来清除体内的寄生虫，以达到镇痉熄风的效果，从而更好地恢复健康。
+Matched Terms
+['调理气血', '混合痔', '活血行气', '镇痉熄风', '瘿劳', '精气', '暴痢', '驱虫法']
+Matched Terms Translation
+[['Regulate and harmonize qi and blood', 'Regulate qi and harmonize blood'], ['Mixed haemorrhoids'], ['Circulate blood and resolve stagnation', 'Move blood and circulate qi'], ['Stop wind and relieve convulsions'], ['Hypothyroidism'], ['Essence qi'], ['Damp heat dysentery', 'Sudden dysentery'], ['Repelling parasites methods']]
+Translation
+Recently, a friend asked me about regulating and harmonizing qi and blood. In fact, in our daily lives, we often encounter some minor ailments, such as mixed hemorrhoids. Sometimes, improper diet or overwork can lead to these issues. At this time, we can use methods to circulate blood and resolve stagnation to alleviate them. Meanwhile, for those whose bodies are weakened due to damp heat dysentery, we can also adopt similar methods to regulate and harmonize qi and blood. Of course, if the discomfort is caused by hypothyroidism or other deficiencies of essence qi, we need to make more comprehensive adjustments to our lifestyle habits, including diet and sleep patterns. We may even try repelling parasites methods to clear out internal parasites, thereby achieving the effect of stopping wind and relieving convulsions, and thus better restoring health.

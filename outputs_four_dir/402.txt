@@ -1,0 +1,8 @@
+Original Text
+最近我接诊了一位患者，他因为大麻风困扰已久，不仅皮肤出现了问题，还经常感到心神不宁，于是我采用安神法帮助他稳定情绪，并通过温和灸来改善他的身体状况。同时，我发现他的喉咙有些不适，开音对他来说非常重要，所以我用化痰开窍的方法来帮助他恢复。在治疗过程中，我还发现他的鼻子不太通，这可能与肝主升发有关，于是我也加入了通鼻的措施。经过一段时间的调理，他的软疖也逐渐好转了。希望我的这些方法也能帮助到有类似困扰的朋友。
+Matched Terms
+['安神法', '大麻风', '化痰开窍', '开音', '软疖', '温和灸', '肝主升发', '通鼻']
+Matched Terms Translation
+[['Mind-calming methods'], ['Leprosy'], ['Transform phlegm and open the orifices'], ['Restore the voice'], ['Headless boils'], ['Gentle moxibustion'], ['The liver governs ascending and dispersing'], ['Unblock the nose']]
+Translation
+Recently, I treated a patient who has been troubled by leprosy for a long time. Not only did his skin problems arise, but he also often felt restless spirit. Therefore, I used mind-calming methods to help stabilize his emotions and applied gentle moxibustion to improve his physical condition. At the same time, I found that his throat was uncomfortable, and it was very important for him to restore his voice, so I helped him recover using the method of transforming phlegm and opening the orifices. In the course of treatment, I also found that his nose was not unblocked, which might be related to the liver governing ascending and dispersing, so I also added measures to unblock his nose. After a period of adjustment, his headless boils gradually improved. I hope my methods can also help friends with similar troubles.

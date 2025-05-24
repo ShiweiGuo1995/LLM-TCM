@@ -1,0 +1,8 @@
+Original Text
+夏日炎炎，大家在享受清凉的同时也要小心暑热侵袭，防止出现暑脱的症状。饮食方面要注意服药食忌，避免食用过于寒凉的食物。最近发现有些人出现了经刺和通经止痒的情况，可能是由于气血不畅导致的。还有些朋友反映腿脚浮肿如象皮腿，这可能与心肾相交有关，建议及时调理。另外，如果出现鼻痔、纳差等问题，也需要及时治疗，以免病情加重。总之，夏季养生很重要，希望大家都能健康度过夏天。
+Matched Terms
+['经刺', '鼻痔', '通经止痒', '象皮腿', '纳差', '暑脱', '服药食忌', '心肾相交']
+Matched Terms Translation
+[['Meridian needling', 'Channel needling'], ['Nasal polyps'], ['Unblock meridians and relieve itch'], ['Elephant skin-like leg', 'Lymphatic filariasis'], ['Poor appetite'], ['Summer heat collapse'], ['Dietary contraindication during medication'], ['Coordination between the heart and the kidney', 'Coordination between water and fire/harmony', ' between the heart and the kidney']]
+Translation
+In the scorching summer, while everyone enjoys the coolness, they should also be cautious of the invasion of summer heat to prevent symptoms of summer heat collapse. In terms of diet, one should pay attention to dietary contraindications during medication, avoiding excessively cold foods. Recently, some people have experienced meridian needling and unblock meridians and relieve itch, which might be caused by poor circulation of qi and blood. Some friends have reported leg swelling like elephant skin-like legs, which may be related to the coordination between the heart and the kidney, it is recommended to adjust in time. Additionally, if there are issues such as nasal polyps and poor appetite, timely treatment is also needed to avoid aggravation of the condition. In summary, health preservation in summer is very important, and I hope everyone can stay healthy throughout the summer.

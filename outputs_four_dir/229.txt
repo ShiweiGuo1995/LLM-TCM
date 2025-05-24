@@ -1,0 +1,8 @@
+Original Text
+闭经患者常见脾虚洶盛证，肝其华在爪亦有体现，治疗需兼顾；早泄与脾虚有关，目痒出疹或为肝火上炎所致；敞裆易感风寒，加重病情，治疗时需注意；厥病发作突然，需及时调理，整体治疗中应重视脏腑功能平衡。
+Matched Terms
+['闭经', '脾虚🗎盛证', '肝其华在爪', '早泄', '目痒', '出疹', '敞裆', '厥病']
+Matched Terms Translation
+[['Amenorrhoea', 'Amenorrhoea disorder', ' No periods disorder'], ['Spleen deficiency with dampness pattern', 'Spleen deficiency with dampness accumulation pattern', ' Spleen deficiency with dampness encumbrance pattern', ' Spleen dampness with dampness accumulation pattern'], ['The lustre of the liver shows in the nails'], ['Premature ejaculation', 'Premature ejaculation disorder', 'Premature ejaculation', 'Premature ejaculation disorder'], ['Itchy eyes'], ['Skin eruptions'], ['Open crotch'], ['Syncope', 'Syncope disorder']]
+Translation
+Amenorrhea patients often exhibit the pattern of spleen deficiency and liver excess, and the liver's lustre showing in the nails should also be taken into account; premature ejaculation is associated with spleen deficiency, itchy eyes and skin eruptions may be due to liver fire ascending; open crotch makes one susceptible to wind and cold, exacerbating the condition, which needs attention during treatment; syncope episodes occur suddenly and require timely adjustment, the balance of zang-fu organ functions should be emphasized in overall treatment.

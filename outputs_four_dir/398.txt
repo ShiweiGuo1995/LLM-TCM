@@ -1,0 +1,8 @@
+Original Text
+最近在门诊遇到一位患者，他因为被蚂蝗咬伤后来找我诊治。观察他的症状，发现颧红明显，而且他总是感到身体乏力，精神不振。我给他把脉后发现是浮脉，判断可能是由于恐伤肾引起的体质虚弱。从中医的角度来看，这可能与滋养脾阴不足有关。按照土爰稼穑的原则，我认为需要调整他的生活习惯和饮食结构，以促进中精之府的功能恢复，并尝试通过一些温补的方法来改善他直中的症状。希望我的建议能帮助他早日康复。
+Matched Terms
+['滋养脾阴', '土爰稼穑', '蚂蝗咬伤', '中精之府', '浮脉', '颧红', '直中', '恐伤肾']
+Matched Terms Translation
+[['Nourish and supplement spleen yin', 'Nourish spleen yin'], ['Earth is characterized by sowing and reaping'], ['Leech bites'], ['The house of central essence'], ['Floating pulse', 'Superficial'], ['Red cheeks', 'Malar flush'], ['Direct attack to yin meridians'], ['Excessive fear damages the kidney']]
+Translation
+Recently, I encountered a patient in the clinic who came to me for treatment after being bitten by a leech. Upon observing his symptoms, I found that he had prominent red cheeks and always felt weak and lacking in spirit. After taking his pulse, I discovered it was a floating pulse, leading me to judge that his physical weakness might be due to excessive fear damaging the kidney. From the perspective of Traditional Chinese Medicine, this could be related to insufficient nourishment of spleen yin. According to the principle that Earth is characterized by sowing and reaping, I believe it is necessary to adjust his lifestyle and dietary structure to promote the function of the house of central essence and attempt to improve his symptoms through some warming and tonifying methods. I hope my suggestions will help him recover as soon as possible.

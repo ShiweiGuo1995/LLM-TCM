@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友跟我分享了她的困扰，她现在处于妊娠期却饱受妊娠呕吐的折磨，每天吃什么都吐，整个人都瘦了一大圈。我建议她在饮食上要注意五味调和，同时可以试试气功调理身体，通过练习气功来缓解妊娠呕吐的症状。我还推荐她可以尝试一下行气和胃的方法，帮助改善消化功能。当然，如果症状严重，还是建议找专业的中医师进行诊断治疗，比如用芒针疗法或是针对阳水、颜面部疔疮等病症的治疗方法。希望我的这些建议能帮到她，也希望大家在日常生活中多多关注自己的身体健康。
+Matched Terms
+['皮部', '妊娠呕吐', '行气和胃', '芒针', '阳水', '五味', '气功', '颜面部疔疮']
+Matched Terms Translation
+[['The twelve cutaneous regions'], ['Morning sickness', 'Morning sickness disorder', ' Vomiting during pregnancy disorder', ' Pregnancy vomiting'], ['Circulate qi and harmonize the stomach', 'Regulate qi and strengthen the stomach'], ['Elongated needle', 'Thread needling'], ['Yang oedema'], ['Five flavours'], ['Qigong'], ['Facial boils']]
+Translation
+Recently, a friend shared her distress with me; she is currently in the pregnancy stage but is suffering from severe morning sickness, vomiting everything she eats, and has lost a significant amount of weight. I suggested that she should pay attention to the balance of five flavors in her diet and try qigong to regulate her body, practicing qigong to alleviate the symptoms of morning sickness. I also recommended that she could try the method of circulating qi and harmonizing the stomach to help improve digestive function. Of course, if the symptoms are severe, it is still advisable to seek diagnosis and treatment from a professional TCM practitioner, such as using elongated needle therapy or other therapeutic methods for Yang edema, facial boils, and other diseases. I hope my suggestions can be helpful to her, and I also hope everyone will pay more attention to their physical health in daily life.

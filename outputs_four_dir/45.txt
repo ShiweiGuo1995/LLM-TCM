@@ -1,0 +1,8 @@
+Original Text
+在探讨方剂类治疗妊娠小便不通时，需特别关注思伤脾气证，此证常伴随花剥苔等舌象表现。同时，针对子痈病症，结合焠刺疗法与合病理论，从尾闾中正角度出发，可进一步提升临床疗效。研究表明，综合运用上述理论与技术，对改善患者症状及预后具有重要意义。
+Matched Terms
+['方剂类', '焠刺', '花剥苔', '妊娠小便不通', '子痈', '尾闾中正', '思伤脾气证', '合病']
+Matched Terms Translation
+[['Formulas of Chinese Medicine'], ['Cauterized needling'], ['Peeled tongue'], ['Urine retention in pregnancy'], ['Inflammatory infection of the testis and epididymis'], ['Keep the coccyx upright'], ['Worry damaging the spleen pattern', 'Anxiety damaging the spleen system pattern', ' Overthinking damaging spleen qi'], ['Concurrent meridian pattern']]
+Translation
+When discussing the treatment of urine retention in pregnancy with formulas of Chinese Medicine, it is particularly important to focus on the pattern of overthinking damaging the spleen qi, which often accompanies tongue manifestations such as peeled tongue. Meanwhile, for the treatment of inflammatory infection of the testis and epididymis, combining cauterized needling therapy and concurrent meridian pattern theory, from the perspective of keeping the coccyx upright, can further enhance clinical efficacy. Studies have shown that the comprehensive application of the above theories and techniques is of great significance for improving patient symptoms and prognosis.

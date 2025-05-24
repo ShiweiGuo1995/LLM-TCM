@@ -1,0 +1,8 @@
+Original Text
+在探讨肝衰病时，我们常常会遇到肝风内动证的情况，这与肾气亏虚证密切相关。通过指法诊断可以发现，血海不足和心包络受阻是常见现象。此外，壮火旺盛亦能导致蛊胀，这些因素共同作用于人体，使得疾病更加复杂。因此，在治疗上，既要注重补益肾气，又要平息肝风，同时调节心包络与血海的通畅。
+Matched Terms
+['肝衰病', '指法', '肾气亏虚证', '壮火', '肝风内动证', '心包络', '血海', '蛊胀']
+Matched Terms Translation
+[['Liver failure'], ['Finger positioning method'], ['Kidney qi deficiency pattern', 'Kidney qi depletion pattern', ' Kidney qi insufficiency', 'Kidney essence deficiency pattern', 'Kidney qi/essence deficiency'], ['Hyperactive fire'], ['Internal stirring of liver wind pattern', 'Internal stirring of liver wind', ' Liver wind stirring the interior pattern'], ['Pericardium', 'The pericardium connections'], ['The sea of blood'], ['Tympanites', 'Tympanites disorder']]
+Translation
+In discussing liver failure, we often encounter the pattern of internal stirring of liver wind, which is closely related to the kidney qi deficiency pattern. Through finger positioning method diagnosis, it can be found that insufficiency of the sea of blood and obstruction of the pericardium connections are common phenomena. Additionally, hyperactive fire can also lead to tympanites, and these factors collectively affect the body, making the disease more complex. Therefore, in treatment, it is necessary to focus on tonifying kidney qi, calming liver wind, and regulating the smooth flow of the pericardium connections and the sea of blood simultaneously.

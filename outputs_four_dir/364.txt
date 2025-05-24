@@ -1,0 +1,8 @@
+Original Text
+膝痈患者常因脓毒蕴积证引起，治疗时需重视固表敛汗与养阴安神相结合，以缓解喘促症状；同时，牙衄的发生亦与气血不调有关，通过益气安神可改善疾脉现象，达到整体调理的目的。
+Matched Terms
+['膝痈', '脓毒蕴积证', '固表敛汗', '养阴安神', '喘促', '益气安神', '牙衄', '疾脉']
+Matched Terms Translation
+[['Knee abscess'], ['Toxic pus pattern', 'Accumulation of toxic pus pattern'], ['Secure the exterior and stop sweating', 'Astringe sweating and secure the exterior'], ['Nourish yin and calm the mind'], ['Panting', 'Rapid breathing'], ['Supplement qi and calm the mind'], ['Gum bleeding'], ['Racing pulse', 'Swift pulse']]
+Translation
+Patients with knee abscess often present with the Toxic pus pattern, and during treatment, it is crucial to combine the methods of securing the exterior and stopping sweating with nourishing Yin and calming the mind to alleviate symptoms of rapid breathing; simultaneously, gum bleeding is also related to disharmony of Qi and Blood. By tonifying Qi and calming the mind, one can improve racing pulse phenomena, achieving the goal of overall regulation.

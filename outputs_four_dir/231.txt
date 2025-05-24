@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，针对火形人体质的调理，我们常采用下合穴疗法以促进脾胃功能，同时对于胞睑痰核病症，通过分服特定草药可以达到良好的治疗效果。此外，对于由外所因引发的伏梁病症，采用燀法处理药材，结合子岩的配伍原则，能够更好地发挥药物功效，从而改善患者体质，治疗伏梁等疾病。
+Matched Terms
+['下合穴', '胞睑痰核', '分服', '燀', '伏梁', '子岩', '火形人', '外所因']
+Matched Terms Translation
+[['Lower He-sea points'], ['Phlegm node of the eyelid'], ['Take in multiple times'], ['Blanching'], ['Masses in the upper abdomen', 'Masses accumulating below the cardiac region (Crohn’s disease or regional enteritis)'], ['Testicular cancer'], ['Fire personality'], ['External etiological factors']]
+Translation
+In TCM theory, for the regulation of the fire personality constitution, we often use the lower He-sea point therapy to promote the function of the spleen and stomach. At the same time, for the condition of phlegm node of the eyelid, taking folk medicines in multiple times can achieve good therapeutic effects. Additionally, for the masses accumulating below the cardiac region caused by external etiological factors, using blanching to process the herbs combined with the compatibility principle of testicular cancer can better exert the efficacy of the drugs, thereby improving the patient's constitution and treating diseases such as masses in the upper abdomen.

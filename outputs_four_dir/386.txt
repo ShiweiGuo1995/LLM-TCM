@@ -1,0 +1,8 @@
+Original Text
+最近感受到天气变化无常，风善行数变，让人容易感冒。我采用拍法来促进血液循环，增强体质。同时，饮食上我也注重辛甘化阳，以补充体内阳气。朋友问我为何舌润，其实是因为我注重调理肾阴虚热证，使身体达到阴阳平衡。大家也要注意，季节交替时要保护好自己的经气，避免外界邪气入侵。日常生活中，我们还可以通过开阖补泻的方法来调节身体机能，提高自身免疫力。至于花剥苔，那是需要结合脉象和其他症状来综合判断的，这里就不展开说了。
+Matched Terms
+['开阖补泻', '花剥苔', '经气', '辛甘化阳', '舌润', '肾阴虚热证', '风善行数变', '拍法']
+Matched Terms Translation
+[['Reinforcing and reducing by opening and closing', 'Tonifying and sedating by opening and closing'], ['Peeled tongue'], ['Qi of meridians'], ['Pungent and sweet transform into yang'], ['Moist tongue'], ['Kidney yin deficiency pattern', 'Genuine yin deficiency pattern', ' Kidney water depletion and deficiency pattern', ' Primordial yin deficiency pattern'], ['Wind moves and changes swiftly'], ['Patting manipulation']]
+Translation
+Recently, I have felt the weather changing unpredictably, with wind moving and changing swiftly, making people susceptible to common colds. I adopted the patting manipulation to promote blood circulation and enhance physical constitution. Meanwhile, in my diet, I focused on pungent and sweet transforming into yang to supplement the body's Yang qi. A friend asked why my tongue is moist; it is actually because I pay attention to regulating the kidney yin deficiency pattern, thereby achieving Yin-Yang balance in the body. Everyone should also be mindful that during seasonal transitions, they need to protect their Qi of meridians to prevent invasion by pathogenic qi from the external environment. In daily life, we can also regulate bodily functions and improve our immunity through reinforcing and reducing by opening and closing. As for a peeled tongue, it needs to be comprehensively diagnosed in conjunction with pulse conditions and other symptoms, so I will not elaborate here.

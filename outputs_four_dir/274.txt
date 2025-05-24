@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们可以通过食补来调养身体，比如多吃一些能敛汗固表的食物，帮助我们更好地应对季节变化。最近我发现自己总是莫名感到疲惫，有时候还会出现相火妄动的情况，中医认为这可能是情志不畅导致的，比如过度担忧会克制内心的喜悦（恐胜喜）。我决定通过调理饮食来改善这种情况，选择了一些能够调和气血的食物，并且按照医嘱服用了一些水丸来辅助治疗。此外，我还注意观察自己的身体状况，避免过度劳累，因为我知道过度劳累可能会加重太阳腑证的症状。希望这些小小的调整能够帮助我恢复健康，摆脱阴茧般的束缚感。
+Matched Terms
+['食补', '恐胜喜', '敛汗固表', '相火妄动', '太阳腑证', '阴茧', '调和气血', '水丸']
+Matched Terms Translation
+[['Food therapy', 'Dietary therapy'], ['Fear prevails over excess joy'], ['Secure the exterior and stop sweating', 'Astringe sweating and secure the exterior'], ['Reckless stirring of ministerial fire', 'Frenetic stirring of the ministerial fire'], ['Taiyang–fu organ pattern'], ['Vulvar ulceration', 'Vulvar swelling Vulvar erosion'], ['Regulate and harmonize qi and blood', 'Regulate qi and harmonize blood'], ['Water pill']]
+Translation
+In daily life, we can nourish the body through dietary therapy, such as eating more foods that can astringe sweating and secure the exterior to help us better adapt to seasonal changes. Recently, I found myself feeling inexplicably fatigued, and sometimes experiencing reckless stirring of the ministerial fire. Traditional Chinese Medicine believes this might be due to emotional stagnation, for example, excessive worry may restrain inner joy (fear prevails over excess joy). I decided to improve this situation by regulating my diet, choosing some foods that can regulate and harmonize qi and blood, and taking water pills as per medical advice to assist in treatment. Additionally, I pay attention to observing my physical condition, avoiding overwork, because I know that overwork may exacerbate symptoms of the Taiyang-fu organ pattern. I hope these minor adjustments can help me regain health and escape the feeling of being bound like a vulvar ulceration.

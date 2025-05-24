@@ -1,0 +1,8 @@
+Original Text
+在探讨心胆气虚证与思虑伤脾证的治疗时，我们发现采用皮内针结合输刺（十二刺）疗法能够有效调理脏腑功能，尤其对于祛痰化瘀有显著效果。同时，通过刺络法辅助泄热开窍，可以更好地促进气血流通，恢复机体平衡。值得注意的是，先天之精的养护也是预防此类病症的关键，需注重调养以增强体质。
+Matched Terms
+['祛痰化瘀', '皮内针', '心胆气虚证', '泄热开窍', '先天之精', '刺络法', '输刺（十二刺）', '思虑伤脾证']
+Matched Terms Translation
+[['Eliminate phlegm and transform stasis'], ['The intradermal needle'], ['Qi deficiency of the heart and gallbladder pattern', 'Heart and gallbladder qi deficiency pattern'], ['Clear heat and open the orifices'], ['Innate essence', 'Pre-heaven essence', ' prenatal essence', ' congenital essence'], ['Collateral-pricking method'], ['Shu needling (one of the twelve needling techniques)'], ['Worry damaging the spleen pattern', 'Anxiety damaging the spleen system pattern', ' Overthinking damaging spleen qi']]
+Translation
+In exploring the treatment of the syndrome of qi deficiency of the heart and gallbladder and the syndrome of worry damaging the spleen, we found that using the intradermal needle combined with Shu needling (one of the twelve needling techniques) could effectively regulate the functions of Zang-fu organs, especially showing significant effects in eliminating phlegm and transforming stasis. At the same time, through the collateral-pricking method to assist in clearing heat and opening the orifices, it can better promote the circulation of qi and blood, restoring the balance of the body. It is noteworthy that nurturing innate essence is also a key to preventing such syndromes, requiring attention to conditioning to enhance physical fitness.

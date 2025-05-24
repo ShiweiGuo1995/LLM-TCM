@@ -1,0 +1,8 @@
+Original Text
+在探讨发散风热药对白疕治疗效果的研究中，我们注意到其作用机制与十干理论紧密相连，特别是在气翳形成过程中，十干的生克制化扮演了重要角色。此外，肝癖的发生亦与五劳六极密切相关，其中心衰作为五劳之一，其病理变化直接影响到作强之官的功能状态。本研究通过深入分析上述各要素之间的相互关系，旨在为临床治疗提供更为科学的依据。
+Matched Terms
+['发散风热药', '白疕', '十干', '气翳', '作强之官', '五劳', '肝癖', '心衰']
+Matched Terms Translation
+[['Pungent cool exterior- releasing medicines', 'Wind-heat dissipating medicines'], ['White scaling skin', 'Plaque psoriasis'], ['Heavenly stems'], ['Interstitial keratitis'], ['The organ of strenuous work', 'The office of strenuous work'], ['Five exhaustions'], ['Liver stuffiness'], ['Congestive heart failure']]
+Translation
+In the study exploring the therapeutic effects of pungent cool exterior-releasing medicines on plaque psoriasis, we noted that their mechanism of action is closely linked to the theory of heavenly stems, particularly in the formation of interstitial keratitis, where the generating, controlling, overacting, and counteracting relationships of the heavenly stems play a significant role. Additionally, the occurrence of liver stuffiness is also closely related to the five exhaustions, among which congestive heart failure, as one of the five exhaustions, directly affects the functional state of the organ of strenuous work. This study aims to provide more scientific basis for clinical treatment by deeply analyzing the interrelationships among these various factors.

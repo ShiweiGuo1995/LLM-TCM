@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，无头疖和无头疽是常见的皮肤病症，前者多因湿热蕴结，后者则与阴虚火旺有关。若患者出现痰浊内阻、瘀滞胃肠证，则需通过益气固摄、敛肺止咳等方法调理。此外，痨淋一症常由肾虚导致，治疗时应注意调补肾气，防止阴损及阳。对于宗筋病变，亦需综合考虑气血津液的状态，采用相应治法以达到最佳疗效。
+Matched Terms
+['无头疖', '痨淋', '瘀滞胃肠证', '无头疽', '益气固摄', '敛肺止咳', '阴损及阳', '宗筋']
+Matched Terms Translation
+[['Headless boils'], ['Urinary bladder tuberculosis'], ['Blood stasis in the stomach and intestines pattern', 'Stasis obstructing the stomach and intestines pattern'], ['Headless abscess', 'Yin abscess'], ['Tonify qi and facilitate its securing function'], ['Astringe the lung and relieve cough'], ['Impairment of yin affecting yang'], ['Gathering of muscle around genital region', 'Ancestral muscles']]
+Translation
+In TCM theory, headless boils and headless abscesses are common skin diseases; the former is often due to damp-heat accumulation, while the latter is associated with yin deficiency leading to fire hyperactivity. If a patient presents with phlegm turbidity obstructing internally and blood stasis in the stomach and intestines pattern, then methods such as tonifying qi and facilitating its securing function, and astringing the lung and relieving cough should be used for adjustment. Additionally, the disease labor dysuria is often caused by kidney qi deficiency; during treatment, attention should be paid to regulating and supplementing kidney qi to prevent impairment of yin affecting yang. For lesions in the gathering of muscle around the genital region, one also needs to comprehensively consider the state of qi, blood, and body fluids, and adopt corresponding therapeutic methods to achieve optimal efficacy.

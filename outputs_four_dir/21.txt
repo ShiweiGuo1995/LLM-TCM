@@ -1,0 +1,8 @@
+Original Text
+在探讨补肾益气疗法对昏迷患者的影响时，我们注意到该疗法在改善厥证与肺厥方面显示出显著效果。此外，针对脐痈及乳糜尿等病症，通过益气固摄法亦能取得良好疗效。值得注意的是，在临床观察中，部分患者表现出牢脉特征，提示其可能存在的气虚血瘀状态，此为治疗过程中需特别关注之处。综合上述，补肾益气与益气固摄之法在治疗昏迷及相关并发症中展现出独特优势，但仍需大规模临床研究以验证其长期疗效及安全性。
+Matched Terms
+['补肾益气', '昏迷', '脐痈', '乳糜尿', '益气固摄', '厥证', '肺厥', '牢脉']
+Matched Terms Translation
+[['Tonify kidney qi', 'Reinforce kidney qi'], ['Unconsciousness', 'Loss of consciousness'], ['Umbilical abscess'], ['Unctuous strangury', 'Chyluria'], ['Tonify qi and facilitate its securing function'], ['Syncope', 'Syncope disorder'], ['Pulmonary syncope'], ['Firm pulse']]
+Translation
+In exploring the effect of tonifying kidney qi therapy on unconscious patients, we noticed that this therapy demonstrates significant efficacy in improving syncope disorder and pulmonary syncope. Furthermore, through the method of tonifying qi and facilitating its securing function, satisfactory therapeutic outcomes have been achieved for umbilical abscess and chyluria. It is noteworthy that in clinical observations, some patients exhibit firm pulse characteristics, indicating a possible state of qi deficiency and blood stasis, which requires special attention during treatment. In summary, the methods of tonifying kidney qi and tonifying qi and facilitating its securing function show unique advantages in treating unconsciousness and related complications, but large-scale clinical studies are still needed to verify their long-term efficacy and safety.

@@ -1,0 +1,8 @@
+Original Text
+在探讨辨病与祛邪安正的治疗原则时，我们发现对于蛇皮癣这一疾病，其临床表现为肌肤甲错，性重浊，结合任脉证及子喑症状，采用聚病理论进行综合分析，能够更全面地理解病情，从而制定更为精准的治疗方案。此过程中，需重视调节体内阴阳平衡，以达到标本兼治的目的。
+Matched Terms
+['辨病', '任脉证', '祛邪安正', '蛇皮癣', '肌肤甲错', '🗎性重浊', '子喑', '聚病']
+Matched Terms Translation
+[['Disease differentiation'], ['Ren meridian pattern', 'Conception vessel pattern'], ['Eliminate pathogenic factors and reinforce healthy qi'], ['Snake skin-like tinea', 'Ichthyosis disorder'], ['Rough, scaly skin'], ['Dampness is heavy and turbid'], ['Loss of voice during pregnancy'], ['Intangible masses', 'Jia masses']]
+Translation
+In the discussion of disease differentiation and eliminating pathogenic factors to reinforce healthy qi as therapeutic principles, we find that for snake skin-like ichthyosis disorder, characterized by rough, scaly skin, with a heavy and turbid nature, combined with symptoms of the Conception Vessel pattern and loss of voice during pregnancy, using the theory of intangible masses for comprehensive analysis can provide a more thorough understanding of the condition, thereby formulating a more precise treatment plan. In this process, it is essential to emphasize the regulation of yin-yang balance within the body to achieve the purpose of treating both the tip and root.

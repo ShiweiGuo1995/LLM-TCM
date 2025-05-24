@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友向我诉说，他总是感觉身体疲惫不堪，尤其到了下午更是觉得无力，晚上还经常失眠，有时甚至会出现耳闭的症状，严重影响了日常生活。我推测这可能是脾肾气虚不固证的表现。建议他平时可以多吃一些健脾补肾的食物，并尝试用解郁安神的方法来改善睡眠。同时，由于他的工作需要长时间对着电脑，可能会导致肺部不适，出现类似肺积的情况，所以也需要注意呼吸顺畅，可以适当做一些宣肺化痰的练习。如果症状持续不见好转，还是建议及时就医，毕竟健康才是最重要的。
+Matched Terms
+['脾肾气虚不固证', '肾癌翻花', '耳闭', '下焦病证', '神气鼓荡', '宣肺化痰', '解郁安神', '肺积']
+Matched Terms Translation
+[['Insecurity of the spleen and kidney pattern', 'Qi deficiency of the spleen and kidney pattern'], ['Penile cancer'], ['Ear block', 'Progressive hearing loss'], ['Lower jiao pattern'], ['Shen-qi movement'], ['Disperse the lung and transform phlegm', 'Transform phlegm and disperse the lung'], ['Relieve stagnation and calm the mind'], ['Masses in the lung', 'Rushing respiration']]
+Translation
+Recently, a friend told me that he always feels extremely fatigued, especially in the afternoon, and he often experiences insomnia at night, sometimes even ear block, which seriously affects his daily life. I speculate this might be the manifestation of the pattern of insecurity of the spleen and kidney qi deficiency. It is recommended that he eat more foods that tonify the spleen and kidney on a regular basis, and try methods to relieve stagnation and calm the mind to improve sleep. At the same time, due to his work requiring prolonged periods facing a computer, it may lead to discomfort in the lungs and symptoms similar to masses in the lung, so attention should also be paid to smooth breathing, and appropriate exercises for disperse the lung and transform phlegm can be done. If the symptoms persist without improvement, it is still advisable to seek medical attention promptly; after all, health is the most important.

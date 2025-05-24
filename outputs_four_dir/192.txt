@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，颤症的发生与肺阴不足密切相关，治疗时需注重滋养心阴，同时采用夹持进针法刺激相应穴位以调和气血。对于男性不育问题，除了通过按跷手法促进血液循环外，还需结合扶脾化痰的方法来调理身体，以达到通络下乳的效果，从而改善患者的整体健康状况。
+Matched Terms
+['颤症', '夹持进针法', '按跷', '肺阴', '男性不育', '滋养心阴', '通络下乳', '扶脾化🗎']
+Matched Terms Translation
+[['Brain wind', 'Parkinson’s disease'], ['Needle-holding insertion with both hands'], ['Tuina', 'Anmo, Anqiao, Qiaomo, Anwu, etc.'], ['Lung yin'], ['Sterility disorders', 'Male Sterility disorder', ' Male sterility'], ['Nourish and supplement heart yin', 'Nourish heart yin'], ['Unblock meridians and increase lactation'], ['Strengthen the spleen and transform dampness', 'Supplement the spleen and resolve dampness']]
+Translation
+In TCM theory, the occurrence of tremor syndrome is closely related to the deficiency of Lung Yin. During treatment, it is necessary to focus on nourishing Heart Yin and use the bilateral needle holding insertion technique to stimulate relevant acupoints for regulating and harmonizing Qi and Blood. For male infertility issues, in addition to promoting blood circulation through Tuina techniques, it is also necessary to combine with the method of supporting the Spleen and resolving Phlegm to regulate the body, achieving the effect of unblocking meridians and increasing lactation, thereby improving the overall health condition of the patient.

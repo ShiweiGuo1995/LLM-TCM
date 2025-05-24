@@ -1,0 +1,8 @@
+Original Text
+中医认为梦魇多与心肺阴虚证有关，常表现为少神、五运六气失衡时症状加重。观察舌象，若见腐苔，则更需注意调理脾胃，因脾在志为思，过思则伤脾，导致气臌等症。临床上，针对此类病症，可用验方进行调治，以达到阴阳平衡的状态。
+Matched Terms
+['腐苔', '脾在志为思', '少神', '心肺阴虚证', '五运六气', '验方', '梦魇', '气臌']
+Matched Terms Translation
+[['Curdy coating'], ['The emotion of the spleen is overthinking'], ['Insufficiency of spirit', 'Lack of spirit'], ['Yin deficiency of the heart and lung pattern', 'Heart and lung yin deficiency pattern'], ['Five movements and six qi'], ['Empirical formulas'], ['Nightmare'], ['Qi tympanites']]
+Translation
+In TCM, nightmares are mostly related to the pattern of yin deficiency of the heart and lung. They often manifest as insufficiency of spirit and symptoms worsen when the five movements and six qi are out of balance. Observing tongue manifestations, if curdy coating is seen, it is necessary to pay more attention to regulating and harmonizing the spleen and stomach. This is because the emotion of the spleen is overthinking; excessive thinking injures the spleen, leading to qi tympanites and other symptoms. Clinically, for such conditions, empirical formulas can be used for adjustment and treatment to achieve a state of yin-yang balance.

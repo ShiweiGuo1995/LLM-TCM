@@ -1,0 +1,8 @@
+Original Text
+最近遇到一位朋友，她告诉我她在绝经前后诸症困扰下感到非常不适，尤其是心烦和口疮让她夜不能寐。我建议她可以试试通过活血行气的方法来调理，同时配合发表攻里以帮助身体更好地适应这个阶段的变化。另外，保持良好的生活习惯也非常重要，比如避免辛辣刺激的食物，以免加重心血的负担。当然，每个人的体质不同，具体还需要结合个人情况来调整，希望我的一些建议能帮到她，也希望各位朋友能够关注自己的身体变化，及时调整，保持健康。
+Matched Terms
+['留饮', '活血行气', '绝经前后诸症', '心烦', '口疮', '发表攻里', '心血', '从革']
+Matched Terms Translation
+[['Prolonged fluid retention'], ['Circulate blood and resolve stagnation', 'Move blood and circulate qi'], ['Perimenopausal disorders', 'Menopausal disorder', ' Menopausal pattern'], ['Vexation', 'Heart vexation'], ['Mouth ulcers', 'Mouth ulcer'], ['Release the exterior and purge the interior'], ['Heart blood'], ['Metal is characterized by yielding and changing']]
+Translation
+Recently, I met a friend who told me that she was suffering from various symptoms during the perimenopause, especially vexation and mouth ulcers which made it difficult for her to fall asleep. I suggested that she could try to regulate her body by circulating blood and resolving stagnation while also releasing the exterior and purging the interior to help her body better adapt to these changes. Additionally, maintaining good living habits is very important, such as avoiding spicy and stimulating foods to prevent adding more burden to her heart blood. Of course, everyone's constitution is different, so specific adjustments still need to be made according to individual conditions. I hope my suggestions can be helpful to her, and I also hope that all friends can pay attention to their physical changes and adjust in time to maintain health.

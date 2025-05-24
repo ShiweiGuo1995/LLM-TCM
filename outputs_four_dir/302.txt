@@ -1,0 +1,8 @@
+Original Text
+在探讨方剂学时，我们不仅关注其基本理论，还应深入分析各种病症的治疗策略。例如，对于少阴头痛与经前乳胀等妇科常见症状，通过调整脾肾亏虚证状态，可以有效缓解患者不适。此外，在面对炭疽或蚕豆黄这类急性病症时，准确判断脉象并结合惊证的辨识，对症下药显得尤为重要。这些治疗方法和理论均是中医临床实践中的宝贵财富。
+Matched Terms
+['脾肾亏虚证', '炭疽', '经前乳胀', '方剂学', '蚕豆黄', '少阴头痛', '脉象', '惊证']
+Matched Terms Translation
+[['Deficiency of the spleen and kidney pattern', 'Insufficiency of the spleen and kidney pattern'], ['Anthrax'], ['Breast distension/pain during menstruation'], ['Chinese medicinal formulas', 'Chinese herbal formulas'], ['Favism'], ['Shaoyin headache'], ['Pulse conditions'], ['Excessive fright pattern']]
+Translation
+In discussing Chinese medicinal formulas, we not only focus on their basic theories but also delve into the analysis of various disease treatment strategies. For example, for common gynecological symptoms such as Shaoyin headache and breast distension/pain during menstruation, by adjusting the Deficiency of the spleen and kidney pattern, patients' discomfort can be effectively alleviated. Additionally, in dealing with acute diseases like Anthrax or Favism, accurately diagnosing pulse conditions and combining them with the identification of the excessive fright pattern is particularly crucial. These treatment methods and theories are invaluable assets in clinical practice of Traditional Chinese Medicine.

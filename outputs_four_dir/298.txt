@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，心血不足往往会导致多种症状出现，如心悸失眠等。通过指法诊断可以更准确地判断病情。在治疗过程中，采用卫气营血辨证的方法，结合肝主疏泄的功能，可以更好地调节人体气血。对于某些因痰阻心脉证引起的病症，除了使用药物治疗外，还可以通过培土制水的方法来辅助治疗，以达到镇惊安神的效果。同时，胃主受纳功能的正常也是保持身体健康的重要因素之一。
+Matched Terms
+['心血', '指法', '卫气营血辨证', '肝主疏泄', '培土制水', '镇惊安神', '胃主受纳', '痰阻心脉证']
+Matched Terms Translation
+[['Heart blood'], ['Finger positioning method'], ['Pattern differentiation of Wei-defence, qi, Ying nutrients and blood'], ['The liver governs the free flow of qi'], ['Cultivate earth to restrain water'], ['Tranquillize and calm the mind'], ['The stomach governs receiving and holding', 'The stomach governs receiving'], ['Phlegm obstructing the heart vessels pattern']]
+Translation
+In TCM theory, insufficiency of heart blood often leads to various symptoms such as palpitations and insomnia. Through finger positioning method, the condition can be diagnosed more accurately. In the treatment process, adopting the method of pattern differentiation of Wei-defensive qi, qi, Ying-nutrient blood, combined with the function of the liver governing the free flow of qi, can better regulate the body's qi and blood. For certain diseases caused by the phlegm obstructing the heart vessels pattern, in addition to using medication, auxiliary treatment can also be provided through cultivating earth to restrain water to achieve the effect of tranquillizing and calming the mind. At the same time, the normal function of the stomach governing receiving is also one of the important factors for maintaining good health.

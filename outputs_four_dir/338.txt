@@ -1,0 +1,8 @@
+Original Text
+在探讨颅脑类病的过程中，我们发现怒则气上是常见诱因之一，这不仅加重了病情，还可能导致咳血等严重症状。针对此类病症，采用赞刺法结合宽胸利膈的治疗策略显得尤为关键，尤其对于阳证患者而言，这种方法能够有效缓解症状。同时，思虑过度易导致脾气受损，形成思伤脾气证，此时滋阴润燥的治疗方法可以辅助改善体质，促进康复。综上所述，在处理颅脑类病时，综合运用这些方法，可以更好地调理患者的身体机能，达到治疗的目的。
+Matched Terms
+['怒则气上', '咳血', '赞刺', '颅脑类病', '宽胸利膈', '阳证', '思伤脾气证', '滋阴润燥']
+Matched Terms Translation
+[['Anger causes the qi to rise'], ['Haemoptysis'], ['Repeated shallow needling'], ['Brain diseases', 'Brain system disorders'], ['Open the chest and sooth the diaphragm'], ['Yang pattern'], ['Worry damaging the spleen pattern', 'Anxiety damaging the spleen system pattern', ' Overthinking damaging spleen qi'], ['Nourish yin and moisten dryness']]
+Translation
+In exploring brain system disorders, we find that anger causing the Qi to rise is a common trigger, which not only exacerbates the condition but may also lead to severe symptoms such as haemoptysis. For such conditions, the use of repeated shallow needling combined with methods to open the chest and soothe the diaphragm is particularly crucial, especially for patients with Yang pattern, as this approach can effectively alleviate symptoms. Meanwhile, excessive overthinking can easily damage the Spleen Qi, leading to the Worry damaging the spleen pattern; in such cases, the method of nourishing Yin and moistening dryness can assist in improving physical constitution and promoting recovery. In summary, by comprehensively applying these methods when treating brain system disorders, one can better regulate the patient's bodily functions and achieve the therapeutic goal.

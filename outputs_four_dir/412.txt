@@ -1,0 +1,8 @@
+Original Text
+最近有一位患者来找我，说是小腹痛得厉害，经过诊断发现是温毒袭表证，这让我想到了命门的重要性，因为命关一但受损，瘤癌病类的风险就会增加。而且这位患者情绪波动大，经常怒则气上，这样对身体非常不好，治疗时我还用到了三棱针放血，虽然会有些疼痛，但是可以缓解溢血病的症状。希望他能早日康复，也提醒大家平时要注意情绪调节，保持身体健康。
+Matched Terms
+['命门', '瘤癌病类', '溢血病', '温毒袭表证', '怒则气上', '三棱针', '命关', '小腹痛']
+Matched Terms Translation
+[['The gate of life'], ['Neoplasms and carcinomas'], ['Bleeding disorders'], ['Warm toxin attacking the exterior pattern'], ['Anger causes the qi to rise'], ['The three-edged needle'], ['Life pass'], ['Lower abdominal pain']]
+Translation
+Recently, a patient came to me complaining of severe lower abdominal pain. After diagnosis, it was found to be a Warm toxin attacking the exterior pattern, which made me think about the importance of The gate of life, because once Life pass is damaged, the risk of Neoplasms and carcinomas increases. Moreover, this patient had significant mood swings, often experiencing Anger causes the qi to rise, which is very harmful to the body. During treatment, I used The three-edged needle for bloodletting; although it may cause some pain, it can alleviate the symptoms of Bleeding disorders. I hope he will recover soon, and also remind everyone to pay attention to emotional regulation in daily life to maintain physical health.

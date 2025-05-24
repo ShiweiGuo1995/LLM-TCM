@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们可以通过扪法来了解身体的一些状况，比如热蕴肾证就是一种常见的表现。而闻诊也是诊断疾病的重要方法之一，如果出现胸中烦热的情况，我们应该及时关注。有时候，舍脉从症也能帮助我们更好地理解病情。官窍与心痿的关系也十分密切，这些症状往往相互关联。此外，火赤疮也是一种需要我们注意的病症，它可能会影响到我们的生活质量。通过这些基本的诊断方法和对疾病的了解，我们可以更好地照顾自己和家人。
+Matched Terms
+['扪法', '🗎热蕴肾证', '闻诊', '胸中烦热', '舍脉从症', '官窍', '心痿', '火赤疮']
+Matched Terms Translation
+[['Stroking manipulation'], ['Damp heat accumulating in the kidney pattern'], ['Auscultation'], ['Heat vexation in the chest'], ['Precedence of symptoms over the pulse'], ['Sense organs and orifices'], ['Heart vessel flaccidity'], ['Fire red sore', 'Dermatitis herpetiformis']]
+Translation
+In daily life, we can understand some conditions of the body through stroking manipulation; for example, heat蕴 kidney is a common manifestation. Auscultation is also one of the important methods for diagnosing diseases; if there is heat vexation in the chest, we should pay close attention. Sometimes, precedence of symptoms over the pulse can help us better understand the condition. The relationship between sense organs and orifices and heart vessel flaccidity is also very close, and these symptoms are often interrelated. Additionally, fire red sore is a condition that we need to pay attention to, which may affect our quality of life. Through these basic diagnostic methods and understanding of diseases, we can better take care of ourselves and our families.

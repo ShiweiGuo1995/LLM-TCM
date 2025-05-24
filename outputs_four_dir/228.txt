@@ -1,0 +1,8 @@
+Original Text
+最近天气变化无常，不少朋友出现了阴阳失调的情况，特别是那些长期工作压力大的朋友，容易出现气滞血瘀证。记得有一位读者，她告诉我她经常感到心阴不足，每到月经期间就会出现经行头痛的症状，这可能是肝脾气滞证的表现。另外，有些人因为饮食不当，体内湿气过重，可能会引发支饮或痧病，这些病症都与肺和肠道的功能失调有关，使用一些敛肺涩肠药可以得到一定的缓解。生活中我们要注意调理身体，保持良好的生活习惯，才能远离这些疾病的困扰。
+Matched Terms
+['敛肺涩肠药', '阴阳失调', '气滞血瘀证', '心阴', '经行头痛', '支饮', '肝脾气滞证', '痧病']
+Matched Terms Translation
+[['Lung and intestine- astringing medicines'], ['Disharmony between yin and yang'], ['Qi stagnation and blood stasis pattern'], ['Heart yin'], ['Headache during menstruation'], ['Thoracic fluid retention'], ['Qi stagnation of the liver and spleen pattern'], ['Bumpy sand-like exanthem']]
+Translation
+Recently, with the unpredictable weather changes, many friends have experienced disharmony between yin and yang, especially those who have been under great work pressure for a long time, they are prone to develop the pattern of qi stagnation and blood stasis. I remember a reader telling me that she often feels insufficiency of heart yin, and during menstruation, she experiences headache during menstruation, which might be a manifestation of the pattern of qi stagnation of the liver and spleen. Furthermore, some people may develop thoracic fluid retention or bumpy sand-like exanthem due to improper diet, leading to excessive dampness in the body; these conditions are associated with dysfunction of the lung and intestines, and can be alleviated to some extent by using lung and intestine-astringing medicines. In daily life, we should pay attention to regulating our bodies and maintaining good living habits to stay away from the troubles of these diseases.

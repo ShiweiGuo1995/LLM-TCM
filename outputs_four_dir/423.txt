@@ -1,0 +1,8 @@
+Original Text
+最近我遇到一位朋友，他总是感觉乏力，面色苍白，食欲不振，我判断他是脾阴不足，需要通过滋养脾阴来调理。他还时常感到悲伤，情绪低落，我认为这是悲伤肺的表现，应该用情志相胜法来调节心情。他的舌苔厚腻，口干舌燥，这可能是肺胃热盛证，建议他少吃辛辣刺激的食物，多吃清淡的食物。同时，他还可以尝试一些补阳剂来增强体质。在治疗上，可以采用泻南补北的方法，调整体内阴阳平衡，以达到治病的目的。
+Matched Terms
+['滋养脾阴', '雁疮', '乏力', '悲伤肺', '补阳剂', '泻南补北', '情志相胜法', '肺胃热盛证']
+Matched Terms Translation
+[['Nourish and supplement spleen yin', 'Nourish spleen yin'], ['Cat’s eye-shaped sore', 'Erythema multiforme'], ['Lassitude', 'Lack of strength'], ['Excessive grief damages the lung'], ['Formulas that tonify yang'], ['Reduce the south to reinforce the north'], ['Restraining emotions method'], ['Fire heat in the lung and stomach pattern', 'Exuberant heat in the lung and stomach pattern']]
+Translation
+Recently, I met a friend who always feels lassitude, has a pale facial complexion, and lacks appetite. I judge that he has a deficiency of Spleen yin and needs to nourish and supplement spleen yin for regulation. He also often feels sorrowful and depressed, which I believe is due to Excessive grief damaging the lung; therefore, he should use the restraining emotions method to adjust his mood. His tongue coating is thick and greasy, and he has a dry mouth, which might be a Fire heat in the lung and stomach pattern. It is suggested that he eat less spicy stimulating food and more bland food. At the same time, he can try some formulas that tonify yang to enhance his constitution. In treatment, the method of Reducing the south to reinforce the north can be used to adjust the balance of Yin-Yang inside the body to achieve the purpose of treating the disease.

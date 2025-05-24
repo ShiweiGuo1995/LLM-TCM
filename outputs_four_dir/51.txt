@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于身体不适的问题，他说自己总是感觉恶寒，而且睡眠也不好，容易惊醒。我建议他可以试试通过针刺方法来镇惊安神，同时调整生活习惯，保持良好的作息规律。他还提到皮肤上有一些小肿块，可能是毒侵肺卫证导致的，需要及时化毒消肿。另外他的大便干燥，这可能是因为津枯血燥引起的清泻肠热，应该多吃一些润肠通便的食物。最后提醒他要注意饮食清淡，调气和营，这样才能更好地恢复身体健康。
+Matched Terms
+['清泻肠热', '恶寒', '调气和营', '津枯血燥', '镇惊安神', '化毒消肿', '针刺方法', '毒侵肺卫证']
+Matched Terms Translation
+[['Clear and reduce intestine heat'], ['Aversion to cold'], ['Regulate qi and harmonize the Ying nutrients'], ['Fluid exhaustion leading to blood dryness'], ['Tranquillize and calm the mind'], ['Remove toxins and resolve swelling', 'Remove toxins and resolve masses'], ['Needling methods', 'Acupuncture techniques'], ['Toxin attacking the lung defence', 'Heat attacking the lung defence pattern', ' Warm attacking the lung defence pattern', ' Pathogenic warmth affecting the Wei-defence']]
+Translation
+Recently, a friend asked me about his physical discomfort. He mentioned that he always feels aversion to cold and has poor sleep quality, easily waking up startled. I suggested he could try using needle insertion methods to tranquillize and calm the mind, while also adjusting his lifestyle habits to maintain a regular schedule. He also mentioned some small swellings on his skin, which might be caused by the Heat attacking the lung defence pattern, requiring timely removal of toxins and resolution of swelling. Additionally, his stools are dry, which might be due to fluid exhaustion leading to blood dryness causing clear and reduce intestine heat; he should eat more foods that moisten dryness and promote bowel movements. Finally, I reminded him to pay attention to a light diet, regulate qi and harmonize the Ying nutrients, in order to better restore his physical health.

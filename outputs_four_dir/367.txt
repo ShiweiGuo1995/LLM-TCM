@@ -1,0 +1,8 @@
+Original Text
+今天和大家分享一下我在日常生活中运用的一些中医小知识。最近我发现自己的寸口诊法显示有些问题，于是开始尝试艾炷灸来调理身体。在肩颈部位我常用扫散法按摩，感觉效果不错。有时候我会用留罐法来帮助身体泄热败毒，改善体质。饮食上我尽量避免五味偏嗜，追求运气同化，保持饮食均衡。前阵子还发现手臂上长了个粉瘤，也试着用了一些中医的方法来处理，大家如果有类似的情况还是建议及时就医哦。希望大家都能健康！
+Matched Terms
+['寸口诊法', '艾炷灸', '扫散法', '留罐法', '泄热败毒', '五味偏嗜', '运气同化', '粉瘤']
+Matched Terms Translation
+[['Diagnosis in Cunkou area'], ['Moxa cone moxibustion'], ['Sweeping manipulation'], ['Cup retention'], ['Clear heat and remove toxins', 'Clear heat to detoxify'], ['Flavour preference', 'Flavour predilections'], ['Compatibility of movements and qi'], ['Skin tumour']]
+Translation
+Today, I would like to share some small TCM knowledge I apply in my daily life. Recently, I found that the pulse diagnosis at the Cunkou area showed some issues, so I started trying Moxa cone moxibustion to regulate my body. At the shoulder and neck area, I often use sweeping manipulation for massage, which feels quite effective. Sometimes, I use cup retention to help the body clear heat to detoxify and improve physical constitution. In terms of diet, I try to avoid flavour predilections and pursue compatibility of movements and qi to maintain a balanced diet. Not long ago, I found a skin tumour on my arm and also tried using some TCM methods to handle it; if you have similar situations, it's still recommended to seek medical attention in time. I hope everyone can stay healthy!

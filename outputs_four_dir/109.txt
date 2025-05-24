@@ -1,0 +1,8 @@
+Original Text
+本文探讨了产褥劳与产后恶露不绝在临床中的辨证施治，指出两者常伴发伤津及外燥袭表证，治疗上需注重调理十二正经气血，以促进机体恢复。同时，对于下石疽等外科病症，亦应考虑其与正水的关系，综合运用内外兼治之法。通过对典型病例的分析，进一步验证了上述观点，为临床提供参考。
+Matched Terms
+['产褥劳', '胁痛', '伤津', '正水', '产后恶露不绝', '下石疽', '十二正经', '外燥袭表证']
+Matched Terms Translation
+[['Postpartum exhaustion'], ['Pain in the subcostal region'], ['Damage to thin body fluid'], ['Generalized oedema'], ['Persistent lochia discharge'], ['Lower hard nodules'], ['Twelve meridians', 'Twelve regular meridians'], ['Wind dryness attacking the exterior pattern', 'External dryness affecting the exterior pattern']]
+Translation
+This article explores the辩证treatment of产褥劳and产后恶露不绝in clinical practice, pointing out that these two conditions often accompany伤津and外燥袭表证. Treatment should focus on regulating the气血of the十二正经to promote recovery of the body. At the same time, for external surgical conditions such as下石疽, the relationship with正水should also be considered, and a comprehensive approach combining internal and external treatments should be applied. Through the analysis of typical cases, the above viewpoints are further validated, providing reference for clinical practice.

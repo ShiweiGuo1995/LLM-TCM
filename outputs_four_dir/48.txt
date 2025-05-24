@@ -1,0 +1,8 @@
+Original Text
+本文探讨了肝积与阴茎癌在临床表现上的异同，并结合五行相克理论分析其病理机制。在治疗策略上，针对火热炽盛证和火毒内陷证，采用具有清热解毒功效的凉血止血药，同时辅以治燥剂缓解风性主动症状，旨在全面调整体内阴阳平衡，促进疾病康复。
+Matched Terms
+['肝积', '治燥剂', '火热炽盛证', '五行相克', '凉血止血药', '风性主动', '阴茎癌', '火毒内陷证']
+Matched Terms Translation
+[['Masses in the liver'], ['Formulas that treat dryness'], ['Fire toxin pattern', 'Exuberance of toxic/pathogenic/ fire heat'], ['The five elements mutually restrain', 'Mutual controlling among the five elements'], ['Blood–cooling haemostatic medicines'], ['Wind causes movement'], ['Penile cancer'], ['Interior heat toxin pattern', 'Interior fire toxin pattern', ' fire/heat toxin blocking the interior pattern']]
+Translation
+This article explores the similarities and differences in clinical manifestations between liver accumulation and penile cancer, and analyzes their pathological mechanisms in conjunction with the theory of mutual克制of the five elements. In treatment strategies, for the patterns of exuberance of toxic/pathogenic/ fire heat and interior fire toxin, blood-cooling hemostatic medicines with effects of clearing heat and removing toxins are used, while drying formulas are also employed to alleviate wind-caused movement symptoms, aiming to comprehensively adjust the balance of yin and yang within the body and promote disease recovery.

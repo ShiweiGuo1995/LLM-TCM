@@ -1,0 +1,8 @@
+Original Text
+通过对隔姜灸的应用研究发现，其在治疗热蕴结证和热盛伤阴证方面具有显著效果，尤其在通经止痒方面表现突出。此外，该疗法对于怒证也有一定的辅助疗效。结合十二支理论，我们进一步探讨了祛瘀催产的机制，并通过临床观察验证了其在太阳经证中的应用价值。这些研究结果为临床实践提供了新的视角和方法。
+Matched Terms
+['隔姜灸', '通经止痒', '🗎热蕴结证', '祛瘀催产', '十二支', '热盛伤阴证', '太阳经证', '怒证']
+Matched Terms Translation
+[['Ginger-insulated moxibustion', 'Ginger moxibustion'], ['Unblock meridians and relieve itch'], ['Damp heat pattern', 'Damp heat accumulation pattern'], ['Transform stasis and induce labour'], ['Earthly branches'], ['Exuberant heat damaging yin pattern', 'Pathogenic heat damaging yin pattern'], ['Taiyang meridian pattern'], ['Excessive anger pattern']]
+Translation
+Through the application research of ginger-insulated moxibustion, it has been found that it has significant effects in treating exuberant heat damaging yin pattern and pathogenic heat damaging yin pattern, especially showing outstanding performance in unblocking meridians and relieving itch. Additionally, this therapy has certain auxiliary therapeutic effects on excessive anger pattern. Combining with the theory of Earthly branches, we further explored the mechanism of transforming stasis and inducing labour, and through clinical observation, we verified its application value in Taiyang meridian pattern. These research findings provide new perspectives and methods for clinical practice.

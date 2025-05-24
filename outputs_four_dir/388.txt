@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨五脏化液与小肠瘅之间的关系，并分析其在乳漏发病机制中的作用。通过临床观察发现，患者出现呕血症状时，往往伴随有痰证和阳明腑实证的表现，提示阴盛阳衰可能是导致上述症状的关键因素之一。此外，对于部分患者而言，尽管存在明显的口渴感，但其并不伴有渴不欲饮的现象，这进一步提示了在临床诊断过程中需要全面考虑患者的体质及病机变化，以期达到精准治疗的目的。
+Matched Terms
+['五脏化液', '呕血', '小肠瘅', '阴盛阳衰', '痰🗎证', '阳明腑实证', '乳漏', '渴不欲饮']
+Matched Terms Translation
+[['Fluids of the five zang organs'], ['Vomiting of blood', 'haematemesis'], ['Acute haemorrhagic necrotizing enterocolitis'], ['Yin waxing with yang waning'], ['Damp phlegm pattern'], ['Excess Yangming–fu organ pattern', 'Yangming–fu organ pattern'], ['Mammary duct fistula'], ['Thirst with no desire to drink']]
+Translation
+This study aims to explore the relationship between the Fluids of the Five Zang Organs and Acute Haemorrhagic Necrotizing Enterocolitis, and analyze their roles in the pathogenesis of Mammary Duct Fistula. Clinical observations have found that patients exhibiting symptoms of Vomiting of Blood often present with Phlegm and Excess Yangming–fu Organ Pattern, suggesting that Yin waxing with yang waning might be one of the key factors leading to these symptoms. Furthermore, for some patients, despite obvious Thirst, there is no occurrence of Thirst with No Desire to Drink, which further indicates that during clinical diagnosis, it is necessary to comprehensively consider the patient's physique and changes in pathogenesis to achieve precise treatment.

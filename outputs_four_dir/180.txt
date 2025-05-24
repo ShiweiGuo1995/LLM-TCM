@@ -1,0 +1,8 @@
+Original Text
+在治疗疹的过程中，我们常常会遇到正疟的情况，此时使用双轻法可以有效调整人体的阴阳平衡。对于那些肠胃功能紊乱的患者，采用调和肠胃剂能够帮助恢复其正常的消化吸收功能。而在一些寄生虫感染的案例中，驱虫剂的应用则显得尤为重要。此外，为了滋养心肺，我们需要关注肾气是否固守得当，若出现肾气不固证，则可能导致细脉等现象，因此，合理用药以巩固肾气是非常必要的。
+Matched Terms
+['疹', '正疟', '双轻', '调和肠胃剂', '驱虫剂', '滋养心肺', '肾气不固证', '细脉']
+Matched Terms Translation
+[['Heat rash'], ['Regular malaria', 'Quartan malaria'], ['Flexible hands'], ['Formulas that regulate and harmonize the stomach and intestines'], ['Formulas that kill parasites/worms'], ['Nourish and supplement the heart and lung', 'Nourish the heart and lung'], ['Kidney qi insecurity pattern', 'Kidney insecurity'], ['Thready pulse', 'Thin pulse']]
+Translation
+In the treatment of heat rash, we often encounter regular malaria; at this time, using the double gentle method can effectively adjust the body's yin-yang balance. For those with gastrointestinal dysfunction, using formulas that regulate and harmonize the stomach and intestines can help restore their normal digestive absorption function. In some cases of parasitic infection, the application of formulas that kill parasites is particularly important. Additionally, to nourish and supplement the heart and lung, we need to pay attention to whether the kidney qi is properly conserved; if there is a kidney qi insecurity pattern, it may lead to thready pulse, and therefore, reasonable medication to consolidate kidney qi is very necessary.

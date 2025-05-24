@@ -1,0 +1,8 @@
+Original Text
+最近天气干燥，不少朋友感到口干舌燥，这时候我们可以通过养阴润燥的方法来调理身体，比如多喝水，多吃水果蔬菜。如果感觉身体不适，可以尝试通过针感引导经络畅通，帮助调整体内阴阳平衡。同时要注意饮食清淡，避免油腻食物导致腻苔产生，影响脾胃功能。对于一些因痰气郁结证引起的不适，我们可以通过导龙入海等手法进行调理。当然，生活中也要注意脚气疮的预防，保持足部清洁干燥。最后，别忘了通过练习十二经别，增强体质，提高免疫力，远离温疫侵袭。
+Matched Terms
+['针感', '养阴润燥', '导龙入海', '温疫', '痰气郁结证', '脚气疮', '十二经别', '腻苔']
+Matched Terms Translation
+[['Needling sensation'], ['Nourish yin and moisten dryness'], ['Guide fire to its origin', 'Guide dragon to the sea'], ['Epidemic febrile disorders'], ['Phlegm qi stagnation pattern', 'Intermingled phlegm and qi pattern'], ['Ringworm of the leg'], ['The twelve divergent meridians'], ['Greasy tongue']]
+Translation
+Recently, the weather has been dry, and many friends feel a dry mouth. At this time, we can regulate our body by nourishing Yin and moistening dryness, for example, drinking more water and eating more fruits and vegetables. If you feel unwell, you can try using the needling sensation to guide the smooth flow of meridians and help adjust the balance of Yin and Yang inside the body. At the same time, pay attention to light diet, avoid greasy food leading to greasy tongue coating, which affects the function of spleen and stomach. For some discomfort caused by the phlegm qi stagnation pattern, we can regulate it through techniques such as guiding fire to its origin. Of course, in daily life, we should also pay attention to the prevention of ringworm of the leg, maintaining clean and dry feet. Finally, don't forget to enhance your physique and improve immunity by practicing the twelve divergent meridians, staying away from epidemic febrile disorders.

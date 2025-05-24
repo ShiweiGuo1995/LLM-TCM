@@ -1,0 +1,8 @@
+Original Text
+崩漏与经闭皆是妇科常见疾病，其病因病机复杂，常涉及气血失调。气为血之帅，气病及血，导致血行不畅。心肺阴虚证患者常伴有崩漏、经闭等症状，治疗时需注重滋补肝阴，调理气血。肢体痿废亦与气血不足有关，临床治疗中应重视气阴双补，促进气血调和，改善肢体痿废症状。
+Matched Terms
+['崩漏', '伤痉', '气为血之帅', '滋补肝阴', '经闭', '肢体痿废', '心肺阴虚证', '气病及血']
+Matched Terms Translation
+[['Metrorrhagia and metrostaxis'], ['Tetanus', 'Tetanus from incised wound'], ['Qi is the commander of the blood'], ['Nourish and supplement liver yin', 'Nourish liver yin'], ['Amenorrhoea', 'Amenorrhoea disorder', ' No periods disorder'], ['Limb flaccidity and disuse'], ['Yin deficiency of the heart and lung pattern', 'Heart and lung yin deficiency pattern'], ['Qi disorder affecting the blood']]
+Translation
+Metrorrhagia and metrostaxis and amenorrhea are common gynecological diseases, their causative factors and pathogenesis are complex, often involving Qi-blood disharmony. Qi is the commander of the blood, Qi disorder affecting the blood leads to stagnation of blood circulation. Patients with Yin deficiency of the heart and lung pattern often accompany symptoms such as metrorrhagia, amenorrhea, etc., during treatment, it is necessary to focus on nourishing and supplementing liver yin and regulating and harmonizing qi and blood. Limb flaccidity and disuse is also related to Qi-blood insufficiency, in clinical treatment, emphasis should be placed on dual supplementation of Qi and Yin to promote the harmony and regulation of qi and blood, thereby improving the symptoms of limb flaccidity and disuse.

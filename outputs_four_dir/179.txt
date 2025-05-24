@@ -1,0 +1,8 @@
+Original Text
+在探讨土形人体质特点时，我们注意到其在面对外感病类疾病时，常因体质偏颇导致滋补阴液不足，进而引发胃络痛。针对此类症状，临床治疗上需注重调理脾胃，同时应用祛痰剂以改善体内痰湿阻滞情况。此外，在局部治疗方面，对于出现的石疖与中石疽等病症，通过候气法促进气血运行，达到消肿止痛之效。整体治疗策略需综合考虑个体差异，实现精准施治。
+Matched Terms
+['滋补阴液', '土形人', '中石疽', '候气', '祛痰剂', '外感病类', '石疖', '胃络痛']
+Matched Terms Translation
+[['Nourish yin', 'Nourish and supplement yin fluids'], ['Earth personality'], ['Middle hard nodules'], ['Waiting for qi'], ['Formulas that eliminate phlegm'], ['Externally contracted disorders', 'External contraction disorders'], ['Headed boils'], ['Gastric pain', 'Stomach ache disorder']]
+Translation
+When discussing the characteristics of the earth physique, we notice that it tends to suffer from insufficient nourishment of yin fluids due to physical imbalances when facing externally contracted disorders, which can lead to gastric pain. For such symptoms, clinical treatment should focus on regulating and harmonizing the spleen and stomach while using formulas that eliminate phlegm to improve the condition of phlegm-dampness obstruction within the body. Additionally, in local treatment, for conditions such as headed boils and middle hard nodules, waiting for qi method is employed to promote the circulation of qi and blood, achieving the effect of reducing swelling and relieving pain. The overall treatment strategy needs to comprehensively consider individual differences to achieve precise treatment.

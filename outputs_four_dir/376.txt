@@ -1,0 +1,8 @@
+Original Text
+心肾阴虚证与心肝火旺证常导致心下痛及手足厥冷，而热盛耗液证和燥邪犯肺证则常见于肺藏魄功能失调，出现口干舌燥等症状。针对上述症状，可选用固涩剂以调和阴阳，平衡体内环境。
+Matched Terms
+['心肾阴虚证', '心下痛', '肺藏魄', '热盛耗液证', '燥邪犯肺证', '心肝火旺证', '手足厥冷', '固涩剂']
+Matched Terms Translation
+[['Disharmony between the heart and kidney pattern', 'Heart and kidney systems disharmony pattern', ' Yin deficiency of the heart and kidney'], ['Pain below the heart'], ['The Lung stores the Corporeal Soul (Po)'], ['Exuberant heat damaging fluids pattern', 'Exuberant heat consuming fluids pattern'], ['Wind dryness damaging the lung pattern', 'Dryness invading the lung pattern', ' Dryness damaging/ attacking the lung'], ['Fire hyperactivity of the heart and liver pattern', 'Excess heat in the heart and liver pattern'], ['Cold hands and feet', 'Cold limbs'], ['Astringent formula', 'Formulas that secure and astringe']]
+Translation
+The pattern of disharmony between the heart and kidney with insufficiency of yin fluids and the pattern of excess heat in the heart and liver often lead to pain below the heart and cold hands and feet, while the pattern of exuberant heat consuming fluids and the pattern of dryness invading the lung are commonly associated with dysfunction of the Lung storing the Corporeal Soul (Po), presenting symptoms such as dry mouth and tongue. For the aforementioned symptoms, astringent formulas can be selected to harmonize the Yin-Yang and balance the internal environment.

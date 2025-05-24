@@ -1,0 +1,8 @@
+Original Text
+交肠病与创伤类病在临床中较为常见，治疗时需辨证施治，如遇阳厥之症，可采用灸法以温通经络；对于肝胀及燥毒证患者，应注重清热除蒸，同时考虑到虚中夹实的情况，灵活运用针灸与中药，达到调和阴阳、扶正祛邪的目的。
+Matched Terms
+['交肠病', '肝胀', '创伤类病', '灸法', '阳厥', '燥毒证', '虚中夹实', '清热除蒸']
+Matched Terms Translation
+[['Obstetric (rectovaginal) fistula'], ['Liver distension', 'Liver distension disorder', ' Liver fixity'], ['Traumatic injuries'], ['Moxibustion'], ['Heat syncope', 'Yang syncope'], ['Dryness toxin pattern', 'Dryness pattern'], ['Deficiency complicated with excess'], ['Clear heat and relieve bone-steaming sensation']]
+Translation
+Obstetric (rectovaginal) fistula and traumatic injuries are relatively common in clinical practice. During treatment, syndrome differentiation should be conducted, and for cases of Yang syncope, moxibustion can be used to warm and unblock the meridians; for patients with Liver distension and Dryness pattern, emphasis should be placed on clearing heat and relieving bone-steaming sensation, while also considering Deficiency complicated with excess, flexibly applying acupuncture and Chinese herbal medicines to achieve the purpose of harmonizing Yin-Yang and reinforcing healthy qi to eliminate pathogenic factors.

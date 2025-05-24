@@ -1,0 +1,8 @@
+Original Text
+在治疗小儿积滞时，我们常采用活血通络止痛的方法，以促进脾胃功能恢复。对于老年患者出现的老舌症状，结合其肺肾阳虚证的表现，需注重补益肺肾，固护先天之本，同时应用提脓祛腐法以改善局部症状。在慢性咳嗽的治疗中，若见肾不纳气证，应着重调理肺肾，增强气能摄血的功能，从而达到标本兼治的目的。滞颐的发生与脾胃运化失常有关，治疗上亦需重视调理脾胃，促进气血调和。
+Matched Terms
+['积滞', '肺肾阳虚证', '滞颐', '肾不纳气证', '提脓祛腐', '老舌', '气能摄血', '活血通络止痛']
+Matched Terms Translation
+[['Paediatric indigestion'], ['Yang deficiency of the lung and kidney pattern'], ['Drooling in babies', 'Dribbling disorder'], ['Kidney failing to absorb qi pattern', 'Kidney failing to receive qi pattern'], ['Draw pus and eliminate putridity'], ['Tough tongue'], ['Qi controls blood', 'Qi holds blood', ' Qi contains blood'], ['Circulate blood and alleviate pain', 'Circulate blood, unblock meridians and alleviate pain']]
+Translation
+In the treatment of pediatric indigestion, we often adopt the method of promoting blood circulation to unblock meridians and alleviate pain to facilitate the recovery of spleen and stomach functions. For elderly patients presenting tough tongue symptoms combined with manifestations of lung and kidney Yang deficiency pattern, it is necessary to focus on tonifying lung and kidney, consolidating the innate foundation, while applying the method of drawing pus and eliminating putridity to improve local symptoms. In the treatment of chronic cough, if there is a manifestation of kidney failing to absorb qi pattern, it is essential to regulate and harmonize lung and kidney, enhancing the function of Qi controlling blood, thus achieving the goal of treating both the tip and root. Drooling in babies occurs due to disharmony in spleen and stomach transformation and transportation; treatment should also emphasize regulating and harmonizing the spleen and stomach, promoting the harmony of qi and blood.

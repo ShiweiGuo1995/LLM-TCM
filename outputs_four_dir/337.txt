@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨水制与煅法在处理火毒证中的应用及其对补益肝气与补益精髓的影响。通过临床观察与实验分析，我们发现采用表里双解法结合线剂治疗能有效缓解缩胯症状，并改善火毒证患者的整体状况。此外，研究还揭示了此类治疗方法对于提升机体免疫力和促进受损组织恢复具有显著效果。实验数据进一步证实，合理运用上述方法能够更好地实现疾病表里兼治的目的，为临床治疗提供新的思路与方案。
+Matched Terms
+['水制', '线剂', '补益肝气', '表里双解法', '煅', '补益精髓', '缩胯', '火毒证']
+Matched Terms Translation
+[['Water processing'], ['Medicated thread'], ['Tonify liver qi', 'Reinforce liver qi'], ['Methods to release both the exterior and interior', 'Methods to concurrently release both exterior and interior'], ['Calcine'], ['Tonify essence and marrow'], ['Relax and tuck in the hips'], ['Fire toxin pattern', 'Exuberance of toxic/pathogenic/ fire heat']]
+Translation
+This study aims to explore the application of water processing and calcination in treating the fire toxin pattern and their effects on tonifying liver qi and essence and marrow. Through clinical observation and experimental analysis, we found that using methods to concurrently release both exterior and interior combined with medicated thread can effectively alleviate symptoms of relaxing and tucking in the hips and improve the overall condition of patients with the fire toxin pattern. Additionally, the research reveals that such treatments have significant effects on enhancing the body's immunity and promoting the recovery of damaged tissues. Experimental data further confirm that the rational use of the aforementioned methods can better achieve the goal of treating both exterior and interior aspects of the disease, providing new ideas and solutions for clinical treatment.

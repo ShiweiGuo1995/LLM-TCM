@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，补阳是治疗阳气不足的重要方法之一，适用于多种疾病如骨痨等。对于因外感风寒引发的痧病，采用补阳疗法可以增强机体抵抗力。若患者出现声嘶症状，可能是由于热实结胸证导致，此时需结合补心安神以缓解症状。而针对脑萎患者，除了补阳之外，还需关注其饮食起居，避免外关内格的发生。总之，在临床实践中，合理运用这些治疗方法能够有效改善患者的健康状况。
+Matched Terms
+['补阳', '痧病', '脑萎', '声嘶', '热实结胸证', '骨痨', '外关内格', '补心安神']
+Matched Terms Translation
+[['Tonify yang', 'Strengthen yang', ' Warm yang'], ['Bumpy sand-like exanthem'], ['Cerebral atrophy'], ['Hoarseness'], ['Exuberant heat affecting the chest pattern'], ['Flowing phlegm', 'Flowing phlegm disorder', ' Bone and joint tuberculosis disorder', ' Bone tuberculosis'], ['External blockage and internal rejection'], ['Nourish the heart and calm the mind', 'Reinforce the heart and calm the mind']]
+Translation
+In TCM theory, tonifying Yang is one of the important methods for treating insufficient Yang qi, applicable to various diseases such as bone tuberculosis. For sand-like exanthem caused by external wind-cold invasion, using Yang tonification therapy can enhance the body's resistance. If the patient presents with hoarseness, it may be due to the pattern of exuberant heat affecting the chest, in which case nourishing the heart and calming the mind should be combined to alleviate symptoms. As for cerebral atrophy patients, in addition to tonifying Yang, attention should also be paid to their diet and living habits to avoid external blockage and internal rejection. In short, in clinical practice, reasonably applying these treatment methods can effectively improve the patient's health condition.

@@ -1,0 +1,8 @@
+Original Text
+最近天气变化大，不少朋友出现了伤风鼻塞的情况，记得要用掤法轻轻按摩鼻翼，促进血液循环。同时，干燥的环境容易导致燥易伤肺，这时候可以多吃一些滋阴益气的食物，比如百合和山药。如果感觉身体乏力，可能是气虚引起的肌痿，适当运动很重要。前两天遇到一位朋友，他告诉我他的孩子得了无头疖，我建议他用清热解毒的方法治疗，并且要注意孩子的饮食。还有一点，生活中保持良好的心态，胆气充足，才能更好地应对疾病。最后提醒大家，如果突然出现吐舌的症状，一定要及时就医检查。
+Matched Terms
+['掤法', '肌痿', '无头疖', '胆气', '滋阴益气', '燥易伤肺', '伤风鼻塞', '吐舌']
+Matched Terms Translation
+[['(Bing) warding off method'], ['Muscle flaccidity'], ['Headless boils'], ['Gallbladder qi'], ['Supplement qi and nourish yin', 'Nourish yin and supplement qi', ' Tonify essence and benefit marrow', ' Tonify the kidney and benefit marrow'], ['Dryness easily damages the lung'], ['Acute rhinitis'], ['Protruding tongue', 'Protruded agitated']]
+Translation
+Recently, due to significant weather changes, many friends have experienced acute rhinitis with nasal obstruction. Remember to use the (Bing) warding off method to gently massage the wings of the nose, promoting blood circulation. At the same time, a dry environment can easily lead to dryness easily damaging the lung; in this case, you can eat more foods that nourish yin and supplement qi, such as lily and Chinese yam. If you feel weak, it might be caused by qi deficiency leading to muscle flaccidity; appropriate exercise is very important. I met a friend the other day who told me that his child had headless boils; I suggested he treat it with the method of clearing heat and removing toxins, and also pay attention to the child's diet. Another point is that maintaining a good attitude in life and ensuring sufficient gallbladder qi is essential to better cope with diseases. Finally, I would like to remind everyone that if you suddenly experience protruding tongue, you must seek medical examination promptly.

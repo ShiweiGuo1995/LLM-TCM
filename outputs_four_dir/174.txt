@@ -1,0 +1,8 @@
+Original Text
+在探讨积聚类病的治疗时，我们常遇到心血亏虚证的情况，此时采用化瘀理脾的方法可以有效改善症状。对于瘘管的处理，舒张进针法是一种值得推荐的技术，它能够温和地扩张穴位，减少患者痛苦。同时，在药物选择上，甘味药能够补益气血，与淡渗祛湿药结合使用，有助于调节体内湿气过重的问题。在脉象观察中，促脉常常提示病情急迫，需要及时干预。通过这些综合治疗方法，我们可以更好地应对复杂的疾病挑战。
+Matched Terms
+['瘘管', '舒张进针法', '甘味', '化瘀理脾', '淡渗祛🗎', '积聚类病', '心血亏虚证', '促脉']
+Matched Terms Translation
+[['Fistula'], ['Skin-stretching insertion'], ['Sweet flavour'], ['Transform stasis and regulate the spleen'], ['Induce urination and drain dampness'], ['Abdominal masses'], ['Heart blood deficiency pattern'], ['Skipping pulse', 'Hasty pulse']]
+Translation
+In discussing the treatment of abdominal mass diseases, we often encounter the heart blood deficiency pattern, at which time using the method of transforming stasis and regulating the spleen can effectively improve symptoms. For the management of fistulas, the skin-stretching insertion technique is a method worth recommending; it can gently expand the acupoint to reduce patient pain. Meanwhile, in drug selection, sweet flavor herbs can tonify qi and blood, combined with bland diuretic herbs to help regulate excessive dampness within the body. In pulse observation, the skipping pulse often indicates urgent illness, requiring timely intervention. Through these comprehensive treatment methods, we can better address the challenges of complex diseases.

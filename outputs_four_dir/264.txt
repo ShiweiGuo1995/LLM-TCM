@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨小儿惊风与小儿乳蛾的治疗策略，采用重方以活血止痛，并结合鼓腕之法调理气血，对于吐血及月经先期等症状亦有显著疗效。同时，通过观察肝开窍于目的表现，进一步验证了本方案在临床应用中的可行性与有效性。
+Matched Terms
+['小儿惊风', '重方', '活血止痛', '小儿乳蛾', '鼓腕', '吐血', '月经先期', '肝开窍于目']
+Matched Terms Translation
+[['Infantile convulsions'], ['Compound formulas'], ['Circulate blood and alleviate pain', 'Circulate blood, unblock meridians and alleviate pain'], ['Paediatric tonsillitis'], ['Pumping wrist'], ['Vomiting blood', 'Hematemesis', 'Vomiting of blood', 'haematemesis'], ['Early menstrual period', 'Advanced menstruation disorder'], ['The liver opens into the eyes']]
+Translation
+This article aims to explore the treatment strategies for infantile convulsions and paediatric tonsillitis in children, employing compound formulas to circulate blood and alleviate pain, and combining pumping wrist techniques to regulate and harmonize qi and blood. It also demonstrates significant efficacy for symptoms such as vomiting blood and advanced menstruation. At the same time, by observing the manifestation of The liver opens into the eyes, it further validates the feasibility and effectiveness of this scheme in clinical applications.

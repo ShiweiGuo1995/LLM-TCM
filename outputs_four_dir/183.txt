@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友向我咨询，他感觉心恶热，总是烦躁不安，晚上睡眠也不好，怀疑自己是肾阳虚证。我建议他可以试试滋阴安神的补剂，同时注意调整饮食，避免过于油腻和辛辣的食物，以免加重胃石病的症状。另外，平时多做一些气沉丹田的练习，对改善他的症状也有帮助。如果情况没有好转，还是建议去医院检查，排除肾痈等疾病。同时，情绪调节也很重要，避免痰气郁结证的发生。
+Matched Terms
+['滋阴安神', '补剂', '肾阳虚证', '心恶热', '痰气郁结证', '气沉丹田', '胃石病', '肾痈']
+Matched Terms Translation
+[['Nourish yin and calm the mind'], ['Tonifying formula'], ['Kidney yang deficiency pattern', 'Kidney yang deficiency with water flooding pattern', ' Kidney yang deficiency with water retention pattern Life-gate fire depletion pattern Primordial yang deficiency pattern'], ['The heart dislikes heat'], ['Phlegm qi stagnation pattern', 'Intermingled phlegm and qi pattern'], ['Sink qi down to Dantian'], ['Gastroliths', 'Stomach stones'], ['Renal abscess']]
+Translation
+Recently, a friend consulted me, saying he feels that his heart dislikes heat and is always restless and agitated, with poor sleep at night. He suspects that he might have a kidney yang deficiency pattern. I suggested that he could try a tonifying formula to nourish yin and calm the mind, while also paying attention to adjusting his diet, avoiding overly greasy and spicy foods to prevent aggravating the symptoms of stomach stones. Additionally, doing more exercises to sink qi down to Dantian can help improve his symptoms. If there's no improvement, it is still recommended to go to the hospital for examination to rule out diseases such as renal abscess. At the same time, emotional regulation is also very important to avoid the occurrence of phlegm qi stagnation pattern.

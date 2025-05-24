@@ -1,0 +1,8 @@
+Original Text
+在探讨阴阳消长与口舌糜烂的关系时，我们发现二者之间存在着密切联系。通过精准定位，采用手指同身寸法确定穴位，对痰闭心窍证患者实施治疗，观察其疗效。同时，对于崩中症状明显的患者，结合滋养肾阴的方法，以达到标本兼治的效果。在此基础上，进一步分析肝风内动证的表现，结合胆主决断的功能，提出综合调理方案，旨在改善患者的临床症状，提高生活质量。
+Matched Terms
+['阴阳消长', '口舌糜烂', '手指同身寸', '痰闭心窍证', '滋养肾阴', '崩中', '肝风内动证', '胆主决断']
+Matched Terms Translation
+[['Yin and yang wax and wane'], ['Mouth ulceration'], ['Finger-cun measurement'], ['Phlegm misting the heart pattern', 'Phlegm obstructing the heart', ' phlegm blocking the heart', ' phlegm blocking the heart spirit'], ['Nourish and supplement kidney yin', 'Nourish kidney yin'], ['Metrorrhagia', 'Metrorrhagia disorder'], ['Internal stirring of liver wind pattern', 'Internal stirring of liver wind', ' Liver wind stirring the interior pattern'], ['The gallbladder governs decision-making']]
+Translation
+In exploring the relationship between the waxing and waning of Yin and Yang and mouth ulceration, we find a close connection between them. By accurately locating acupoints using the finger-cun measurement method, we treat patients with the Phlegm misting the heart pattern, observing their therapeutic effects. Meanwhile, for patients with prominent Metrorrhagia symptoms, we combine the method of nourishing and supplementing kidney yin to achieve the goal of treating both the tip and root. On this basis, we further analyze the manifestations of the Internal stirring of liver wind pattern, combining the function of The gallbladder governs decision-making, to propose an integrated conditioning plan aimed at improving the patient's clinical symptoms and enhancing their quality of life.

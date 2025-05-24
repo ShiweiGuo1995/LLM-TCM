@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于汗类病的问题，其实这在中医里属于营卫不和证的一种表现，常伴有腻苔和内寒的症状。治疗时可以试试推揉法，配合舒张进针法，同时注意饮食，少吃酸味食物，以免加重肾不纳气证的情况。日常生活中也要注意保暖，避免病情加重。
+Matched Terms
+['推揉法', '酸味', '舒张进针法', '肾不纳气证', '腻苔', '内寒', '营卫不和证', '汗类病']
+Matched Terms Translation
+[['Pushing-kneading manipulation'], ['Sour flavour'], ['Skin-stretching insertion'], ['Kidney failing to absorb qi pattern', 'Kidney failing to receive qi pattern'], ['Greasy tongue'], ['Internal cold', 'Endogenous cold'], ['Disharmony between the Ying nutrients and Wei-defence pattern', 'Nutrient qi and defence qi disharmony pattern'], ['Sweating disorders']]
+Translation
+Recently, a friend asked me about issues related to sweating disorders. Actually, this falls under the category of Disharmony between the Ying-nutrients and Wei-defence pattern in Traditional Chinese Medicine, often accompanied by symptoms such as greasy tongue and Internal cold. During treatment, one can try pushing-kneading manipulation, combined with skin-stretching insertion technique, while also paying attention to diet, reducing intake of sour-flavored foods to avoid exacerbating the Kidney failing to absorb qi pattern. In daily life, it's important to keep warm to prevent the condition from worsening.

@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友向我诉苦，说她产后劳神过度，导致纳少便秘，真是让人担心。她还抱怨牙痛，热服一些清热解毒的茶饮或许能缓解一下。她的情况可能是因为体内的湿气过重，导致血疸，建议她可以试试镵针疗法，以促进气血运行。同时要注意，湿邪🗎性趋下，日常饮食中应避免过多寒凉食物，以免加重病情。希望我的一些建议能帮到她。
+Matched Terms
+['纳少', '便秘', '牙痛', '热服', '产后劳', '镵针', '🗎性趋下', '血疸']
+Matched Terms Translation
+[['Poor appetite'], ['Constipation'], ['Toothache'], ['Take hot'], ['Postpartum exhaustion'], ['Shear needle', 'Chan zhen'], ['Dampness tends to descend'], ['Haemolytic jaundice']]
+Translation
+Recently, a friend complained to me that she had been suffering from poor appetite and constipation after postpartum exhaustion due to mental overwork, which really worries me. She also complained of toothache; taking some tea to clear heat and remove toxins while hot might alleviate it. Her condition may be due to excessive dampness in the body leading to haemolytic jaundice. It is recommended that she can try shear needle therapy to promote the circulation of Qi and Blood. At the same time, note that dampness tends to descend, and in daily diet, avoid too many cold and cooling foods to prevent aggravating the condition. I hope my suggestions can help her.

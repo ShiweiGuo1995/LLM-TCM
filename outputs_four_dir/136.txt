@@ -1,0 +1,8 @@
+Original Text
+燥邪侵袭人体易引发怔忡病，此时若伴有中焦虚寒证，则需采用温阳化饮之法调理，以免阳虚水停证加重病情。在治疗过程中，除内服药物外，还可结合按跷疗法促进气血流通，缓解战栗症状，同时避免使用峻下逐水药以防伤正气。
+Matched Terms
+['峻下逐水药', '燥邪', '怔忡病', '战栗', '按跷', '中焦虚寒证', '阳虚水停证', '温阳化饮']
+Matched Terms Translation
+[['Drastic water-expelling medicines'], ['Pathogenic dryness', 'Dryness'], ['Fearful throbbing', 'Fearful throbbing disorder'], ['Shivering'], ['Tuina', 'Anmo, Anqiao, Qiaomo, Anwu, etc.'], ['Yang deficiency of the spleen and stomach pattern', 'Deficiency cold of the spleen and stomach pattern', ' Yang deficiency/ deficiency cold of the middle jiao pattern'], ['Yang deficiency induced water retention pattern'], ['Warm yang and transform water retention', 'Warm and transform cold fluid retention', ' Warm and transform phlegm fluid retention']]
+Translation
+Pathogenic dryness invades the human body easily leading to fearful throbbing disease. If accompanied by a pattern of yang deficiency of the spleen and stomach, it is necessary to adopt the method of warming yang and transforming retained fluids for regulation, to prevent the aggravation of the condition due to the yang deficiency induced water retention pattern. During the treatment process, in addition to oral medication, Tuina therapy can also be combined to promote the circulation of Qi and Blood, alleviate shivering symptoms, while avoiding the use of drastic water-expelling medicines to prevent harm to healthy qi.

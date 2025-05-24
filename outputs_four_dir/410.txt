@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，调理气血是治疗多种疾病的关键，如晚期蛊虫病和脏毒等病症。对于因气门不畅引起的疾病，如朽骨疽，益火消阴法常被用来调整阴阳平衡。此外，结脉作为一种脉象表现，常提示体内有蛲虫病的存在。在临床实践中，针对不同病情采用不同的治疗方法，以达到最佳疗效。
+Matched Terms
+['蛲虫病', '调理气血', '朽骨疽', '结脉', '脏毒', '益火消阴', '气门', '晚期蛊虫病']
+Matched Terms Translation
+[['Enterobiasis', 'Paediatric pinworm infection'], ['Regulate and harmonize qi and blood', 'Regulate qi and harmonize blood'], ['Suppurative osteomyelitis'], ['Knotted pulse', 'Bound'], ['Anal abscess', 'Anal abscess disorder'], ['Warm yang to dissipate yin cold'], ['Qi gate'], ['Advanced schistosomiasis', 'Advanced snail fever']]
+Translation
+In TCM theory, regulating qi and blood is key for treating various diseases such as advanced schistosomiasis and anal abscess. For diseases caused by qi gate obstruction like suppurative osteomyelitis, the method of warming yang to dissipate yin cold is often used to regulate and balance yin and yang. Additionally, a knotted pulse as a pulse condition frequently indicates the presence of enterobiasis in the body. In clinical practice, different treatment methods are employed based on the condition to achieve optimal therapeutic effects.

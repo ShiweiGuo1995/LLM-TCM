@@ -1,0 +1,8 @@
+Original Text
+最近遇到一位患者，由于饮食不洁导致身体不适，出现了花柳毒淋的症状。在治疗过程中，我采用了刨推法和震颤法相结合的方式，同时指导他要注重滋补肺阴，气能生津。另外，还建议他在日常生活中要注意休息，避免过度劳累，以免引发子痫等严重问题。在调理期间，我还教了他一些简单的屈伸法，帮助他恢复身体健康。通过这些综合措施，患者的病情得到了很好的控制和改善。
+Matched Terms
+['刨推法', '滋补肺阴', '震颤法', '气能生津', '花柳毒淋', '饮食不洁', '子痫', '屈伸法']
+Matched Terms Translation
+[['Plane pushing manipulation'], ['Nourish and supplement lung yin', 'Nourish lung yin'], ['Vibrating method'], ['Qi engenders body fluids', 'Qi generates body fluids'], ['Gonorrhea'], ['Consumption of unclean food'], ['Eclampsia of pregnancy', 'Eclampsia disorder'], ['Flexion and extension']]
+Translation
+Recently, I encountered a patient who experienced discomfort due to the consumption of unclean food, presenting symptoms of gonorrhea. During the treatment process, I combined the plane pushing manipulation and vibrating method, while guiding him to nourish and supplement lung yin so that Qi could generate body fluids. Additionally, I advised him to pay attention to rest in daily life and avoid overwork to prevent severe conditions such as eclampsia. During the调理period, I also taught him some simple flexion and extension methods to help restore his physical health. Through these comprehensive measures, the patient's condition was well controlled and improved.

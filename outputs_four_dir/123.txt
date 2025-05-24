@@ -1,0 +1,8 @@
+Original Text
+在中医领域中，对于寄生虫病类疾病的治疗，我们强调辨证论治的原则，通过细致的诊断来确定病因和病情的发展阶段，从而制定个体化的治疗方案。针对骨折病患者，在实施正骨手法如勾法的同时，还需结合内服药物，以促进骨骼愈合。对于干霍乱等急性病症，疏散外风是常用的一种治疗方法，旨在缓解症状并防止病情恶化。此外，对于肾痈这类疾病，我们除了采用相杀药物相互配合增强疗效外，还会注重患者的生活调理，确保治疗效果。
+Matched Terms
+['寄生虫病类', '相杀', '辨证论治', '骨折病', '勾法', '干霍乱', '疏散外风', '肾痈']
+Matched Terms Translation
+[['Parasitic diseases', 'Parasitic disorder'], ['Mutual suppression'], ['Treatment based on pattern identification', 'Treatment based on pattern differentiation'], ['Fracture'], ['Hooking manipulation'], ['Dry cholera', 'Abdominal colic'], ['Dispel external wind'], ['Renal abscess']]
+Translation
+In the field of Traditional Chinese Medicine, for the treatment of parasitic diseases, we emphasize the principle of treatment based on pattern identification, through meticulous diagnosis to determine the causative factors and the development stage of the disease, thus formulating an individualized treatment plan. For patients with fractures, while implementing bone-setting techniques such as hooking manipulation, it is also necessary to combine oral medication to promote bone healing. For acute conditions like dry cholera, dispelling external wind is a commonly used method, aimed at alleviating symptoms and preventing the deterioration of the condition. Additionally, for diseases such as renal abscess, in addition to using drugs that mutually suppress each other to enhance efficacy, we also pay attention to the patient's lifestyle adjustment to ensure the effectiveness of treatment.

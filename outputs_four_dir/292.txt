@@ -1,0 +1,8 @@
+Original Text
+春季是养生的好时节，我们要注意辛凉解表，防止感冒侵袭。在日常生活中，如果感到肝郁气滞证，不妨通过理气和胃来调理身体，保持心情舒畅。夏季炎热时，要注意预防肺痨，同时也要关注子淋问题，以免影响健康。到了秋冬季节，褥疮容易发生，尤其是阳中之阳的人群，更需加强护理。总之，通过合理的饮食和生活习惯，我们可以更好地应对各种病症，让生活充满活力。
+Matched Terms
+['劲与力', '肺痨', '子淋', '肝郁气滞证', '理气和胃', '褥疮', '阳中之阳', '辛凉解表']
+Matched Terms Translation
+[['Energy (Jin) and force (Li)'], ['Lung tuberculosis'], ['Stranguria during pregnancy'], ['Liver qi stagnation pattern', 'Liver qi stagnation pattern', ' Liver depression and qi stagnation pattern', ' Liver meridian stagnated heat pattern', ' Liver stagnation'], ['Circulate qi and harmonize the stomach', 'Regulate qi and strengthen the stomach'], ['Bedsores', 'Bed sore disorder Pressure ulcer'], ['Yang within yang'], ['Release the exterior with pungent-cool', 'Remove wind and clear heat']]
+Translation
+Spring is a good season for health preservation, we should pay attention to releasing the exterior with pungent-cool to prevent invasion of the common cold. In daily life, if one feels liver qi stagnation pattern, it is advisable to regulate qi and harmonize the stomach to adjust the body and maintain a cheerful mood. During the hot summer, we need to focus on preventing lung tuberculosis and also pay attention to stranguria during pregnancy to avoid affecting health. In autumn and winter, bedsores tend to occur, especially in people with Yang within Yang constitution, more care needs to be strengthened. In summary, by adopting reasonable diet and lifestyle habits, we can better cope with various diseases, making life full of vitality.

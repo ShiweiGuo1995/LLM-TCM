@@ -1,0 +1,8 @@
+Original Text
+燥淫证患者常表现为口渴欲饮，治疗时需注重补益气血与固齿，而补阴剂是常用的选择之一。阴平阳秘的状态是健康的基础，然而在疾病状态下，如出现谵妄或疹等现象，则需要针对性调理，以恢复机体的平衡状态。
+Matched Terms
+['燥淫证', '补益气血', '口渴欲饮', '补阴剂', '谵妄', '固齿', '阴平阳秘', '疹']
+Matched Terms Translation
+[['Pathogenic dryness pattern'], ['Tonify qi and blood', 'Tonify qi and nourish blood'], ['Thirst with desire to drink'], ['Formulas that tonify yin'], ['Delirious ravings'], ['Secure the teeth'], ['Balance between yin and yang', 'Balanced yin with contained yang'], ['Heat rash']]
+Translation
+Patients with the pattern of pathogenic dryness often present with thirst with desire to drink. When treating, it is important to focus on tonifying qi and blood and securing the teeth, with formulas that tonify yin being a commonly selected option. The balance between yin and yang is the foundation of health; however, under disease conditions, such as delirious ravings or heat rash, targeted regulation is required to restore the body's balanced state.

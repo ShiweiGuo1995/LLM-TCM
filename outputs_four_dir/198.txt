@@ -1,0 +1,8 @@
+Original Text
+产后血崩需重视，常因胎毒蕴结证所致，治疗时臣药不可少，通因通用法为佳。若病情危急，则关乎命关，须及时诊治。舌诊可见肿胀舌，乃体内湿热之象，募穴刺激有助于调理。而龟背痰虽罕见，亦需警惕其对产妇健康的潜在威胁。
+Matched Terms
+['产后血崩', '胎毒蕴结证', '臣药', '命关', '肿胀舌', '募穴', '通因通用', '龟背痰']
+Matched Terms Translation
+[['Postpartum bleeding'], ['Fetal toxin and heat accumulation pattern', 'Accumulation of fetal toxin pattern'], ['Minister medicines'], ['Life pass'], ['Swollen tongue'], ['Front-Mu points'], ['Treat uncontrolled discharge by unblocking', 'Uncontrolled discharge treated with purgation'], ['Tortoise-back phlegm', 'Tuberculous spondylitis']]
+Translation
+Postpartum metrorrhagia should be given serious attention, often caused by the fetal toxin and heat accumulation pattern. When treating, minister medicines cannot be dispensed with; it is best to use the method of treating uncontrolled discharge by unblocking. If the condition is critical, it concerns the life pass, and timely treatment is required. Tongue diagnosis can reveal a swollen tongue, indicating internal damp-heat. Stimulating front-Mu points is helpful for regulation. Although tortoise-back phlegm is rare, its potential threat to the health of postpartum women should not be overlooked.

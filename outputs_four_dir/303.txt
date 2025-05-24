@@ -1,0 +1,8 @@
+Original Text
+在探讨痴呆病的病理机制时，我们发现其与中焦气滞证及肝气上逆证密切相关。通过临床观察，采用涩剂以固涩止泻，结合鍉针与短刺疗法刺激郄穴，可以有效缓解症状。同时，“一身备五弓”的整体观念指导我们在治疗过程中注重全身调理，而非仅关注局部病变。研究表明，针对痴呆病患者，合理运用上述方法能够显著改善其生活质量。
+Matched Terms
+['涩剂', '鍉针', '郄穴', '中焦气滞证', '短刺', '痴呆病', '一身备五弓', '肝气上逆证']
+Matched Terms Translation
+[['Astringent formula'], ['Spoon-like needle', 'Ti zhen'], ['Xi-cleft points'], ['Disharmony between the spleen and stomach pattern', 'Disharmony of the middle jiao pattern', ' Qi stagnation of the spleen and stomach pattern', ' Qi stagnation of the middle jiao pattern'], ['Short needling'], ['Dementia', 'Dementia disorder', ' Aged dementia disorders'], ['Five bows in the body'], ['Ascending of liver qi pattern']]
+Translation
+In exploring the pathogenesis of dementia, we found its close relationship with disharmony of the middle jiao pattern and ascending of liver qi pattern. Through clinical observation, using astringent formulas to consolidate and stop diarrhea, combined with spoon-like needle and short needling techniques to stimulate Xi-cleft points, can effectively alleviate symptoms. Meanwhile, the holistic concept of "five bows in the body" guides us to focus on overall regulation during the treatment process rather than merely addressing local lesions. Studies have shown that reasonably applying the aforementioned methods can significantly improve the quality of life for patients with dementia.

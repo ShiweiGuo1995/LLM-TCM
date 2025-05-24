@@ -1,0 +1,8 @@
+Original Text
+在探讨泄热导滞法治疗肺胃热盛证时，我们发现其临床效果显著。本研究通过观察患者症状，如口糜、战栗等表现，结合风为百病之长理论，深入分析了亡阳证与肾主蛰之间的内在联系。在穴位选择上，阿是穴的应用对于缓解上述症状具有重要作用。此外，本研究还注意到，不同证型的患者对治疗方法的反应存在个体差异，这提示我们在临床实践中需更加注重辨证施治，以提高疗效。
+Matched Terms
+['泄热导滞', '肾主蛰', '亡阳证', '战栗', '风为百病之长', '阿是穴', '肺胃热盛证', '口糜']
+Matched Terms Translation
+[['Clear heat and eliminate stagnation'], ['The kidney governs hibernation', 'The kidney governs storing and sealing'], ['Yang depletion pattern', 'Yang exhaustion pattern/Yang collapse pattern'], ['Shivering'], ['Wind is the leading cause of diseases', 'Wind is the spearhead of a hundred diseases'], ['Ashi Points'], ['Fire heat in the lung and stomach pattern', 'Exuberant heat in the lung and stomach pattern'], ['Oral erosion']]
+Translation
+In exploring the method of clearing heat and eliminating stagnation for treating the pattern of exuberant heat in the lung and stomach, we found its significant clinical effects. This study observed symptoms such as oral erosion and shivering in patients, combined with the theory that wind is the spearhead of a hundred diseases, and deeply analyzed the intrinsic connection between Yang depletion pattern and the kidney governing storing and sealing. In selecting acupoints, the application of Ashi points played a crucial role in alleviating the aforementioned symptoms. Additionally, this study noted that patients with different patterns exhibit individual differences in their response to treatment methods, which suggests that in clinical practice, we need to pay more attention to pattern differentiation and tailored treatment to improve therapeutic efficacy.

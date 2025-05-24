@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于伤风鼻塞的问题，我建议他可以用些消导化积剂来调理一下脾胃，帮助身体恢复。同时，如果在日常生活中不慎受伤，比如使用针灸时出现弯针情况，一定要及时处理，避免对身体造成更大的伤害。另外，夏天容易出现漆疮，要注意皮肤护理，防止血热妄行。当然，针灸时我们也会运用到远道刺等技巧，这些都是为了更好地调理身体。如果感觉舌卷囊缩，可能是因为体内湿气过重，需要适当调理。平时还可以通过一些简单的动作如捋劲来促进气血流通。希望这些小知识能帮助大家更好地了解和维护自己的健康。
+Matched Terms
+['消导化积剂', '弯针', '舌卷囊缩', '捋劲', '漆疮', '血热妄行', '远道刺', '伤风鼻塞']
+Matched Terms Translation
+[['Formulas that promote digestion and transform masses'], ['Bent needle'], ['Curled tongue with contracted scrotum'], ['(Lü) roll back'], ['Lacquer sore', 'Lacquer dermatitis'], ['Reckless flow of blood due to heat'], ['Distal needling'], ['Acute rhinitis']]
+Translation
+Recently, a friend asked me about the problem of cold-induced nasal congestion. I suggested he could use some formulas that promote digestion and transform masses to regulate his spleen and stomach, helping his body recover. At the same time, if accidentally injured in daily life, such as encountering a bent needle during acupuncture, it must be dealt with promptly to avoid causing greater harm to the body. Additionally, lacquer sores can easily occur in summer; attention should be paid to skin care to prevent reckless flow of blood due to heat. Of course, we also use techniques like distal needling during acupuncture to better regulate the body. If feeling a curled tongue with contracted scrotum, it might be because there is too much dampness inside the body, requiring appropriate regulation. Simple movements like (Lü) roll back can also be used in daily life to promote the circulation of Qi and Blood. I hope these small pieces of knowledge can help everyone better understand and maintain their health.

@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友向我诉苦，说自己总是感觉口涩，而且经常吐血，担心是不是得了消渴类病。我仔细询问了他的情况后发现，他可能是因为心阳虚证导致的这些症状，再加上平时不太注意保养，皮肤也出现了皮痹的情况。建议他在日常生活中要注意调理，可以试试迎随补泻的方法，并且要特别关注自己的饮食习惯，避免过于辛辣刺激的食物。如果情况没有好转，还是建议及时就医，以免延误病情。同时也要注意休息，保持良好的心态，毕竟身体的健康和精神状态是息息相关的。
+Matched Terms
+['血分证', '消渴类病', '心阳虚证', '吐血', '三阴病证', '口涩', '皮痹', '迎随补泻']
+Matched Terms Translation
+[['Blood phase pattern'], ['Wasting and thirst disorders', 'Wasting thirst disorder'], ['Heart yang deficiency pattern'], ['Vomiting blood', 'Hematemesis', 'Vomiting of blood', 'haematemesis'], ['Patterns of the three yin meridians'], ['A puckering taste'], ['Skin impediment'], ['Directional reinforcing and reducing', 'Directional tonifying and sedating']]
+Translation
+Recently, a friend complained to me that he always felt a puckering taste in his mouth and often vomited blood, worrying that he might have a wasting and thirst disorder. After carefully inquiring about his condition, I found that he might be suffering from symptoms due to a Heart yang deficiency pattern, coupled with insufficient attention to daily maintenance, resulting in skin impediment. It is recommended that he pay attention to adjustment in daily life, try the Directional tonifying and sedating method, and particularly focus on dietary habits, avoiding excessively spicy and stimulating foods. If there is no improvement, it is still advisable to seek medical attention promptly to avoid delaying the condition. At the same time, attention should be paid to rest and maintaining a good mental state, as physical health and mental state are closely related.

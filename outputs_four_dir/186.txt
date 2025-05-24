@@ -1,0 +1,8 @@
+Original Text
+最近天气变化无常，不少朋友出现了感冒的症状，尤其是冬瘟和风性开泄导致的病症频发。在治疗上，我们不妨采用反治法来缓解症状，同时注重宁心定志，调整情绪。另外，乙癸同源是中医理论中非常重要的概念，在治疗过程中也需关注。如果遇到手三阳经受阻的情况，也要及时调理。对于一些病症如天花，虽然现在较为少见，但了解其特征有助于我们更好地预防。在治疗过程中，阴阳平衡非常重要，避免阴阳亡失。通过这些方法，希望大家都能健康度过这个季节。
+Matched Terms
+['乙癸同源', '风性开泄', '天花', '阴阳亡失', '宁心定志', '冬瘟', '手三阳经', '反治法']
+Matched Terms Translation
+[['Liver and kidney share the same source', 'Yi (liver) and Gui (kidney) share the same source'], ['Wind opens and disperses'], ['Smallpox'], ['Collapse of yin or yang'], ['Calm and settle the mind', 'Calm the mind and alleviate palpitations'], ['Winter pestilence', 'Winter febrile disorders', ' Winter pestilence disorders'], ['Three hand-yang meridians'], ['Paradoxical treatment', 'Contrary treatment']]
+Translation
+Recently, the weather has been unpredictable, and many friends have developed symptoms of the common cold, especially diseases caused by winter pestilence and wind opens and disperses. In treatment, we might as well use paradoxical treatment to alleviate the symptoms, while also paying attention to calming the mind and adjusting emotions. Additionally, the concept that Liver and kidney share the same source is a very important principle in Traditional Chinese Medicine theory, which should be considered during the treatment process. If there are blockages in the three hand-yang meridians, timely regulation is necessary. For some diseases like smallpox, although they are now relatively rare, understanding their characteristics can help us better prevent them. During the treatment process, it is crucial to maintain the balance between Yin and Yang and avoid the collapse of Yin or Yang. Through these methods, I hope everyone can stay healthy through this season.

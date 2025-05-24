@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，对于出现尿浊和歪斜舌等症状的患者，我们可以通过清化三焦的方法来调理，同时运用镇惊安神帮助稳定情绪。针对脾虚热证，我们可以采取虚则补其母的原则，以调和体内阴阳平衡。在治疗过程中，气能摄津也尤为重要，它有助于改善症状。六元理论则为我们提供了从整体角度理解疾病发生发展的框架。通过这些方法的综合应用，可以有效地缓解患者的不适。
+Matched Terms
+['镇惊安神', '脾虚🗎热证', '歪斜舌', '清化三焦', '虚则补其母', '六元', '尿浊', '气能摄津']
+Matched Terms Translation
+[['Tranquillize and calm the mind'], ['Spleen deficiency with damp heat pattern'], ['Deviated tongue'], ['Clear heat and transform dampness in three jiao', 'Clear heat and transform', ' dampness in triple energizer'], ['Reinforce the mother (element) for deficiency pattern'], ['Six origins'], ['Cloudy urine'], ['Qi controls body fluids', 'Qi holds body fluids', ' qi contains body fluids']]
+Translation
+In TCM theory, for patients presenting symptoms such as cloudy urine and deviated tongue, we can regulate by clearing heat and transforming dampness in the three jiao while using tranquillizers to help stabilize emotions. For spleen deficiency with heat pattern, we can adopt the principle of reinforcing the mother (element) for deficiency pattern to harmonize the body's yin and yang balance. During treatment, Qi controls body fluids is particularly important, which helps improve symptoms. The six origins theory provides a framework for understanding the overall development of diseases. Through the comprehensive application of these methods, the patient's discomfort can be effectively alleviated.

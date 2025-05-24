@@ -1,0 +1,8 @@
+Original Text
+禀赋不足者常感体弱乏力，治疗时应遵循虚则补之原则，采用气血两清剂调理，同时结合点刺法促进血液循环。对于消渴类病及经行浮肿等症状，需注重动静结合，调和阴阳平衡。若出现月经过少现象，亦当从整体出发，调整体质，以达到气血调和。
+Matched Terms
+['禀赋不足', '点刺法', '气血两清剂', '虚则补之', '消渴类病', '动静', '经行浮肿', '月经过少']
+Matched Terms Translation
+[['Constitutional insufficiency'], ['Point-pricking method'], ['Formulas that clear heat in the qi and blood'], ['Treat deficiency with reinforcement'], ['Wasting and thirst disorders', 'Wasting thirst disorder'], ['Seek stillness in movement'], ['Puffiness and swelling during menstruation'], ['Scanty menstruation', 'Scanty menstruation disorder']]
+Translation
+Individuals with constitutional insufficiency often feel lassitude and lack of strength; in treatment, the principle of treating deficiency with reinforcement should be followed, using formulas that clear heat in the qi and blood for regulation, while simultaneously combining the point-pricking method to promote blood circulation. For symptoms such as wasting and thirst disorders and puffiness and swelling during menstruation, attention should be paid to seeking stillness in movement, harmonizing yin and yang balance. If scanty menstruation occurs, it is also necessary to start from the whole body, adjust the constitution to achieve harmony between qi and blood.

@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，产褥劳与外感病类均属产后常见病症，而痨病亦有类似症状，需辨证施治。对于肺燥津亏证患者，除需调养肺部功能外，还需关注脾胃虚寒证，二者相辅相成。菜乌紫病虽罕见，但其与小儿钩虫病同为儿科常见病，治疗时需注意饮食调理。圆癣则多发于皮肤，治疗上应内外兼治，以防病情迁延。通过综合调理，方能有效改善上述诸症。
+Matched Terms
+['产褥劳', '外感病类', '痨病', '肺燥津亏证', '菜乌紫病', '小儿钩虫病', '脾胃虚寒证', '圆癣']
+Matched Terms Translation
+[['Postpartum exhaustion'], ['Externally contracted disorders', 'External contraction disorders'], ['Tuberculosis', 'Fatigue consumption disorder'], ['Lung heat and yin deficiency pattern', 'Lung heat damaging fluids pattern', ' lung dryness due to yin/ fluids deficiency pattern'], ['Pickles cyanosis'], ['Ancylostomiasis', 'Paediatric ancylostomiasis'], ['Yang deficiency of the spleen and stomach pattern', 'Deficiency cold of the spleen and stomach pattern', ' Yang deficiency/ deficiency cold of the middle jiao pattern'], ['Tinea corporis', 'Tinea corporis disorder', ' Coin-shaped tinea']]
+Translation
+In TCM theory, Chanru labor and externally contracted disorders are both common postpartum diseases, while lao disease also presents similar symptoms, requiring syndrome differentiation and treatment. For patients with lung dryness and yin deficiency syndrome, besides adjusting lung function, attention should also be paid to spleen and stomach yang deficiency syndrome, as the two complement each other. Although Cai Wu Zi disease is rare, it, along with pediatric hookworm disease, are common pediatric diseases; during treatment, dietary regulation should be noted. Yuan ringworm often occurs on the skin; in treatment, both internal and external therapies should be applied to prevent the condition from becoming protracted. Through comprehensive regulation, the above-mentioned syndromes can be effectively improved.

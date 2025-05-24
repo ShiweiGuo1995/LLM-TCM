@@ -1,0 +1,8 @@
+Original Text
+中医认为“寒包火”是导致多种疾病的原因之一，通过腹诊和叩法可以有效诊断，而治疗时采用逆治法以调整膀胱气化功能，缓解肛门灼热感。同时，面色黄可能是脾虚的表现，需结合太极扇等功法调理，以促进体内阴阳平衡。
+Matched Terms
+['寒包火', '膀胱气化', '肛门灼热', '逆治法', '叩法', '面黄', '腹诊', '太极扇']
+Matched Terms Translation
+[['Cold enveloping fire'], ['Qi transformation of the urinary bladder'], ['A burning sensation of the anus'], ['Routine treatment', 'Standard treatment'], ['Tapping manipulation'], ['Yellow facial complexion'], ['Abdominal palpation'], ['Taiji fan']]
+Translation
+In TCM, "cold enveloping fire" is considered one of the causes of various diseases; it can be effectively diagnosed through abdominal palpation and tapping manipulation. Treatment should adopt routine treatment to adjust the Qi transformation of the urinary bladder and alleviate the burning sensation of the anus. Meanwhile, a yellowish complexion may indicate spleen deficiency and requires regulation through Gongfa such as Taiji fan to promote the balance of Yin and Yang within the body.

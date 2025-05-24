@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们常常会遇到各种健康问题，比如中焦虚热症和心肝实热证，这些都与我们的饮食习惯有关。记得有一次，一位朋友不慎被松毛虫伤了，那场景真是让人揪心。中医认为这属于表里配穴法的范畴，通过针灸治疗可以有效缓解症状。说到体质，土形人应该注意调养，避免过于劳累导致肝气虚证。另外，养生保健也要注意八面兼顾，不能只顾一面。最后，对于骨痿这样的慢性疾病，平时多做些温和的运动，增强体质，也是很有帮助的。
+Matched Terms
+['中焦虚热症', '松毛虫伤', '心肝实热证', '八面', '土形人', '表里（经）配穴法', '肝气虚证', '骨痿']
+Matched Terms Translation
+[['Yin deficiency of the spleen and stomach pattern', 'Yin deficiency/ deficiency heat of the middle jiao pattern', ' Deficiency heat of the spleen and stomach pattern'], ['Pine caterpillar injuries'], ['Fire hyperactivity of the heart and liver pattern', 'Excess heat in the heart and liver pattern'], ['Eight directions'], ['Earth personality'], ['Point combination of the coupled meridians'], ['Liver qi deficiency pattern', 'Liver yang insufficiency pattern'], ['Bone flaccidity']]
+Translation
+In daily life, we often encounter various health problems such as yin deficiency/deficiency heat of the middle jiao and excess heat in the heart and liver pattern, which are related to our dietary habits. I still remember once a friend accidentally got injured by pine caterpillars, which was really worrying. Traditional Chinese Medicine considers this within the scope of exterior-interior pairing acupoint therapy, and acupuncture treatment can effectively alleviate symptoms. Regarding constitution, earth personality individuals should pay attention to conditioning and avoid overwork leading to liver qi deficiency pattern. Additionally, health preservation should also take into account eight directions, not just one aspect. Finally, for chronic diseases like bone flaccidity, doing some gentle exercises regularly can enhance physical fitness, which is very helpful.

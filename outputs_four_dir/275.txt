@@ -1,0 +1,8 @@
+Original Text
+中石疽与癣病皆属外科顽疾，常因气血不畅而发。若患者出现弄舌症状，提示病情已至命关，需及时诊治。在诊断过程中，我们应仔细观察病脉，以判断疾病之深浅。若肺痈已成，则咳吐脓血，病情危急；肝气犯脾证则表现为腹胀纳呆，消化不良。阻气分证亦为常见之一，导致气血运行受阻，全身不适。针对上述病症，中医治疗重在调理脏腑功能，使气血畅通，邪去正安。
+Matched Terms
+['弄舌', '命关', '病脉', '中石疽', '🗎阻气分证', '癣病', '肺痈', '肝气犯脾证']
+Matched Terms Translation
+[['Wagging tongue', 'Agitated tongue'], ['Life pass'], ['Abnormal pulses'], ['Middle hard nodules'], ['Dampness obstructing the qi phase', 'Dampness obstructing the qi phase pattern'], ['Tinea', 'Ringworm'], ['Lung abscess'], ['Liver qi affecting the spleen pattern']]
+Translation
+Stony gangrene and tinea are both intractable external diseases, often due to the stagnation of qi and blood. If the patient exhibits wagging tongue symptoms, it indicates that the disease has reached the life pass, and timely treatment is required. During diagnosis, we should carefully observe the abnormal pulses to determine the depth of the disease. If lung abscess has formed, then coughing up pus and blood will occur, indicating a critical condition; liver qi affecting the spleen pattern is manifested as abdominal distension and poor appetite, with dyspepsia. Qi phase pattern is also a common one, leading to obstruction of qi and blood circulation, causing general discomfort. For the above conditions, TCM treatment focuses on regulating the function of zang-fu organs to ensure smooth flow of qi and blood, eliminating evil influences and restoring health.

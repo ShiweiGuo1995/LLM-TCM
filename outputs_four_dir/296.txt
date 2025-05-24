@@ -1,0 +1,8 @@
+Original Text
+在本次研究中，我们观察到患者表现出明显的痰热内闭证特征，舌质呈现红绛且伴有脓腐苔，同时出现面黑症状，脉象表现为反关脉。结合临床表现与相关检查结果，初步诊断为风热中络证合并肝旺脾虚证。进一步分析发现，患者体内阴气不足亦是导致病情复杂化的重要因素之一。综合上述分析，我们认为针对此病例，需采用清热化痰、平肝健脾之法，并兼顾滋阴以期达到最佳治疗效果。
+Matched Terms
+['痰热内闭证', '反关脉', '舌质', '脓腐苔', '面黑', '风热中络证', '肝旺脾虚证', '阴气']
+Matched Terms Translation
+[['Phlegm fire blocked the heart spirit pattern', 'Phlegm heat blocked the interior pattern'], ['Pulse on the back of the wrist'], ['Tongue body'], ['Suppurative curdy coating'], ['Black facial complexion'], ['Wind heat affecting the meridians pattern', 'Wind heat attacking the meridians pattern'], ['Liver hyperactivity with spleen deficiency pattern', 'Liver stagnation with spleen deficiency pattern'], ['Yin qi']]
+Translation
+In this study, we observed that the patient exhibited obvious symptoms of the Phlegm Heat Blocked Interior Pattern, with a red and swollen tongue body accompanied by suppurative curdy coating, along with black facial complexion, and the pulse condition manifested as Pulse on the back of the wrist. Based on clinical manifestations and relevant examination results, the preliminary diagnosis was Wind Heat Affecting the Meridians Pattern combined with Liver Stagnation with Spleen Deficiency Pattern. Further analysis revealed that insufficient Yin Qi within the body was also one of the important factors leading to the complexity of the condition. Synthesizing the above analysis, we believe that for this case, it is necessary to adopt the method of Clear Heat and Transform Phlegm, Pacify Liver and Strengthen Spleen, while also taking into account Nourishing Yin to achieve the best therapeutic effect.

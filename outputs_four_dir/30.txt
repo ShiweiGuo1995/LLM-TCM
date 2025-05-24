@@ -1,0 +1,8 @@
+Original Text
+小儿囊虫病在中医治疗上多从调理脾胃入手，面黄是其常见症状之一，提示体内可能存在湿热或虚热。针对虚则补之的原则，我们采用清虚热剂以调和阴阳平衡，同时结合舌针疗法刺激特定穴位，达到祛瘀生新的效果，从而改善患儿体质。此外，喜伤心亦需注意，保持情绪舒畅对疾病恢复同样重要。润下法则有助于促进体内湿气排出，进一步巩固疗效。
+Matched Terms
+['清虚热剂', '小儿囊虫病', '面黄', '虚则补之', '祛瘀生新', '喜伤心', '润下', '舌针疗法']
+Matched Terms Translation
+[['Formulas that clear deficiency heat'], ['Cysticercosis', 'Paediatric cysticercosis'], ['Yellow facial complexion'], ['Treat deficiency with reinforcement'], ['Eliminate stasis and regenerate blood'], ['Excessive joy damages the heart'], ['Water is characterized by moistening and descending'], ['Tongue acupuncture']]
+Translation
+Paediatric cysticercosis in TCM treatment is mostly approached by regulating and harmonizing the spleen and stomach, yellowish facial complexion is one of its common symptoms, indicating the possible presence of damp-heat or vacuity heat. According to the principle of treating deficiency with reinforcement, we adopt formulas that clear deficiency heat to harmonize Yin-Yang balance, while combining tongue acupuncture therapy to stimulate specific points, achieving the effect of eliminating stasis and regenerating blood, thus improving the child's physique. Additionally, excessive joy damages the heart should also be noted; maintaining emotional comfort is equally important for disease recovery. The moistening and draining downward method is helpful in promoting the discharge of internal dampness, further consolidating therapeutic effects.

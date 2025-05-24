@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨血寒与肾瘅之间的关联，并结合四气理论分析胞睑痰核的发生机制。据《内经》所述，肾为先天之本，主藏精，其病状常表现为命门之水不足，进而影响肝之功能，肝在志为怒，易致气滞血瘀。唇四白处亦可见病变，提示气血运行不畅。通过观察骨之形态及质地，可进一步佐证病情之深浅。综合上述诸症，临床治疗需注重调和气血，温补肾阳，以达到治本之效。
+Matched Terms
+['血寒', '胞睑痰核', '肝在志为怒', '命门之水', '唇四白', '肾瘅', '四气', '骨']
+Matched Terms Translation
+[['Blood cold'], ['Phlegm node of the eyelid'], ['The emotion of the liver is anger'], ['The water of the gate of life'], ['Four whites of the lips', 'Muscles around the lips'], ['Kidney heat', 'Kidney heat disorder'], ['Four qi'], ['Bone']]
+Translation
+This article aims to explore the correlation between blood cold and kidney heat, and analyze the pathogenesis of phlegm node of the eyelid in conjunction with the theory of four qi. According to the Inner Canon, the kidney is the congenital foundation, storing essence; its disease manifestations often indicate insufficiency of the water of the gate of life, thereby affecting the function of the liver, whose emotion is anger, easily leading to qi stagnation and blood stasis. Lesions can also be observed at the four whites of the lips, indicating unsmooth flow of qi and blood. By observing the shape and quality of bones, the depth of the condition can be further corroborated. Integrating all these symptoms, clinical treatment should focus on regulating and harmonizing qi and blood, warming and tonifying kidney yang, to achieve a curative effect.

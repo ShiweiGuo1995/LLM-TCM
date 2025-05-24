@@ -1,0 +1,8 @@
+Original Text
+肾虚不固证与肝血瘀阻证常导致身体虚弱，出现多种症状。风性主动则容易引发经行风疹块等皮肤疾病。在治疗过程中，我们需重视外关内格的调理，同时运用治五官法以增强疗效。对于热毒内陷证和肾厥等情况，则需要采取更为细致的辨证施治策略，从而达到内外兼治的效果。
+Matched Terms
+['肾虚不固证', '风性主动', '热毒内陷证', '外关内格', '经行风疹块', '治五官法', '肝血瘀阻证', '肾厥']
+Matched Terms Translation
+[['Kidney qi insecurity pattern', 'Kidney insecurity'], ['Wind causes movement'], ['Interior heat toxin pattern', 'Interior fire toxin pattern', ' fire/heat toxin blocking the interior pattern'], ['External blockage and internal rejection'], ['Wind wheals during menstruation'], ['Methods for eyes and ear, nose and throat problems'], ['Liver blood stasis pattern'], ['Kidney syncope']]
+Translation
+The pattern of kidney qi insecurity and liver blood stasis often leads to physical weakness and multiple symptoms. Wind causes movement easily triggers skin diseases such as urticaria during menstruation. During treatment, we need to pay attention to the regulation of external blockage and internal rejection, while applying methods for eyes and ear, nose and throat problems to enhance therapeutic effects. For conditions like the interior heat toxin pattern and kidney syncope, more detailed strategies of pattern identification and treatment are required to achieve the effect of treating both internal and external aspects.

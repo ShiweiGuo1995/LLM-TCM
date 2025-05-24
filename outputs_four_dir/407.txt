@@ -1,0 +1,8 @@
+Original Text
+在治疗肺热病时，我们常采用水火共制的方法来平衡体内阴阳，同时使用具有收敛止泪作用的草药以缓解症状。对于心脉瘀阻证患者，除了调和气血外，还需注重中焦虚寒证的调理，通过温补肾气来改善体质。在此过程中，合理配伍药物，使用适当的煎剂形式，有助于更好地达到齐四梢的效果，从而全面调整身体机能，促进康复。
+Matched Terms
+['肺热病', '齐四梢', '收敛止泪', '肾气', '水火共制', '心脉瘀阻证', '中焦虚寒证', '煎剂']
+Matched Terms Translation
+[['Lung heat', 'Lung heat disorder'], ['Issue forces from the four extremities'], ['Tonify qi and astringe tears'], ['Kidney qi'], ['Processing with both water and fire'], ['Heart vessels stasis pattern', 'Heart blood stagnation pattern', ' heart vessel obstruction pattern', 'Heart vessels stasis pattern', 'Heart blood stagnation pattern', ' heart vessel obstruction pattern'], ['Yang deficiency of the spleen and stomach pattern', 'Deficiency cold of the spleen and stomach pattern', ' Yang deficiency/ deficiency cold of the middle jiao pattern'], ['Decoction']]
+Translation
+In treating lung heat disease, we often adopt the method of processing with both water and fire to balance the body's yin and yang, while using herbs with the effect of tonifying qi and astringing tears to alleviate symptoms. For patients with the pattern of heart vessels stasis, in addition to regulating and harmonizing qi and blood, it is also necessary to focus on the regulation of the pattern of yang deficiency of the spleen and stomach, by warming and tonifying kidney qi to improve physical constitution. In this process, reasonable compatibility of drugs and the use of appropriate decoction form can help better achieve the effect of issue forces from the four extremities, thereby comprehensively adjusting bodily functions and promoting recovery.

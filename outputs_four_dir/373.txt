@@ -1,0 +1,8 @@
+Original Text
+在探讨脾胃疾病时，我们常会遇到脾阳虚水停证这一病理状态，它通常表现为口麻、面焦等症状。治疗此类病症时，采用斜刺法以刺激相应穴位，可以达到开音的效果。而在临床实践中，患者可能还会出现暴吐现象，这与瘴疟等外邪侵袭有关，此时需要通过调理气血，使相兼脉平和，方能达到治疗目的。
+Matched Terms
+['口麻', '开音', '斜刺', '瘴疟', '脾阳虚水停证', '暴吐', '面焦', '相兼脉']
+Matched Terms Translation
+[['Mouth numbness'], ['Restore the voice'], ['Oblique needle insertion'], ['Miasmic malaria', 'Epidemic malaria'], ['Spleen yang deficiency with water retention pattern'], ['Projectile vomiting'], ['Parched facial complexion'], ['Combined pulses']]
+Translation
+In discussing spleen and stomach diseases, we often encounter the pattern of Spleen Yang deficiency with water retention, which typically manifests as symptoms such as mouth numbness and parched facial complexion. When treating such conditions, oblique needle insertion to stimulate the corresponding acupoints can achieve the effect of restoring the voice. In clinical practice, patients may also experience projectile vomiting, which is related to the invasion of miasmic malaria and other external pathogens. At this time, it is necessary to regulate and harmonize Qi and Blood to achieve a state of harmonious combined pulses, thereby achieving the therapeutic goal.

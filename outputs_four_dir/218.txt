@@ -1,0 +1,8 @@
+Original Text
+最近我遇到一位患者，他长期受冷凝肩困扰，行动不便，还伴有脱壳乳痈的症状，看起来像是中气不足导致的。我建议他平时多吃些能滋补脾阴的食物，同时配合一些运动来改善中气虚弱的情况。另外他的肘劲也不太好，走路时有些不便。我还发现他的皮肤上有一些热毒蕴肤证的表现，可能是体内湿气过重，需要好好调理。平时可以多做一些利耳的动作，帮助身体排毒。希望这些方法能够帮到他，也提醒大家注意日常保健，避免类似问题的发生。
+Matched Terms
+['脱壳乳痈', '冷凝肩', '利耳', '滋补脾阴', '客运', '中气', '热毒蕴肤证', '肘劲']
+Matched Terms Translation
+[['Acute septic mastitis', 'Shell-bursting pyogenic abscess'], ['Frozen shoulder', 'Adhesive capsulitis of shoulder'], ['Unblock the ears', 'Benefit the ears'], ['Nourish and supplement spleen yin', 'Nourish spleen yin'], ['Guest movement'], ['Qi of the middle jiao', 'Central qi'], ['Retained heat toxin in the skin pattern', 'Fire toxin accumulating in the skin pattern'], ['(Zhou) elbow striking power']]
+Translation
+Recently, I encountered a patient who has been suffering from cold凝聚shoulder for a long time, experiencing difficulty in movement, and also showing symptoms of脱壳mastitis, which appears to be caused by insufficient central Qi. I recommended that he eat more foods that can nourish and supplement spleen yin on a regular basis, while also combining some exercises to improve the condition of Qi deficiency. Additionally, his elbow striking power is not very good, causing inconvenience when walking. I also noticed some manifestations of retained heat toxin in the skin pattern on his skin, possibly due to excessive dampness inside the body, requiring proper regulation. He can do more actions to unblock the ears to help the body detoxify. I hope these methods can be helpful to him and remind everyone to pay attention to daily health care to avoid similar problems from occurring.

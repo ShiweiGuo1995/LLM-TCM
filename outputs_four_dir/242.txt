@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨气机不利与少阳头痛之关联，并结合临床实践提出以温经散寒为治则的治疗方案。通过对月经脉的细致观察，发现其在气机不利时呈现异常变化，此乃温里剂应用之依据。文中亦提及疽病与小儿蛲虫病，二者虽病位各异，然其治疗均需注重调和阴阳，方能奏效。拳势作为辅助疗法，在调理气机、缓解少阳头痛方面亦有独特功效。综合上述分析，气机不利与少阳头痛密切相关，温经散寒法配合温里剂使用，辅以拳势锻炼，可有效改善病情。
+Matched Terms
+['气机不利', '温经散寒', '月经脉', '少阳头痛', '温里剂', '疽病', '拳势', '小儿蛲虫病']
+Matched Terms Translation
+[['Impaired qi activity', 'Impaired qi movement'], ['Warm meridians and dissipate cold'], ['Menstruation pulse'], ['Shaoyang headache'], ['Formulas that warm the interior'], ['Deep-rooted ulcer'], ['Taijiquan structure'], ['Enterobiasis', 'Paediatric pinworm infection']]
+Translation
+This article aims to explore the correlation between impaired qi activity and Shaoyang headache, and proposes a treatment plan based on warming the meridians and dissipating cold, combined with clinical practice. Through detailed observation of the menstruation pulse, it is found that abnormal changes occur when qi activity is impaired, which serves as the basis for using formulas that warm the interior. The article also mentions deep-rooted ulcers and pediatric pinworm infections; although their locations differ, both require focusing on harmonizing yin and yang to be effective. Taijiquan structure, as an auxiliary therapy, also has unique effects in regulating qi activity and alleviating Shaoyang headache. In summary, impaired qi activity is closely related to Shaoyang headache. Using the method of warming the meridians and dissipating cold along with formulas that warm the interior, and supplemented by Taijiquan exercises, can effectively improve the condition.

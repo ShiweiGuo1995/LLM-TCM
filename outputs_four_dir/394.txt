@@ -1,0 +1,8 @@
+Original Text
+在探讨不内外因导致的疾病时，我们注意到毒蕈中毒引发的急性病症，其治疗过程中需重视清泄胆火以祛邪，同时结合抄法调理脾胃功能，促进药物偏性的合理应用。对于妊娠期间出现的消渴症状，除常规治疗外，还应关注化瘀宽胸以改善气血运行，确保母体健康。在此基础上，综合运用中医理论指导临床实践，以期达到最佳疗效。
+Matched Terms
+['清泄胆火', '脾主四肢', '不内外因', '妊娠消渴', '毒蕈中毒', '抄法', '药物偏性', '化瘀宽胸']
+Matched Terms Translation
+[['Clear and reduce gallbladder heat', 'Clear gallbladder fire'], ['The spleen governs the limbs'], ['Neither internal nor external etiological factors', 'Other etiological factors'], ['Diabetes during pregnancy'], ['Mushroom poisoning'], ['Swinging manipulation'], ['Medicinal peculiarity'], ['Transform stasis and soothe the chest']]
+Translation
+When discussing diseases caused by neither internal nor external etiological factors, we notice that in the treatment of acute conditions such as mushroom poisoning, it is important to clear and reduce gallbladder heat to expel evil influences, while simultaneously using swinging manipulation to regulate and harmonize the spleen and stomach functions, promoting the reasonable application of medicinal peculiarity. For symptoms of wasting and thirst disorders during pregnancy, in addition to conventional treatment, attention should also be paid to transforming stasis and soothing the chest to improve the circulation of qi and blood, ensuring the health of the mother. On this basis, the comprehensive use of TCM theory should guide clinical practice to achieve optimal therapeutic effects.

@@ -1,0 +1,8 @@
+Original Text
+在本研究中，我们探讨了清泄郁热法对于心下痛患者的治疗效果，并通过调整煎药火候以达到最佳疗效。研究表明，先天之气与正气的调和是治疗过程中的关键因素之一，而肾气的充足与否亦直接影响着病情的发展。在此基础上，我们还引入了清炒及化瘀宽心等方法，旨在从多方面调节患者体内气血，以期达到标本兼治的目的。实验结果表明，综合运用上述方法能够有效改善患者症状，提高其生活质量。
+Matched Terms
+['清泄郁热', '心下痛', '煎药火候', '先天之气', '正气', '清炒', '肾气', '化瘀宽心']
+Matched Terms Translation
+[['Clear and reduce stagnant heat', 'Clear stagnant fire', ' Clear and disperse fire', ' Clear heat and alleviate vexation'], ['Pain below the heart'], ['Heat control in decoction'], ['Innate qi', 'Pre-heaven qi', ' prenatal qi', ' congenital qi'], ['Healthy qi', 'Anti-pathogenic qi'], ['Plain stir-frying'], ['Kidney qi'], ['Transform blood stasis and soothe the heart']]
+Translation
+In this study, we explored the therapeutic effects of clearing and reducing stagnant heat on patients with pain below the heart, and adjusted the heat control in decoction to achieve optimal efficacy. The research indicates that the harmony between innate qi and healthy qi is one of the key factors in the treatment process, while the abundance or deficiency of Kidney qi also directly influences the development of the condition. Based on this foundation, we also introduced methods such as plain stir-frying and transforming blood stasis and soothing the heart, aiming to regulate the patient's Qi and Blood from multiple aspects, in order to achieve the goal of treating both the tip and root. The experimental results show that the comprehensive use of the aforementioned methods can effectively improve the patient's symptoms and enhance their quality of life.

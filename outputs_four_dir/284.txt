@@ -1,0 +1,8 @@
+Original Text
+在治疗疫疟时，我们常采用清泻虚热的方法以调整体内阴阳平衡，同时使用气血两清剂来调理气血，防止病情进一步发展。对于出现冷汗症状的患者，我们还需要特别关注其肝胃虚寒证的情况，通过针灸刺激阿是穴和经别来缓解症状。此外，在某些情况下，若存在瘀血阻络证，我们需要采用相应的治疗方法，以促进血液循环，达到活血化瘀的效果。
+Matched Terms
+['清泻虚热', '气血两清剂', '冷汗', '疫疟', '经别', '阿是穴', '肝胃虚寒证', '瘀血阻络证']
+Matched Terms Translation
+[['Clear and reduce deficiency heat'], ['Formulas that clear heat in the qi and blood'], ['Cold sweats'], ['Miasmic malaria', 'Epidemic malaria'], ['The twelve divergent meridians'], ['Ashi Points'], ['Deficiency cold of the liver and stomach pattern'], ['Stagnant blood obstructing the meridians pattern']]
+Translation
+In the treatment of epidemic malaria, we often use the method of clearing and reducing deficiency heat to adjust the balance of yin and yang within the body, while using formulas that clear heat in the qi and blood to regulate and harmonize qi and blood, preventing the condition from further developing. For patients exhibiting symptoms of cold sweats, we also need to pay special attention to their condition of deficiency cold of the liver and stomach pattern, alleviating symptoms by stimulating Ashi points and divergent meridians with acupuncture. Additionally, in some cases, if there is a pattern of stagnant blood obstructing the meridians, we need to adopt corresponding treatments to promote blood circulation, achieving the effect of circulating blood and eliminating stasis.

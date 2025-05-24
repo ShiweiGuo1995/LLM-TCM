@@ -1,0 +1,8 @@
+Original Text
+本文通过对难产病例的分析，探讨经络腧穴类在治疗难产中的应用，并引入鼻血瘤的概念以丰富难产的诊断手段。采用脊背针疗法结合挟按法刺激特定荥穴，以清泄郁火，促进气血运行，最终达到改善难产的目的。同时，导引作为辅助治疗方法，在调节患者身体状态方面发挥重要作用。通过上述方法的综合运用，为难产提供了一种新的治疗思路。
+Matched Terms
+['难产', '经络腧穴类', '鼻血瘤', '脊背针疗法', '挟按法', '荥穴', '清泄郁火', '导引']
+Matched Terms Translation
+[['Difficult delivery'], ['Meridians and acupuncture points'], ['Nasal cavity haemangioma'], ['Back acupuncture'], ['Squeezing manipulation'], ['Ying-spring points'], ['Clear and reduce stagnant heat', 'Clear stagnant fire', ' Clear and disperse fire', ' Clear heat and alleviate vexation'], ['Daoyin (guiding and stretching)']]
+Translation
+This article analyzes difficult delivery cases to explore the application of meridians and acupuncture points in treating such conditions, introducing the concept of nasal cavity hemangioma to enrich diagnostic methods for difficult deliveries. It employs back acupuncture combined with squeezing manipulation to stimulate specific Ying-spring points, aiming to clear and reduce stagnant heat, promote the circulation of Qi and Blood, and ultimately improve difficult deliveries. Meanwhile, Daoyin, as an auxiliary treatment method, plays a significant role in regulating the patient's physical condition. Through the comprehensive use of these methods, a new therapeutic approach for difficult deliveries is provided.

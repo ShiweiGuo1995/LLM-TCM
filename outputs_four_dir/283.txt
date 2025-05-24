@@ -1,0 +1,8 @@
+Original Text
+在探讨臊疣与风化火证的关系时，我们发现其病因病机主要涉及体内苦味过盛，进而导致阴阳失衡，表现为阴中求阳之象。治疗过程中，采用正治法，结合宽胸利膈之法，有效缓解了患者症状。此外，对于瘴病及痧胀等病症，亦可通过上述方法调整，以达到调和气血、平衡阴阳的目的。临床观察表明，此方法对上述诸症均有良好疗效。
+Matched Terms
+['臊疣', '苦味', '阴中求阳', '宽胸利膈', '正治法', '瘴病', '痧胀', '风🗎化火证']
+Matched Terms Translation
+[['Condyloma'], ['Bitter flavour'], ['Seeking yang from yin', 'Formulas that seek yang within yin'], ['Open the chest and sooth the diaphragm'], ['Routine treatment', 'Standard treatment'], ['Miasmatic disorder'], ['Bumpy sand-like exanthem'], ['Wind dampness transformed heat pattern', 'Wind dampness transformed fire pattern']]
+Translation
+In exploring the relationship between condyloma and fire poison due to wind, we found that its causative factors and pathogenesis mainly involve an overabundance of bitter flavor leading to an imbalance of Yin and Yang, manifesting as seeking yang from Yin. During treatment, routine treatment combined with methods to open the chest and soothe the diaphragm effectively alleviated the patient's symptoms. Additionally, for miasmatic disorders and bumpy sand-like exanthem, the aforementioned methods can also be applied to achieve the purpose of regulating and harmonizing qi and blood and balancing Yin and Yang. Clinical observations indicate that this method has good therapeutic effects on the above-mentioned various conditions.

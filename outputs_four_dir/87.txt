@@ -1,0 +1,8 @@
+Original Text
+在探讨阴虚津亏证与瘀热入络证的治疗策略时，我们发现小方的应用具有显著效果。特别是在阴虚津亏证的治疗中，通过固涩摄乳与温化寒痰的结合，能够有效改善患者症状。此外，对于瘀热入络证，采用温化寒痰剂进行治疗，亦能取得良好疗效。同时，在临床实践中，导引作为一种辅助治疗方法，对促进囊虫病患者的康复也起到重要作用。综上所述，合理运用上述方法和药物，能够更好地服务于患者的健康需求。
+Matched Terms
+['小方', '固涩摄 乳', '温化寒痰', '瘀热入络证', '温化寒痰剂', '导引', '囊虫病', '阴虚津亏证']
+Matched Terms Translation
+[['Minor formulas'], ['Tonify qi and astringe the breast milk'], ['Warm and transform cold phlegm', 'Warm yang and transform phlegm'], ['Stasis and heat entering the meridians pattern'], ['Formulas that warm and transform cold phlegm'], ['Daoyin (guiding and stretching)'], ['Cysticercosis', 'Paediatric cysticercosis'], ['Yin fluids deficiency pattern']]
+Translation
+In exploring the treatment strategies for Yin fluids deficiency pattern and Stasis and heat entering the meridians pattern, we found that the application of Minor formulas has significant effects. Especially in treating Yin fluids deficiency pattern, by combining Tonify qi and astringe the breast milk with Warm and transform cold phlegm, we can effectively improve patient symptoms. Additionally, for Stasis and heat entering the meridians pattern, using formulas that warm and transform cold phlegm also achieves good therapeutic outcomes. Meanwhile, in clinical practice, Daoyin (guiding and stretching) as an auxiliary treatment method plays a crucial role in promoting the recovery of patients with Cysticercosis. In summary, reasonably applying the aforementioned methods and medications can better serve the health needs of patients.

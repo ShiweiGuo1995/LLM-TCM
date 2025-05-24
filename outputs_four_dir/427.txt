@@ -1,0 +1,8 @@
+Original Text
+在治疗手厥阴心包经证时，我们常采用活血散瘀的方法以促进气血流通，缓解症状。对于因脾瘅引起的咳嗽，使用敛肺止咳剂可以有效改善病情。针对突然出现的暴盲和冷泪问题，我们需要综合运用熄风定痉等方法，并考虑使用蜡丸等外治手段。这些治疗方法都是基于中医理论，旨在调节人体阴阳平衡，恢复健康。
+Matched Terms
+['活血散瘀', '敛肺止咳剂', '脾瘅', '暴盲', '熄风定痉', '蜡丸', '冷泪', '手厥阴心包经证']
+Matched Terms Translation
+[['Circulate blood and transform stasis', 'Circulate blood and eliminate stasis', ' Circulate blood and dissipate stasis'], ['Formulas that astringe the lung and stop coughing'], ['Spleen heat'], ['Sudden blindness'], ['Stop wind and relieve convulsions'], ['Waxed pill'], ['Cold tears'], ['Pericardium meridian pattern', 'Heart governor meridian pattern', ' Heart ruler meridian pattern']]
+Translation
+In treating Pericardium meridian pattern, we often adopt the method of circulating blood and transforming stasis to promote the flow of Qi and Blood and alleviate symptoms. For cough caused by Spleen heat, using formulas that astringe the lung and stop coughing can effectively improve the condition. In response to sudden blindness and cold tears, we need to comprehensively apply methods such as stopping wind and relieving convulsions, and consider using waxed pills and other external treatments. These therapeutic methods are based on TCM theory, aiming to regulate the body's Yin-Yang balance and restore health.

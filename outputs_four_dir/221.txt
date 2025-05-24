@@ -1,0 +1,8 @@
+Original Text
+通过对《太极枪》的研究，我们发现其中蕴含的“掤劲”不仅是一种武术技巧，还与“脾肾气虚不固证”的治疗有着密切联系。临床观察显示，患者在治疗过程中，若出现“脏毒”症状，往往伴有“目眩”，同时，“产后恶露不绝”也可能与此有关。此外，在夏季高温环境下，人体易受“中暑”影响，导致上述症状加重，尤其是在“精室”功能失调的情况下。因此，结合《太极枪》中的理论指导，对于上述症状的综合调理具有重要的临床意义。
+Matched Terms
+['太极枪', '脾肾气虚不固证', '精室', '中暑', '脏毒', '掤劲', '产后恶露不绝', '目眩']
+Matched Terms Translation
+[['Taiji spear'], ['Insecurity of the spleen and kidney pattern', 'Qi deficiency of the spleen and kidney pattern'], ['Essence chamber'], ['Summer heat stroke'], ['Anal abscess', 'Anal abscess disorder'], ['(Peng) ward off'], ['Persistent lochia discharge'], ['Blurred vision']]
+Translation
+Through the study of "Taiji Spear", we found that the "Peng" ward off contained within is not only a martial arts skill, but also closely related to the treatment of the "pattern of spleen and kidney qi deficiency". Clinical observations show that patients during the treatment process, if they exhibit symptoms of "anal abscess", often accompany with "blurred vision", while "persistent lochia discharge" may also be related. Additionally, in high summer temperatures, the human body is prone to "summer heat stroke", exacerbating the above symptoms, especially when there is dysfunction in the "essence chamber". Therefore, combining the theoretical guidance of "Taiji Spear", comprehensive regulation for the above symptoms has important clinical significance.

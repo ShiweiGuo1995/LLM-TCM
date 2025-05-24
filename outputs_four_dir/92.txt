@@ -1,0 +1,8 @@
+Original Text
+中医认为“气为血之帅”，在治疗脾胃疾病时，“理气消痞”尤为重要。若患者出现“脾阴不足”，常伴随“泛酸”症状，此时需采用“大泻刺”法调理。“清热化毒”也是治疗过程中不可或缺的手段，尤其对于“含腮疮”的患者来说更为重要。同时，若体质表现为“卫强营弱”，则更需注重调和阴阳，以达到治病的目的。
+Matched Terms
+['气为血之帅', '理气消痞', '脾阴', '大泻刺', '泛酸', '卫强营弱', '清热化🗎解毒', '含腮疮']
+Matched Terms Translation
+[['Qi is the commander of the blood'], ['Regulate qi and resolve masses', 'Circulate qi and resolve nodules'], ['Spleen yin'], ['Great drainage needling'], ['Regurgitation', 'Acid reflux', 'Acid regurgitation', 'Acid reflux'], ['Strong Wei-defence and weak Ying-nutrients'], ['Clear heat, dry dampness and remove toxins'], ['Mumps', 'Parotitis']]
+Translation
+In TCM, "Qi is the commander of the blood," and when treating spleen and stomach diseases, "regulating qi and resolving masses" is particularly important. If a patient presents with "spleen yin deficiency," they often experience symptoms of "acid regurgitation." In this case, the "great drainage needling" method should be used for regulation. "Clearing heat and transforming toxicity" is also an indispensable approach in the treatment process, especially for patients with "mumps." At the same time, if the constitution shows "strong Wei-defense and weak Ying-nutrition," then it is even more necessary to focus on harmonizing Yin and Yang to achieve the goal of treating the disease.

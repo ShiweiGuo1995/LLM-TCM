@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨热实结胸证与毒侵肺卫证在临床表现上的异同，通过对捻衣摸床及角弓反张等体征的观察，结合类剥苔的舌象特征，分析其对肺阳与脾阳虚证的影响。研究表明，假麻现象可能与上述证候密切相关，提示临床医生在诊断过程中需综合考虑患者整体状况，以期提高诊疗效果。
+Matched Terms
+['热实结胸证', '捻衣摸床', '毒侵肺卫证', '假麻', '类剥苔', '肺阳', '角弓反张', '脾阳虚证']
+Matched Terms Translation
+[['Exuberant heat affecting the chest pattern'], ['Carphologia', 'Carphology'], ['Toxin attacking the lung defence', 'Heat attacking the lung defence pattern', ' Warm attacking the lung defence pattern', ' Pathogenic warmth affecting the Wei-defence'], ['Roseola infantum', 'Pseudorubella'], ['Exfoliated coating'], ['Lung yang'], ['Opisthotonus'], ['Spleen yang deficiency pattern', 'Spleen yang insufficiency pattern']]
+Translation
+This study aims to explore the similarities and differences in clinical manifestations between the patterns of Exuberant heat affecting the chest and Toxin attacking the lung defence. By observing signs such as Carphologia and Opisthotonus, combined with the characteristic of exfoliated coating in tongue manifestations, it analyzes their impact on Lung Yang and Spleen Yang Deficiency patterns. The research indicates that Pseudorubella may be closely related to the aforementioned patterns, suggesting that clinicians need to comprehensively consider the overall condition of the patient during diagnosis to improve therapeutic outcomes.

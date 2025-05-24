@@ -1,0 +1,8 @@
+Original Text
+中医认为，风性轻扬，易致风化热证，临床上常见于乳疬患者，其舌形变化明显，浮络显露。治疗时应注重化瘀通络，改善局部血运，药物宜温服，以助药力发挥，尤其在夏季中暑后，此法更为适宜。
+Matched Terms
+['舌形', '浮络', '温服', '乳疬', '风🗎化热证', '风性轻扬', '化瘀通络', '中暑']
+Matched Terms Translation
+[['Form of the tongue'], ['Floating collaterals'], ['Take warm'], ['Gynecomastia'], ['Wind dampness transformed heat pattern', 'Wind dampness transformed fire pattern'], ['Wind floats and ascends'], ['Transform stasis and unblock collaterals'], ['Summer heat stroke']]
+Translation
+In TCM, it is believed that wind floats and ascends, easily leading to a heat pattern. Clinically, this is commonly seen in patients with gynecomastia, where the form of the tongue changes significantly and floating collaterals are evident. Treatment should focus on transforming stasis and unblocking collaterals, improving local blood circulation. The medicine should be taken warm to help enhance its efficacy, especially after summer heat stroke, when this method is more appropriate.

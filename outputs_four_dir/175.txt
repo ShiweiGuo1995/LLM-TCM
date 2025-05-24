@@ -1,0 +1,8 @@
+Original Text
+肾主水液功能失常可致痰迷心神证，出现卑惵等症，治疗需采用清热攻下与清法相结合；肾其华在发，故肾虚亦可见脱发，同时肩周炎患者亦应注意调理肾脏，避免酒厥发生，以促进气血畅通。
+Matched Terms
+['肾主水液', '痰迷心神证', '卑惵', '清热攻下', '酒厥', '清法', '肾其华在发', '肩周炎']
+Matched Terms Translation
+[['The kidney governs water and fluids'], ['Phlegm misting the heart pattern', 'Phlegm obstructing the heart', ' phlegm blocking the heart', ' phlegm blocking the heart spirit'], ['Low self-esteem'], ['Clear heat and promote bowel movements', 'Fire-clearing purgation', ' Purgation with bitter-cold', ' Drastic purgation'], ['Alcoholic syncope'], ['Clearing method'], ['The lustre of the kidney shows in the hair'], ['Frozen shoulder', 'Adhesive capsulitis of shoulder']]
+Translation
+The dysfunction of the kidney governing water and fluids can lead to the pattern of phlegm misting the heart, manifesting symptoms such as low self-esteem. Treatment should combine clearing heat and promoting bowel movements with the clearing method; the lustre of the kidney shows in the hair, hence, kidney deficiency can also result in hair loss. Meanwhile, patients with frozen shoulder should also pay attention to regulating their kidneys to avoid alcoholic syncope, thus promoting the smooth flow of qi and blood.

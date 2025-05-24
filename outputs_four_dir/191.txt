@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨以清心利水法治疗五更泄泻的临床疗效，通过分析升降浮沉理论指导下的方剂组成，发现合理配置君臣佐使是关键。本研究选用具有平性药效的中药材作为臣药，辅以解表通经药物，旨在调整体内阴阳平衡，改善患者症状。实验结果显示，该方法对缓解五更泄泻及伴随的梦交现象有显著效果，进一步验证了中医药在治疗复杂病症中的独特优势。
+Matched Terms
+['梦交', '清心利水', '升降浮沉', '中药材', '五更泄泻', '平性药', '臣药', '解表通经']
+Matched Terms Translation
+[['Sleep sex', 'Sexosomnia'], ['Clear heart fire and drain dampness', 'Clear the heart and induce urination'], ['Ascending, descending, floating and sinking'], ['Raw Chinese medicines'], ['Early morning diarrhea', 'Diarrhea before dawn'], ['Neutral-property medicines'], ['Minister medicines'], ['Release the exterior and unblock meridians']]
+Translation
+This article aims to explore the clinical efficacy of treating early morning diarrhea using the method of clearing heart fire and draining dampness. Through the analysis of the formula composition guided by the theory of ascending, descending, floating, and sinking, it is found that the rational configuration of principal, minister, assistant, and messenger herbs is crucial. This study selects raw Chinese medicines with neutral-property effects as minister herbs, supplemented by drugs for releasing the exterior and unblocking meridians, aiming to adjust the body's yin-yang balance and improve patient symptoms. The experimental results show that this method has significant effects on alleviating early morning diarrhea and accompanying sleep sex, further verifying the unique advantages of traditional Chinese medicine in treating complex diseases.

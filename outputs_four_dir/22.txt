@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友总感觉少阳头痛，面色苍白，可能是体内有溢饮现象，需要调理。中医认为舌为心之苗，观察他的舌头偏白，可能是因为胃喜柔润，饮水过多导致。还需补益肝气，调整饮食习惯，避免痟中困扰。同时，治疗时应注意其半表半里证，这样能更好地缓解少阳头痛的症状。希望我的建议对他有所帮助。
+Matched Terms
+['溢饮', '胃喜柔润', '面白', '补益肝气', '痟中', '少阳头痛', '半表半里证', '舌为心之苗']
+Matched Terms Translation
+[['Subcutaneous fluid retention'], ['The stomach likes softening and moisturizing'], ['White facial complexion'], ['Tonify liver qi', 'Reinforce liver qi'], ['Wasting of the middle jiao', 'Spleen/stomach wasting'], ['Shaoyang headache'], ['Neither exterior nor interior pattern', 'Half exterior and half interior (commonly used but wrong in meaning)'], ['The tongue is the expression of the heart']]
+Translation
+Recently, a friend has been experiencing Shaoyang headache and pale facial complexion, which might indicate subcutaneous fluid retention in the body, requiring adjustment. In Traditional Chinese Medicine, the tongue is the expression of the heart; observing that his tongue is pale, it may be because the stomach likes softening and moisturizing, leading to excessive fluid intake. It is also necessary to tonify liver qi, adjust dietary habits, and avoid spleen/stomach wasting troubles. Meanwhile, during treatment, attention should be paid to the neither exterior nor interior pattern, which can better alleviate the symptoms of Shaoyang headache. I hope my suggestions will be helpful to him.

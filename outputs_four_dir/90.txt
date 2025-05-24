@@ -1,0 +1,8 @@
+Original Text
+小儿蛔虫病常因脾胃虚弱引起，治疗时需注重培土生金原则，以调理脾胃功能。在临床观察中，若患者出现热入血分证或痰瘀阻膈证，应采用傍针刺等方法促进气血流通。牙齿作为齿为骨之余，其健康状况亦能反映体内气血是否调和。对于损伤内证病患者，需细致辨证施治，避免痰闭心窍证的发生。通过综合治疗，方能达到标本兼治的效果。
+Matched Terms
+['小儿蛔虫病', '热入血分证', '培土生金', '痰瘀阻膈证', '傍针刺', '齿为骨之余', '损伤内证病', '痰闭心窍证']
+Matched Terms Translation
+[['Ascariasis', 'Paediatric ascariasis'], ['Heat entering the blood phase pattern', 'Excess heat in the blood aspect pattern', ' Blood and heat pattern'], ['Tonify the spleen and benefit the lung', 'Cultivate the earth to generate metal'], ['Phlegm and blood stasis obstructed the diaphragm pattern'], ['Accompanied needling'], ['Teeth are the extension of the bone'], ['Internal injuries'], ['Phlegm misting the heart pattern', 'Phlegm obstructing the heart', ' phlegm blocking the heart', ' phlegm blocking the heart spirit']]
+Translation
+Pediatric ascariasis often results from spleen and stomach deficiency, and during treatment, the principle of cultivating the earth to generate metal should be emphasized to regulate and harmonize the spleen and stomach functions. In clinical observation, if the patient exhibits a heat entering the blood phase pattern or phlegm and blood stasis obstructed the diaphragm pattern, methods such as accompanied needling should be used to promote the circulation of qi and blood. Teeth, as the extension of the bone, can also reflect whether the body's qi and blood are harmonious. For patients with internal injuries, detailed pattern identification and treatment should be performed to avoid the occurrence of phlegm misting the heart pattern. Through comprehensive treatment, one can achieve the effect of treating both the tip and root.

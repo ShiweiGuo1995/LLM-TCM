@@ -1,0 +1,8 @@
+Original Text
+中医认为血虚风燥证多由体内阴血不足，风邪入侵所致，常表现为黑睛干涩等症状。治疗上我们采用扶正解表剂以调和气血，辅以平肝熄风之法，帮助患者恢复健康。对于因寒包火导致的穿腮毒，采用跪推法配合升清固涩之法，可以有效缓解症状，促进病情恢复。在治疗过程中，需注意饮食调理，避免刺激性食物，以免加重病情。
+Matched Terms
+['平肝熄风', '穿腮毒', '升清固涩', '血虚风燥证', '黑睛', '跪推法', '扶正解表剂', '寒包火']
+Matched Terms Translation
+[['Soothe the liver and extinguish wind', 'Calm the liver and stop wind'], ['Dental abscess', 'Osteomyelitis of the maxilla'], ['Lift and secure qi'], ['Blood deficiency- induced wind dryness pattern'], ['Black part of the eyeball', 'Cornea and iris'], ['Yi Zhi Chan pushing with the flexed thumb'], ['Formulas that reinforce healthy qi and release the exterior'], ['Cold enveloping fire']]
+Translation
+In TCM, the pattern of blood deficiency-induced wind dryness is often caused by insufficient yin and blood within the body and invasion of pathogenic wind, commonly manifesting symptoms such as dryness of the cornea and iris. In treatment, we use formulas that reinforce healthy qi and release the exterior to regulate and harmonize qi and blood, supplemented by soothing the liver and extinguishing wind methods to help patients recover health. For dental abscesses caused by cold enveloping fire, using Yi Zhi Chan pushing with the flexed thumb combined with lifting and securing qi methods can effectively alleviate symptoms and promote recovery from the disease. During the treatment process, it is necessary to pay attention to dietary adjustments, avoiding stimulating foods to prevent aggravation of the condition.

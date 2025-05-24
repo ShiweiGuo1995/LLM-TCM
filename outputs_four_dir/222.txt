@@ -1,0 +1,8 @@
+Original Text
+本文基于运气同化理论探讨了喉关痈的发病机制，指出痰饮与初关病变密切相关，并结合鼓胀、顿咳等症候群分析其病理特点。在治疗策略上，提出健脾驱虫法以调和脏腑功能，同时辅以历节风的防治措施，旨在全面改善患者体质，提高临床疗效。
+Matched Terms
+['运气同化', '喉关痈', '痰饮', '初关', '鼓胀', '顿咳', '健脾驱虫', '历节风']
+Matched Terms Translation
+[['Compatibility of movements and qi'], ['Epiglottic abscess'], ['Phlegm-fluid retention'], ['Wind pass', 'Upper gate', ' the first gate'], ['Tympanites', 'Tympanites disorder'], ['Whooping cough', 'Pertussis'], ['Strengthen the spleen and repel parasitic worms', 'Fortify the spleen and repel parasitic worms'], ['Joint wind']]
+Translation
+This article explores the pathogenesis of epiglottic abscess based on the theory of Compatibility of Movements and Qi, pointing out that phlegm-fluid retention is closely related to the lesion at the first gate. By combining the analysis of tympanites disorder and whooping cough symptom complexes, it elucidates their pathological characteristics. In terms of treatment strategies, it proposes the method of fortifying the spleen and repelling parasitic worms to regulate the functions of Zang-fu organs, while also incorporating preventive and therapeutic measures for Joint wind, aiming to comprehensively improve the patient's physique and enhance clinical efficacy.

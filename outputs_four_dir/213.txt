@@ -1,0 +1,8 @@
+Original Text
+在探讨阴虚阳亢这一病症时，我们首先需要通过辨证求因来明确病因病机。在临床观察中，患者常表现为糙苔、泛酸等症状，这些症状提示可能存在胃热炽盛的情况。此外，若病情进一步发展，还可能出现黑疸，甚至更为严重的败血冲心现象。值得注意的是，在处理此类疾病时，除了关注内脏功能失调外，还需警惕外部因素的影响，如松毛虫伤等，这些都可能导致病情复杂化。对于目干涩的患者，亦需结合上述各方面进行综合分析与治疗。
+Matched Terms
+['阴虚阳亢', '辨证求因', '糙苔', '松毛虫伤', '泛酸', '黑疸', '败血冲心', '目干涩']
+Matched Terms Translation
+[['Yin deficiency leading to yang hyperactivity'], ['To differentiate pattern to reveal an etiology'], ['Rough coating'], ['Pine caterpillar injuries'], ['Regurgitation', 'Acid reflux', 'Acid regurgitation', 'Acid reflux'], ['Darkening of the skin', 'Primary adrenal insufficiency'], ['Lochia disturbing the heart mind'], ['Dry eyes']]
+Translation
+When discussing the syndrome of yin deficiency leading to yang hyperactivity, we first need to use the method of differentiating pattern to reveal an etiology to clarify the causative factors and pathogenesis. In clinical observation, patients often exhibit symptoms such as rough coating and acid regurgitation, which suggest the presence of excessive stomach heat. Additionally, if the condition progresses further, it may lead to darkening of the skin, or even more severe conditions like lochia disturbing the heart mind. It is noteworthy that when dealing with such diseases, in addition to focusing on the dysfunction of internal organs, external factors such as pine caterpillar injuries should also be taken into consideration, as these can complicate the condition. For patients with dry eyes, a comprehensive analysis and treatment should also be conducted by taking all the aforementioned aspects into account.

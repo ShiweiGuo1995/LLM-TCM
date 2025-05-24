@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨肝肾精血亏损证与热闭心神证在春季如弦脉象中的临床表现及治疗策略。通过观察患者出现的春脉如弦、蝶斑疮等症状，结合子午流注理论，我们发现该证候与胃阴不足密切相关。治疗上采用清肝泻热法以缓解热闭心神之症，并辅以调和肝肾、滋养精血之方。此外，对于反复发作的疖病，亦需从整体角度出发，综合调整机体阴阳平衡，以达到标本兼治的效果。
+Matched Terms
+['疖', '子午流注', '胃阴', '热闭心神证', '春脉如弦', '肝肾精血亏损证', '蝶斑疮', '清肝泻热']
+Matched Terms Translation
+[['Furuncles', 'Furuncle disorders', ' Boil disorders Boils'], ['Midnight-noon ebb-flow', 'Zi Wu Liu Zhu Chronoacupuncture'], ['Stomach yin'], ['Heat blocking the pericardium pattern', 'Heat blocking the heart mind pattern'], ['Wiry pulse in spring'], ['Deficiency of the liver and kidney pattern', 'Deficiency of liver blood and kidney essence', ' Liver and kidney yin deficiency pattern'], ['Red butterfly-like sore', 'Discoid lupus erythematosus'], ['Clear and reduce liver fire', 'Clear the liver and reduce fire']]
+Translation
+This study aims to explore the clinical manifestations and treatment strategies of the pattern of liver and kidney essence-blood deficiency and the pattern of heat blocking the pericardium in the wiry pulse of spring. By observing symptoms such as the wiry pulse in spring and red butterfly-like sores, and combining with the Midnight-noon ebb-flow theory, we found that this syndrome is closely related to the insufficiency of Stomach yin. In treatment, the method of clearing and reducing liver fire is adopted to alleviate the symptom of heat blocking the pericardium, supplemented by prescriptions for harmonizing the liver and kidney and nourishing essence and blood. Furthermore, for recurrent furuncle disorders, it is also necessary to start from a holistic perspective, adjusting the body's Yin-Yang balance comprehensively to achieve the effect of treating both the tip and root.

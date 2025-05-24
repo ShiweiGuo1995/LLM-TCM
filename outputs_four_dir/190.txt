@@ -1,0 +1,8 @@
+Original Text
+最近在研究劳瘵的治疗，发现重方对于缓解症状很有帮助。但要注意，饮食上避免过多咸味，以免加重病情。同时，我也遇到了一些患者表现为热入血室证和肝热血瘀证，需要细心调理。还有，记得日常生活中保护好牙齿，防止龋齿发生。而针对心脾虚寒证和息贲的问题，我也在探索更有效的治疗方法。通过这些实践，我更加认识到中医的博大精深。
+Matched Terms
+['劳瘵', '重方', '热入血室证', '肝热血瘀证', '咸味', '心脾虚寒证', '息贲', '龋齿']
+Matched Terms Translation
+[['Tuberculosis', 'Fatigue consumption disorder'], ['Compound formulas'], ['Heat entering the blood chamber pattern'], ['Liver heat with blood stagnation pattern'], ['Salty flavour'], ['Yang deficiency of the heart and spleen pattern', 'Deficiency cold of the heart and spleen/Heart  and spleen yang deficiency pattern'], ['Masses in the lung', 'Rushing respiration'], ['Dental caries']]
+Translation
+Recently, while studying the treatment of labor consumption, I found that compound formulas are very helpful in alleviating symptoms. However, it should be noted that one should avoid excessive salty flavor in the diet to prevent aggravating the condition. At the same time, I have encountered some patients presenting with the patterns of heat entering the blood chamber and liver heat with blood stasis, which require careful adjustment. Additionally, remember to protect your teeth in daily life to prevent dental caries. For the patterns of deficiency cold of the heart and spleen and masses in the lung, I am also exploring more effective treatment methods. Through these practices, I have come to realize even more the vast depth of Traditional Chinese Medicine.

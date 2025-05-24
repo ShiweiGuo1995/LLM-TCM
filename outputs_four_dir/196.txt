@@ -1,0 +1,8 @@
+Original Text
+在探讨辛温通窍疗法对于卫气同病证患者的临床疗效时，我们发现其不仅能够改善患者症状，还能通过调节气门功能，达到治疗效果。针对骨错缝引起的肝脾气滞证，我们采用太极拳流派作为辅助治疗方法，并严格遵守四忌原则，以消石导滞为主要手段，综合调理，取得了良好的临床效果。此研究结果提示，在治疗卫气同病证和肝脾气滞证时，多种方法联合应用可能更为有效。
+Matched Terms
+['辛温通窍', '骨错缝', '太极拳流派', '卫气同病证', '四忌', '消石导滞', '肝脾气滞证', '气门']
+Matched Terms Translation
+[['Dissipate cold and open the orifices', 'Open the orifices with pungent warm'], ['Bone/joint dislocation/ subluxation'], ['Taijiquan styles'], ['Pattern involving both Wei-defence and qi phases'], ['Four mistakes'], ['Resolve stones and promote bowel movements'], ['Qi stagnation of the liver and spleen pattern'], ['Qi gate']]
+Translation
+In exploring the clinical efficacy of dissipating cold and opening the orifices therapy for patients with the pattern involving both Wei-defensive and qi phases, we found that it not only improves symptoms but also achieves therapeutic effects by regulating the function of Qi gates. For cases of Qi stagnation of the liver and spleen caused by bone/joint dislocation/subluxation, we adopted Taijiquan styles as an auxiliary treatment method and strictly adhered to the Four mistakes principles, primarily using resolve stones and promote bowel movements as the main approach, achieving good clinical results through comprehensive regulation. These research findings suggest that the combined application of multiple methods may be more effective in treating the pattern involving both Wei-defensive and qi phases and the Qi stagnation of the liver and spleen pattern.

@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="zh">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>翻译页面</title>
+    <link rel="stylesheet" href="../static/styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="../static/script.js"></script>
+</head>
+<body>
+
+    <div class="titleC">
+        中医术语RAG翻译演示
+    </div>
+
+    <div class="containerA">
+        <div class="container_titleA">
+            待翻译文本
+        </div>
+        <div class="textareaA" >
+            <textarea id="input_text">输入待翻译文本...</textarea>
+        </div>
+        <button class="button button2" id="random_example_btn">
+            随机选择
+        </button>
+    </div>
+
+    <div class="selectC">
+        <label>
+            选择大模型
+            <select name="model" id="llm_select">
+                <option value="Qwen">通义千问</option>
+                <option value="Deepseek">Deep Seek V3</option>
+                <option value="Zhipu">智谱</option>
+            </select>
+        </label>
+    </div>
+
+    <div class="buttonC">
+        <button class="button button1" id="translate_btn">
+            开始翻译
+        </button>
+    </div>
+
+    <div class="containerB">
+        <div class="container_titleA">
+            翻译结果
+        </div>
+        <div class="textareaA">
+            <textarea id="output_text">等待输入文本...</textarea>
+        </div>
+    </div>
+
+    <div class="containerC">
+        <div class="container_titleC">
+            检索到的术语
+        </div>
+        <div class="textareaB" id="terms_div">
+            等待术语检索...
+        </div>
+    </div>
+
+    <div class="containerD">
+        <div class="container_titleC">
+            提示词模板
+        </div>
+        <div class="textareaB" id="prompt_text_div">
+            等待提示词模板生成...
+        </div>
+    </div>
+
+</body>
+</html>

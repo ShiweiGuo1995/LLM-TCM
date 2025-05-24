@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，梦魇与伤食常被认为是脾胃功能失调所致。临床观察到患者出现大脉、舌麻痹等症状时，可能需要考虑补益肾气。此外，女性患者若伴有暴泻及固冲止带问题，需警惕野屎风的影响，此病多因气血两虚，湿热内蕴所致，治疗时应注重调理。
+Matched Terms
+['梦魇', '伤食', '补益肾气', '大脉', '舌麻痹', '固冲止带', '野屎风', '暴泻']
+Matched Terms Translation
+[['Nightmare'], ['Food damage'], ['Tonify kidney qi', 'Reinforce kidney qi'], ['Large pulse'], ['Tongue paralysis', 'Paralyzed'], ['Secure the Chong meridian and stop leucorrhoea', 'Secure the kidney and stop leucorrhoea'], ['Ancylostoma dermatitis'], ['Fulminant diarrhoea', 'Acute diarrhoea']]
+Translation
+In TCM theory, nightmares and food damage are often attributed to dysfunction of the spleen and stomach. Clinically, when patients exhibit symptoms such as a large pulse and tongue paralysis, it may be necessary to consider tonifying kidney qi. Additionally, female patients with symptoms of fulminant diarrhea and issues of securing the Chong meridian and stopping leucorrhea should be cautious of the influence of Ancylostoma dermatitis; this disease is mostly due to dual deficiency of qi and blood, with internal accumulation of damp-heat, and during treatment, attention should be paid to regulation.

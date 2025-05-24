@@ -1,0 +1,8 @@
+Original Text
+通过对患者进行辨病分析，我们发现其主要症状表现为寒湿腰痛，此病症与肺气不宣有密切关联。治疗过程中采用刮法和毛刺以疏通经络，促进气血运行，并结合走罐法在腰部进行操作，增强局部血液循环。同时，为加强疗效，建议患者采用泡服方式服用特定中药，以达到温补肺气，散寒除湿的目的。此外，七冲门的调理亦不可忽视，需综合施治，方能取得良好效果。
+Matched Terms
+['刮法', '七冲门', '走罐法', '泡服', '寒🗎腰痛', '毛刺', '辨病', '肺气']
+Matched Terms Translation
+[['Scraping manipulation'], ['Seven gates'], ['Sliding cupping', 'Moving cupping'], ['Taken after being infused in hot water'], ['Lower back pain due to cold dampness'], ['Skin needling'], ['Disease differentiation'], ['Lung qi']]
+Translation
+By performing disease differentiation on the patient, we found that the main symptoms manifested as cold-dampness lower back pain, which is closely related to the failure of lung qi to diffuse. During treatment, scraping manipulation and skin needling were used to unblock the meridians and promote the circulation of qi and blood, combined with sliding cupping performed on the waist to enhance local blood circulation. At the same time, to strengthen the therapeutic effect, it is recommended that the patient take Chinese herbal medicines by infusing them in hot water to achieve the purpose of warming and tonifying lung qi and dispelling cold and dampness. Additionally, the regulation of the seven gates should not be neglected; comprehensive treatment must be applied to achieve good results.

@@ -1,0 +1,8 @@
+Original Text
+本文基于三因学说探讨了伏邪在小儿惊厥发病机制中的作用，并结合临床实践提出采用辛凉解表药与补益脾肾相结合的方法治疗此类病症。研究发现，在疾病发展过程中，若邪气内伏，易致脾肾功能失调，进而引发小儿惊厥，表现为金破不鸣及肛门灼热等症状。此外，对于此类症状的处理，适当运用勒法亦能取得良好疗效。综合上述分析，治疗小儿惊厥需注重调理脾肾，疏解内伏之邪。
+Matched Terms
+['补益脾肾', '勒法', '三因学说', '辛凉解表药', '金破不鸣', '肛门灼热', '小儿惊厥', '伏邪']
+Matched Terms Translation
+[['Tonify the spleen and kidney', 'Reinforce the spleen and benefit the kidney'], ['Tightening manipulation'], ['Theory of three etiological categories'], ['Pungent cool exterior- releasing medicines', 'Wind-heat dissipating medicines'], ['Broken metal failing to sound'], ['A burning sensation of the anus'], ['Infantile convulsions'], ['Latent pathogenic qi']]
+Translation
+This article explores the role of latent pathogenic qi in the pathogenesis of infantile convulsions based on the Theory of three etiological categories, and proposes treating such conditions by combining pungent-cool exterior-releasing medicines with tonifying the spleen and kidney according to clinical practice. The study found that during disease progression, if pathogenic qi is latent, it easily leads to dysfunction of the spleen and kidney, thereby causing infantile convulsions, manifesting as symptoms like broken metal failing to sound and a burning sensation of the anus. Additionally, for these symptoms, appropriate use of tightening manipulation can also achieve good therapeutic effects. In summary, treating infantile convulsions should focus on regulating the spleen and kidney and resolving the latent pathogenic qi.

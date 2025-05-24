@@ -1,0 +1,8 @@
+Original Text
+在治疗脾虚食积证时，涌吐剂的应用需谨慎，以免损伤正气。同时，针对心合小肠的理论，我们探讨了如何通过调整饮食和生活习惯来达到固肾安胎的效果。临床观察中，嗳气与呃逆常伴随出现，这可能是由于脾胃功能失调所致。在日常生活中，适当的美容推拿不仅可以促进血液循环，还能缓解上述症状。对于胆石病患者，除了药物治疗外，合理的饮食结构和生活方式同样重要。综上所述，通过综合调理，可以有效改善这些病症。
+Matched Terms
+['涌吐剂', '脾虚食积证', '心合小肠', '固肾安胎', '嗳气', '美容推拿', '胆石病', '呃逆']
+Matched Terms Translation
+[['Formulas that induce emesis', 'Emetic formulas'], ['Spleen deficiency with food retention pattern', 'Spleen deficiency with ingestion of food pattern'], ['The pairing between the heart and small intestine'], ['Reinforce the kidney and secure the fetus'], ['Burping', 'Belching'], ['Cosmetic tuina'], ['Cholelithiasis'], ['Hiccups']]
+Translation
+In the treatment of spleen deficiency with food retention pattern, the application of emetic formulas should be used with caution to avoid damaging healthy qi. Meanwhile, based on the theory of the pairing between the heart and small intestine, we explore how to achieve the effect of reinforcing the kidney and securing the fetus by adjusting diet and lifestyle habits. Clinical observations show that belching and hiccups often occur simultaneously, which may be due to dysfunction of the spleen and stomach. In daily life, appropriate cosmetic tuina can not only promote blood circulation but also alleviate the aforementioned symptoms. For patients with cholelithiasis, in addition to drug therapy, a reasonable dietary structure and lifestyle are equally important. In summary, through comprehensive regulation, these conditions can be effectively improved.

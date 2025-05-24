@@ -1,0 +1,8 @@
+Original Text
+刮痧疗法在治疗气逆证时效果显著，通过刺激任脉可以有效缓解症状。对于姜片虫病患者，温开剂是常用的治疗手段之一，它能帮助驱除体内湿气，改善但寒不热的症状。同时，饮食上应注意清淡，避免食用过于辛辣的食物，以免加重气逆证。淡味食物有助于调和脾胃，促进消化，防止除中现象的发生。
+Matched Terms
+['刮痧疗法', '任脉', '姜片虫病', '温开剂', '除中', '但寒不热', '淡味', '气逆证']
+Matched Terms Translation
+[['Guasha therapy'], ['The Ren meridian', 'Conception Vessel'], ['Fasciolopsiasis', 'paediatric fasciolopsiasis'], ['Formulas that open the orifices with warm- property ingredients'], ['Sudden spurt of appetitie prior to collapse'], ['Chills alone', 'Aversion to cold without fever'], ['Bland flavour'], ['Qi counterflow pattern']]
+Translation
+Guasha therapy is remarkably effective in treating the Qi counterflow pattern, effectively alleviating symptoms by stimulating the Ren meridian. For patients with Fasciolopsiasis, Warming-Opening agents are one of the commonly used treatment methods, capable of helping to eliminate internal dampness and improve symptoms of chills alone without fever. Meanwhile, dietary adjustments should focus on light foods, avoiding excessively spicy foods to prevent aggravation of the Qi counterflow condition. Bland-flavored foods help regulate and harmonize the spleen and stomach, promoting digestion and preventing the occurrence of sudden spurt of appetite prior to collapse.

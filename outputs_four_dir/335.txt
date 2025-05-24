@@ -1,0 +1,8 @@
+Original Text
+在本次研究中，我们针对平降肝阳药在治疗怒证及气郁痰阻证中的临床应用进行了探讨。研究表明，此类药物对于改善患者胃痞症状具有显著疗效，尤其在处理脾胃积热证时更为明显。此外，在对悬癖和里热证患者的治疗过程中，亦观察到其积极作用。值得注意的是，部分患者在接受治疗后出现口苦现象，这可能是药物作用于体内湿热所致。综上所述，平降肝阳药在临床实践中的应用值得进一步深入研究。
+Matched Terms
+['平降肝阳药', '脾胃积热证', '气郁痰阻证', '里热证', '怒证', '悬癖', '胃痞', '口苦']
+Matched Terms Translation
+[['Liver yang-submerging medicines'], ['Excess heat in the spleen and stomach pattern', 'Heat accumulating in the spleen and stomach/middle jiao pattern', ' Excess heat in the spleen and stomach/middle jiao pattern'], ['Qi stagnation with phlegm retention pattern'], ['Interior heat pattern', 'Excess heat pattern'], ['Excessive anger pattern'], ['Masses in the sub- costal region'], ['Gastric stuffiness', 'Gastric fullness'], ['A bitter taste']]
+Translation
+In this study, we explored the clinical application of liver yang-submerging medicines in treating the excessive anger pattern and the Qi stagnation with phlegm retention pattern. The research indicates that these drugs have significant therapeutic effects on improving symptoms of gastric stuffiness, especially evident in cases of excess heat in the spleen and stomach pattern. Additionally, a positive effect was observed during the treatment of patients with masses in the sub-costal region and interior heat pattern. It is noteworthy that some patients experienced a bitter taste after treatment, which might be due to the action of the drugs on internal damp-heat. In summary, the clinical application of liver yang-submerging medicines warrants further in-depth investigation.

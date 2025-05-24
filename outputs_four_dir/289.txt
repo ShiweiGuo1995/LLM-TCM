@@ -1,0 +1,8 @@
+Original Text
+最近天气转凉，很多人因为寒易伤阳导致胃阴亏虚证，出现胃部不适。在日常生活中，我们要注重调理，比如做些温和的运动如太极拳时记得竖腕，帮助气机不利的情况得到缓解。饮食上可以适当吃一些补阴剂，比如百合莲子汤，以益火生土，增强体质。当然，如果突然感到胸口剧痛，可能是卒心痛的症状，这时一定要及时就医，以免延误病情。通过这些小贴士，希望大家都能保持健康，远离疾病的困扰。
+Matched Terms
+['胃阴亏虚证', '十二皮部', '寒易伤阳', '气机不利', '卒心痛', '补阴剂', '益火生土', '竖腕']
+Matched Terms Translation
+[['Stomach yin deficiency pattern'], ['The twelve cutaneous regions'], ['Cold tends to impair yang'], ['Impaired qi activity', 'Impaired qi movement'], ['Sudden cardiac pain'], ['Formulas that tonify yin'], ['Supplement fire to cultivate earth'], ['Vertical Fist']]
+Translation
+Recently, with the weather turning cooler, many people are experiencing stomach yin deficiency pattern due to cold tending to impair yang, leading to discomfort in the stomach. In daily life, we should focus on regulation; for instance, when doing gentle exercises like Taijiquan, remember to keep the fist vertical to help alleviate impaired qi movement. In terms of diet, one can appropriately consume formulas that tonify yin, such as lily and lotus seed soup, to supplement fire to cultivate earth and strengthen the body. Of course, if sudden severe chest pain occurs, it might be a symptom of sudden cardiac pain, and timely medical attention must be sought to avoid delaying the condition. Through these tips, I hope everyone can maintain health and stay away from the troubles of disease.

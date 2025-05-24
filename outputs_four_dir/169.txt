@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友跟我提到他儿子最近总是出现痫病的症状，这让我非常担心。我建议他可以试试使用直接灸的方法来调理一下。另外，他的儿子还经常出现便血的情况，这也可能是由于开合虚实失衡所导致的。我还听说有一种叫碟转法的手法可以帮助调整这种状况。当然，对于小儿痴呆和绦虫病这些疾病，我们也要保持警惕，日常生活中要注意饮食卫生，防止这些问题的发生。
+Matched Terms
+['痫病', '尸厥', '直接灸', '便血', '开合虚实', '碟转法', '小儿痴呆', '绦虫病']
+Matched Terms Translation
+[['Epilepsy'], ['Sudden syncope'], ['Direct moxibustion'], ['Bloody stools', 'Haematochezia'], ['Opening, closing, empty and full'], ['Rotating pressing manipulation'], ['Paediatric dementia'], ['Taeniasis', 'Paediatric taeniasis']]
+Translation
+Recently, a friend mentioned to me that his son has been experiencing symptoms of epilepsy frequently, which worries me very much. I suggested that he could try using the method of direct moxibustion for regulation. Additionally, his son often suffers from bloody stools, which might be caused by imbalance of opening, closing, empty and full. I also heard that there is a technique called rotating pressing manipulation that can help adjust this condition. Of course, we must remain vigilant about diseases such as paediatric dementia and taeniasis, and pay attention to food hygiene in daily life to prevent these problems from occurring.

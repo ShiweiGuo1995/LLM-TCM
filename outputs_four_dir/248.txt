@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨心合小肠理论在小儿湮尻疮治疗中的应用，结合趺阳脉诊法评估病情，通过土爰稼穑理论指导燥和胃法的应用，改善肛门灼热症状，同时采用补益中气法以促进气血运行，缓解瘀阻脑窍证，从而实现整体调理与局部治疗相结合的治疗策略。
+Matched Terms
+['心合小肠', '小儿湮尻疮', '趺阳脉', '土爰稼穑', '燥🗎和胃', '肛门灼热', '补益中气', '瘀阻脑窍证']
+Matched Terms Translation
+[['The pairing between the heart and small intestine'], ['Nappy/diaper rash', 'Nappy/diaper dermatitis disorder', ' Red skin around the nappy/diaper'], ['Anterior tibial (Fuyang) pulse'], ['Earth is characterized by sowing and reaping'], ['Dry dampness and harmonize the stomach', 'Dry dampness and harmonize the middle jiao'], ['A burning sensation of the anus'], ['Tonify qi of the spleen and stomach', 'Reinforce the spleen and tonify the stomach'], ['Blood stasis obstructing the brain collaterals pattern', 'Stasis obstructing the brain pattern']]
+Translation
+This study aims to explore the application of the pairing between the heart and small intestine theory in the treatment of pediatric diaper rash, combined with anterior tibial pulse diagnosis to assess the condition. By guiding the dryness-reducing and stomach-harmonizing method through the Earth is characterized by sowing and reaping theory, it improves the symptom of burning sensation of the anus. At the same time, by reinforcing the spleen and tonifying the stomach, it promotes the circulation of qi and blood, alleviates the pattern of blood stasis obstructing the brain collaterals, thereby achieving a treatment strategy that combines overall regulation with local treatment.

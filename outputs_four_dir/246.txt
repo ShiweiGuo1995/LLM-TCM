@@ -1,0 +1,8 @@
+Original Text
+在探讨大肠主传导功能障碍时，我们发现其临床表现不仅涉及肠道传导失常，还可能引发阴肿等并发症。治疗上，采用辛温开窍法以改善气关不畅，同时结合发表散寒与活血祛瘀之法，有效缓解五更泄泻症状。此外，对于因寒湿侵袭导致的冻疮，亦可通过上述疗法予以调理，从而达到标本兼治的效果。实验结果表明，此综合治疗方法能够显著提升患者生活质量，值得进一步推广与应用。
+Matched Terms
+['大肠主传导', '辛温开窍', '气关', '发表散寒', '活血祛瘀', '阴肿', '五更泄泻', '冻疮']
+Matched Terms Translation
+[['The large intestine governs conveyance'], ['Dissipate cold and open the orifices', 'Open the orifices with pungent warm'], ['Qi pass'], ['Release the exterior with pungent-warm', 'Promote sweating with pungent-warm', ' Release the exterior and dissipate cold'], ['Circulate blood and transform stasis', 'Circulate blood and eliminate stasis', ' Circulate blood and dissipate stasis'], ['Vulvar ulceration', 'Vulvar swelling Vulvar erosion'], ['Early morning diarrhea', 'Diarrhea before dawn'], ['Frostbite']]
+Translation
+In exploring the dysfunction of the large intestine governing conveyance, we found that its clinical manifestations not only involve disorders in the conveyance function but may also lead to complications such as vulvar swelling. In treatment, using orifice-opening methods with acrid warmth to improve Qi pass blockage, combined with therapies for releasing the exterior with pungent-warm and circulating blood and eliminating stasis, effectively alleviates early morning diarrhea symptoms. Furthermore, for frostbite caused by invasion of cold-dampness, this therapeutic approach can also be applied for adjustment, achieving the effect of treating both the tip and root. Experimental results show that this comprehensive treatment method can significantly enhance the quality of life for patients and is worthy of further promotion and application.

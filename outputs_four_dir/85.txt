@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于身体的一些疑惑，比如为何会出现便秘的情况，我告诉他这可能是因为体内湿气过重导致的，需要使用一些清热药来帮助润肠泄热。同时，我们还要关注肝血是否充足，因为肝血不足也会引起一系列不适。在日常生活中，我们要注重脏腑相合，比如六阳脉和十五络脉的调理，保持气血畅通。另外，如果舌苔呈现为腐苔，可能是体内湿寒过重，这时可以采用温阳化饮的方法来调理。总之，养生保健需从细节入手，希望大家都能健康生活。
+Matched Terms
+['肝血', '温阳化饮', '润肠泄热', '六阳脉', '十五络脉', '脏腑相合', '腐苔', '清热药']
+Matched Terms Translation
+[['Liver blood'], ['Warm yang and transform water retention', 'Warm and transform cold fluid retention', ' Warm and transform phlegm fluid retention'], ['Moisten the intestine and clear heat'], ['Six yang pulse'], ['The fifteen collaterals'], ['Zang–fu organs mutually interconnect'], ['Curdy coating'], ['Interior heat-clearing medicines']]
+Translation
+Recently, a friend asked me about some doubts regarding his body, such as why constipation occurs. I told him this might be due to excessive dampness in the body, which requires the use of interior heat-clearing medicines to help moisten the intestine and clear heat. At the same time, we should also pay attention to whether liver blood is sufficient, as insufficient liver blood can also cause a series of discomforts. In daily life, we should focus on the mutual interconnection of Zang-fu organs, such as the regulation of the six yang pulses and the fifteen collaterals, to maintain smooth flow of qi and blood. Additionally, if the tongue coating appears as curdy coating, it may indicate excessive internal damp-cold; at this time, we can adopt the method of warming yang and transforming water retention for adjustment. In short, health preservation needs to start from the details; I hope everyone can live a healthy life.

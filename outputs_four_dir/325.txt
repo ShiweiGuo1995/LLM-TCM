@@ -1,0 +1,8 @@
+Original Text
+在探讨弦脉与反关脉的临床意义时，我们发现两者在诊断胃痛与脾约等病症中有独特价值。通过炒法炮制草药，可以更好地发挥其辟秽通窍之效，尤其适用于开窍法治疗因外感秽浊之气导致的胃痛。同时，肾精的充足与否也直接影响脾胃功能，肾精不足则易出现脾约症状。综上所述，合理运用这些理论与方法，对于提升临床疗效具有重要意义。
+Matched Terms
+['弦脉', '辟秽通窍', '炒', '肾精', '胃痛', '反关脉', '开窍法', '脾约']
+Matched Terms Translation
+[['Wiry pulse', 'String-like pulse'], ['Open the orifices with aroma', 'Repel foulness and open the orifices'], ['Stir-frying'], ['Kidney essence'], ['Stomach ache', 'Gastric pain'], ['Pulse on the back of the wrist'], ['Orifice-opening methods'], ['Splenic constipation']]
+Translation
+When exploring the clinical significance of wiry pulse and pulse on the back of the wrist, we found that both have unique values in diagnosing diseases such as stomach ache and splenic constipation. Through stir-frying, the medicinal effects of folk medicines for repelling foulness and opening the orifices can be better utilized, especially suitable for orifice-opening methods to treat stomach ache caused by external invasion of foul turbidity. At the same time, the abundance or deficiency of Kidney essence directly affects the function of spleen and stomach; if Kidney essence is insufficient, symptoms of splenic constipation are likely to occur. In summary, reasonably applying these theories and methods is of great significance for improving clinical efficacy.

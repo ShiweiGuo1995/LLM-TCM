@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨土形人体质在心肺热盛证与肺阴虚证中的临床表现及其治疗策略。通过对不寐患者的研究发现，此类患者常伴有发为血之余的异常，提示心肺功能失调。治疗过程中，采用化毒消肿法改善局部症状，并结合双轻原则调整体质，以期达到阴阳平衡。同时，密切监测患者的脉象变化，及时识别败脉，以评估病情进展及治疗效果。研究表明，综合运用上述方法能有效缓解临床症状，提高患者生活质量。
+Matched Terms
+['发为血之余', '不寐', '土形人', '心肺热盛证', '双轻', '败脉', '肺阴虚证', '化毒消肿']
+Matched Terms Translation
+[['Hair is the extension of blood'], ['Insomnia', 'Insomnia disorder Sleeplessness'], ['Earth personality'], ['Exuberant heat in the heart and lung pattern', 'Excess heat/fire hyperactivity in the heart and lung pattern'], ['Flexible hands'], ['Strange pulse', 'True visceral pulse', ' exhaustion pulse', ' failure pulse', ' critical pulse'], ['Lung yin deficiency pattern', 'Lung yin deficiency pattern', ' Insufficiency of lung yin pattern'], ['Remove toxins and resolve swelling', 'Remove toxins and resolve masses']]
+Translation
+This study aims to explore the clinical manifestations and treatment strategies of Earth personality constitution in the patterns of exuberant heat in the heart and lung and Lung yin deficiency. Research on patients with insomnia has found that such patients often exhibit abnormal hair as an extension of blood, indicating dysfunction of heart and lung functions. During the treatment process, the method of removing toxins and resolving swelling was used to improve local symptoms, combined with the principle of flexible hands to adjust the constitution, aiming to achieve Yin-Yang balance. At the same time, the changes in pulse conditions were closely monitored, and strange pulses were promptly identified to assess disease progression and treatment effectiveness. The study shows that the comprehensive use of the above methods can effectively alleviate clinical symptoms and improve patient quality of life.

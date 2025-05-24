@@ -1,0 +1,8 @@
+Original Text
+在探讨燥易伤肺与温补肺阳的治疗策略时，我们注意到患者常表现为闷痛及淡紫舌，此乃肺功能失调之征象。结合临床观察，运用穴位注射疗法，可以有效改善上述症状。此外，对于伴有太阳蓄血证的患者，需综合考虑其气血运行状态，采用和中安神之法以调和机体。值得注意的是，在治疗过程中，对疳积患者的调理亦不可忽视，因其与整体健康状况密切相关。通过上述方法，我们期待达到标本兼治的效果，进一步提高临床疗效。
+Matched Terms
+['燥易伤肺', '太阳蓄血证', '疳积', '淡紫舌', '闷痛', '和中安神', '穴位注射', '温补肺阳']
+Matched Terms Translation
+[['Dryness easily damages the lung'], ['Taiyang blood retention pattern', 'Blood accumulation in the bladder pattern', ' Blood and heat build up in the bladder pattern Blood retention in the urinary bladder'], ['Mild malnutrition with food stagnation'], ['Pale purple tongue'], ['Oppressive pain', 'Suffocating pain'], ['Harmonize the middle jiao and calm the mind', 'Harmonize the stomach and calm the mind'], ['Point injection', 'Hydro-acupuncture'], ['Warm and tonify lung yang']]
+Translation
+In discussing the syndrome of dryness easily damaging the lung and the treatment strategy of warming and tonifying lung Yang, we observe that patients often present with oppressive pain and a pale purple tongue, which are manifestations of dysfunction in lung function. Combining clinical observations, the use of point injection therapy can effectively improve the aforementioned symptoms. Additionally, for patients with the Taiyang blood retention pattern, it is necessary to comprehensively consider their Qi and Blood circulation status and adopt methods to harmonize the middle jiao and calm the mind to regulate the body. It is noteworthy that during the treatment process, the adjustment of patients with mild malnutrition with food stagnation should not be neglected, as it is closely related to overall health. Through the above methods, we aim to achieve the effect of treating both the tip and root, thereby further improving clinical efficacy.

@@ -1,0 +1,8 @@
+Original Text
+菜乌紫病的发生与燥淫证密切相关，而燥淫证往往因风邪犯表证引发。在治疗过程中，我们常采用偶刺法来缓解病症，而对于更为严重的疠风，需要结合阴阳转化的理论进行综合治疗。在临床实践中，对于鼠乳等皮肤病变，也需注意其可能转化为更复杂的病状。通过上述方法，可以有效控制病情发展，帮助患者恢复健康。
+Matched Terms
+['菜乌紫病', '燥淫证', '鼠乳', '阴阳转化', '风邪犯表证', '偶刺', '疠风', '病']
+Matched Terms Translation
+[['Pickles cyanosis'], ['Pathogenic dryness pattern'], ['Infectious warts'], ['Yin and yang mutually transform'], ['Wind attacking the exterior pattern', 'Wind invading the exterior pattern'], ['Coupled needling'], ['Leprosy'], ['Disease']]
+Translation
+The occurrence of Pickles cyanosis is closely related to the Pathogenic dryness pattern, which is often caused by the Wind attacking the exterior pattern. In the treatment process, we commonly use Coupled needling to alleviate the symptoms. For more severe Leprosy, comprehensive treatment needs to be conducted based on the theory of Yin and yang mutually transform. In clinical practice, for skin lesions such as Infectious warts, one must also pay attention to the possibility of them transforming into more complex conditions. Through the aforementioned methods, the progression of the disease can be effectively controlled, helping patients to recover their health.

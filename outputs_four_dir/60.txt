@@ -1,0 +1,8 @@
+Original Text
+本文探讨了冷痛与少腹拘急在临床中的相互关系，通过分析标本中气理论，发现二者在病理上存在密切联系。劳瘿作为慢性疾病，其发展过程常伴随气机失调，表现为气能行津失常。研究显示，壮火食气现象在急喉喑患者中较为常见，提示火热内盛是导致该病的重要因素之一。此外，我们注意到某些药物配伍可能出现相反作用，这在治疗过程中需引起重视。综合上述，对冷痛、少腹拘急等症的诊治，应结合标本中气理论，注重调和气血，避免使用可能产生相反效果的药物。
+Matched Terms
+['冷痛', '标本中气', '少腹拘急', '劳瘿', '壮火食气', '急喉喑', '气能行津', '相反']
+Matched Terms Translation
+[['Cold pain'], ['Tip qi, root qi and middle qi'], ['Lower abdominal cramp'], ['Hypothyroidism'], ['Hyperactive fire consuming qi'], ['Sudden hoarseness'], ['Qi circulates body fluids', 'Qi moves body fluids'], ['Mutual opposition', 'Mutual incompatibility']]
+Translation
+This article explores the mutual relationship between cold pain and lower abdominal cramp in clinical practice. By analyzing the theory of tip qi, root qi, and middle qi, it is discovered that there is a close pathological connection between the two. As a chronic disease, labor goiter often develops with disordered qi activity, manifested as abnormal qi circulation of body fluids. Research shows that the phenomenon of hyperactive fire consuming qi is relatively common in patients with sudden hoarseness, suggesting that internal heat abundance is one of the important factors leading to this disease. Additionally, we have noticed that certain drug combinations may exhibit mutual opposition, which requires attention during treatment. In summary, for the diagnosis and treatment of symptoms such as cold pain and lower abdominal cramp, the tip qi, root qi, and middle qi theory should be combined, focusing on regulating and harmonizing qi and blood, and avoiding the use of drugs that may produce opposite effects.

@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友因为长期饮食不规律导致气血失调，时常感到疲乏无力，甚至出现了气脱证的症状，整个人精神状态非常差。我建议他采用汤剂的方式服用一些补益心肺的中药来调理，同时辅以益气固脱的方法，帮助身体恢复元气。另外，如果孩子的体质偏弱，容易出现疳证，那么在日常生活中就要特别注意观察孩子手指上的风关，以便及时发现并处理问题。通过这些方法，希望能够帮助大家更好地理解和应对这些问题。
+Matched Terms
+['气血失调', '疳证', '补益心肺', '气血两清剂', '汤剂', '气脱证', '益气固脱', '风关']
+Matched Terms Translation
+[['Qi-blood disharmony'], ['Infantile malnutrition', 'Infantile malnutrition disorder', ' Malnutrition pattern'], ['Tonify the heart and lung', 'Reinforce the heart and benefit the lung'], ['Formulas that clear heat in the qi and blood'], ['Decoction'], ['Qi collapse pattern'], ['Tonify qi to prevent collapse', 'Supplement qi to prevent collapse', 'Supplement qi and prevent collapse'], ['Wind pass', 'Upper gate', ' the first gate']]
+Translation
+Recently, a friend of mine suffered from Qi-blood disharmony due to long-term irregular diet, often feeling fatigued and weak, and even exhibiting symptoms of Qi collapse pattern, with very poor mental state. I suggested he take Chinese medicines in the form of decoctions to tonify the heart and lung, while also adopting methods to supplement qi to prevent collapse, to help restore his Yuan-primordial qi. Additionally, if a child's constitution is weak and prone to malnutrition pattern, it is particularly important to pay close attention to observing the Wind pass on the child's fingers in daily life, so as to detect and address issues in time. Through these methods, I hope to help everyone better understand and cope with these problems.

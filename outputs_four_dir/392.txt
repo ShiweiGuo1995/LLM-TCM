@@ -1,0 +1,8 @@
+Original Text
+夏日炎炎，暑湿当道，不少朋友会出现暑伤气津证的症状，这时候我们可以通过中药调理，但需注意中药变质问题。在治疗过程中，我们可以采用辛开苦降的方法，同时结合调和寒热的原则，对于一些病情较重的朋友，可能需要使用下法或升清固涩来改善症状。如果遇到经络不畅的情况，可以考虑通过按摩八脉交会穴来缓解，对于瘀热入络证也有一定的辅助治疗效果。日常生活中，保持良好的生活习惯，合理饮食，适当运动，是预防这些病症的关键。
+Matched Terms
+['瘀热入络证', '中药变质', '辛开苦降', '八脉交会穴', '下法', '调和寒热', '升清固涩', '暑伤气津证']
+Matched Terms Translation
+[['Stasis and heat entering the meridians pattern'], ['Spoilage of Chinese medicines'], ['Pungent opening and bitter descending'], ['Eight confluent points'], ['Draining downward method'], ['Balance and regulate cold and heat', 'Mediate cold and heat'], ['Lift and secure qi'], ['Summer heat consuming qi and yin pattern', 'Summer heat consuming qi and fluids pattern']]
+Translation
+In the scorching summer, when summer dampness prevails, many friends may experience symptoms of the pattern of summer heat consuming qi and fluids. At this time, we can adjust with Chinese herbal medicines, but it is necessary to pay attention to the spoilage of Chinese medicines. During treatment, we can adopt the method of pungent opening and bitter descending while also balancing and regulating cold and heat. For some friends with more severe conditions, methods such as draining downward or lifting and securing qi may be needed to improve their symptoms. If there are issues with the flow of meridians and collaterals, massage of the eight confluent points can be considered to alleviate them, which also has certain auxiliary therapeutic effects for the pattern of stasis and heat entering the meridians. In daily life, maintaining good living habits, reasonable diet, and appropriate exercise is key to preventing these patterns.

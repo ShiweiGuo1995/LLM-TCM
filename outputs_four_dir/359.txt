@@ -1,0 +1,8 @@
+Original Text
+在治疗慢喉痹时，我们采用豁痰宣肺的方法，以辛凉透表缓解症状。同时，对于某些因气血不畅导致的疼痛，我们可以运用活血止痛和徐疾补泻的手法来调整。在处理一些干燥引起的不适时，润燥止渴是我们的首选策略。当然，在整个治疗过程中，理气导滞也是不可或缺的一部分，以确保气机顺畅，促进病情恢复。虽然阴茎癌不属于传统中医范畴，但在现代医学与中医结合治疗中，我们仍需综合考虑。
+Matched Terms
+['豁痰宣肺', '辛凉透表', '慢喉痹', '润燥止渴', '徐疾补泻', '阴茎癌', '活血止痛', '理气导滞']
+Matched Terms Translation
+[['Disperse the lung and transform phlegm', 'Transform phlegm and disperse the lung'], ['Release the exterior with pungent-cool', 'Remove wind and clear heat'], ['Chronic pharyngitis'], ['Moisten dryness and alleviate thirst'], ['Reinforcing and reducing by slowness and rapidness', 'Tonifying and sedating by slowness and rapidness'], ['Penile cancer'], ['Circulate blood and alleviate pain', 'Circulate blood, unblock meridians and alleviate pain'], ['Regulate qi and resolve stagnation', 'Regulate qi and unblock stagnation']]
+Translation
+In treating chronic pharyngitis, we adopt the method of transforming phlegm and dispersing the lung to relieve symptoms with pungent-cool to release the exterior. At the same time, for some pains caused by the disharmony of Qi and Blood, we can use the methods of circulating blood and alleviating pain and reinforcing and reducing by slowness and rapidness to adjust. In dealing with some discomforts caused by dryness, moistening dryness and alleviating thirst is our preferred strategy. Of course, throughout the treatment process, regulating qi and resolving stagnation is also an indispensable part to ensure smooth qi movement and promote recovery from the disease. Although penile cancer does not belong to the traditional scope of TCM, in the integrated treatment of modern medicine and TCM, we still need to consider comprehensively.

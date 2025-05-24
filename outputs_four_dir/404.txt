@@ -1,0 +1,8 @@
+Original Text
+在探讨中医治疗原则时，我们常提及痰湿内阻与精冷不孕的问题，这往往涉及肝脾气滞证。通过使用补气剂和活血祛瘀药，可以有效调理体内气血，改善此类症状。同时，在处理外感病症时，扶正解表法是常用手段之一。对于睡眠障碍患者，则需采用潜镇安神之法。值得注意的是，某些特殊疗法如缠法亦有其独特疗效。这些方法在临床实践中各有侧重，但共同目标在于恢复机体平衡。
+Matched Terms
+['痰', '精冷', '肝脾气滞证', '补气剂', '潜镇安神', '扶正解表', '活血祛瘀药', '缠法']
+Matched Terms Translation
+[['Phlegm'], ['Cold semen'], ['Qi stagnation of the liver and spleen pattern'], ['Formulas that tonify qi'], ['Calm the mind with heavy medicinal minerals'], ['Reinforce healthy qi and release the exterior'], ['Blood-circulating and blood stasis-resolving medicines'], ['Fast Yi Zhi Chan pushing manipulation']]
+Translation
+In discussing the principles of TCM treatment, we often mention the issue of phlegm-dampness obstruction and cold essence leading to infertility, which usually involves the pattern of Qi stagnation of the liver and spleen. By using formulas that tonify Qi and blood-circulating and blood stasis-resolving medicines, we can effectively regulate the body's Qi and Blood, improving such symptoms. At the same time, when dealing with external invasion syndromes, reinforce healthy Qi and release the exterior is one of the commonly used methods. For patients with sleep disorders, methods that calm the mind with heavy medicinal minerals should be employed. It is noteworthy that certain special therapies like Fast Yi Zhi Chan pushing manipulation also have their unique therapeutic effects. These methods each have their focus in clinical practice, but their common goal is to restore the balance of the body.

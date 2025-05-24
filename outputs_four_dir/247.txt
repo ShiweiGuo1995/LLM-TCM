@@ -1,0 +1,8 @@
+Original Text
+在本次研究中，我们采用通剂疗法对特定穴进行刺激，旨在通过理气散结达到治疗目的。研究对象主要为脾水患者，同时也包括部分带脉证病例。通过对辛温解表法的应用观察，我们发现其对于缓解症状具有一定的疗效。然而，在临床应用过程中，我们注意到部分患者存在精血亏虚证的情况，这提示我们在治疗时需兼顾补益精血。最后，通过对比分析患者的脉象变化，我们得出结论：综合运用上述方法能够有效改善患者的临床症状。
+Matched Terms
+['通剂', '特定穴', '理气散结', '脾水', '带脉证', '辛温解表', '精血亏虚证', '脉']
+Matched Terms Translation
+[['Unclogging/unblocking formula'], ['The specific points'], ['Regulate qi and resolve masses', 'Circulate qi and resolve nodules'], ['Oedema due to spleen deficiency'], ['Dai meridian pattern', 'Belt vessel pattern'], ['Release the exterior with pungent-warm', 'Promote sweating with pungent-warm', ' Release the exterior and dissipate cold'], ['Essence and blood deficiency pattern'], ['Vessel']]
+Translation
+In this study, we employed unblocking formula therapy to stimulate specific points, aiming to achieve therapeutic effects through regulating qi and resolving masses. The subjects mainly consisted of patients with edema due to spleen deficiency, as well as some cases of belt vessel pattern. By observing the application of exterior-releasing methods with pungent-warm properties, we found that they had certain efficacy in alleviating symptoms. However, during clinical application, we noticed that some patients exhibited essence and blood deficiency patterns, which suggests that we need to consider supplementing essence and blood in treatment. Finally, by comparing and analyzing changes in pulse conditions, we concluded that the comprehensive use of the aforementioned methods could effectively improve the clinical symptoms of patients.

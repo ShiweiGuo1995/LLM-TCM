@@ -1,0 +1,8 @@
+Original Text
+最近天气寒冷，不少人因为保暖不足出现了冻僵的情况，同时胃阴虚证也逐渐增多，建议大家多吃一些能滋补脾阴的食物，如山药等。对于男性朋友来说，精液类病也是不容忽视的问题，适当的收敛止血药可能会有所帮助。另外，如果感觉颈部僵硬，即项强，可能是因为风寒侵袭，可以适当使用淡渗分利的方法来调理。而疝气这种疾病，虽然常见但往往被忽略，希望大家能够多多关注自身的健康状况。
+Matched Terms
+['胃阴虚证', '冻僵', '疝气', '精液类病', '收敛止血药', '项强', '滋补脾阴', '淡渗分利']
+Matched Terms Translation
+[['Stomach yin deficiency pattern'], ['Systemic hypothermia'], ['Hernia', 'Hernia'], ['Sperm disorders'], ['Astringent haemostatic medicines'], ['Neck stiffness'], ['Nourish and supplement spleen yin', 'Nourish spleen yin'], ['Induce urination and drain dampness']]
+Translation
+Recently, due to insufficient warmth in the cold weather, many people have experienced systemic hypothermia, and at the same time, the Stomach yin deficiency pattern has gradually increased. It is recommended that everyone eat more foods that can nourish and supplement spleen yin, such as Chinese yam. For male friends, sperm disorders are also a problem that should not be ignored; appropriate astringent haemostatic medicines may be helpful. Additionally, if you feel neck stiffness, which is known as item strength, it might be because of invasion by wind-cold, and you can appropriately use the method of inducing urination and draining dampness for regulation. As for hernia, although it is common but often overlooked, I hope everyone can pay more attention to their health conditions.

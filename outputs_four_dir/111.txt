@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友跟我聊起她的母亲，她母亲最近总是感觉胸痹心痛，有时候还会出现鹭鸶咳的情况，听我介绍了一些调理方法后，她又提到她的孩子身上长了些脓疱疮，让我帮忙看看。我建议她先从脾胃虚热证着手调理，同时注意解毒开肺，五脏开窍也很重要。另外，她还提到她母亲之前有过产后痉病的经历，这让我更加重视五脏开窍和胸痹心痛的问题。希望我的一些建议能帮到她们，也提醒大家平时多关注家人的身体健康，及时调理。
+Matched Terms
+['多骨疽', '解毒开肺', '产后痉病', '五脏开窍', '胸痹心痛', '脾胃虚热证', '鹭鸶咳', '脓疱疮']
+Matched Terms Translation
+[['Suppurative osteomyelitis'], ['Remove toxins and disperse the lung'], ['Postpartum tetanus'], ['Opening of the five zang organs'], ['Chest bi-impediment / cardiac pain'], ['Yin deficiency of the spleen and stomach pattern', 'Yin deficiency/ deficiency heat of the middle jiao pattern', ' Deficiency heat of the spleen and stomach pattern'], ['Whooping cough', 'Pertussis'], ['Pemphigus', 'Pustules']]
+Translation
+Recently, a friend discussed with me her mother's condition. Her mother has been experiencing chest bi-impediment/cardiac pain recently, and sometimes she also suffers from whooping cough. After I introduced some methods for regulation, she mentioned that her child had developed pustules, and asked me to take a look. I suggested she start by regulating the yin deficiency of the spleen and stomach pattern, while also paying attention to removing toxins and dispersing the lung. The opening of the five zang organs is also very important. Additionally, she mentioned that her mother had a history of postpartum tetanus, which made me pay even more attention to the issues of the opening of the five zang organs and chest bi-impediment/cardiac pain. I hope my suggestions can help them, and remind everyone to pay more attention to their family members' health and regulate it in time.

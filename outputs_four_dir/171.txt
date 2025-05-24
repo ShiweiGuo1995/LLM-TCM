@@ -1,0 +1,8 @@
+Original Text
+最近在学习中医的过程中，我发现通过表里（经）配穴法治疗颅脑类病效果不错，对于一些月经不调的情况也能有所帮助。当然，针灸也是重要的一环，比如皮肤针和靠劲的应用就非常广泛。我还尝试用茶剂来调理身体，发现它既能清热去火邪，又方便日常饮用，非常适合忙碌的现代人。希望这些分享能给大家带来一些帮助！
+Matched Terms
+['火邪', '表里（经）配穴法', '颅脑类病', '月经不调', '皮肤针', '靠劲', '八体', '茶剂']
+Matched Terms Translation
+[['Pathogenic fire', 'Fire (Heat)'], ['Point combination of the coupled meridians'], ['Brain diseases', 'Brain system disorders'], ['Menstrual disorders', 'Menstruation associated disorders', ' Menstrual diseases'], ['The dermal needle'], ['(Kao) shoulder striking power'], ['Eight body parts'], ['Medicated tea']]
+Translation
+Recently in the process of studying Traditional Chinese Medicine, I found that the point combination of the coupled meridians is quite effective in treating brain system disorders. It can also be helpful for some cases of menstrual disorders. Of course, acupuncture is also an important aspect, such as the wide application of the dermal needle and (Kao) shoulder striking power. I also tried using medicated tea to regulate the body, finding that it can clear heat and eliminate pathogenic fire while being convenient for daily consumption, making it very suitable for busy modern people. I hope these shares can bring some help to everyone!

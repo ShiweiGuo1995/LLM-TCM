@@ -1,0 +1,8 @@
+Original Text
+本文探讨了祛剂在治疗实中夹虚型喘证中的应用，通过分析病例发现，采用微丸形式的祛剂能够更好地发挥固脬止遗之效，同时辅以补气药物，对改善瘦薄舌及清理三焦热具有显著效果。研究表明，该疗法对于缓解患者症状、调整体质具有积极作用。
+Matched Terms
+['祛🗎剂', '固脬止遗', '微丸', '实中夹虚', '喘证', '补气', '瘦薄舌', '清理三焦🗎热']
+Matched Terms Translation
+[['Formulas that eliminate dampness'], ['Secure the bladder and stop enuresis', 'Tonify qi and secure the bladder'], ['Mini pill'], ['Excess complicated with deficiency'], ['Dyspnoea', 'Dyspnoea disorder Dyspnoea pattern'], ['Tonify qi', 'Supplement qi', ' Supplement anti- pathogenic qi'], ['Thin tongue'], ['Clear heat and transform dampness in three jiao', 'Clear heat and transform', ' dampness in triple energizer']]
+Translation
+This article explores the application of Qi-dispelling agents in treating dyspnea with excess complicated with deficiency syndrome. Through case analysis, it was found that Qi-dispelling agents in mini pill form can better exert the effect of tonifying qi and securing the bladder to stop enuresis, while also supplemented by Qi-tonifying medicines, which have shown significant effects in improving thin tongue and clearing Sanjiao heat. Research indicates that this therapy has a positive effect on alleviating patient symptoms and adjusting physical constitution.

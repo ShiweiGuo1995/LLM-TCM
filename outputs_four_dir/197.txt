@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，疏肝解郁是治疗情志不畅引起的一系列症状的重要方法，而脉症合参则是诊断疾病的关键步骤。对于火毒证患者，使用刮痧板进行局部刮拭可以有效缓解症状。而在调理脾不统血证时，推摩法能够促进气血运行，改善病情。对于脾阳亏虚证和按劲不适的情况，通过脉症合参综合分析，选择合适的治疗方法尤为重要。这些方法都是中医临床实践中常用的手段，体现了中医辨证施治的原则。
+Matched Terms
+['疏肝解郁', '火毒证', '刮痧板', '按劲', '脾不统血证', '推摩法', '脉症合参', '脾阳亏虚证']
+Matched Terms Translation
+[['Soothe the liver and regulate qi', 'Soothe the liver and relieve depression'], ['Fire toxin pattern', 'Exuberance of toxic/pathogenic/ fire heat'], ['Guasha tool'], ['(An) push down'], ['Spleen failing to control blood pattern', 'Spleen failing to hold blood within the vessels'], ['Pushing-rubbing manipulation'], ['Comprehensive analysis on pulse and symptoms'], ['Spleen yang deficiency pattern', 'Spleen yang insufficiency pattern']]
+Translation
+In TCM theory, soothing the liver and regulating qi is an important method for treating a series of symptoms caused by emotional disharmony, while comprehensive analysis on pulse and symptoms is a key step in diagnosing diseases. For patients with the fire toxin pattern, using a guasha tool for local scraping can effectively alleviate symptoms. When adjusting the spleen failing to control blood pattern, pushing-rubbing manipulation can promote the circulation of qi and blood, improving the condition. For cases of spleen yang insufficiency and (an) push down discomfort, through comprehensive analysis on pulse and symptoms, selecting appropriate treatment methods is particularly important. These methods are commonly used techniques in TCM clinical practice, reflecting the principle of TCM pattern differentiation and treatment.

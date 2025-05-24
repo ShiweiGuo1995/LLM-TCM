@@ -1,0 +1,8 @@
+Original Text
+失神是气虚的表现之一，常见于补气药治疗的患者。而在痈病的治疗过程中，我们发现风性主动的症状时有发生，此时配合养阴安神的药物可以有效缓解口眼喎斜的现象。对于气逆证和热毒瘀肝证的患者，通过调和气血，可以减轻症状，提高生活质量。
+Matched Terms
+['失神', '补气药', '痈病', '口眼喎斜', '气逆证', '风性主动', '养阴安神', '热毒瘀肝证']
+Matched Terms Translation
+[['Loss of spirit', 'Absence of spirit'], ['Qi-tonifying medicines'], ['Abscess', 'Abscess disorders'], ['Deviation of the mouth and eyes'], ['Qi counterflow pattern'], ['Wind causes movement'], ['Nourish yin and calm the mind'], ['Heat toxin affecting the liver pattern', 'Heat toxin retention in the liver pattern']]
+Translation
+Loss of spirit is one of the manifestations of Qi deficiency, commonly seen in patients treated with Qi-tonifying medicines. During the treatment of abscess disorders, we often observe symptoms caused by Wind causing movement, and at this time, combining drugs that nourish Yin and calm the mind can effectively alleviate the phenomenon of deviation of the mouth and eyes. For patients with Qi counterflow pattern and Heat toxin affecting the liver pattern, by regulating and harmonizing qi and blood, symptoms can be alleviated, and quality of life can be improved.

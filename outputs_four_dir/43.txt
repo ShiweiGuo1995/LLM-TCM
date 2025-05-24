@@ -1,0 +1,8 @@
+Original Text
+在探讨震颤法的应用时，我们需从四诊合参的角度出发，结合患者的具体症状进行分析。对于外所因导致的半表半里证，采用分消上下策略能有效缓解病情。同时，在治疗过程中，若出现虚中夹实的情况，应用燥化痰剂与化瘀止血药相结合的方法，可以更好地调整体内阴阳平衡，达到治疗目的。
+Matched Terms
+['震颤法', '外所因', '分消上下', '半表半里证', '四诊合参', '燥🗎化痰剂', '虚中夹实', '化瘀止血药']
+Matched Terms Translation
+[['Vibrating method'], ['External etiological factors'], ['Induce vomiting and promoting bladder/ bowel movements'], ['Neither exterior nor interior pattern', 'Half exterior and half interior (commonly used but wrong in meaning)'], ['Combination of the four diagnostic methods'], ['Formulas that dry dampness and transform phlegm'], ['Deficiency complicated with excess'], ['Blood-circulating haemostatic medicines', 'Stasis- transforming haemostatic medicines']]
+Translation
+When discussing the application of the Tremor method, we need to start from the perspective of the Combination of the four diagnostic methods, and analyze according to the specific symptoms of the patient. For cases where the condition is neither exterior nor interior caused by external etiological factors, adopting the strategy of inducing vomiting and promoting bowel movements can effectively alleviate the condition. At the same time, during the treatment process, if there is a situation of Deficiency complicated with Excess, using the method of combining Drying Phlegm agents with Blood-circulating Haemostatic medicines can better adjust the Yin-Yang balance within the body and achieve the therapeutic goal.

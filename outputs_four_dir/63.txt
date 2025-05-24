@@ -1,0 +1,8 @@
+Original Text
+在治疗温疫类病时，我们常采用清泄膈热的方法以缓解上焦之热，同时使用络刺技术促进局部气血流通。对于产后恶露不绝的情况，结合消食导滞剂与足跟痹的调理，可以有效改善患者的整体状况。针对营分证和阴阳两虚证的患者，我们则需要更加细致地调整方药，注重补益阴阳，调和气血。
+Matched Terms
+['络刺', '清泄膈热', '足跟痹', '温疫类病', '消食导滞剂', '阴阳两虚证', '产后恶露不绝', '营分证']
+Matched Terms Translation
+[['Collateral needling'], ['Clear and reduce diaphragm heat'], ['Heel pain'], ['Epidemic febrile disorders'], ['Formulas that promote digestion and unblock stagnation'], ['Yin and yang deficiency pattern'], ['Persistent lochia discharge'], ['Ying nutrients phase pattern', 'Nutrient phase patterns', ' Ying aspect patterns', ' Exuberant heat in the Ying nutrients phase']]
+Translation
+In treating epidemic febrile disorders, we often employ the method of clearing and reducing diaphragm heat to alleviate the heat in the upper jiao, while using collateral needling techniques to promote local qi and blood circulation. For cases of persistent lochia discharge postpartum, combining formulas that promote digestion and unblock stagnation with the adjustment of heel pain can effectively improve the patient's overall condition. For patients with the Ying nutrients phase pattern and the yin and yang deficiency pattern, we need to more meticulously adjust the medicinal formulas, focusing on nourishing and replenishing yin and yang, regulating and harmonizing qi and blood.

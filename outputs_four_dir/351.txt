@@ -1,0 +1,8 @@
+Original Text
+中医认为，人体经络系统中的异常现象如反关脉，往往与体内湿热蕴结有关，导致尿浊、汗斑等症状出现。治疗时可采用合谷刺等针灸方法刺激相应穴位，同时指导患者日常生活中注意调整呼吸节奏，避免弓腰收臀等不良姿势，以减轻症状。对于胎疮等问题，需结合患者具体体质和病因，辨证施治。在日常调理中，保持情绪稳定，避免结舌等情绪障碍对病情产生不利影响，也是十分重要的。
+Matched Terms
+['结舌', '至数', '弓腰收臀', '汗斑', '尿浊', '反关脉', '合谷刺', '胎疮']
+Matched Terms Translation
+[['Tongue-tie', 'Ankyloglossia'], ['Pulse rate'], ['Keep the waist sunken and buttocks tucked under'], ['Tinea versicolour', 'Sweat stains'], ['Cloudy urine'], ['Pulse on the back of the wrist'], ['Hegu needling', 'Multi-direction needling'], ['Paediatric eczema']]
+Translation
+In TCM, abnormal phenomena in the meridian system such as a pulse on the back of the wrist are often related to damp-heat accumulation inside the body, leading to symptoms such as cloudy urine and sweat stains. During treatment, Hegu needling can be used to stimulate relevant acupoints; meanwhile, patients should be instructed to adjust their breathing rhythm in daily life and avoid bad postures such as keeping the waist sunken and buttocks tucked under to alleviate symptoms. For issues like paediatric eczema, it is necessary to combine the patient's specific physique and causative factors for pattern differentiation and treatment. In daily regulation, maintaining emotional stability and avoiding tongue-tie and other emotional disorders that adversely affect the condition is also very important.

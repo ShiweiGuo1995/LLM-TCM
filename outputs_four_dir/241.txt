@@ -1,0 +1,8 @@
+Original Text
+脾胃气滞证常见表现为胸闷、食欲不振等症状，治疗时常用理气和血的方法以改善症状。对于嗜睡且伴有胃热的情况，可以采用清胃降热与祛暑剂相结合的方式调理。在产后调理中，补气敛乳是关键，有助于恢复体质。若出现便秘或排便不畅，则需泻结行滞来促进肠道通畅。火针疗法在某些情况下也可用于刺激经络，辅助治疗上述症状。
+Matched Terms
+['脾胃气滞证', '祛暑剂', '嗜睡', '清胃降热', '补气敛乳', '理气和血', '泻结行滞', '火针']
+Matched Terms Translation
+[['Disharmony between the spleen and stomach pattern', 'Disharmony of the middle jiao pattern', ' Qi stagnation of the spleen and stomach pattern', ' Qi stagnation of the middle jiao pattern'], ['Formulas that eliminate summer heat'], ['Somnolence'], ['Clear and reduce stomach heat', 'Clear the stomach and reduce fire'], ['Tonify qi and astringe the breast milk'], ['Regulate and harmonize qi and blood', 'Regulate qi and harmonize blood'], ['Promote bowel movements and circulate qi', 'Congestion- clearing and qi-circulating purgation'], ['Fire needling', 'Cauterized needle']]
+Translation
+The pattern of disharmony between the spleen and stomach often manifests as symptoms such as chest stuffiness, poor appetite, etc. During treatment, methods to regulate and harmonize qi and blood are commonly used to improve these symptoms. For cases of somnolence accompanied by stomach heat, a combination of formulas that clear and reduce stomach heat with those that eliminate summer heat can be used for adjustment. In postpartum care, tonifying qi and astringing the breast milk is crucial, which helps in restoring physical constitution. If constipation or difficulty in defecation occurs, congestion-clearing and qi-circulating purgation should be applied to promote smooth bowel movements. Fire needling therapy can also be utilized in certain situations to stimulate the meridians and assist in treating the aforementioned symptoms.

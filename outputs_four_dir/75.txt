@@ -1,0 +1,8 @@
+Original Text
+在探讨少气与瘿劳的临床表现及治疗策略时，我们发现患者常表现出明显的体力不支和呼吸短促，此为少气之象。针对瘿劳病症，采用扳法配合解毒散痈方剂，能有效缓解颈部肿块症状，同时解决因瘀滞胃肠证导致的消化不良问题。在治疗过程中，需注重清心涤暑以调节体内湿热，防止病情进一步发展。此外，对于由情志不遂引发的肝积，结合虚领顶劲的原则进行调治，有助于恢复患者的正常生理机能，达到标本兼治的效果。通过上述综合疗法，临床疗效显著提升。
+Matched Terms
+['少气', '瘿劳', '扳法', '解毒散痈', '瘀滞胃肠证', '清心涤暑', '肝积', '虚领顶劲']
+Matched Terms Translation
+[['Shallow breathing'], ['Hypothyroidism'], ['Pulling manipulation'], ['Remove toxins and resolve sores/ulcers'], ['Blood stasis in the stomach and intestines pattern', 'Stasis obstructing the stomach and intestines pattern'], ['Clear heart fire and remove summer heat'], ['Masses in the liver'], ['Hold the head as if suspended from above', 'Head upright, spirit rising']]
+Translation
+In exploring the clinical manifestations and treatment strategies for shallow breathing and hypothyroidism, we find that patients often exhibit significant physical weakness and shortness of breath, which are signs of shallow breathing. For the treatment of hypothyroidism, using pulling manipulation combined with the formula to remove toxins and resolve sores can effectively alleviate symptoms of neck swelling, while also addressing digestive problems caused by the blood stasis in the stomach and intestines pattern. During treatment, it is essential to clear heart fire and remove summer heat to regulate internal damp-heat and prevent the progression of the disease. Additionally, for masses in the liver caused by emotional distress, combined with the principle of holding the head as if suspended from above during treatment, it helps restore normal physiological functions of the patient, achieving the effect of treating both the tip and root. Through the aforementioned comprehensive therapy, clinical efficacy has significantly improved.

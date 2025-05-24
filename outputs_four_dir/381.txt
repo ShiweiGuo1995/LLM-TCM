@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，心系证类涵盖了多种心脏相关疾病，如心悸、怔忡等。而产后血晕则是指女性生产后出现的一种危急症状，表现为头晕眼花、面色苍白等。另一方面，颤动舌与肾着也常被提及，前者多见于神经系统疾病，后者则与肾脏功能失调有关。此外，飧泄作为一种消化系统疾病，其特征为大便稀薄且次数增多。值得注意的是，子岩是一种较为罕见的病症，通常表现为腹部肿块。风弦赤烂则主要影响眼部健康，表现为眼红、痒等症状。这些病症虽然各有特点，但通过中医的辨证施治，均能找到相应的治疗方法。
+Matched Terms
+['膏肓', '心系证类', '产后血晕', '颤动舌', '飧泄', '子岩', '风弦赤烂', '肾着']
+Matched Terms Translation
+[['Gaohuang'], ['Patterns of the heart system', 'Heart system patterns'], ['Postpartum fainting'], ['Trembling tongue'], ['Diarrhoea with undigested food'], ['Testicular cancer'], ['Red, wet and ulcerative eyelid', 'Marginal blepharitis'], ['Lower back pain due to cold dampness']]
+Translation
+In TCM theory, the patterns of the heart system encompass various heart-related diseases such as palpitations and怔忡. Postpartum fainting refers to a critical symptom that occurs in women after childbirth, characterized by dizziness, blurred vision, and pale facial complexion. On the other hand, trembling tongue and lower back pain due to cold dampness are often mentioned; the former is frequently seen in nervous system diseases, while the latter is associated with dysfunction of the kidney. Moreover, diarrhea with undigested food, as a digestive system disease, is characterized by loose stools and increased frequency. It should be noted that testicular cancer is a relatively rare condition, typically manifesting as an abdominal mass. Red, wet, and ulcerative eyelid mainly affects eye health, presenting symptoms like redness and itching. Although these conditions each have their own characteristics, through TCM pattern differentiation, corresponding treatment methods can be found.

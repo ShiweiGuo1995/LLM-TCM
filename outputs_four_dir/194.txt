@@ -1,0 +1,8 @@
+Original Text
+在探讨中医理论时，我们经常遇到阴虚潮热这一症状，通常与心血不足有关。而饮停胸胁证和气郁痰凝证则更多见于情绪波动较大的患者。小肠主受盛，是消化吸收的重要环节，若此功能失常，则可能引发膀胱蓄血证等病症。针对表里实热证，采用消石开闭的方法可以有效缓解症状。在临床实践中，我们需要综合考虑这些复杂因素，以达到治疗疾病的目的。
+Matched Terms
+['阴虚潮热', '饮停胸胁证', '心血', '气郁痰凝证', '小肠主受盛', '膀胱蓄血证', '表里实热证', '消石开闭']
+Matched Terms Translation
+[['Tidal fever due to yin deficiency'], ['Chest/subcostal fluid retention pattern'], ['Heart blood'], ['Qi stagnation with phlegm retention pattern'], ['The small intestine governs receiving and holding'], ['Taiyang blood retention pattern', 'Blood accumulation in the bladder pattern', ' Blood and heat build up in the bladder pattern Blood retention in the urinary bladder'], ['Exterior–interior excess heat pattern'], ['Resolve stones and circulate qi', 'Dissolve stones and open blockages']]
+Translation
+In discussing TCM theories, we often encounter the symptom of tidal fever due to Yin deficiency, which is usually associated with Heart blood insufficiency. The pattern of chest/subcostal fluid retention and Qi stagnation with phlegm retention is more commonly seen in patients experiencing significant emotional fluctuations. The small intestine governs receiving and holding, being an important link in digestion and absorption; if this function becomes abnormal, it may lead to the pattern of blood accumulation in the bladder. For the exterior-interior excess heat pattern, using the method of dissolving stones and opening blockages can effectively alleviate symptoms. In clinical practice, we need to comprehensively consider these complex factors to achieve the goal of treating diseases.

@@ -1,0 +1,8 @@
+Original Text
+在探讨肝气犯脾证与胃肠积热证的临床表现及治疗策略时，我们发现单手进针法在缓解上述证候方面具有独特优势。通过对卫气营血证类的深入分析，我们注意到其中蕴含的“孤阴不生”理论对于理解疾病的发生发展机制至关重要。此外，针对目瞤这一症状，结合肾藏志的理论，隔蒜灸作为辅助治疗方法，在临床实践中显示出良好的疗效。此研究进一步证实了中医理论体系内部各要素间的紧密联系及其在指导临床实践中的重要价值。
+Matched Terms
+['肝气犯脾证', '单手进针法', '卫气营血证类', '孤阴不生', '胃肠积热证', '目瞤', '肾藏志', '隔蒜灸']
+Matched Terms Translation
+[['Liver qi affecting the spleen pattern'], ['Needle insertion with one hand'], ['Patterns of Wei- defence, qi, Ying nutrients and blood', 'Four phase patterns', ' Wenbing aspect patterns'], ['Yin alone cannot be generated'], ['Excess heat in the stomach and intestines pattern', 'Heat accumulating in the stomach and intestines pattern'], ['Twitching of the eyes'], ['The kidney stores will'], ['Garlic-insulated moxibustion', 'Garlic moxibustion']]
+Translation
+In exploring the clinical manifestations and treatment strategies of Liver Qi affecting the Spleen pattern and Excess heat in the stomach and intestines pattern, we found that needle insertion with one hand has unique advantages in alleviating the aforementioned patterns. Through an in-depth analysis of Patterns of Wei-defensive qi, qi, Ying-nutrient blood, we noted that the theory of "Yin alone cannot be generated" is crucial for understanding the mechanism of disease occurrence and development. Additionally, in addressing the symptom of Twitching of the eyes, combining the theory of The kidney stores will, garlic-insulated moxibustion as an adjunctive therapy demonstrates good efficacy in clinical practice. This study further confirms the close interrelation among various elements within the TCM theoretical system and its significant value in guiding clinical practice.

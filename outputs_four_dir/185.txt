@@ -1,0 +1,8 @@
+Original Text
+近来气候多变，不少朋友出现了温燥伤肺证的症状，如咳嗽、喘促等。在家中调理时，不妨试试使用一些推拿辅助器具类，帮助缓解症状。对于儿童来说，若出现食欲不振、腹痛等症状，可能是小儿姜片虫病的表现，应及时就医并配合饮食调养。此外，生活中也要注意避免阴刺等不良刺激，保持良好的生活习惯。在烹饪食物时，合理运用辅料，既能增加食物口感，也有助于身体的调理。最后提醒大家，如有发瘤等异常情况，一定要及时到正规医院检查治疗，切勿拖延。
+Matched Terms
+['瘟毒', '阴刺', '小儿姜片虫病', '温燥伤肺证', '辅料', '喘促', '发瘤', '推拿辅助器具类']
+Matched Terms Translation
+[['Pestilence toxin', 'Pestilence eruptions'], ['Yin needling'], ['Fasciolopsiasis', 'paediatric fasciolopsiasis'], ['Warm dryness pattern', 'Warm dryness damaging/ attacking the lung pattern'], ['Adjuvants'], ['Panting', 'Rapid breathing'], ['Cystic tumour'], ['Assistant tuina tools']]
+Translation
+Recently, with the changeable climate, many friends have shown symptoms of the warm dryness damaging the lung pattern, such as cough and panting. When adjusting at home, you might as well try using some assistant tuina tools to help alleviate the symptoms. For children, if they show symptoms like poor appetite and abdominal pain, it may be a manifestation of paediatric fasciolopsiasis, and timely medical attention should be sought along with dietary adjustments. Additionally, in daily life, one should also avoid yin needling and other adverse stimulations, maintaining good living habits. When cooking food, reasonably utilizing adjuvants can not only enhance the taste of food but also contribute to physical regulation. Finally, I would like to remind everyone that if there are any abnormal conditions such as cystic tumour, one must seek examination and treatment at a正规hospital promptly and not delay.

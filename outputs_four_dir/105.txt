@@ -1,0 +1,8 @@
+Original Text
+小儿乳蛾多因外感风热所致，临床可见发热咳嗽等症状，治疗时需结合奇经八脉证类辨证施治。在护理上，应注意避免患儿循衣摸床，以防病情加重。此外，裹裆保暖亦不可忽视。若出现热汗、呕吐等症，可能为邪热内扰脾胃之象，治疗宜疏风燥湿，调和胃气。足少阳胆经与本病关系密切，针灸此经穴位可辅助治疗。
+Matched Terms
+['小儿乳蛾', '循衣摸床', '奇经八脉证类', '裹裆', '疏风燥🗎', '热汗', '呕吐', '足少阳胆经']
+Matched Terms Translation
+[['Paediatric tonsillitis'], ['Carphologia', 'Carphology'], ['Patterns of the eight extra meridians', 'Extra meridian patterns'], ['Wrap the crotch'], ['Remove wind and dry dampness', 'Remove wind and transform dampness'], ['Hot sweats'], ['Vomiting'], ['The gallbladder meridian of foot-Shaoyang']]
+Translation
+Paediatric tonsillitis in children is often caused by external wind-heat, clinically manifesting symptoms such as fever and cough. During treatment, it is necessary to combine the Patterns of the eight extra meridians for pattern differentiation and treatment. In nursing care, attention should be paid to avoiding carphology in the child to prevent aggravation of the condition. Additionally, wrapping the crotch for warmth should not be neglected. If symptoms such as hot sweats and vomiting appear, it may indicate that pathogenic heat is disturbing the spleen and stomach internally; treatment should focus on dispelling wind, drying dampness, and harmonizing stomach qi. The gallbladder meridian of foot-Shaoyang is closely related to this disease; acupuncture at the meridian points of this channel can assist in treatment.

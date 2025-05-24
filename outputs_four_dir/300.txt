@@ -1,0 +1,8 @@
+Original Text
+中医认为，治疗心肺阳虚证和肝肾两虚证需采用固涩剂，同时结合上下配穴法，以增强疗效。在面对妊娠眩晕时，合理应用饮的调养显得尤为重要。对于扁瘊等皮肤病症，结合食疗与针灸，往往能取得良好的效果。而在处理百晬内嗽时，应注重调理心肺功能，避免病情进一步恶化。通过上述方法，我们可以在治疗过程中达到更好的疗效。
+Matched Terms
+['饮', '固涩剂', '肝肾两虚证', '扁瘊', '心肺阳虚证', '上下配穴法', '百晬内嗽', '妊娠眩晕']
+Matched Terms Translation
+[['Fluid retention', 'Retained fluids'], ['Astringent formula', 'Formulas that secure and astringe'], ['Deficiency of the liver and kidney pattern', 'Deficiency of liver blood and kidney essence', ' Liver and kidney yin deficiency pattern'], ['Flat warts'], ['Yang deficiency of the heart and lung pattern'], ['Upper and lower point combination'], ['Neonatal cough'], ['Dizziness during pregnancy']]
+Translation
+In TCM, treating the syndrome of Yang deficiency of the heart and lung and the pattern of Deficiency of the liver and kidney requires the use of astringent formulas, combined with upper and lower point combination, to enhance therapeutic effects. When dealing with dizziness during pregnancy, reasonably regulating fluid retention becomes particularly important. For conditions like flat warts, combining food therapy with acupuncture often yields good results. In managing neonatal cough, it is crucial to focus on regulating the functions of the heart and lung to prevent the condition from worsening further. Through these methods, we can achieve better therapeutic outcomes in the treatment process.

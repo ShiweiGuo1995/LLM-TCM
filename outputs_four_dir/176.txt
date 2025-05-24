@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，人体健康与疾病往往与阴阳平衡密切相关。如《黄帝内经》所述，阴虚阳亢证常表现为面色黧黑、目瞤等症状，而消谷善饥亦可能是此证候的表现之一。针对此类症状，临床上可采用皮内针疗法配合舒张进针法，以调和经气，促进气血运行，达到缓解热汗等不适的目的。通过上述方法，不仅可以改善阴虚阳亢证所导致的症状，还能提升患者的整体生活质量。
+Matched Terms
+['目瞤', '面色黧黑', '消谷善饥', '阴虚阳亢证', '皮内针疗法', '舒张进针法', '经气', '热汗']
+Matched Terms Translation
+[['Twitching of the eyes'], ['Dark complexion'], ['Fast digestion with rapid hunger'], ['Yin deficiency-induced yang hyperactivity pattern'], ['Needle-embedding therapy', 'Intradermal needle therapy'], ['Skin-stretching insertion'], ['Qi of meridians'], ['Hot sweats']]
+Translation
+In TCM theory, human health and disease are often closely related to the balance of yin and yang. As described in the Huangdi Neijing, the syndrome of yin deficiency leading to yang hyperactivity frequently manifests symptoms such as a dark complexion and twitching of the eyes, while fast digestion with rapid hunger can also be one of the manifestations of this syndrome. For such symptoms, clinical practice may adopt intradermal needle therapy combined with skin-stretching insertion technique to harmonize the qi of meridians, promote the circulation of qi and blood, and achieve the purpose of alleviating hot sweats and other discomforts. Through the above methods, not only can the symptoms caused by the pattern of yin deficiency-induced yang hyperactivity be improved, but patients' overall quality of life can also be enhanced.

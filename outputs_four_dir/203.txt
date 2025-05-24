@@ -1,0 +1,8 @@
+Original Text
+中医理论认为，人体健康与脏腑功能密切相关，如《黄帝内经》所言“八不传”强调了疾病传播规律。针对体内阴邪过盛导致的病症，采用清泄相火、清泄膈热的方法可以有效调理。同时，对于胃阳不足的情况，则需温补胃阳以恢复脾胃运化功能，而脾胃为后天之本，其重要性不言而喻。在具体治疗时，结合针灸配穴，调和寒热，能够达到更好的治疗效果。
+Matched Terms
+['清泄相火', '针灸配穴', '后天之本', '阴邪', '八不传', '清泄膈热', '温补胃阳', '调和寒热']
+Matched Terms Translation
+[['Clear and reduce ministerial fire'], ['Point combination'], ['Postnatal foundation'], ['Yin pathogens'], ['Eight types of people should be declined to learn Taiji'], ['Clear and reduce diaphragm heat'], ['Warm and tonify stomach yang', 'Warm yang and benefit the stomach'], ['Balance and regulate cold and heat', 'Mediate cold and heat']]
+Translation
+According to TCM theory, the health of the human body is closely related to the functions of the zang-fu organs. As mentioned in "The Yellow Emperor's Inner Classic," the "Eight types of people should be declined to learn Taiji" emphasizes the laws of disease transmission. For diseases caused by excessive yin pathogens within the body, methods such as clearing and reducing ministerial fire and clearing and reducing diaphragm heat can effectively regulate the condition. At the same time, for cases of insufficient stomach yang, it is necessary to warm and tonify stomach yang to restore the transformation function of spleen and stomach, which is considered the postnatal foundation, its importance goes without saying. In specific treatments, combining point combination in acupuncture and moxibustion to balance and regulate cold and heat can achieve better therapeutic effects.

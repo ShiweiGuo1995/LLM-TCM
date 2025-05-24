@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友出现了风寒郁热证的症状，比如发热和头重，还伴有恶色。中医认为这些症状可能是因为体内炎上，导致胃主受纳功能失调。在日常生活中，我们需要注意饮食调理，避免类似情况发生，同时保持良好的生活习惯，预防精液类病的发生。
+Matched Terms
+['风寒郁热证', '', '发热', '恶色', '炎上', '胃主受纳', '头重', '精液类病']
+Matched Terms Translation
+[['Wind cold transformed heat pattern'], ['Promote bowel movements and expel water', 'Circulate blood and transform stasis', 'Circulate blood and eliminate stasis', ' Circulate blood and dissipate stasis', 'Dissipate cold and eliminate dampness', 'Dissipate cold and dry dampness'], ['Fever'], ['Malignant colour'], ['Fire is characterized by flaming upward'], ['The stomach governs receiving and holding', 'The stomach governs receiving'], ['Heavy headache'], ['Sperm disorders']]
+Translation
+Recently, a friend exhibited symptoms of the Wind Cold Transformed Heat pattern, such as fever and heavy headache, accompanied by a malignant color. In TCM, these symptoms may be due to the flaming upward of Fire, leading to dysfunction in the stomach's receiving and holding function. In daily life, we need to pay attention to dietary adjustments to avoid similar occurrences and maintain good living habits to prevent sperm disorders.

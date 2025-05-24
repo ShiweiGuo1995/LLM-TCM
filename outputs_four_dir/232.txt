@@ -1,0 +1,8 @@
+Original Text
+中医认为眼病类多由肝火旺盛或脾胃湿热引起，而口舌痰包、吐酸等症状亦常伴随出现。若患者出现头痛、心火上炎证，则需考虑阳维脉证的影响。此外，太息频繁和面黄胖也是临床常见症状，这些症状往往提示体内阴阳失衡，气血不畅。通过辨证施治，可以有效缓解上述症状，达到治疗目的。
+Matched Terms
+['眼病类', '口舌痰包', '吐酸', '头痛', '心火上炎证', '阳维脉证', '太息', '面黄胖']
+Matched Terms Translation
+[['Eye diseases'], ['Sublingual cysts'], ['Acid regurgitation', 'Acid reflux'], ['Headache'], ['Upward flaming of heart fire pattern', 'Heart fire flaming upward pattern'], ['Yangwei meridian pattern', 'Yang link vessel pattern'], ['Sighing'], ['Yellow, puffy face']]
+Translation
+Eye diseases in TCM are mostly caused by exuberant liver fire or damp-heat in the spleen and stomach, while symptoms such as sublingual cysts, acid regurgitation often accompany. If the patient presents headache, the pattern of upward flaming of heart fire, then the influence of the Yangwei meridian pattern needs to be considered. Additionally, frequent sighing and a yellow, puffy face are common clinical symptoms, these symptoms often indicate an imbalance of yin and yang, and disharmony of qi and blood. Through pattern identification and treatment, the above symptoms can be effectively alleviated, achieving the therapeutic goal.

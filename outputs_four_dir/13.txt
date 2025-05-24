@@ -1,0 +1,8 @@
+Original Text
+在探讨肾系证类与痰浊蕴肺证之关联时，我们发现痰浊蕴肺证常伴随胸闷、咳喘等症状，且在某些病例中可见尖裆现象。通过对痰阻心脉证的研究，进一步验证了四气调和对于治疗食厥的重要性。临床观察表明，布指脉诊在诊断蛊胀过程中具有重要价值，其不仅能准确反映病情变化，亦有助于辨别不同证候之间的细微差异。在此基础上，我们提出了更为系统的辨证施治方案，旨在提高治疗效果。
+Matched Terms
+['肾系证类', '痰阻心脉证', '痰浊蕴肺证', '食厥', '布指', '蛊胀', '尖裆', '四气']
+Matched Terms Translation
+[['Patterns of the kidney system'], ['Phlegm obstructing the heart vessels pattern'], ['Phlegm dampness accumulating in the lung pattern', 'Turbid phlegm accumulation in the lung pattern', ' Phlegm-dampness obstructing the lung', ' phlegm dampness accumulating in the lung'], ['Over-eating-induced syncope', 'Crapulent syncope disorder'], ['Finger positioning'], ['Tympanites', 'Tympanites disorder'], ['Sharp-angled crotch'], ['Four qi']]
+Translation
+In exploring the relationship between patterns of the kidney system and the phlegm dampness accumulating in the lung pattern, we found that this pattern often accompanies symptoms such as chest stuffiness and wheezing, and in some cases, the sharp-angled crotch phenomenon can be observed. Through the study of the phlegm obstructing the heart vessels pattern, further validation was obtained on the importance of four qi regulation for treating crapulent syncope disorder. Clinical observations indicate that finger positioning pulse diagnosis plays a significant role in diagnosing tympanites, not only accurately reflecting changes in the condition but also aiding in distinguishing subtle differences between various patterns. On this basis, we have proposed a more systematic pattern identification and treatment plan aimed at improving therapeutic outcomes.

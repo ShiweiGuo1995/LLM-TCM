@@ -1,0 +1,8 @@
+Original Text
+中焦气滞证常表现为胸闷腹胀等症状，治疗上宜温运脾阳以促进气血运行；对于妊娠小便不通的情况，需从整体出发调理脏腑功能，避免药物直接作用于胎儿；中精之府指的是胆，与肝相表里，在治疗夜啼时应注意调和手少阴心经，解郁安神；阳虚则寒为常见体质表现，通过温补肾阳可以改善。
+Matched Terms
+['中焦气滞证', '温运脾阳', '妊娠小便不通', '中精之府', '手少阴心经', '夜啼', '阳虚则寒', '解郁安神']
+Matched Terms Translation
+[['Disharmony between the spleen and stomach pattern', 'Disharmony of the middle jiao pattern', ' Qi stagnation of the spleen and stomach pattern', ' Qi stagnation of the middle jiao pattern'], ['Warm and tonify spleen yang', 'Warm spleen yang'], ['Urine retention in pregnancy'], ['The house of central essence'], ['The heart meridian of hand-Shaoyin'], ['Night crying', 'Night crying disorder'], ['Yang deficiency leading to cold'], ['Relieve stagnation and calm the mind']]
+Translation
+The pattern of disharmony between the spleen and stomach often manifests symptoms such as chest stuffiness and abdominal distension; treatment should focus on warming and tonifying spleen yang to promote the circulation of qi and blood. For the condition of urine retention in pregnancy, it is necessary to regulate the functions of the zang-fu organs from a holistic perspective and avoid drugs that directly affect the fetus. The house of central essence refers to the gallbladder, which is exteriorly and interiorly related to the liver; when treating night crying, attention should be paid to harmonizing the heart meridian of hand-Shaoyin, relieving stagnation, and calming the mind. Yang deficiency leading to cold is a common manifestation of physical constitution; by warming and tonifying kidney yang, improvement can be achieved.

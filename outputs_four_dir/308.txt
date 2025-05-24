@@ -1,0 +1,8 @@
+Original Text
+在探讨中医治疗原则时，我们常提到“平肝息风药”，它对于调节“肝气上逆证”具有显著效果。患者如果出现“嗜睡”、“身肢放长”等症状，可能与“小肠主受盛”功能失调有关。此外，“短脉”和“潮热”也是诊断过程中不可忽视的指标。根据《黄帝内经》中的理论，“刚柔”并举是治疗这类病症的关键，通过平衡阴阳来达到治疗目的。
+Matched Terms
+['平肝息风药', '短脉', '嗜睡', '小肠主受盛', '身肢放长', '肝气上逆证', '刚柔', '潮热']
+Matched Terms Translation
+[['Liver-soothing and wind-extinguishing medicines'], ['Short pulse'], ['Somnolence'], ['The small intestine governs receiving and holding'], ['Lengthen the torso and limbs'], ['Ascending of liver qi pattern'], ['Hard and soft'], ['Tidal fever']]
+Translation
+In discussing the principles of TCM treatment, we often refer to "liver-soothing and wind-extinguishing medicines," which have significant effects on regulating the "ascending of liver qi pattern." If patients exhibit symptoms such as "somnolence" and "lengthen the torso and limbs," these may be related to dysfunction of "The small intestine governs receiving and holding." Additionally, "short pulse" and "tidal fever" are indicators that cannot be ignored in the diagnostic process. According to the theories in The Yellow Emperor's Inner Canon, the key to treating such conditions is the simultaneous consideration of "hard and soft," aiming to achieve therapeutic goals by balancing yin and yang.

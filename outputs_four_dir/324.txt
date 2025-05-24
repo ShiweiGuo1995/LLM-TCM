@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友跟我提到他身上长了紫白癜疯，说是看了不少医生都没能完全治好，我建议他平时饮食上要注意少吃泛酸的食物，同时考虑下是否是肝热血瘀证导致的，当然了，如果情况复杂可能还有邪伏膜原证的因素，需要综合调理。另外，他还有点狐臭的问题，这可能是体内湿热过重，肝胆不和造成的，所以我又给他推荐了几味清热利湿的草药。顺便提一句，他之前还因为胆胀困扰过，好在现在症状减轻了不少。最后，提醒大家日常生活中要注意手部卫生，避免出现蛇头疔这样的病症。
+Matched Terms
+['紫白癜风', '四性', '肝热血瘀证', '邪伏膜原证', '狐臭', '胆胀', '蛇头疔', '泛酸']
+Matched Terms Translation
+[['Tinea versicolour', 'Sweat stains'], ['Four qi'], ['Liver heat with blood stagnation pattern'], ['Pathogenic factors hidden in the pleurodiaphragmatic interspace pattern'], ['Armpit odour', 'Smelly armpit'], ['Gallbladder distention', 'Gallbladder distension disorder'], ['Snake head-like whitlow', 'Whitlow'], ['Regurgitation', 'Acid reflux', 'Acid regurgitation', 'Acid reflux']]
+Translation
+Recently, a friend mentioned to me that he has developed purple vitiligo, and despite seeing many doctors, it hasn't been completely cured. I suggested that he pay attention to his diet and try to eat less food that causes acid regurgitation. At the same time, I considered whether it might be due to the liver heat with blood stagnation pattern; of course, if the situation is complex, there may also be the pathogenic factors hidden in the pleurodiaphragmatic interspace pattern, requiring comprehensive regulation. Additionally, he also has a problem with smelly armpit, which could be caused by excessive internal damp-heat and disharmony between the liver and gallbladder, so I recommended several folk medicines for clearing heat and removing dampness. By the way, he was once troubled by gallbladder distention, but fortunately, the symptoms have now eased considerably. Lastly, I remind everyone to pay attention to hand hygiene in daily life to avoid conditions like snake head-like whitlow.

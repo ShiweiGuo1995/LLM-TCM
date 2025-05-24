@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友跟我诉苦，说他总是健忘，工作生活一团糟。我给他把了脉，发现他是肝肾阴虚证，再加上他面色暗沉，这可能是病色的表现。我建议他日常可以多吃一些滋补肝肾的食物，同时避免辛辣刺激。他还提到腿上长了个小肿块，担心是股疽或者癥积，我告诉他这两种情况都需及时就医。另外，他的腹部也有些胀痛，怀疑是虫臌，这需要通过专业的诊断来确认。总之，保持良好的生活习惯和饮食习惯对健康非常重要，希望大家都能关注自己的身体状况，早预防早治疗。
+Matched Terms
+['杨梅疮', '四气', '病色', '肝肾阴虚证', '股疽', '虫臌', '癥积', '健忘']
+Matched Terms Translation
+[['Syphilitic skin lesion'], ['Four qi'], ['Morbid colour'], ['Yin deficiency of the liver and kidney pattern', 'Liver and kidney yin deficiency pattern', ' Deficiency fire of the liver and kidney'], ['Thigh abscess'], ['Parasitic tympanites'], ['Tangible masses', 'Zheng masses'], ['Forgetfulness']]
+Translation
+Recently, a friend complained to me that he was always forgetful and his work and life were in a mess. I took his pulse and found that he had a pattern of yin deficiency of the liver and kidney, coupled with his sallow complexion, this might be a manifestation of disease coloration. I suggested that he should eat more food that can nourish the liver and kidney, while avoiding spicy and stimulating foods. He also mentioned that there was a small swelling on his leg, which he worried might be thigh abscess or tangible masses, I told him that both situations require timely medical attention. In addition, he also experienced some distending pain in his abdomen, which I suspected might be parasitic tympanites, and this needs to be confirmed through professional diagnosis. In short, maintaining good living habits and dietary habits is very important for health, I hope everyone can pay attention to their own physical condition, prevent and treat early.

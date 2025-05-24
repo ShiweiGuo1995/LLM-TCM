@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友跟我诉苦，说她最近总感觉身体不适，不仅心下痛，还时常肠鸣，食欲不振。我给她把了脉后发现是表里实热证，建议她服用一些寒下剂来调理，同时结合食疗，多吃些清泄郁火的食物，比如绿豆和冬瓜。她还担心哺乳期的问题，我告诉她可以试试通络下乳的方法，帮助增加乳汁分泌。另外，如果出现津液亏虚证或疫毒痢的情况，也要及时调整饮食结构，补充足够的水分和营养，保持良好的生活习惯。希望这些建议对她有所帮助。
+Matched Terms
+['表里实热证', '通络下乳', '心下痛', '肠鸣', '寒下剂', '津液亏虚证', '疫毒痢', '清泄郁火']
+Matched Terms Translation
+[['Exterior–interior excess heat pattern'], ['Unblock meridians and increase lactation'], ['Pain below the heart'], ['Bowel sounds', 'Borborygmus'], ['Cold purgative formulas'], ['Fluids deficiency pattern', 'Fluid deficiency pattern'], ['Epidemic toxin dysentery'], ['Clear and reduce stagnant heat', 'Clear stagnant fire', ' Clear and disperse fire', ' Clear heat and alleviate vexation']]
+Translation
+Recently, a friend complained to me that she has been feeling unwell recently, not only experiencing pain below the heart but also often having bowel sounds and loss of appetite. After taking her pulse, I found it to be an exterior-interior excess heat pattern and suggested she take some cold purgative formulas to regulate her condition. At the same time, I recommended combining food therapy, eating more foods that clear and reduce stagnant heat, such as mung beans and winter melon. She was also worried about the issue during the lactation period; I told her she could try unblocking meridians and increasing lactation to help increase milk secretion. Additionally, if there are symptoms of fluids deficiency pattern or epidemic toxin dysentery, it is necessary to adjust the diet structure in time, supplementing sufficient water and nutrition, and maintaining good living habits. I hope these suggestions will be helpful to her.

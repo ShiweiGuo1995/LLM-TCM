@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨口唇红肿与乳房类病在临床中的关联性，通过观察患者表现之代脉、腐苔等体征，结合太极九如理论分析其病理机制。研究发现，此类病症常伴有表实证，且情绪波动，尤以悲忧为甚，而喜胜悲则能起到一定调和作用。进一步研究显示，假麻现象可能与此类病症存在一定联系，提示我们在临床诊断时需全面考虑。
+Matched Terms
+['口唇红肿', '乳房类病', '代脉', '太极九如', '假麻', '表实证', '腐苔', '喜胜悲']
+Matched Terms Translation
+[['Red, swollen lips', 'Lip wind'], ['Breast diseases'], ['Regularly intermittent pulse', 'Intermittent'], ['Nine essentials of Taiji'], ['Roseola infantum', 'Pseudorubella'], ['Exterior excess pattern'], ['Curdy coating'], ['Joy prevails over sadness']]
+Translation
+This article aims to explore the correlation between red, swollen lips and breast diseases in clinical settings. By observing patients' signs such as regularly intermittent pulse and curdy coating, and analyzing their pathological mechanisms through the theory of Nine Essentials of Taiji, it has been found that such conditions often accompany exterior excess patterns, with emotional fluctuations, especially sadness and worry, while joy prevailing over sadness plays a certain regulatory role. Further studies suggest that pseudorubella may have a certain connection with these conditions, suggesting that we need to comprehensively consider during clinical diagnosis.

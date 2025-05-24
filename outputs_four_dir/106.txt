@@ -1,0 +1,8 @@
+Original Text
+春季到来，天气转暖，但有时寒气仍未完全退去，我们需要注意预防冻疮的发生。饮食上要清淡，避免食用过于辛辣刺激的食物，以免引发六淫之邪。最近我发现有些人出现了肠道不适的情况，这可能是由于肠风伤络证引起的，建议及时调理。小孩子要注意营养均衡，避免出现乳疳的情况。另外，记得定期驱虫，以防寸白虫病。在日常生活中，我们要学会行气消痞，保持良好的生活习惯，如果出现阳厥症状，要及时就医调理。通过这些方法，我们可以更好地维护身体健康。
+Matched Terms
+['紧火', '六淫', '冻疮', '肠风伤络证', '乳疳', '寸白虫病', '行气消痞', '阳厥']
+Matched Terms Translation
+[['Strong fire', 'Intense fire, quick fire'], ['Six pathogenic factors', 'Six excesses'], ['Frostbite'], ['Wind damaging intestinal collaterals pattern'], ['Eczematous carcinoma of nipple'], ['Taeniasis', 'Paediatric taeniasis'], ['Regulate qi and resolve masses', 'Circulate qi and resolve nodules'], ['Heat syncope', 'Yang syncope']]
+Translation
+In spring, as the weather warms up, but the coldness has not completely receded, we need to pay attention to preventing frostbite. Diet should be light, avoiding overly spicy and stimulating foods to prevent the invasion of the six excesses. Recently, I have found that some people are experiencing gastrointestinal discomfort, which might be due to the pattern of wind damaging intestinal collaterals; it is recommended to adjust in time. Children should pay attention to balanced nutrition to avoid the occurrence of eczematous carcinoma of the nipple. Additionally, remember to deworm regularly to prevent taeniasis. In daily life, we should learn to regulate qi and resolve masses, maintaining good living habits. If symptoms of yang syncope appear, seek medical treatment promptly. By these methods, we can better maintain our health.

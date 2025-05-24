@@ -1,0 +1,8 @@
+Original Text
+中医认为痰热壅肺证和脾阳虚水停证是导致肉痿的重要原因，治疗时需采用利水消肿的方法，并结合茶剂以滋养肺阴，同时进行五十动等运动疗法，有助于改善乳核症状。
+Matched Terms
+['痰热壅肺证', '五十动', '乳核', '脾阳虚水停证', '肉痿', '利水消肿', '茶剂', '滋养肺阴']
+Matched Terms Translation
+[['Phlegm heat accumulating in the lung pattern', 'Phlegm heat obstructing the lung pattern', ' Phlegm fire/heat accumulating in the lung', ' phlegm heat obstructing the lung'], ['Fifty beats'], ['Breast nodules'], ['Spleen yang deficiency with water retention pattern'], ['Muscle flaccidity'], ['Induce urination and resolve oedema'], ['Medicated tea'], ['Nourish and supplement lung yin', 'Nourish lung yin']]
+Translation
+In TCM, the Phlegm heat obstructing the lung pattern and Spleen yang deficiency with water retention pattern are considered significant causes of muscle flaccidity. Treatment should adopt methods to induce urination and resolve oedema, combined with medicated tea to nourish and supplement lung yin, while also incorporating Fifty beats exercise therapy, which helps to improve symptoms of breast nodules.

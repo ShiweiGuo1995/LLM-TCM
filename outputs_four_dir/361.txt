@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨脾积痞气与小肠虚寒证在临床中的表现及治疗策略，结合不内外因理论分析其发病机制，并通过宁心定志法改善患者目眩症状，同时探讨祛风胜剂在治疗胯腹痈中的应用，最终讨论脑萎的综合防治措施，以期为临床实践提供参考。
+Matched Terms
+['脾积痞气', '祛风胜🗎剂', '目眩', '宁心定志', '不内外因', '小肠虚寒证', '胯腹痈', '脑萎']
+Matched Terms Translation
+[['Masses in the spleen'], ['Formulas that remove wind and transform dampness'], ['Blurred vision'], ['Calm and settle the mind', 'Calm the mind and alleviate palpitations'], ['Neither internal nor external etiological factors', 'Other etiological factors'], ['Deficiency cold in the small intestine pattern', 'Small intestine deficiency cold pattern'], ['Inguinal abscess'], ['Cerebral atrophy']]
+Translation
+This article aims to explore the clinical manifestations and treatment strategies of spleen accumulation and masses in the spleen with deficiency cold in the small intestine pattern, analyze their pathogenesis based on the theory of neither internal nor external etiological factors, and improve patients' blurred vision symptoms by using the method of calming the mind and alleviating palpitations. It also discusses the application of wind-dispelling agents in treating inguinal abscess, and finally explores comprehensive prevention and control measures for cerebral atrophy, in order to provide reference for clinical practice.

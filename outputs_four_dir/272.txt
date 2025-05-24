@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们经常会遇到一些看似普通的症状，比如风眩带来的头晕目眩，或是胸痹心痛时的心痛彻背。这些症状往往与我们的气血运行不畅有关。记得有一次，一位朋友因为饮食不当导致了食复，加重了原本就有的血虚肠结证。我建议他采用辛寒清热的方法调理，同时注意补气摄乳，增强体质。另外，对于那些经常感到半表半里证不适的人，日常生活中也要特别注意饮食和情绪调节，避免病情反复。通过合理的饮食和生活习惯调整，很多常见病症都可以得到缓解。
+Matched Terms
+['血虚肠结证', '辛寒清热', '心痛彻背', '食复', '胸痹心痛', '补气摄乳', '风眩', '半表半里证']
+Matched Terms Translation
+[['Intestinal dryness due to blood deficiency pattern'], ['Clear heat with pungent cold', 'Clear qi with pungent cold'], ['Chest pain radiating to the back'], ['Recurrence due to improper diet'], ['Chest bi-impediment / cardiac pain'], ['Tonify qi and astringe the breast milk'], ['Wind dizziness'], ['Neither exterior nor interior pattern', 'Half exterior and half interior (commonly used but wrong in meaning)']]
+Translation
+In daily life, we often encounter some seemingly ordinary symptoms, such as the dizziness caused by wind dizziness or the chest pain radiating to the back during chest bi-impediment/cardiac pain. These symptoms are usually related to the stagnation of Qi and Blood circulation. Once, a friend experienced recurrence due to improper diet, exacerbating the pre-existing pattern of intestinal dryness due to blood deficiency. I recommended he adjust his condition by clearing heat with pungent cold while also tonifying Qi and astringing the breast milk to strengthen his physique. Additionally, for those who frequently feel neither exterior nor interior pattern discomfort, it is particularly important in daily life to pay attention to dietary and emotional regulation to avoid recurrent episodes of illness. By making reasonable adjustments to diet and lifestyle, many common symptoms can be alleviated.

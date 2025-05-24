@@ -1,0 +1,8 @@
+Original Text
+本文探讨了寄生虫病类疾病的治疗策略，采用行瘀通络之法以改善气血运行，结合使用固涩剂和沉降药进行调理，同时通过观察患者舌象如糙苔以评估病情。在治疗方法上，除了内服药物外，还采用了实按灸以温通经络，缓解炎上症状。此外，针对某些特定病例，适当运用勾法辅助治疗，旨在全面提升疗效。研究表明，综合运用上述方法可以有效提高寄生虫病类疾病的临床治愈率。
+Matched Terms
+['寄生虫病类', '沉降药', '炎上', '糙苔', '行瘀通络', '实按灸', '固涩剂', '勾法']
+Matched Terms Translation
+[['Parasitic diseases', 'Parasitic disorder'], ['Sinking and descending medicines'], ['Fire is characterized by flaming upward'], ['Rough coating'], ['Transform stasis and unblock collaterals'], ['Mild-warm moxibustion'], ['Astringent formula', 'Formulas that secure and astringe'], ['Hooking manipulation']]
+Translation
+This article explores the treatment strategies for parasitic disorders, employing the method of transforming stasis and unblocking collaterals to improve the circulation of qi and blood, combined with the use of astringent formulas and sinking and descending medicines for regulation. At the same time, the condition is assessed through observing the patient's tongue manifestations such as rough coating. In terms of treatment methods, in addition to oral medication, mild-warm moxibustion is also used to warm and unblock meridians and alleviate symptoms characterized by flaming upward. Furthermore, for certain specific cases, appropriate application of hooking manipulation is employed to assist in treatment, aiming to comprehensively enhance therapeutic effects. Research shows that the comprehensive use of the aforementioned methods can effectively increase the clinical cure rate of parasitic disorders.

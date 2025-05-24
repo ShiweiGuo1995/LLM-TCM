@@ -1,0 +1,8 @@
+Original Text
+在探讨心神不宁证与脚气疮相互关系时，发现其病理变化涉及中精之府及心包络。采用碟转法结合升提固涩疗法，对临床症状进行干预，观察到患者真脏脉趋于稳定，发瘤现象有所缓解，此研究结果提示该综合治疗方案对于改善上述病症具有潜在价值。进一步深入研究需扩大样本量以验证疗效。
+Matched Terms
+['脚气疮', '发瘤', '中精之府', '心包络', '心神不宁证', '碟转法', '升提固涩', '真脏脉']
+Matched Terms Translation
+[['Ringworm of the leg'], ['Cystic tumour'], ['The house of central essence'], ['Pericardium', 'The pericardium connections'], ['Disquieted heart spirit pattern', 'Heart spirit restlessness pattern'], ['Rotating pressing manipulation'], ['Lift and secure qi'], ['Strange pulse', 'True visceral pulse', ' exhaustion pulse', ' failure pulse', ' critical pulse']]
+Translation
+In exploring the relationship between Disquieted Heart Spirit Pattern and Ringworm of the leg, it was found that their pathological changes involve The House of Central Essence and Pericardium. By adopting Rotating Pressing Manipulation combined with Lift and Secure Qi therapy, clinical symptoms were intervened, observing stabilization of True Visceral Pulse and alleviation of Cystic Tumour phenomena. This study result suggests that this comprehensive treatment plan has potential value in improving the above-mentioned conditions. Further in-depth research requires an expanded sample size to verify efficacy.

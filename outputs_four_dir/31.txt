@@ -1,0 +1,8 @@
+Original Text
+在探讨中医治疗原则时，我们常提到“通经止痒”与“涩精止遗”，这些方法在临床实践中对于改善精气不足证有着显著效果。根据六经证类的理论，我们可以更准确地辨识病症，从而采用合适的降气剂来治疗气虚血瘀所导致的肺系病，使患者恢复健康。通过深入理解五脏之间的相互作用，我们能够更好地运用上述疗法，达到标本兼治的目的。
+Matched Terms
+['通经止痒', '涩精止遗', '精气不足证', '六经证类', '五脏', '肺系病', '降气剂', '气虚血瘀']
+Matched Terms Translation
+[['Unblock meridians and relieve itch'], ['Astringe essence and stop seminal emissions'], ['Essence and qi deficiency pattern', 'Essence deficiency pattern', ' Essential qi insufficiency'], ['Six meridians patterns'], ['Five zang organs'], ['Lung system diseases', 'Lung system disorders'], ['Formulas that make qi descend'], ['Blood stasis due to qi deficiency']]
+Translation
+When discussing the principles of TCM treatment, we often mention "unblock meridians and relieve itch" and "astringe essence and stop seminal emissions," these methods have significant effects in improving the essence and qi deficiency pattern in clinical practice. According to the theory of Six Meridians Patterns, we can more accurately identify syndromes, thus using appropriate formulas that make qi descend to treat lung system disorders caused by blood stasis due to qi deficiency, enabling patients to recover health. By deeply understanding the interactions among the Five Zang Organs, we can better apply the aforementioned therapies to achieve the purpose of treating both the tip and root.

@@ -1,0 +1,8 @@
+Original Text
+扁瘊与髓劳皆为中医常见病症，临证时需详辨其症，如窜痛、口臭等。治疗上，当以和血调经为法，辅以利开窍之品，方能奏效。若病情危重，则需急投回阳救逆剂，以固本元。痈病亦不可忽视，其症或见于肌肤，治疗亦需审证求因，综合施治。
+Matched Terms
+['扁瘊', '利🗎开窍', '口臭', '窜痛', '和血调经', '回阳救逆剂', '髓劳', '痈病']
+Matched Terms Translation
+[['Flat warts'], ['Drain dampness and open the orifices'], ['Bad breath', 'Foul breath'], ['Migratory pain', 'Wandering/moving pain'], ['Circulate blood and regulate menstruation', 'Harmonize blood and regulate menstruation'], ['Formulas that resuscitate yang and prevent collapse'], ['Aplastic anaemia', 'Exhaustion of marrow'], ['Abscess', 'Abscess disorders']]
+Translation
+Flat warts and the exhaustion of marrow are common diseases in Traditional Chinese Medicine. During diagnosis, symptoms such as migratory pain and bad breath should be carefully distinguished. In treatment, the method of harmonizing blood and regulating menstruation should be applied, supplemented with medicines that benefit the opening of orifices to achieve efficacy. If the condition is severe, urgent administration of formulas that resuscitate Yang and prevent collapse is necessary to consolidate the root. Abscess disorders must not be overlooked; their symptoms may appear on the skin. Treatment also requires a thorough examination of the cause, employing comprehensive therapies.

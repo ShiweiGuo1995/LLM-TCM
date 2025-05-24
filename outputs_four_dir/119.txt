@@ -1,0 +1,8 @@
+Original Text
+在探讨郁证的治疗时，我们常采用通因通用的原则，结合和络手法，以促进气血流通。对于一些由于长期尘肺导致的体虚症状，我们可以通过壮阳来增强体质，同时使用刮痧板进行局部刮痧，帮助溜臀部位恢复。此外，针对某些良性肿瘤如肉瘤，中医也有独特的治疗方法，通过上述综合手段，可以有效改善患者的整体健康状况。
+Matched Terms
+['通因通用', '郁证', '壮阳', '溜臀', '尘肺', '和络', '刮痧板', '肉瘤']
+Matched Terms Translation
+[['Treat uncontrolled discharge by unblocking', 'Uncontrolled discharge treated with purgation'], ['Depression', 'Depression disorder', ' Depressive disorder', ' Melancholy disorder'], ['Tonify yang', 'Strengthen yang', ' Warm yang'], ['Drop the buttocks'], ['Pneumoconiosis'], ['Harmonize meridians', 'Unblock meridians'], ['Guasha tool'], ['Fleshy tumour']]
+Translation
+In discussing the treatment of depression disorders, we commonly employ the principle of treating uncontrolled discharge by unblocking, combined with harmonizing meridians techniques, to promote the circulation of Qi and Blood. For some symptoms caused by long-term pneumoconiosis leading to physical weakness, we can enhance physical constitution by tonifying Yang, while using a Guasha tool for localized scraping to help restore the drop of the buttocks. Additionally, for certain benign tumors such as fleshy tumors, Traditional Chinese Medicine also has unique therapeutic methods. Through the aforementioned comprehensive approaches, we can effectively improve the patient's overall health condition.

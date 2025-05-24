@@ -1,0 +1,8 @@
+Original Text
+在治疗血热证时，我们需注意火耗气伤津的情况，根据患者具体情况因地制宜选择治疗方法。对于痈疡病症，采用缪刺或远道刺等针灸方法，以达到提脓拔毒的效果。同时，在治痈疡法中，化和营也是重要手段之一，通过调和营血，促进疮疡恢复。
+Matched Terms
+['血热证', '火耗气伤津', '因地制宜', '缪刺', '远道刺', '提脓拔毒', '治痈疡法', '化🗎和营']
+Matched Terms Translation
+[['Blood heat pattern'], ['Fire consumes qi and body fluids'], ['Treat according to place'], ['Contralateral blood-letting'], ['Distal needling'], ['Draw out pus and toxin'], ['Sore-/ulcer-resolving methods'], ['Transform dampness and harmonize the Ying nutrients', 'Dry dampness and harmonize the Ying nutrients']]
+Translation
+In treating the blood heat syndrome, we need to pay attention to the condition of fire consuming qi and body fluids, and select treatment methods based on the patient's specific circumstances and local conditions. For abscess disorders, methods such as contralateral blood-letting or distal needling can be used to achieve the effect of drawing out pus and toxin. At the same time, in sore-/ulcer-resolving methods, harmonizing Ying-nutrient blood is also an important approach, promoting the recovery of sores and ulcers by regulating Ying-nutrient blood.

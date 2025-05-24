@@ -1,0 +1,8 @@
+Original Text
+中医理论认为，夹喉痈的发生与肝血不足有关，需通过甘寒清热的方法调理，同时结合易筋经的练习以促进气血流通，达到益气通便的效果。此外，对于因肝血不足引起的子嗽症状，可通过蒸的方式辅助治疗，配合清泄胆热，从而改善体质，增强抵抗力。
+Matched Terms
+['夹喉痈', '易筋经', '蒸', '益气通便', '清泄胆热', '甘寒清热', '肝血', '子嗽']
+Matched Terms Translation
+[['Cervical abscess'], ['Yi Jin Jing', 'Sinew- transforming exercise'], ['Steaming'], ['Benefit qi and promote bowel movements', 'Supplement qi and promote bowel movements'], ['Clear and reduce gallbladder heat', 'Clear gallbladder fire'], ['Formulas that clear heat with sweet, cold medicines'], ['Liver blood'], ['Cough during pregnancy']]
+Translation
+According to TCM theory, the occurrence of cervical abscess is related to liver blood deficiency, which needs to be regulated by using formulas that clear heat with sweet, cold medicines, while also combining the practice of Yi Jin Jing to promote the circulation of Qi and Blood, achieving the effect of tonifying Qi and promoting bowel movements. Additionally, for symptoms of cough during pregnancy caused by liver blood deficiency, it can be treated by steaming, combined with clearing and reducing gallbladder heat, thereby improving the physique and enhancing resistance.

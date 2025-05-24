@@ -1,0 +1,8 @@
+Original Text
+在探讨女性生殖病的治疗过程中，我们发现采用祛暑法结合平肝息风药能够有效缓解患者症状，尤其对于因肝主升发功能失调引发的病症效果显著。通过清胃泄热以调整体内阴阳平衡，同时使用具有滋补作用的药物来对抗骨蚀带来的影响。临床观察显示，适当运用足太阴脾经证的理论指导治疗过程，可以更好地达到治疗目的。此外，在治疗过程中，患者常伴有情绪低落和叹息的现象，这可能与肝气郁结有关，进一步加重病情。因此，在治疗方案中加入疏肝解郁的措施显得尤为重要。综上所述，综合运用上述方法对女性生殖病的治疗具有积极意义。
+Matched Terms
+['叹息', '祛暑法', '女性生殖病', '清胃泄热', '足太阴脾经证', '平肝息风药', '骨蚀', '肝主升发']
+Matched Terms Translation
+[['Sighing'], ['Clearing summer heat methods'], ['Female genital disorders'], ['Clear and reduce stomach heat', 'Clear the stomach and reduce fire'], ['Spleen meridian pattern'], ['Liver-soothing and wind-extinguishing medicines'], ['Bone lesion'], ['The liver governs ascending and dispersing']]
+Translation
+In the process of exploring the treatment of female genital disorders, we found that using clearing summer heat methods combined with liver-soothing and wind-extinguishing medicines could effectively alleviate patients' symptoms, especially for diseases caused by dysfunction of the liver governing ascending and dispersing. By clearing the stomach and reducing fire to adjust the body's Yin-Yang balance, while using drugs with nourishing effects to counteract the impact of bone lesions. Clinical observations show that appropriately applying the theory of the spleen meridian pattern of foot-Taiyin can better achieve the therapeutic goal. Additionally, during the treatment process, patients often exhibit symptoms such as low spirits and sighing, which may be related to liver qi stagnation, further exacerbating the condition. Therefore, it is particularly important to include measures to soothe the liver and relieve depression in the treatment plan. In summary, the comprehensive application of the above methods has positive significance for the treatment of female genital disorders.

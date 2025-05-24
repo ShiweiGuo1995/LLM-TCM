@@ -1,0 +1,8 @@
+Original Text
+在探讨春温病的治疗策略时，我们发现气臌现象与肝胆功能失调密切相关。采用清泻肝胆之法，结合开阖补泻与经外奇穴的应用，可以有效改善病情。同时，通过色诊观察患者面色变化，指导临床治疗，并辅以消法促进体内邪气的排出。在具体操作过程中，合理运用留针技术以增强疗效，进一步提升治疗效果。此综合治疗方法在临床上取得了显著成效。
+Matched Terms
+['气臌', '春温', '清泻肝胆', '开阖补泻', '经外奇穴', '消法', '色诊', '留针（置针）']
+Matched Terms Translation
+[['Qi tympanites'], ['Spring pestilence', 'Spring febrile disorder', ' Spring pestilence disease'], ['Clear heat in the liver and gallbladder'], ['Reinforcing and reducing by opening and closing', 'Tonifying and sedating by opening and closing'], ['Extra points'], ['Reducing method'], ['Colour diagnosis', 'Inspection of colour'], ['Needle retaining']]
+Translation
+In exploring the treatment strategies for spring febrile disorders, we found that Qi tympanites is closely related to the dysfunction of the liver and gallbladder. By applying the method of clearing heat in the liver and gallbladder, combined with reinforcing and reducing by opening and closing and the use of extra points, the condition can be effectively improved. At the same time, through colour diagnosis, observing changes in the patient's complexion guides clinical treatment, and the reducing method is used to promote the elimination of pathogenic qi from the body. In the specific operational process, reasonably using the needle retention technique enhances therapeutic effects, further improving treatment outcomes. This comprehensive treatment method has achieved significant results in clinical practice.

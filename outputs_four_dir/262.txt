@@ -1,0 +1,8 @@
+Original Text
+在探讨肝系病的治疗过程中，我们发现直腕现象与肝郁脾虚证密切相关。通过观察患者的舌象，常见类剥苔，提示阴液亏损。对于瘭疽等感染性疾病，采用桑枝棒外治，结合辛凉清热法，有效控制病情发展。同时，抱头火丹亦需关注，其与肝系疾病存在潜在关联，需综合辨证施治。此研究旨在为临床提供更全面的治疗思路。
+Matched Terms
+['肝系病', '直腕', '类剥苔', '瘭疽', '桑枝棒', '辛凉清热', '抱头火丹', '肝郁脾虚证']
+Matched Terms Translation
+[['Liver system diseases', 'Liver system disorders'], ['Straight wrist'], ['Exfoliated coating'], ['Snake head-like whitlow', 'Whitlow'], ['Mulberry branch stick'], ['Clear heat with pungent-cool', 'Release the exterior and clear heat'], ['Erysipelas on the head'], ['Liver hyperactivity with spleen deficiency pattern', 'Liver stagnation with spleen deficiency pattern']]
+Translation
+In the process of exploring the treatment of liver system disorders, we found that the straight wrist phenomenon is closely related to the Liver hyperactivity with spleen deficiency pattern. By observing the tongue manifestations of patients, exfoliated coating is commonly seen, indicating Yin fluid deficiency. For infections such as Snake head-like whitlow, the use of Mulberry branch stick in external treatment, combined with the Clear heat with pungent-cool method, effectively controls the progression of the disease. At the same time, Erysipelas on the head should also be taken into consideration, as it has a potential connection with liver system diseases, requiring comprehensive辨证施治. This study aims to provide more comprehensive treatment ideas for clinical practice.

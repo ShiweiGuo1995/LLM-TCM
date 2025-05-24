@@ -1,0 +1,8 @@
+Original Text
+在探讨胆蛔病与溢饮的关联时，我们注意到舌体的变化对于诊断具有重要意义。经前乳胀与鼻鼽亦为临床常见症状，其发生可能与内脏功能失调有关。厥证的发生往往与天符之年气候异常有关，提示我们在治疗过程中需考虑自然环境对疾病的影响。综上所述，上述病症之间的相互联系值得进一步深入研究。
+Matched Terms
+['胆蛔病', '溢饮', '舌体', '经前乳胀', '鼻鼽', '内🗎', '厥证', '天符']
+Matched Terms Translation
+[['Biliary ascariasis'], ['Subcutaneous fluid retention'], ['Tongue body'], ['Breast distension/pain during menstruation'], ['Allergic rhinitis', 'Allergic rhinitis disorder'], ['Internal dampness', 'Endogenous dampness'], ['Syncope', 'Syncope disorder'], ['Heavenly complements']]
+Translation
+In exploring the relationship between biliary ascariasis and subcutaneous fluid retention, we noted that changes in the tongue body are of significant importance for diagnosis. Breast distension/pain during menstruation and allergic rhinitis are also common clinical symptoms, which may be related to dysfunction of internal organs. The occurrence of syncope disorder is often associated with abnormal climate in the year of heavenly complements, indicating that we need to consider the impact of natural environment on diseases during the treatment process. In summary, the interrelations among the above-mentioned diseases deserve further in-depth research.

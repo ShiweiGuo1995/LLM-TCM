@@ -1,0 +1,8 @@
+Original Text
+最近遇到一位患者，他自述常感肝脾两虚证，面色苍白，时常吐血，尿色偏赤溺赤，伴有痰饮类病症状。他说自己体质较弱，容易出现阴虚潮热的情况，希望我能给予一些调养建议。我告诉他，保持良好的生活习惯和饮食习惯非常重要，同时也要注重精神调养，力求形与神俱。他还提到有时会感到骨槽风的不适，我建议他在日常生活中多加注意休息，避免过度劳累。最后提醒他五脏化液的重要性，确保身体内部环境平衡。希望这些建议能帮助到他。
+Matched Terms
+['肝脾两虚证', '吐血', '溺赤', '痰饮类病', '阴虚潮热', '形与神俱', '骨槽风', '五脏化液']
+Matched Terms Translation
+[['Deficiency of the liver and spleen pattern'], ['Vomiting blood', 'Hematemesis', 'Vomiting of blood', 'haematemesis'], ['Yellow, reddish urine'], ['Phlegm-fluid disorders'], ['Tidal fever due to yin deficiency'], ['Healthy body and mind'], ['Dental abscess', 'Osteomyelitis of the maxilla'], ['Fluids of the five zang organs']]
+Translation
+Recently, I encountered a patient who complained of liver-spleen deficiency pattern, pale facial complexion, frequent vomiting blood, yellow-reddish urine, and symptoms similar to phlegm-fluid retention. He mentioned that his constitution is weak and he often experiences tidal fever due to yin deficiency, hoping that I could provide some advice for regulation and care. I told him that maintaining good living habits and dietary habits is very important, while also paying attention to spiritual cultivation to achieve healthy body and mind. He also mentioned sometimes feeling discomfort from dental abscess, and I suggested that he pay more attention to rest in daily life and avoid overwork. Finally, I reminded him of the importance of the balance of the fluids of the five zang organs to ensure internal environmental equilibrium. I hope these suggestions will be helpful to him.

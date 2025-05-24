@@ -1,0 +1,8 @@
+Original Text
+痴呆病的发生与五行失调密切相关，治疗时需注重阴阳平衡，采用滋阴润燥的凉开剂进行调理，避免食亦不当引发子嗽等症。在临床实践中观察到，部分患者从热证转寒，治疗策略需相应调整，运用太极劲法促进气血流通，达到标本兼治的效果。
+Matched Terms
+['痴呆病', '凉开剂', '五行', '滋阴润燥', '食亦', '太极劲', '子嗽', '热证转寒']
+Matched Terms Translation
+[['Dementia', 'Dementia disorder', ' Aged dementia disorders'], ['Formulas that open the orifices with cold- property ingredients'], ['Five elements', 'Five phases'], ['Nourish yin and moisten dryness'], ['Excessive hunger'], ['Taiji jin'], ['Cough during pregnancy'], ['Heat pattern transforming into cold']]
+Translation
+The occurrence of dementia is closely related to the disharmony of the five elements, and in treatment, it is necessary to focus on the balance of yin and yang, using cool-opening formulas that nourish yin and moisten dryness for regulation, avoiding improper diet causing symptoms such as cough during pregnancy. In clinical practice, it has been observed that some patients transform from heat patterns to cold patterns; treatment strategies need to be adjusted accordingly, applying Taiji jin techniques to promote the circulation of qi and blood, achieving the effect of treating both the surface and root.

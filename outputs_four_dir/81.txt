@@ -1,0 +1,8 @@
+Original Text
+最近在学习中医知识时，发现很多有趣的理论。比如“关脉”和“五输穴”，这些都在帮助我们更好地理解身体的奥秘。还有，“缩阴”和“圆裆”的练习，据说能增强体质，提升生活质量。但要注意，如果出现“饮停胸胁证”或“痰热内闭证”，则需要及时调理，避免发展成更严重的“精癃”。通过日常的小习惯，如保持正确的坐姿，可以有效预防这些问题。希望大家都能关注自己的身体健康，享受中医带来的益处。
+Matched Terms
+['关脉', '缩阴', '五输穴', '肺主通调水道', '精癃', '饮停胸胁证', '痰热内闭证', '圆裆']
+Matched Terms Translation
+[['The Guan pulsation'], ['Genital retraction'], ['Five-Shu points'], ['The lung regulates waterways'], ['Prostate enlargement'], ['Chest/subcostal fluid retention pattern'], ['Phlegm fire blocked the heart spirit pattern', 'Phlegm heat blocked the interior pattern'], ['Round crotch']]
+Translation
+Recently, while learning TCM knowledge, I discovered many interesting theories. For example, "Guan pulse" and "Five-Shu points," these are all helping us better understand the mysteries of the body. Additionally, practices such as "genital retraction" and "round crotch" are said to enhance physical constitution and improve quality of life. However, it's important to note that if "fluid retention in chest and hypochondrium syndrome" or "phlegm heat blocked the interior syndrome" occur, timely adjustment is necessary to avoid progression into more serious "prostate enlargement." Through daily small habits, such as maintaining proper sitting posture, these issues can be effectively prevented. I hope everyone will pay attention to their own physical health and enjoy the benefits brought by TCM.

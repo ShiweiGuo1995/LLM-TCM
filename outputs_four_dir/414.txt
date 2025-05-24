@@ -1,0 +1,8 @@
+Original Text
+在探讨养血润燥与清胃泄热之法时，我们发现其对于风邪外袭证的治疗效果显著，同时结合拿法等外治手段，能有效缓解症状。然而，在临床实践中，对于五志化火导致的内热炽盛，需辅以涌吐痰食之法以清除病灶。针对固脬止尿问题，我们注意到肛漏患者常伴有此类症状，故此二者在治疗策略上应予以综合考虑。通过上述分析，我们可以看出，中医学中的多种治疗方法在具体应用时需要相互配合，方能达到最佳疗效。
+Matched Terms
+['养血润燥', '涌吐痰食', '五志化火', '拿法', '清胃泄热', '固脬止尿', '肛漏', '风邪外袭证']
+Matched Terms Translation
+[['Nourish blood and moisten dryness', 'Tonify blood and moisten dryness'], ['Induce sweating to eliminate retained phlegm and food'], ['Five emotions transforming into fire'], ['Grasping manipulation'], ['Clear and reduce stomach heat', 'Clear the stomach and reduce fire'], ['Secure the bladder and stop enuresis', 'Tonify qi and secure the bladder'], ['Anal fistula'], ['Wind attacking the exterior pattern', 'Wind invading the exterior pattern']]
+Translation
+In exploring the methods of nourishing blood and moistening dryness and clearing the stomach and reducing fire, we find that they are significantly effective for the treatment of the Wind attacking the exterior pattern. Combining these with external therapeutic techniques such as grasping manipulation can effectively alleviate symptoms. However, in clinical practice, for cases where internal heat is caused by the Five emotions transforming into fire, it is necessary to assist with inducing sweating to eliminate retained phlegm and food to clear the lesion. Regarding the issue of securing the bladder and stopping enuresis, we have noticed that patients with anal fistula often exhibit such symptoms; therefore, these two aspects should be comprehensively considered in treatment strategies. Through the above analysis, we can see that in Traditional Chinese Medicine, various treatment methods need to be used in conjunction to achieve optimal therapeutic effects.

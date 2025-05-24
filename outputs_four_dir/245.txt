@@ -1,0 +1,8 @@
+Original Text
+中医认为痴呆病的发生与气机不畅密切相关，风燥袭表证常导致气机失调，出现行气化痰之症，而津枯血燥则进一步加剧病情，使证候相兼，治疗时需采用温法以调和膀胱气化，促进体内气血运行，改善痴呆症状。
+Matched Terms
+['行气化痰', '膀胱气化', '风燥袭表证', '气机', '温法', '证候相兼', '津枯血燥', '痴呆病']
+Matched Terms Translation
+[['Regulate qi and transform phlegm', 'Circulate qi and transform phlegm'], ['Qi transformation of the urinary bladder'], ['Wind dryness attacking the exterior pattern', 'External dryness affecting the exterior pattern'], ['Qi movement'], ['Warming method'], ['Concurrent patterns'], ['Fluid exhaustion leading to blood dryness'], ['Dementia', 'Dementia disorder', ' Aged dementia disorders']]
+Translation
+In TCM, the occurrence of dementia is closely related to the obstruction of qi movement. The syndrome of wind-dryness attacking the exterior often leads to disordered qi activity, manifesting as symptoms of regulating qi and transforming phlegm. Furthermore, fluid exhaustion leading to blood dryness exacerbates the condition, causing concurrent patterns, and treatment should employ the warming method to harmonize the qi transformation of the urinary bladder, promoting the circulation of qi and blood within the body, and improving the symptoms of dementia.

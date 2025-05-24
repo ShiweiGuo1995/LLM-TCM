@@ -1,0 +1,8 @@
+Original Text
+在本次研究中，我们探讨了舌形与胃阴之间的关联，并观察到乳漏患者的手三阴经表现较为显著。通过运用表里（经）配穴法结合针感技术，我们发现刺激特定穴位能够有效调节上述症状。此外，针对出血症状，我们采用了收敛止血药以辅助治疗，从而更好地控制病情。本研究表明，太阳经证的发生可能与上述因素有关，未来的研究将进一步探索这些联系，以期为临床实践提供更坚实的理论基础。
+Matched Terms
+['舌形', '乳漏', '表里（经）配穴法', '收敛止血药', '胃阴', '手三阴经', '太阳经证', '针感']
+Matched Terms Translation
+[['Form of the tongue'], ['Mammary duct fistula'], ['Point combination of the coupled meridians'], ['Astringent haemostatic medicines'], ['Stomach yin'], ['Three hand-yin meridians'], ['Taiyang meridian pattern'], ['Needling sensation']]
+Translation
+In this study, we explored the relationship between the form of the tongue and Stomach Yin, and observed that the Three hand-yin meridians were more prominently manifested in patients with Mammary duct fistula. By applying the Point combination of the coupled meridians combined with needling sensation technique, we found that stimulating specific points could effectively regulate the aforementioned symptoms. Additionally, for bleeding symptoms, we used astringent haemostatic medicines to assist in treatment, thereby better controlling the condition. This study suggests that the occurrence of Taiyang meridian pattern may be related to the above factors, and future research will further explore these connections to provide a more solid theoretical foundation for clinical practice.

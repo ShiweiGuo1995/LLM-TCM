@@ -1,0 +1,8 @@
+Original Text
+痿证类病的发生与和合四象失调密切相关，其中脱汗和薄厥为常见症状，紧火则提示体内火热炽盛，而贮痰之器病变常导致热痹，方圆之间体现了阴阳平衡的重要性。
+Matched Terms
+['痿证类病', '和合四象', '脱汗', '薄厥', '紧火', '贮痰之器', '热痹', '方圆']
+Matched Terms Translation
+[['Wei-flaccidity disorders', 'Flaccidity disorder', ' Wilting disorder', ' Wei-flaccidity pattern'], ['Harmony of the eyes, ears, nose and tongue'], ['Exhausted sweating', 'Collapsing sweating'], ['Flopping syncope'], ['Strong fire', 'Intense fire, quick fire'], ['The receptacle to hold phlegm', 'The container of phlegm'], ['Heat impediment'], ['Square and round']]
+Translation
+The occurrence of Wei-flaccidity disorders is closely related to the disharmony of the Harmony of the eyes, ears, nose and tongue, among which Exhausted sweating and Flopping syncope are common symptoms. Strong fire indicates excessive endogenous fire within, while the lesion of the receptacle to hold phlegm often leads to Heat impediment, reflecting the importance of Yin-Yang balance between Square and round.

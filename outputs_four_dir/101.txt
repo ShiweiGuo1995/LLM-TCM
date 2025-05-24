@@ -1,0 +1,8 @@
+Original Text
+本文探讨了胃石病与噎膈病之间的关联，并结合太极枪理论分析其病理机制。研究发现，通过麦粒灸与明堂定位相结合的方法能够有效改善少气症状，同时对于膝痹和噎膈病亦有显著疗效。在临床观察中，我们注意到清暑化痰法对于缓解夏季发作的胃石病具有积极作用，但其具体作用机理仍需进一步探讨。本研究旨在为胃石病及噎膈病的诊断与治疗提供新的视角。
+Matched Terms
+['胃石病', '少气', '麦粒灸', '明堂', '膝痹', '太极枪', '噎膈病', '清暑化🗎']
+Matched Terms Translation
+[['Gastroliths', 'Stomach stones'], ['Shallow breathing'], ['Wheat-grain sized cone moxibustion', 'Rice grain moxibustion'], ['Bright hall'], ['Knee impediment'], ['Taiji spear'], ['Dysphagia', 'Dysphagia disorder'], ['Clear summer heat and drain dampness']]
+Translation
+This article explores the correlation between Gastroliths and Dysphagia, and analyzes their pathological mechanisms in conjunction with the Taiji spear theory. Research has found that the method combining Wheat-grain sized cone moxibustion with Bright hall positioning can effectively improve symptoms of shallow breathing, while also demonstrating significant therapeutic effects on Knee impediment and Dysphagia. In clinical observations, we have noticed that the Qing Shu Hua Tan method plays a positive role in alleviating the symptoms of Gastroliths during summer, but its specific mechanism of action still requires further exploration. This study aims to provide new perspectives for the diagnosis and treatment of Gastroliths and Dysphagia.

@@ -1,0 +1,8 @@
+Original Text
+药膳在中医中不仅用于治疗疾病，还能够调理身体，比如针对妊娠偏头痛，通过合理的食疗可以有效缓解症状。然而，在临床实践中，我们发现某些疾病的治疗需要遵循逆治法，如对于足太阳膀胱经证引起的汗类病，逆治法的应用显得尤为重要。另外，阳黄病与饥疝也是常见的病症，它们可能由劳逸失度过大引起，需要通过综合调理来改善。
+Matched Terms
+['药膳', '足太阳膀胱经证', '汗类病', '逆治法', '妊娠偏头痛', '阳黄病', '饥疝', '劳逸失度']
+Matched Terms Translation
+[['Medicated diet'], ['Bladder meridian pattern'], ['Sweating disorders'], ['Routine treatment', 'Standard treatment'], ['Migraine during pregnancy'], ['Yang jaundice', 'Jaundice disorder'], ['Hunger-related abdominal pain'], ['Work–rest imbalance']]
+Translation
+Medicated diets in Traditional Chinese Medicine are not only used for treating diseases but can also regulate the body. For example, for migraines during pregnancy, proper food therapy can effectively alleviate symptoms. However, in clinical practice, we have found that the treatment of certain diseases requires the application of routine treatment methods; for instance, for sweating disorders caused by the Bladder meridian pattern, the use of routine treatment is particularly important. Additionally, Yang jaundice and hunger-related abdominal pain are common conditions that may be caused by work-rest imbalance and require comprehensive regulation to improve.

@@ -1,0 +1,8 @@
+Original Text
+中医认为内所因和外感疫霍乱均可引发病，尤其在感受热邪阻痹证时，使用清热泻火药可以有效缓解症状。若伴有外痔不适，通过调理足太阳膀胱经与活血化瘀，如应用针对瘀血的治疗方法，能够促进病情恢复。
+Matched Terms
+['内所因', '清热泻火药', '病', '疫霍乱', '热邪阻痹证', '外痔', '足太阳膀胱经', '瘀血']
+Matched Terms Translation
+[['Internal pathogenic factors'], ['Heat-clearing and fire- draining medicines'], ['Disease'], ['Epidemic cholera', 'Severe vomiting and diarrhoea disorder'], ['Heat affecting the bones/joints pattern'], ['External haemorrhoids'], ['The bladder meridian of foot-Taiyang'], ['Static blood', 'Stagnant blood']]
+Translation
+In TCM, both internal pathogenic factors and external epidemic cholera can cause disease; particularly when the pattern of heat affecting the bones/joints occurs, using heat-clearing and fire-draining medicines can effectively alleviate symptoms. If accompanied by discomfort from external hemorrhoids, by regulating the bladder meridian of foot-Taiyang and circulating blood to eliminate stasis, such as applying treatments for stagnant blood, it can promote the recovery of the condition.

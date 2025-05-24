@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，胎疮的发生与母体气血失调密切相关，而洪脉常常是诊断的关键依据之一。对于虚劳病患者而言，若伴有瘀阻肺络证，则需采用活血化瘀之法治疗。此外，胆胀亦是临床常见病症，常因情志不畅或饮食不当引起。天行赤眼则多由外感时邪所致，需辨证施治。九针疗法在治疗上述诸症时具有独特优势，尤其适用于痞气和瘀阻肺络证的调理。
+Matched Terms
+['胎疮', '洪脉', '虚劳病', '瘀阻肺络证', '痞气', '天行赤眼', '胆胀', '九针']
+Matched Terms Translation
+[['Paediatric eczema'], ['Surging pulse'], ['Deficiency/ consumption'], ['Stasis obstructing the lung collaterals pattern'], ['Masses in the spleen'], ['Epidemic conjunctivitis'], ['Gallbladder distention', 'Gallbladder distension disorder'], ['Nine ancient needles']]
+Translation
+In TCM theory, the occurrence of infantile eczema is closely related to Qi-blood disharmony in the mother, while the surging pulse is often one of the key diagnostic bases. For patients with deficiency/consumption, if accompanied by the pattern of stasis obstructing the lung collaterals, the method of circulating blood and eliminating stasis should be used for treatment. Additionally, gallbladder distention is a common clinical condition, often caused by poor emotional flow or improper diet. Epidemic conjunctivitis is mostly due to external infection by seasonal pathogenic factors and requires pattern identification and treatment based on syndrome differentiation. The nine ancient needles therapy has unique advantages in treating these various symptoms, especially suitable for regulating masses in the spleen and the pattern of stasis obstructing the lung collaterals.

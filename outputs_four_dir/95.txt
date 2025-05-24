@@ -1,0 +1,8 @@
+Original Text
+在治疗蛇头疔时，我们常采用除湿通络的方法，结合悬起灸以温通经络，缓解因寒滞经络证引起的疼痛。此外，在面对风水引起的病症时，需辨证施治，若患者出现寒战、真心痛等半表半里证的症状，应采取相应措施，以达到调和阴阳、扶正祛邪的目的。
+Matched Terms
+['除🗎通络', '蛇头疔', '风水', '寒滞经络证', '悬起灸', '半表半里证', '寒战', '真心痛']
+Matched Terms Translation
+[['Remove dampness and unblock collaterals'], ['Snake head-like whitlow', 'Whitlow'], ['Wind oedema', 'Wind oedema disorder'], ['Cold retention in the meridians pattern'], ['Suspended moxibustion'], ['Neither exterior nor interior pattern', 'Half exterior and half interior (commonly used but wrong in meaning)'], ['Chills'], ['True cardiac pain']]
+Translation
+In the treatment of snake head-like whitlow, we often adopt the method of removing dampness and harmonizing meridians, combined with suspended moxibustion to warm and unblock the meridians, alleviating the pain caused by the cold retention in the meridians pattern. Additionally, when facing Wind oedema disorder, syndrome differentiation should be conducted; if the patient exhibits symptoms such as chills and true cardiac pain, which are characteristics of neither exterior nor interior pattern, corresponding measures should be taken to achieve the purpose of harmonizing Yin-Yang and reinforcing healthy qi to eliminate pathogenic factors.

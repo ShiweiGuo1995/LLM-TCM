@@ -1,0 +1,8 @@
+Original Text
+在探讨黄胖病与瘿劳的关联时，我们注意到心肝热盛证与肝胃积热证的存在，这些症状通常伴随着肾在液为唾的现象。治疗上，采用拔罐法以疏通经络，同时辅以清泻虚火的策略，对于缓解漏肩风及上述热证具有显著效果。临床观察显示，通过综合运用拔罐法和清热解毒的中药方剂，可以有效改善患者的整体状况。
+Matched Terms
+['清泻虚火', '瘿劳', '拔罐法', '心肝热盛证', '漏肩风', '肝胃积热证', '肾在液为唾', '黄胖病']
+Matched Terms Translation
+[['Clear and reduce deficiency heat'], ['Hypothyroidism'], ['Cupping'], ['Fire hyperactivity of the heart and liver pattern', 'Excess heat in the heart and liver pattern'], ['Frozen shoulder', 'Adhesive capsulitis of shoulder'], ['Exuberant heat in the liver and stomach pattern', 'Heat accumulating in the liver and stomach pattern'], ['The fluid of the kidney is thick saliva'], ['Ancylostomiasis', 'Paediatric ancylostomiasis']]
+Translation
+In exploring the correlation between jaundice obesity and hypothyroidism, we noticed the existence of the syndrome of excessive heart and liver fire and the syndrome of accumulated heat in the liver and stomach, these symptoms often accompanied by the phenomenon that the fluid of the kidney is thick saliva. In treatment, cupping is used to unblock the meridians, while a strategy of clearing and reducing deficiency heat is employed, which has shown significant effects in alleviating frozen shoulder and the aforementioned heat patterns. Clinical observations indicate that through the comprehensive application of cupping and Chinese herbal medicine formulas for clearing heat to detoxify, patients' overall condition can be effectively improved.

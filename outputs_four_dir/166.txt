@@ -1,0 +1,8 @@
+Original Text
+腰痛一症多因气陷而起，与五迟并见时，尤需关注胆气不足及经别不畅。治宜选用理气剂以调和气血，兼施杀虫宁神之法，使极脉通利，诸症自解。
+Matched Terms
+['腰痛', '五迟', '气陷', '理气剂', '胆气', '经别', '极脉', '杀虫宁神']
+Matched Terms Translation
+[['Lower back pain'], ['Five retardations'], ['Qi sinking', 'Qi falls'], ['Formulas that regulate qi'], ['Gallbladder qi'], ['The twelve divergent meridians'], ['Racing pulse', 'Swift pulse'], ['Kill parasitic worms and calm the mind']]
+Translation
+Lower back pain often arises due to Qi sinking, and when seen with the Five Retardations, particular attention should be given to insufficient Gallbladder Qi and impaired flow in the divergent meridians. Treatment should employ formulas that regulate Qi to harmonize and balance Qi and Blood, combined with methods to kill parasitic worms and calm the mind, so as to ensure the swift pulse is unobstructed, and all symptoms will resolve on their own.

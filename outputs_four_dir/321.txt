@@ -1,0 +1,8 @@
+Original Text
+在本研究中，我们探讨了君药在治疗肾癌翻花及噎膈方面的应用。实验组采用具有温服特性的方剂，其中君药为主要成分，辅以润燥法改善口麻症状。对照组则采用常规疗法，观察两组患者的临床疗效。结果显示，实验组患者在接受治疗后，其胆气亏虚证和瘾疹的症状明显减轻，这可能与温服及润燥法的协同作用有关。研究表明，君药联合温服及润燥法对上述病症的治疗效果显著，值得进一步深入研究。
+Matched Terms
+['君药', '肾癌翻花', '噎膈', '胆气亏虚证', '瘾疹', '温服', '润燥法', '口麻']
+Matched Terms Translation
+[['Monarch medicines', 'Principal medicines'], ['Penile cancer'], ['Dysphagia', 'Dysphagia disorder'], ['Gallbladder qi deficiency pattern'], ['Urticaria', 'Hives'], ['Take warm'], ['Moistening methods'], ['Mouth numbness']]
+Translation
+In this study, we explored the application of monarch medicines in treating penile cancer and dysphagia. The experimental group used a formula with warming properties, where the monarch medicine was the main component, supplemented by moistening methods to improve symptoms of mouth numbness. The control group adopted conventional therapy, observing the clinical efficacy of both groups of patients. The results showed that after treatment, patients in the experimental group experienced significant alleviation of symptoms related to gallbladder qi deficiency pattern and urticaria, which may be associated with the synergistic effect of warming and moistening methods. The study indicates that the combination of monarch medicines with warming and moistening methods shows remarkable therapeutic effects on the aforementioned conditions and is worthy of further in-depth research.

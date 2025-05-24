@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨温邪侵袭所致水痘患者在春季临床表现及治疗策略。研究发现，此类患者脉象呈现春脉如弦之态，提示肝气过旺。治疗上，采用头针疗法以调和气血，并辅以通窍开闭之法改善头部症状。同时，鉴于部分病例伴有肺部积水现象，提出泻肺逐饮以缓解局部症状。此外，对于病情进展至后期出现虚脱征象者，需警惕回光返照之危候，及时采取措施防止骨蚀等并发症的发生。综上所述，综合运用上述方法可有效提高临床疗效。
+Matched Terms
+['通窍开闭', '骨蚀', '春脉如弦', '泻肺逐饮', '头针疗法', '水痘', '温邪', '回光返照']
+Matched Terms Translation
+[['Open the orifices and unblock impediments'], ['Bone lesion'], ['Wiry pulse in spring'], ['Drain the lung and expel water retention'], ['Scalp acupuncture'], ['Chicken pox'], ['Pathogenic warmth'], ['False spirit', 'The last radiance of the setting sun/the last flicker of life in a dying person']]
+Translation
+This article aims to explore the clinical manifestations and treatment strategies for patients with chickenpox caused by pathogenic warmth during spring. The study found that the pulse conditions of such patients present as wiry pulse in spring, indicating overabundance of Liver qi. In treatment, scalp acupuncture is used to regulate and harmonize qi and blood, and methods to open the orifices and unblock impediments are employed to improve symptoms in the head. Meanwhile, considering that some cases are accompanied by fluid retention in the lungs, the method of draining the lung and expelling retained fluids is proposed to alleviate local symptoms. Furthermore, for patients whose condition progresses to the late stage and exhibits signs of deficiency collapse, one must be wary of the critical condition known as false spirit, and timely measures should be taken to prevent bone lesions and other complications. In summary, the comprehensive use of the aforementioned methods can effectively enhance clinical efficacy.

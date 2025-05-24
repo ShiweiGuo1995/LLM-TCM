@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们常常会遇到一些小毛病，比如由于湿热阻络导致的小腿疼痛。这时候我们可以尝试使用散刺法配合大针进行治疗，同时结合针灸配穴，以达到清泄胆火、行瘀通络的效果。若身体出现神气鼓荡的情况，则可能是体内有热阻络证，这时应当及时调理，避免发展成更为严重的疾病如血吸虫病。通过正确的中医治疗方法，我们可以更好地保持身体健康，享受美好的生活。
+Matched Terms
+['散刺法', '针灸配穴', '清泄胆火', '行瘀通络', '神气鼓荡', '血吸虫病', '🗎热阻络证', '大针']
+Matched Terms Translation
+[['Scatter-pricking method'], ['Point combination'], ['Clear and reduce gallbladder heat', 'Clear gallbladder fire'], ['Transform stasis and unblock collaterals'], ['Shen-qi movement'], ['Schistosomiasis', 'Snail fever', ' Paediatric schistosomiasis'], ['Damp heat obstructing the meridians pattern'], ['Large needle', 'Da zhen']]
+Translation
+In daily life, we often encounter minor ailments, such as the pain in the lower leg caused by damp-heat blocking the channels. At this time, we can try using the scatter-pricking method combined with a large needle for treatment, while also combining point combination acupuncture to achieve the effect of clearing and reducing gallbladder heat and transforming stasis to unblock collaterals. If there is a shen-qi movement in the body, it may indicate a heat obstruction syndrome inside, and at this time, timely adjustment should be made to avoid developing into more serious diseases such as schistosomiasis. Through correct TCM treatment methods, we can better maintain our health and enjoy a wonderful life.

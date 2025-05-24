@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨呃逆病与太阳病证之间的关联，结合临床实践分析，提出通过调裆手法与推拿辅助器具类相结合的方法以达到清泻肺胃的目的。同时，针对奇恒痢患者，采用化和中法调节体内平衡，并强调肝藏血的重要性，以期为临床治疗提供新的思路。研究结果显示，综合运用上述方法对改善患者症状具有显著效果。
+Matched Terms
+['呃逆病', '调裆', '清泻肺胃', '推拿辅助器具类', '化🗎和中', '奇恒痢', '肝藏血', '太阳病证']
+Matched Terms Translation
+[['Hiccups'], ['Lifting the anus', 'Suspending the crotch'], ['Clear heat in the lung and stomach'], ['Assistant tuina tools'], ['Transform dampness and harmonize the middle jiao', 'Transform dampness and awaken the spleen', ' Transform dampness and strengthen the spleen'], ['Critical dysentery', 'Erratic dysentery'], ['The liver stores blood'], ['Taiyang pattern', 'Early yang stage pattern', ' Greater yang pattern']]
+Translation
+This article aims to explore the relationship between hiccups and the Taiyang pattern, combining clinical practice analysis to propose a method that integrates lifting the anus technique with assistant tuina tools to achieve the purpose of clearing heat in the lung and stomach. At the same time, for patients with erratic dysentery, the use of the method of harmonizing the middle is adopted to regulate internal balance, emphasizing the importance of the liver storing blood, in order to provide new ideas for clinical treatment. The research results show that the comprehensive application of the above methods has significant effects on improving patient symptoms.

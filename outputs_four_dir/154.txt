@@ -1,0 +1,8 @@
+Original Text
+在探讨病脉与血崩的关系时，我们发现五气过盛，尤其是温毒发斑，常导致肝着，进而引发化瘀理脾之症。同时，清化热痰法对于缓解上述症状具有重要作用，尤其在疠气盛行之时，此法更为关键。临床观察表明，合理运用化瘀理脾与清化热痰相结合的方法，可以有效改善病脉与血崩的症状，从而提高治疗效果。
+Matched Terms
+['病脉', '血崩', '化瘀理脾', '清化热痰', '五气', '疠气', '肝着', '温毒发斑']
+Matched Terms Translation
+[['Abnormal pulses'], ['Metrorrhagia', 'Metrorrhagia disorder'], ['Transform stasis and regulate the spleen'], ['Clear heat and transform phlegm'], ['Five qi'], ['Pestilence qi'], ['Liver distension', 'Liver distension disorder', ' Liver fixity'], ['Pestilence toxin', 'Pestilence eruptions']]
+Translation
+In exploring the relationship between abnormal pulses and metrorrhagia, we find that the excess of Five qi, particularly pestilence toxin or pestilence eruptions, often leads to liver distension, thereby causing the syndrome of transforming stasis and regulating the spleen. At the same time, the method of clearing heat and transforming phlegm plays a crucial role in alleviating the aforementioned symptoms, especially during the prevalence of pestilence qi. Clinical observations indicate that reasonably applying the combined method of transforming stasis and regulating the spleen with clearing heat and transforming phlegm can effectively improve the symptoms of abnormal pulses and metrorrhagia, thus enhancing therapeutic outcomes.

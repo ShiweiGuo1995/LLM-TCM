@@ -1,0 +1,8 @@
+Original Text
+最近天气干燥，不少朋友出现了养血润燥的需求，通过酸甘化阴的方法可以有效改善身体状况。有些人可能会出现肠痨的症状，这不仅影响消化功能，还会导致翻花疮等皮肤问题，我们可以通过宽胸利膈的方式帮助缓解。同时，对于体质偏寒的朋友来说，适当的壮阳也是必要的，但要注意方法得当。在日常生活中，我们还可以通过发汗温里来增强体质，提高抵抗力。当然，在进行这些调理时，也要关注自己的六阴脉是否平衡，保持整体健康。
+Matched Terms
+['养血润燥', '酸甘化阴', '肠痨', '翻花疮', '宽胸利膈', '壮阳', '发汗温里', '六阴脉']
+Matched Terms Translation
+[['Nourish blood and moisten dryness', 'Tonify blood and moisten dryness'], ['Sour and sweet transform into yin'], ['Intestinal tuberculosis'], ['Squamous cell carcinoma'], ['Open the chest and sooth the diaphragm'], ['Tonify yang', 'Strengthen yang', ' Warm yang'], ['Release the exterior and warm the interior', 'Induce sweating and warm the interior'], ['Six yin pulse']]
+Translation
+Recently, due to the dry weather, many friends have developed a need for nourishing blood and moistening dryness. By using the method of sour and sweet transforming into yin, we can effectively improve our physical condition. Some people may experience symptoms of intestinal tuberculosis, which not only affects digestive function but also leads to skin issues such as squamous cell carcinoma. We can alleviate these symptoms by opening the chest and soothing the diaphragm. At the same time, for those with a constitution that tends to be cold, appropriate tonification of yang is necessary, but it must be done properly. In daily life, we can also enhance our physique and improve resistance by inducing sweating and warming the interior. Of course, when making these adjustments, we should also pay attention to whether the six yin pulses are balanced to maintain overall health.

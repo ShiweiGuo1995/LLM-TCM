@@ -1,0 +1,8 @@
+Original Text
+最近天气变化无常，不少朋友出现了颜面部疔疮的情况，这与体内湿热过重有关。我建议大家可以用些辛凉透表的方法来缓解症状，同时用补益法增强体质。如果感觉目干涩，可能是肝血不足的表现，需要通过泄热生津来调理。另外，生活中要注意情绪调节，避免过度劳累，以免出现益气定神的问题。对于一些病情较重的朋友，可以考虑采用化瘀和胃、循经传的方法来治疗。当然，具体治疗方法还需根据个人情况而定，切勿盲目自行用药。
+Matched Terms
+['化瘀和胃', '补益法', '颜面部疔疮', '目干涩', '循经传', '辛凉透表', '泄热生津', '益气定神']
+Matched Terms Translation
+[['Transform stasis and harmonize the stomach'], ['Reinforcing methods'], ['Facial boils'], ['Dry eyes'], ['Sequential meridian transmission'], ['Release the exterior with pungent-cool', 'Remove wind and clear heat'], ['Clear heat and generate fluids', 'Clear heat with sweet-cold'], ['Supplement qi and calm the mind']]
+Translation
+Recently, due to unpredictable weather changes, many friends have developed facial boils, which are related to excessive internal dampness and heat. I suggest using methods to release the exterior with pungent-cool to alleviate symptoms, while reinforcing methods can be used to enhance physical constitution. If there is a sensation of dry eyes, it may indicate insufficiency of Liver blood, requiring treatment through clearing heat and generating fluids to regulate. Additionally, attention should be paid to emotional regulation in daily life, avoiding overwork to prevent issues with tonifying Qi and calming the mind. For some friends with more severe conditions, methods such as transforming stasis and harmonizing the stomach or sequential meridian transmission could be considered for treatment. Of course, specific treatment methods should be determined based on individual circumstances, and one must not blindly take medication on their own.

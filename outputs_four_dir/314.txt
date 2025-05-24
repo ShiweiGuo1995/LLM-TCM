@@ -1,0 +1,8 @@
+Original Text
+夏日炎炎，暑厥之时，我们要注意调理身体，避免阴盛阳衰。在日常生活中，通过固肾安胎，可以增强体质。同时，饮食上也要注意祛痰理气解毒，保持体内阴阳平衡，防止邪正盛衰。如果出现不适，要及时调理，比如采用祛瘀止血的方法来缓解症状，同时配合清热降火，让身体恢复健康。记住，一年十二支，每个季节都有其特点，我们要顺应自然规律，才能保持身体健康。
+Matched Terms
+['暑厥', '固肾安胎', '十二支', '阴盛阳衰', '祛痰理气解毒', '祛瘀止血', '邪正盛衰', '清热降火']
+Matched Terms Translation
+[['Summer heat syncope'], ['Reinforce the kidney and secure the fetus'], ['Earthly branches'], ['Yin waxing with yang waning'], ['Eliminate phlegm, regulate qi and remove toxins'], ['Transform stasis and stop bleeding'], ['Waxing and waning of anti-pathogenic qi and pathogenic factors'], ['Clear heat and reduce fire', 'Clear heat with bitter cold']]
+Translation
+In the scorching summer when summer heat syncope occurs, we should pay attention to regulating the body to avoid Yin waxing with Yang waning. In daily life, by reinforcing the kidney and securing the fetus, we can strengthen the constitution. At the same time, we should also eliminate phlegm, regulate Qi and remove toxins in diet to maintain the balance of Yin and Yang within the body and prevent the waxing and waning of anti-pathogenic Qi and pathogenic factors. If discomfort occurs, timely regulation is necessary, such as using methods to transform stasis and stop bleeding to alleviate symptoms, while also clearing heat and reducing fire to restore health to the body. Remember, there are twelve earthly branches, each season has its own characteristics; we must follow the laws of nature to maintain good health.

@@ -1,0 +1,8 @@
+Original Text
+在探讨肝郁脾虚证与寒滞胃肠证的临床表现时，我们发现两者常相互影响。通过输刺（五刺）等治疗方法，可以有效调整阴阳，促进本气恢复。对于风寒湿痹的患者，若治疗不当易转化为新感温病，此时需重视调整机体状态，防止出现回光返照现象，确保治疗方案的合理性和有效性。
+Matched Terms
+['肝郁脾虚证', '输刺（五刺）', '寒滞胃肠证', '回光返照', '调整阴阳', '本气', '风寒🗎痹', '新感温病']
+Matched Terms Translation
+[['Liver hyperactivity with spleen deficiency pattern', 'Liver stagnation with spleen deficiency pattern'], ['Shu needling (one of the five needling techniques)'], ['Cold retention in the stomach and intestines pattern'], ['False spirit', 'The last radiance of the setting sun/the last flicker of life in a dying person'], ['Regulate and balance yin and yang'], ['Root qi'], ['Wind-cold-dampness impediment'], ['Acute warm diseases']]
+Translation
+In exploring the clinical manifestations of the pattern of liver hyperactivity with spleen deficiency and cold retention in the stomach and intestines, we find that they often influence each other. Through Shu needling (one of the five needling techniques), Yin-Yang can be effectively regulated to promote the recovery of root qi. For patients with wind-cold-dampness arthralgia, improper treatment easily leads to new contraction of warm diseases; at this time, it is necessary to emphasize adjusting the body's state to prevent the occurrence of false spirit, ensuring the rationality and effectiveness of the treatment plan.

@@ -1,0 +1,8 @@
+Original Text
+在探讨肝胃不调证与脾阳亏虚证的相互关系时，我们发现两者常常相伴出现，导致臁疮频发，此时需采用祛痰理气解毒法结合薄苔观察以辨证施治。此外，对于因外感风温引起的蛤蟆瘟，除了清热解毒外，还应注意调理肝胃功能，防止病情迁延。而在治疗伤筋病的过程中，亦不可忽视对整体机能的调整，尤其是通耳的通畅与否，往往反映着体内气血运行的状态。
+Matched Terms
+['肝胃不调证', '臁疮', '薄苔', '蛤蟆瘟', '祛痰理气解毒', '伤筋病', '脾阳亏虚证', '通耳']
+Matched Terms Translation
+[['Disharmony between the liver and stomach pattern', 'Disharmony of liver and stomach systems pattern', ' Liver qi invading the stomach pattern Liver–stomach disharmony pattern Incoordination between the liver and stomach'], ['Shank sore'], ['Thin coating'], ['Mumps', 'Parotitis'], ['Eliminate phlegm, regulate qi and remove toxins'], ['Tendon injuries'], ['Spleen yang deficiency pattern', 'Spleen yang insufficiency pattern'], ['Unblock the ears', 'Benefit the ears']]
+Translation
+In exploring the relationship between the Disharmony between the liver and stomach pattern and the Spleen yang deficiency pattern, we find that they often appear together, leading to frequent occurrences of Shank sore. At this time, it is necessary to adopt the method of Eliminate phlegm, regulate qi and remove toxins combined with observation of Thin coating for Pattern identification and treatment. Additionally, for Mumps caused by Wind pestilence, in addition to Clear heat and remove toxins, attention should also be paid to regulating the function of the liver and stomach to prevent the condition from being prolonged. During the treatment of Tendon injuries, it is also not advisable to ignore the adjustment of overall body functions, especially the unobstructed state of the ears, which often reflects the state of Qi and Blood circulation within the body.

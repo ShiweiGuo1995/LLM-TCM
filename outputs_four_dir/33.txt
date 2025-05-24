@@ -1,0 +1,8 @@
+Original Text
+足针疗法在治疗将军之官疾病如胃脘痛时效果显著，尤其对于因劳力过度引起的症状更为适用。黄瓜痈与子肿的发生往往与身体内部的理气和血不畅有关，通过调整气血平衡可以有效缓解这些病症。同时，在处理这类疾病时，需注意避免🗎邪入侵，保持体内环境的和谐稳定。
+Matched Terms
+['足针疗法', '黄瓜痈', '子肿', '胃脘痛', '劳力过度', '理气和血', '将军之官', '🗎邪']
+Matched Terms Translation
+[['Foot acupuncture'], ['Paravertebral abscess'], ['Oedema during pregnancy', 'Pregnancy swelling'], ['Stomach ache', 'Gastric pain'], ['Physical overwork'], ['Regulate and harmonize qi and blood', 'Regulate qi and harmonize blood'], ['The general organ', 'The office of army generals'], ['Pathogenic dampness', 'Dampness']]
+Translation
+Foot acupuncture therapy shows remarkable effects in treating diseases of the stomach, such as gastric pain, especially for symptoms caused by physical overwork. The occurrence of paravertebral abscess and pregnancy swelling is often related to the disharmony of qi and blood within the body; regulating and harmonizing qi and blood can effectively alleviate these conditions. At the same time, when dealing with such diseases, it is necessary to avoid the invasion of pathogenic dampness and maintain the harmony and stability of the internal environment.

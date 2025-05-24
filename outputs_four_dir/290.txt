@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨虚实分清在治疗瘫痪中的临床应用，结合膏药外治法，针对不同证型如阳虚水停证、阴虚肺燥证及热闭心神证进行辨证施治。文中提及臭田螺虽非直接用药，但其性寒，可用作辅助参考。清脏腑热剂在此类疾病的治疗中亦扮演重要角色，通过综合分析各类证候特点，为临床实践提供更为精准的指导。
+Matched Terms
+['虚实分清', '膏药', '臭田螺', '清脏腑热剂', '阳虚水停证', '阴虚肺燥证', '热闭心神证', '瘫痪']
+Matched Terms Translation
+[['Distinguish between fullness (weighted) and emptiness (weightless)'], ['Plaster', 'Medicated plaster', ' Thin plaster'], ['Tinea pedis', 'Athlete’s foot'], ['Formulas that clear heat in the zang-fu organs'], ['Yang deficiency induced water retention pattern'], ['Lung heat and yin deficiency pattern', 'Lung heat damaging fluids pattern', ' lung dryness due to yin/ fluids deficiency pattern'], ['Heat blocking the pericardium pattern', 'Heat blocking the heart mind pattern'], ['Paralysis']]
+Translation
+This study aims to explore the clinical application of distinguishing between deficiency and excess in the treatment of paralysis, combined with external application of plasters, for different patterns such as Yang deficiency induced water retention pattern, Lung heat and yin deficiency pattern, and Heat blocking the pericardium pattern. Although stinking field snail is not used directly, it is mentioned that its cold nature can be used as an auxiliary reference. Formulas that clear heat in the zang-fu organs also play a significant role in the treatment of such diseases, providing more precise guidance for clinical practice through comprehensive analysis of the characteristics of various patterns.

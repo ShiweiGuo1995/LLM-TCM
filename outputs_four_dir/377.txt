@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于眼睛的问题，说他最近感觉视力模糊，看东西总有星星点点遮挡，这在中医里叫做“聚星障”。他同时还觉得身体疲乏无力，经常感到瘙痒，这可能是“气虚痰结证”的表现。我建议他平时可以用桑枝棒轻轻按摩尾闾中正的位置，或许能缓解一些症状。另外，他提到自己小便时颜色偏红，也就是所谓的“溺赤”，可能需要注意饮食和休息了。还有一点要注意的是，现在市面上有很多伪针；假针，使用不当可能会加重病情，所以在选择治疗方法时一定要谨慎，避免使用不合适的疗法，比如大泻刺这种过于强烈的治疗方式。希望我的建议对他有所帮助，也提醒大家日常生活中要多关注自己的身体变化，及时调整生活方式。
+Matched Terms
+['聚星障', '溺赤', '伪针；假针', '桑枝棒', '大泻刺', '尾闾中正', '瘙痒', '气虚痰结证']
+Matched Terms Translation
+[['Superficial punctate keratitis'], ['Yellow, reddish urine'], ['Sham acupuncture', 'Placebo acupuncture'], ['Mulberry branch stick'], ['Great drainage needling'], ['Keep the coccyx upright'], ['Pruritus', 'Skin itch'], ['Qi deficiency with phlegm retention pattern']]
+Translation
+Recently, a friend asked me about eye issues, saying that he has been experiencing blurred vision and seeing spots before his eyes, which in TCM is called "Juxingzhang". He also feels fatigued and weak, often experiences itching, which may be a manifestation of the "Qi deficiency with phlegm retention pattern". I suggested that he could use a mulberry branch stick to gently massage the area at the tail of the spine to keep it upright, which might alleviate some symptoms. Additionally, he mentioned that his urine appears reddish, known as "Nichì" in TCM, so he should pay attention to his diet and rest. Another point to note is that there are many sham acupuncture or placebo acupuncture devices on the market; improper use might exacerbate the condition. Therefore, one must be cautious when choosing treatment methods and avoid unsuitable therapies such as the overly aggressive "Great drainage needling". I hope my suggestions will be helpful to him and remind everyone to pay more attention to changes in their body in daily life and adjust their lifestyle in time.

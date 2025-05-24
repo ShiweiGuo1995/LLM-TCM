@@ -1,0 +1,8 @@
+Original Text
+在探讨壮热与疟母的治疗策略时，我们强调“治未病”的重要性，主张通过养阴安神和解毒开闭相结合的方法，达到防治结合的目的。对于伴有脏躁症状的患者，应注重调和脾胃，清解脾胃热证，同时关注时疫霍乱的影响，以期达到整体调理的效果。
+Matched Terms
+['壮热', '疟母', '治未病', '养阴安神', '解毒开闭', '脏躁', '脾胃🗎热证', '时疫霍乱']
+Matched Terms Translation
+[['High fever'], ['Mother-of-malaria'], ['Preventing a disease before it arises'], ['Nourish yin and calm the mind'], ['Remove toxins and circulate qi'], ['Hysteria'], ['Damp heat in the spleen and stomach pattern', 'Damp heat in the middle jiao pattern'], ['Epidemic cholera', 'Severe vomiting and diarrhoea disorder']]
+Translation
+In discussing the treatment strategies for high fever (Zhuang) and mother-of-malaria (疟母), we emphasize the importance of "preventing a disease before it arises (治未病)", advocating a method that combines nourishing Yin and calming the mind (养阴安神) with removing toxins and circulating Qi (解毒开闭) to achieve a combination of prevention and treatment. For patients with hysteria (脏躁), attention should be paid to regulating and harmonizing the spleen and stomach (调和脾胃), clearing the heat pattern of the spleen (胃热证), while also considering the impact of epidemic cholera (时疫霍乱), in order to achieve an overall adjustment effect.

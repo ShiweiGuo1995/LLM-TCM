@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨热毒炽盛证与产后恶血冲心之间的关联性，并分析其在流火及肾痈发病机制中的作用。通过观察病例，我们发现患者除上述症状外，还伴有舌强及痿证表现，提示可能存在行气宽中之法的应用空间。进一步研究表明，命门之火的旺盛与否可能直接影响上述病症的发展与转归，为临床治疗提供了新的视角。
+Matched Terms
+['热毒炽盛证', '产后恶血冲心', '流火', '肾痈', '舌强', '痿证', '行气宽中', '命门之火']
+Matched Terms Translation
+[['Fire toxin pattern', 'Exuberance of toxic/pathogenic/ fire heat'], ['Lochia disturbing the heart mind'], ['Erysipelas of the leg'], ['Renal abscess'], ['Stiff tongue'], ['Wei-flaccidity disorders', 'Flaccidity disorder', ' Wilting disorder', ' Wei-flaccidity pattern'], ['Circulate qi and harmonize the stomach', 'Regulate qi and strengthen the stomach'], ['The fire of the gate of life']]
+Translation
+This study aims to explore the correlation between the Fire Toxin Pattern and lochia disturbing the heart mind, and analyze its role in the pathogenesis of erysipelas of the leg and renal abscess. Through case observations, we found that patients exhibited symptoms beyond the above, including stiff tongue and flaccidity disorders, suggesting potential applications of circulating qi and harmonizing the stomach. Further studies indicate that the strength or weakness of the fire of the gate of life may directly influence the development and outcome of the aforementioned conditions, providing new perspectives for clinical treatment.

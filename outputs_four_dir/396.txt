@@ -1,0 +1,8 @@
+Original Text
+中医认为肾主骨，对于肌肤不仁和舌麻痹等症状，我们可以通过穴位注射来改善。此外，肺司呼吸的功能与皮肤健康也有密切关系，疹和瘿肿等病症往往与肺功能失调有关。在治疗涩精止遗方面，中医有独特的见解和方法，通过综合调理可以达到很好的疗效。
+Matched Terms
+['肾主骨', '疹', '肌肤不仁', '瘿肿', '肺司呼吸', '舌麻痹', '穴位注射', '涩精止遗']
+Matched Terms Translation
+[['The kidney governs the bones'], ['Heat rash'], ['Insensitivity of the skin'], ['Goiter'], ['The lung governs breathing'], ['Tongue paralysis', 'Paralyzed'], ['Point injection', 'Hydro-acupuncture'], ['Astringe essence and stop seminal emissions']]
+Translation
+In TCM, the kidney governs the bones; for symptoms such as insensitivity of the skin and paralyzed tongue, we can improve them through point injection. Additionally, the lung's function in governing breathing has a close relationship with skin health; diseases such as heat rash and goiter are often associated with dysfunction of the lung. In treating astringe essence and stop seminal emissions, TCM has unique insights and methods, and comprehensive regulation can achieve excellent therapeutic effects.

@@ -1,0 +1,8 @@
+Original Text
+恙虫病的发生与感受外邪有关，而肾精亏虚证则是其重要的病理基础之一。在临床表现上，患者可能出现郑声等精神症状。治疗时需注重调整阴阳偏衰，对于脾阳虚水泛证和气虚痰结证的患者，应采用扶脾祛湿的方法，同时兼顾脏腑经络证类的辨证施治。
+Matched Terms
+['恙虫病', '肾精亏虚证', '郑声', '脾阳虚水泛证', '气虚痰结证', '脏腑经络证类', '阴阳偏衰', '扶脾祛🗎']
+Matched Terms Translation
+[['Scrub typhus'], ['Kidney essence deficiency pattern', 'Kidney qi/essence deficiency'], ['Muttering'], ['Spleen yang deficiency with water retention pattern'], ['Qi deficiency with phlegm retention pattern'], ['Patterns of the zang–fu organs and meridians', 'Organ system patterns'], ['Waning of yin or yang'], ['Strengthen the spleen and transform dampness', 'Supplement the spleen and resolve dampness']]
+Translation
+Scrub typhus occurs in relation to the invasion of external pathogens, and kidney essence deficiency pattern is one of its important pathological foundations. Clinically, patients may exhibit symptoms such as muttering. During treatment, it is necessary to focus on regulating the waning of yin or yang, and for patients with spleen yang deficiency with water retention pattern and qi deficiency with phlegm retention pattern, a method of strengthening the spleen and removing dampness should be adopted, while also taking into account the pattern identification and treatment of the organ system patterns.

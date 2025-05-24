@@ -1,0 +1,8 @@
+Original Text
+中医认为，秋季燥气当令，易伤肺津，导致秋燥现象，此时调理脾胃尤为重要。行气宽中可以促进脾胃运化，使胃气顺畅，而血不归经则可能导致各种出血症状，需通过调理气血来解决。贲门部位与胃气密切相关，其功能失调会影响饮食消化。同时，对于痟肾等慢性疾病患者，安神定志以调和情志，对疾病的恢复也至关重要。在治疗过程中，需掌握八要原则，全面调理身体机能，达到治病的目的。
+Matched Terms
+['行气宽中', '痟肾', '八要', '血不归经', '贲门', '胃气', '秋燥', '安神定志']
+Matched Terms Translation
+[['Circulate qi and harmonize the stomach', 'Regulate qi and strengthen the stomach'], ['Wasting of the lower jiao', 'Kidney wasting'], ['Eight requirements'], ['Blood failing to flow within the vessels'], ['Rushing gate'], ['Stomach qi'], ['Autumn dryness'], ['Calm and settle the mind', 'Calm the mind and alleviate palpitations']]
+Translation
+In TCM, it is believed that during autumn, the dryness Qi prevails, easily injuring lung jin, leading to autumn dryness. At this time, it is particularly important to regulate and harmonize the spleen and stomach. Circulating qi and harmonizing the stomach can promote the transformation function of the spleen and stomach, ensuring smooth stomach qi; while blood failing to flow within the vessels may cause various bleeding symptoms, which need to be resolved through regulating qi and harmonizing blood. The function of the贲门(carding gate) is closely related to stomach qi; its dysfunction will affect food digestion. Meanwhile, for patients with wasting of the lower jiao (wasting kidney), calming and settling the mind to adjust emotions is also crucial for disease recovery. During the treatment process, one must master the eight requirements, comprehensively regulating bodily functions to achieve the purpose of treating diseases.

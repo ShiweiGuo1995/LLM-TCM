@@ -1,0 +1,8 @@
+Original Text
+在探讨侠瘿瘅与结舌的关系时，我们发现口黏腻常伴随出现，这提示我们在临床诊断中应注意大肠津亏证的存在。同时，观察到舌质的变化对判断病情有重要价值。对于痉病患者，我们主张采用清暑宣肺的方法以缓解症状，而对于强中的治疗，则需结合患者的具体情况，采取综合调理措施。
+Matched Terms
+['侠瘿瘅', '结舌', '口黏腻', '大肠津亏证', '舌质', '痉病', '清暑宣肺', '强中']
+Matched Terms Translation
+[['Hyperparathyroidism'], ['Tongue-tie', 'Ankyloglossia'], ['A sticky, greasy taste'], ['Intestinal dryness pattern', 'Large intestine fluid deficiency pattern', ' Fluid insufficiency in the large intestine'], ['Tongue body'], ['Tetany', 'Tetanus'], ['Clear summer heat and disperse the lung'], ['Persistent erection', 'Persistent erection disorder']]
+Translation
+When discussing the relationship between Jia Ying Dan and tongue tie, we found that a sticky, greasy taste often accompanies these conditions, which suggests that we should pay attention to the existence of the Large Intestine Fluid Deficiency Pattern in clinical diagnosis. At the same time, observing changes in the tongue body is of great value for assessing the condition. For patients with spasm disease, we advocate using the method of Clear Summer Heat and Disperse the Lung to alleviate symptoms. As for the treatment of persistent erection, it is necessary to adopt comprehensive regulation measures based on the patient's specific circumstances.

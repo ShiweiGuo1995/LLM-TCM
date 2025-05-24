@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们常常会遇到一些看似平常却暗藏健康隐患的症状。比如有些朋友可能会出现口辛的情况，这可能是脾胃功能失调的表现。而当我们讨论如何调理时，不仅需要辨病，更要内外相合，通过调整生活方式和饮食习惯来达到神气鼓荡的效果。对于孕妇来说，妊娠脉的变化尤为重要，它能帮助我们了解母体与胎儿的健康状况。在治疗过程中，得气是针灸治疗的关键，也是患者感受疗效的重要标志。当然，在选择药材时，修制也是一门学问，好的药材才能更好地发挥药效。总之，中医不仅仅是治病，更是调养身心，让我们一起学习更多中医知识，共同守护健康。
+Matched Terms
+['神气鼓荡', '内外相合', '喘促', '修制', '口辛', '妊娠脉', '得气', '辨病']
+Matched Terms Translation
+[['Shen-qi movement'], ['Internal-external unity'], ['Panting', 'Rapid breathing'], ['Medicinal processing'], ['A pungent taste', 'An acrid taste'], ['Pregnancy pulse'], ['Arrival of qi', 'Deqi'], ['Disease differentiation']]
+Translation
+In daily life, we often encounter some seemingly ordinary symptoms that conceal health risks. For example, some friends may experience a pungent taste in their mouth, which could be a manifestation of disharmony in the spleen and stomach functions. When discussing how to regulate these conditions, it's not only necessary to differentiate diseases but also to achieve internal-external unity by adjusting lifestyles and dietary habits to attain the effect of shen-qi movement. For pregnant women, changes in the pregnancy pulse are particularly important as they help us understand the health status of both the mother and the fetus. During the treatment process, the arrival of qi is crucial in acupuncture therapy and also an important sign for patients to feel the therapeutic effects. Of course, when selecting medicinal materials, medicinal processing is also a discipline; only high-quality herbs can better exert their efficacy. In summary, traditional Chinese medicine is not just about curing diseases but also nurturing the body and mind. Let's learn more about traditional Chinese medicine together and jointly safeguard our health.

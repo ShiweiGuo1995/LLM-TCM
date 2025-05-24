@@ -1,0 +1,8 @@
+Original Text
+中医认为，痰凝胞宫证与血虚津亏证常相伴相生，二者相互影响，体现了虚实转化的病理特点。在临床表现上，患者可能出现溏结不调的症状，此时应重视化瘀消肿，以促进气血运行。对于血瘀化热证，通过清热解毒，凉血活血的方法，可以有效缓解症状。同时，风火热毒证亦不可忽视，其与骨的关系密切，治疗时需内外兼治，标本兼顾。
+Matched Terms
+['痰凝胞宫证', '虚实转化', '血虚津亏证', '风火热毒证', '骨', '血瘀化热证', '溏结不调', '化瘀消肿']
+Matched Terms Translation
+[['Phlegm retention in the uterus pattern', 'Phlegm obstructing the uterus pattern', ' Phlegm-dampness obstructing the uterus pattern Phlegm congealment in the uterus pattern Phlegm obstructing the uterus'], ['Deficiency–excess transformation'], ['Blood and fluids deficiency pattern'], ['Wind fire/heat toxin pattern'], ['Bone'], ['Blood stasis transformed heat pattern', 'Stasis transforming into heat pattern'], ['Irregular bowel movements'], ['Transform stasis and resolve swelling', 'Dissipate stasis and eliminate swelling', ' Break stasis and resolve swelling']]
+Translation
+In TCM, the pattern of phlegm retention in the uterus is often accompanied by the pattern of blood and fluids deficiency, with the two influencing each other, reflecting the pathological characteristic of deficiency-excess transformation. Clinically, patients may present with irregular bowel movements. At this time, it is important to transform stasis and resolve swelling to promote the circulation of qi and blood. For the pattern of blood stasis transformed heat, clearing heat to detoxify and cooling the blood while invigorating it can effectively alleviate symptoms. Meanwhile, the pattern of wind fire/heat toxin should not be neglected, as it is closely related to the bone; treatment should address both internal and external aspects, focusing on both biao-tip and ben-trunk.

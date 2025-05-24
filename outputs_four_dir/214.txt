@@ -1,0 +1,8 @@
+Original Text
+在探讨大周天与针灸手法如捻转补泻的关系时，我们发现特定的针灸操作对于治疗风热表证和表证具有显著效果。进一步研究显示，对于妊娠期间出现的小便不通（即妊娠小便不通），采用合适的针刺位置和捻转补泻手法可以有效缓解症状。此外，在月经前后诸症的研究中，观察到某些特定的针灸策略对于改善嫩舌等体征有积极作用。然而，这些方法在治疗癃闭方面的作用仍需更多的临床数据支持。本研究旨在通过上述分析，为中医临床提供更全面的理论依据。
+Matched Terms
+['大周天', '癃闭', '妊娠小便不通', '月经前后诸症', '嫩舌', '表证', '风热表证', '捻转补泻']
+Matched Terms Translation
+[['Large heavenly circle'], ['Urinary retention'], ['Urine retention in pregnancy'], ['Perimenstrual disorders'], ['Tender tongue'], ['Exterior pattern'], ['Wind heat exterior pattern', 'Wind heat invading the exterior pattern'], ['Reinforcing and reducing by twirling or rotating', 'Tonifying and sedating by twirling or rotating']]
+Translation
+When exploring the relationship between the large heavenly circle and acupuncture techniques such as reinforcing and reducing by twirling, we found that specific acupuncture operations have significant effects on treating wind heat exterior pattern and exterior pattern. Further research shows that for urinary retention during pregnancy (i.e., urine retention in pregnancy), using appropriate acupuncture points and reinforcing and reducing by twirling techniques can effectively alleviate symptoms. Additionally, in the study of perimenstrual disorders, it was observed that certain specific acupuncture strategies have positive effects on improving signs such as tender tongue. However, the role of these methods in treating urinary retention still requires more clinical data support. This study aims to provide a more comprehensive theoretical basis for TCM clinical practice through the above analysis.

@@ -1,0 +1,8 @@
+Original Text
+在探讨固肾安胎与肝脾不和证之关联时，我们发现乳痨患者中亦可见虫兽咬伤病引发之悬痈症状，其病机关键在于阴虚则热，导致脉络受损。临床观察表明，此类患者舌象常表现为有根苔，且伴有涩味，此乃气血不畅、津液亏损之象。因此，在治疗上需兼顾调理肝脾、固护肾气，以期达到阴平阳秘之效。
+Matched Terms
+['固肾安胎', '肝脾不和证', '乳痨', '虫兽咬伤病', '悬痈', '阴虚则热', '有根苔', '涩味']
+Matched Terms Translation
+[['Reinforce the kidney and secure the fetus'], ['Disharmony between the liver and spleen pattern', 'Disharmony of liver and spleen systems pattern', ' Liver depression and spleen deficiency pattern', ' Imbalance between liver and spleen pattern'], ['Breast tuberculosis'], ['Insect or animal bites'], ['Perineal abscess'], ['Yin deficiency leading to heat'], ['Rooted coating', 'True coating'], ['Astringent flavour']]
+Translation
+In exploring the correlation between reinforcing the kidney and securing the fetus and disharmony between the liver and spleen, we found that patients with breast tuberculosis may also exhibit symptoms of perineal abscess caused by insect or animal bites. The key pathogenesis lies in yin deficiency leading to heat, which results in damage to the vessels. Clinical observations show that such patients often present with rooted coating on their tongues, accompanied by an astringent flavor, indicating poor circulation of qi and blood and depletion of body fluids. Therefore, in treatment, it is necessary to regulate and harmonize the liver and spleen while reinforcing kidney qi, aiming for a balance between yin and yang.

@@ -1,0 +1,8 @@
+Original Text
+五更泻多因肾阳不足，常见于慢性腹泻患者；而阴肿则与肝肾阴虚有关。在诊察过程中，若出现反关脉，需警惕患者可能存在心脏疾病。蚕豆黄是一种由于食用蚕豆引发的溶血性疾病，其症状与阳黄病类似，但病因不同。附骨痰常由外感风寒引起，表现为咳嗽且痰液粘稠。若患者舌体异常结舌，则可能是气血两虚的表现。诊治时，需综合考虑脉象迟脉等因素。
+Matched Terms
+['五更泻', '迟脉', '阴肿', '反关脉', '蚕豆黄', '附骨痰', '阳黄病', '结舌']
+Matched Terms Translation
+[['Early morning (Cock’s crow) diarrhoea'], ['Slow pulse'], ['Vulvar ulceration', 'Vulvar swelling Vulvar erosion'], ['Pulse on the back of the wrist'], ['Favism'], ['Bone phlegm'], ['Yang jaundice', 'Jaundice disorder'], ['Tongue-tie', 'Ankyloglossia']]
+Translation
+Early morning (Cock’s crow) diarrhoea is mostly due to insufficient Kidney yang, commonly seen in patients with chronic diarrhoea; vulvar swelling is associated with liver and kidney yin deficiency. During diagnosis, if a pulse on the back of the wrist is observed, it is necessary to be alert for the possibility of cardiac disease in the patient. Favism is a haemolytic disease caused by eating fava beans, its symptoms are similar to those of Yang jaundice, but the causative factors are different. Bone phlegm is often caused by external invasion of wind-cold, manifesting as cough with sticky phlegm. If there is an abnormality in the tongue body such as tongue-tie, it may indicate dual deficiency of qi and blood. During diagnosis and treatment, it is necessary to comprehensively consider pulse conditions such as slow pulse and so on.

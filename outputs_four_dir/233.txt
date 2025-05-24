@@ -1,0 +1,8 @@
+Original Text
+最近遇到一位患者，他总是感觉心悸不安，而且吐舌，头摇不止，这让我想到了“阳中之阴”的状态，他的食欲也不好，总是厌食病，说话时声音也很小，声怯很明显，虽然口渴但并不想喝水，经过一番诊断后发现他还有肝气虚证的情况，治疗上需要综合调理。
+Matched Terms
+['吐舌', '阳中之阴', '厌食病', '心悸', '头摇', '声怯', '渴不欲饮', '肝气虚证']
+Matched Terms Translation
+[['Protruding tongue', 'Protruded agitated'], ['Yin within yang'], ['Loss of appetite'], ['Palpitations'], ['Shaking of the head', 'Head shaking'], ['Faint, low voice'], ['Thirst with no desire to drink'], ['Liver qi deficiency pattern', 'Liver yang insufficiency pattern']]
+Translation
+Recently, I encountered a patient who always felt palpitations and was restless, with protruding tongue and unceasing head shaking, which made me think of the state of "Yin within Yang". His appetite was also poor, suffering from loss of appetite, and his voice was very small and faint. Although he felt thirsty, he did not want to drink water. After diagnosis, it was found that he had the condition of Liver qi deficiency. The treatment needed comprehensive regulation.

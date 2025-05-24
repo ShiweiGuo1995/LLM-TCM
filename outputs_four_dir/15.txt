@@ -1,0 +1,8 @@
+Original Text
+在探讨沙眼与火耗气伤津的关系时，我们发现二者常相伴而生，尤其在痘疹、肺痨等病症中更为显著。口臭作为临床常见症状之一，往往提示体内湿热过重或肺胃蕴热，此现象在肺痨患者中尤为突出。治疗过程中，采用远部取穴的方法，能有效调节气血，缓解经行发热等症状，同时对控制黄水疮的发展亦有裨益。研究表明，综合运用针灸与中药疗法，能够更全面地调整机体状态，促进疾病恢复。
+Matched Terms
+['沙眼', '火耗气伤津', '口臭', '远部取穴', '痘疹', '肺痨', '经行发热', '黄水疮']
+Matched Terms Translation
+[['Pricklyash-like sores on the eyelid', 'Trachoma'], ['Fire consumes qi and body fluids'], ['Bad breath', 'Foul breath'], ['Selection of distal points'], ['Smallpox'], ['Lung tuberculosis'], ['Fever during menstruation'], ['Yellow-water sore', 'Impetigo disorder']]
+Translation
+In discussing the relationship between trachoma and fire consuming qi and body fluids, we find that they often coexist, especially in diseases such as smallpox and lung tuberculosis. Bad breath, as one of the common clinical symptoms, frequently indicates excessive internal damp-heat or蕴 heat in the lungs and stomach, a phenomenon particularly prominent in patients with lung tuberculosis. During treatment, using the method of selection of distal points can effectively regulate qi and blood, alleviate symptoms such as fever during menstruation, and also benefit in controlling the development of impetigo disorder. Studies have shown that the comprehensive application of acupuncture and Chinese herbal medicines can more comprehensively adjust the body's condition and promote disease recovery.

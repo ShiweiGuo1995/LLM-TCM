@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友向我诉苦，说他家孩子经常感冒发热，脸上还长了天行痘，非常担心。我仔细观察后发现孩子舌质偏红且有裂纹舌的现象，询问得知孩子食欲不振，消化不良，怀疑是脾积痞气所致。建议她可以试试艾条灸来调理孩子的脾胃功能，同时避免食用辛辣刺激的食物。此外，我还提到可以通过背部按摩的背法来促进血液循环，帮助孩子身体恢复。不过最重要的是要保持良好的生活习惯，增强体质，防止离经脉的发生，减少止血剂的使用。如果孩子的鸡胸症状没有改善，最好及时就医检查，以便对症治疗。
+Matched Terms
+['天行痘', '脾积痞气', '裂纹舌', '背法', '离经脉', '止血剂', '鸡胸', '艾条灸']
+Matched Terms Translation
+[['Paediatric smallpox'], ['Masses in the spleen'], ['Fissured tongue', 'Cracked tongue'], ['Back-carrying manipulation'], ['Abnormal frequency pulse'], ['Formulas that stop bleeding'], ['Pigeon chest'], ['Moxa stick moxibustion']]
+Translation
+Recently, a friend complained to me that his child often catches colds and has fever, and there are also smallpox-like rashes on the face, which worries him very much. After careful observation, I found that the child's tongue body is reddish with fissured tongue, and learned from inquiry that the child has poor appetite and indigestion, suspecting it might be caused by masses in the spleen. I suggested that she could try moxa stick moxibustion to regulate the child's spleen and stomach function, while avoiding spicy and stimulating foods. In addition, I mentioned that back-carrying manipulation can promote blood circulation and help the child recover. However, the most important thing is to maintain good living habits, enhance physical fitness, prevent abnormal frequency pulse, and reduce the use of formulas that stop bleeding. If the pigeon chest symptom does not improve, it is best to seek medical examination in time for symptomatic treatment.

@@ -1,0 +1,8 @@
+Original Text
+在中医理论中，内痔的治疗需依据患者体质如水形人特点，采用端法调整脏腑功能。对于因胎传梅毒引发的久疟患者，应先用武火快速煎煮药物以驱邪气，再用文火慢煎以养正气，同时观察舌苔变化，若出现霉酱苔，则提示体内湿热较重，需及时调整治疗方案。诊脉时应注意浮、中、沉三部脉象，以全面了解病情。
+Matched Terms
+['内痔', '水形人', '胎传梅毒', '武火', '久疟', '霉酱苔', '端法', '浮、中、沉']
+Matched Terms Translation
+[['Internal haemorrhoids', 'Interior haemorroid disorder'], ['Water personality'], ['Congenital syphilis'], ['Strong fire', 'Intense fire, quick fire'], ['Chronic malaria'], ['Rotten-curdy coating', 'Moulding soymilk coating'], ['Holding manipulation'], ['Floating, medium and deep']]
+Translation
+In TCM theory, the treatment of internal hemorrhoids should be based on the patient's constitution, such as the characteristics of the water personality, using holding manipulation to adjust the Zang-fu functions. For patients with chronic malaria caused by congenital syphilis, strong fire should be used for rapid boiling of the herbs to expel pathogenic qi, followed by slow fire for gentle boiling to nourish healthy qi. At the same time, changes in tongue coating should be observed; if rotten-curdy coating appears, it indicates that there is a significant presence of damp-heat in the body, requiring timely adjustment of the treatment plan. When taking the pulse, attention should be paid to the pulse conditions of floating, medium, and deep, to comprehensively understand the condition.

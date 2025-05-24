@@ -1,0 +1,8 @@
+Original Text
+耳针疗法是治疗多种疾病的有效方法之一，尤其在缓解百晬咳症状方面有独特效果。同时，在日常调理中，我们还可以采用推揉法促进气血运行，配合使用化瘀宽心等滋养安神剂，以达到更好的治疗效果。值得注意的是，在使用中药时，必须确保药物未发生变质，否则可能会影响疗效。在采集药材的过程中，正确的采法也非常重要，它直接关系到药材的质量和药效。最后，在煎煮中药时，掌握好汤头的比例也是关键之一，这将直接影响到药物的吸收和利用。
+Matched Terms
+['耳针疗法', '化瘀宽心', '推揉法', '滋养安神剂', '中药变质', '采法', '百晬咳', '汤头']
+Matched Terms Translation
+[['Ear acupuncture', 'Auriculotherapy'], ['Transform blood stasis and soothe the heart'], ['Pushing-kneading manipulation'], ['Formulas that calm and nourish the mind'], ['Spoilage of Chinese medicines'], ['(Cai) plucking method'], ['Neonatal cough'], ['Decoction formulas/ mnemonics', 'Decoction formulas/ mnemonics']]
+Translation
+Ear acupuncture is one of the effective methods for treating various diseases, especially in alleviating symptoms of neonatal cough. Meanwhile, in daily regulation, we can also use pushing-kneading manipulation to promote the circulation of Qi and Blood, combined with the use of formulas that calm and nourish the mind such as Transform blood stasis and soothe the heart to achieve better therapeutic effects. It is worth noting that when using Chinese herbal medicines, it must be ensured that the medicines have not deteriorated, otherwise it may affect the efficacy. During the process of collecting medicinal materials, the correct (Cai) plucking method is also very important, as it directly relates to the quality and efficacy of the medicinal materials. Finally, mastering the proportion of decoction formulas during boiling Chinese medicines is also one of the keys, which will directly affect the absorption and utilization of the drugs.

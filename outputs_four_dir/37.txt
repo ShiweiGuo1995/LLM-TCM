@@ -1,0 +1,8 @@
+Original Text
+最近在给一位朋友调理身体时，发现他面色萎黄，精神不振，通过舌诊发现他的舌头颜色偏淡，舌尖有裂纹，这可能是由于肺部津液不足导致的，需要滋补肺阴来改善。同时，这位朋友还存在虚实真假的情况，这就需要我们用三焦辨证的方法来判断病因所在，再结合相使的原则选用合适的草药。在治疗过程中，还需注意敛阴固脱，防止病情进一步恶化。当然，在治疗初期，适度的涌吐开关也是必要的，但需谨慎使用，以免伤及正气。
+Matched Terms
+['滋补肺阴', '涌吐开关', '虚实真假', '敛阴固脱', '三焦辨证', '舌诊', '相使', '面色萎黄']
+Matched Terms Translation
+[['Nourish and supplement lung yin', 'Nourish lung yin'], ['Induce vomiting to refresh the mind'], ['True or false deficiency and excess'], ['Secure and astringe yin fluids', 'Astringe yin and prevent collapse'], ['Pattern differentiation of the three jiao', 'Pattern differentiation of the triple energizer'], ['Tongue diagnosis'], ['Mutual assistance'], ['Sallow facial complexion']]
+Translation
+Recently, when adjusting my friend's health, I found his complexion sallow and his spirit depressed. Through tongue diagnosis, I discovered that his tongue color was pale with cracks at the tip, which might be due to insufficient lung fluids, requiring nourishing and supplementing lung yin to improve it. At the same time, my friend also exhibited true or false deficiency and excess conditions, which require us to use the pattern differentiation of the three jiao to determine the causative factors, and then select appropriate folk medicines based on the principle of mutual assistance. During the treatment process, we also need to pay attention to securing and astringing yin fluids to prevent the condition from worsening further. Of course, during the initial stage of treatment, inducing vomiting to refresh the mind is also necessary, but it must be used cautiously to avoid injuring healthy qi.

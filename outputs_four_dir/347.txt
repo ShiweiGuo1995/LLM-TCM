@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于睡眠的问题，他说他经常睡时露睛，感觉很困扰。我建议他可以试试通过拢法按摩眼部周围的穴位来改善。同时，也提醒大家平时要注意精血同源，保持气血两清，这样身体才会更加健康。另外，如果感觉到精神不振，可能是因为阳蹻脉不通，可以适当调整生活习惯，比如早睡早起。当然，如果你有异食癖，那么在调理身体的同时，也要注意饮食习惯，避免加重病情。希望这些小知识能帮助到大家！
+Matched Terms
+['睡时露睛', '员利针', '脑痨', '拢法', '精血同源', '气血两清剂', '阳蹻脉', '异食癖']
+Matched Terms Translation
+[['Sleep with exposed eyeballs'], ['Round-sharp needle', 'Yuan Li zhen'], ['Brain tuberculosis'], ['Gathering manipulation'], ['Essence and blood share the same source'], ['Formulas that clear heat in the qi and blood'], ['The Yangqiao meridian'], ['Paediatric parorexia']]
+Translation
+Recently, a friend asked me about sleep issues, saying he often sleeps with exposed eyeballs, which troubles him a lot. I suggested that he could try improving this by using the Gathering manipulation to massage the acupoints around the eyes. At the same time, I also reminded everyone to pay attention to the fact that Essence and blood share the same source in daily life, maintaining the clarity of Qi and Blood, so that the body can be healthier. Additionally, if you feel listless, it might be due to the obstruction of the Yangqiao meridian; you may need to adjust your lifestyle habits, such as going to bed early and getting up early. Of course, if you have paediatric parorexia, while regulating your body, you should also pay attention to your dietary habits to avoid aggravating the condition. I hope these little pieces of knowledge can help everyone!

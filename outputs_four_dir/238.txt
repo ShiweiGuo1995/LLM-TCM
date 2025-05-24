@@ -1,0 +1,8 @@
+Original Text
+在本研究中，我们采用脏腑辨证方法探讨了白秃疮与多寐病之间的关联。通过对患者进行微丸治疗后，观察到其声怯症状有所改善，同时结合轻剂和温化寒痰剂的使用，进一步验证了该疗法的有效性。然而，在治疗过程中发现狂犬病的存在对整体疗效产生了一定的影响，这提示我们在临床应用时需更加细致地分析病情，以确保治疗方案的精准性和有效性。
+Matched Terms
+['白秃疮', '多寐病', '微丸', '脏腑辨证', '轻剂', '温化寒痰剂', '声怯', '狂犬病']
+Matched Terms Translation
+[['White ringworm'], ['Hypersomnia', 'Somnolence disorder', ' Hypersomnolence'], ['Mini pill'], ['Pattern differentiation of zang–fu organs'], ['Light formula'], ['Formulas that warm and transform cold phlegm'], ['Faint, low voice'], ['Rabies']]
+Translation
+In this study, we adopted the method of Zang-fu pattern identification to explore the correlation between white ringworm and hypersomnia. After treating patients with mini pills, their symptom of faint, low voice showed improvement. The use of light formulas and warm yang and transform cold phlegm formulas further verified the effectiveness of this therapy. However, during the treatment process, the existence of rabies had a certain impact on the overall efficacy, which suggests that in clinical application, we need to analyze the condition more meticulously to ensure the accuracy and effectiveness of the treatment plan.

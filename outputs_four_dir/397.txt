@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友问我关于慢惊风的问题，我告诉他这与人迎脉的状态息息相关，同时要注意调理体内的精气。在日常生活中，我们可以采用辛温解表的方法来预防疾病的发生。如果出现邪害空窍的情况，需要及时采取气血两清剂进行治疗。另外，对于经常感到厥头痛的朋友来说，理血法也是必不可少的治疗手段。希望这些简单的知识能帮助大家更好地理解并维护自身的健康。
+Matched Terms
+['慢惊风', '人迎脉', '精', '辛温解表', '邪害空窍', '气血两清剂', '厥头痛', '理血法']
+Matched Terms Translation
+[['Chronic infantile convulsion', 'Recurrent convulsion disorder'], ['Carotid pulsation', 'Renying pulsation'], ['Essence'], ['Release the exterior with pungent-warm', 'Promote sweating with pungent-warm', ' Release the exterior and dissipate cold'], ['Pathogenic factors attacking orifices'], ['Formulas that clear heat in the qi and blood'], ['True headache'], ['Methods to regulate blood']]
+Translation
+Recently, a friend asked me about the issue of chronic infantile convulsion. I told him that it is closely related to the state of carotid pulsation, while also paying attention to the regulation of essence qi within the body. In daily life, we can adopt the method of releasing the exterior with pungent-warm to prevent the occurrence of disease. If pathogenic factors attacking orifices occur, timely treatment with formulas that clear heat in the qi and blood should be administered. Additionally, for friends who often experience true headache, methods to regulate blood are also essential therapeutic approaches. It is hoped that this simple knowledge can help everyone better understand and maintain their health.

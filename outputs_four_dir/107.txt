@@ -1,0 +1,8 @@
+Original Text
+侏儒患者常因肾阴虚证导致生长发育迟缓，若出现真心痛症状，则可能涉及手太阴肺经病变，此时需辨明气血两虚证与冷汗等表现，同时观察舌象如绛舌，以全面评估膀胱失约证的可能性。
+Matched Terms
+['侏儒', '绛舌', '真心痛', '肾阴虚证', '手太阴肺经', '膀胱失约证', '冷汗', '气血两虚证']
+Matched Terms Translation
+[['Short stature'], ['Crimson tongue'], ['True cardiac pain'], ['Kidney yin deficiency pattern', 'Genuine yin deficiency pattern', ' Kidney water depletion and deficiency pattern', ' Primordial yin deficiency pattern'], ['The lung meridian of hand-Taiyin'], ['Qi failing to secure the urinary bladder pattern'], ['Cold sweats'], ['Qi and blood deficiency pattern']]
+Translation
+Patients with short stature often develop delayed growth and development due to the kidney yin deficiency pattern. If they exhibit symptoms of true cardiac pain, it may involve lesions in the lung meridian of hand-Taiyin. At this time, one needs to differentiate between the qi and blood deficiency pattern and manifestations such as cold sweats, while simultaneously observing the tongue manifestations like a crimson tongue, to comprehensively assess the possibility of the kidney yin deficiency pattern and the qi failing to secure the urinary bladder pattern.

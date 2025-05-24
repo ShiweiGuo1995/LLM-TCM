@@ -1,0 +1,8 @@
+Original Text
+在治疗寒蕴肤证时，我们常采用药物发泡法以达到温经散寒的效果，同时对于伴有口苦等症状的心脾积热证患者，需谨慎使用以防晕针现象发生。在处理阴黄病的过程中，遵循缓则治本的原则，通过调整体质从根本上解决问题显得尤为重要。
+Matched Terms
+['药物发泡法', '温经散寒剂', '寒🗎蕴肤证', '口苦', '缓则治本', '心脾积热证', '晕针', '阴黄病']
+Matched Terms Translation
+[['Blistering moxibustion', 'Scarring moxibustion'], ['Formulas that warm meridians and dispel cold'], ['Retained cold dampness in the skin pattern'], ['A bitter taste'], ['Treat the root in remissive stages'], ['Heat accumulating in the heart and spleen pattern', 'Excess heat in the heart and spleen pattern'], ['Needle shock', 'Fainting during an acupuncture session.'], ['Yin jaundice', 'Jaundice disorder']]
+Translation
+In the treatment of coldness accumulated under the skin, we often adopt blistering moxibustion to achieve the effect of warming meridians and dissipating cold. At the same time, for patients with heart and spleen heat accumulation pattern accompanied by symptoms such as a bitter taste in the mouth, we need to use it cautiously to prevent needle shock. In dealing with Yin jaundice, following the principle of treating the root in remissive stages, it is particularly important to adjust the constitution fundamentally to solve the problem.

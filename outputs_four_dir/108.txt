@@ -1,0 +1,8 @@
+Original Text
+在探讨中医的整体观念时，我们不仅要关注局部症状，还要考虑到患者全身的状态。例如，对于风中经络证的治疗，我们除了使用拔伸法缓解局部症状外，还需要注重调理脾胃，以应对可能伴随的脾痟。在某些情况下，如遇到禁口痢这样的病症时，还需结合患者的具体情况，采取相应的治疗方法。同时，皮痹作为常见的皮肤病，其治疗也需遵循整体观念，不可仅限于皮肤表面的处理。对于孕痈这类特殊时期的疾病，更需要细心辨证施治，确保母婴安全。而关于敞裆这一现象，虽然不常见于现代中医文献，但在特定历史背景下，它与某些疾病的关联仍值得研究。
+Matched Terms
+['拔伸法', '风中经络证', '敞裆', '脾痟', '皮痹', '噤口痢', '整体观念', '孕痈']
+Matched Terms Translation
+[['Pulling-stretching manipulation', 'Traction manipulation'], ['Wind attacking the meridians pattern'], ['Open crotch'], ['Wasting of the spleen'], ['Skin impediment'], ['Food-denying dysentery'], ['Holistic concept', 'Holistic view'], ['Acute appendicitis during pregnancy']]
+Translation
+When discussing the holistic concept in Traditional Chinese Medicine, we must not only focus on local symptoms but also consider the patient's overall condition. For instance, in treating the Wind attacking the meridians pattern, besides using pulling-stretching manipulation to alleviate local symptoms, it is necessary to regulate and harmonize the spleen and stomach to address potential spleen wasting. In some cases, such as encountering closed-mouth dysentery, corresponding treatments should be adopted based on the specific circumstances of the patient. Meanwhile, as a common skin disease, the treatment of skin impediment also needs to follow the holistic concept and cannot be limited to surface-level management of the skin. For diseases like acute appendicitis during pregnancy, more meticulous pattern differentiation and treatment are required to ensure the safety of both mother and child. As for open crotch, although it is not commonly found in modern TCM literature, its association with certain diseases under specific historical contexts still warrants research.

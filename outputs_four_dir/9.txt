@@ -1,0 +1,8 @@
+Original Text
+通过对小儿烂喉丹痧的临床观察，我们发现其与气轮理论密切相关，同时结合十二正经证类分析，提出了以益气安神为主导的治疗策略。在针对燥邪犯肺证的治疗过程中，特别强调了爪为筋之余的重要性，并通过散剂形式给予干预，有效改善了患者的症状。此外，在处理颅脑类病时，亦参考了上述理论，综合施治，取得了显著疗效。
+Matched Terms
+['小儿烂喉丹痧', '气轮', '十二正经证类', '益气安神', '燥邪犯肺证', '爪为筋之余', '颅脑类病', '散剂']
+Matched Terms Translation
+[['Ulcerated throat with red exanthem', 'Scarlet fever'], ['Qi wheel'], ['Patterns of the twelve regular meridians', 'Main meridian patterns'], ['Supplement qi and calm the mind'], ['Wind dryness damaging the lung pattern', 'Dryness invading the lung pattern', ' Dryness damaging/ attacking the lung'], ['Nails are the extension of sinews'], ['Brain diseases', 'Brain system disorders'], ['Powder']]
+Translation
+Through clinical observation of pediatric ulcerated throat with red exanthem, we found its close relationship with the Qi wheel theory, and combined with the analysis of the Patterns of the twelve regular meridians, proposed a treatment strategy dominated by supplementing Qi and calming the mind. During the treatment process of the pattern of Dryness invading the lung, the importance of nails being the extension of sinews was particularly emphasized, and through powder form intervention, effectively improved the patient's symptoms. Furthermore, when dealing with brain diseases, the above theories were also referred to, achieving significant therapeutic effects through comprehensive treatment.

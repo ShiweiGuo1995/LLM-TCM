@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨乳癖与风温肺热病之关系，并结合阴阳相错理论分析其病理机制。在治疗过程中，采用和解剂以调和气血，缓解肺热壅盛证。然而，在临床实践中，药物中毒亦为常见问题之一，需谨慎用药。此外，关格现象亦值得关注，此乃脾胃功能失调所致。提肛运动作为辅助疗法，有助于改善患者体质，促进康复。通过上述分析，提出综合治疗方案，以期达到标本兼治之效。
+Matched Terms
+['乳癖', '提肛', '阴阳相错', '风温肺热病', '和解剂', '肺热壅盛证', '药物中毒', '关格']
+Matched Terms Translation
+[['Breast lumps'], ['Lifting the anus', 'Suspending the crotch'], ['Yin and yang mutually interact', 'Yin–yang intertwining', ' yin–yang resonance'], ['Wind pestilence', 'Wind febrile disorders', ' Wind pestilence with lung heat'], ['Formulas that harmonize and release'], ['Excess heat in the lung pattern', 'Excess lung heat pattern', '', ' exuberance of lung heat pattern'], ['Drug poisoning'], ['Urinary block and vomiting']]
+Translation
+This article aims to explore the relationship between breast lumps and wind febrile disorders with lung heat, and analyze their pathological mechanisms based on the theory of Yin and yang mutually interact. During the treatment process, formulas that harmonize and release are used to regulate and harmonize qi and blood, alleviating the excess lung heat pattern. However, drug poisoning is also a common issue in clinical practice, which requires cautious medication use. Additionally, urinary block and vomiting should also be taken into consideration, as they result from dysfunction of the spleen and stomach. Lifting the anus as an adjunct therapy helps improve the patient's constitution and promote recovery. Through the above analysis, a comprehensive treatment plan is proposed with the aim of treating both the tip and root.

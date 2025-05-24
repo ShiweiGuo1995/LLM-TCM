@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨疖肿与疫斑热在临床表现及治疗策略上的异同。研究表明，疖肿的发生与脾合胃功能失调密切相关，而疫斑热则常表现为太阳腑证或太阴病证。在治疗过程中，需注重滋养肝阴，以改善体内环境，同时对于痰浊中阻证患者，应采取相应措施调理脏腑机能，促进病情恢复。药物使用时宜温服，以提高药效。综上所述，通过综合分析上述症状及证候特点，为临床治疗提供参考依据。
+Matched Terms
+['疖肿', '脾合胃', '太阳腑证', '疫斑热', '太阴病证', '滋养肝阴', '痰浊中阻证', '温服']
+Matched Terms Translation
+[['Furuncles', 'Furuncle disorders', ' Boil disorders Boils'], ['The pairing between the spleen and stomach'], ['Taiyang–fu organ pattern'], ['Epidemic haemorrhagic fever'], ['Taiyin pattern', 'Early yin stage pattern', ' Greater yin pattern'], ['Nourish and supplement liver yin', 'Nourish liver yin'], ['Phlegm dampness accumulating in the spleen pattern', 'Phlegm turbidity obstructing the middle jiao', ' Phlegm fluid obstructing the middle jiao', ' Phelgm-dampness accumulating in the spleen pattern'], ['Take warm']]
+Translation
+This article aims to explore the similarities and differences in clinical manifestations and treatment strategies between furuncles and epidemic hemorrhagic fever. Studies have shown that the occurrence of furuncles is closely related to the dysfunction of the pairing between the spleen and stomach, while epidemic hemorrhagic fever often manifests as Taiyang-fu organ pattern or Taiyin pattern. During the treatment process, it is necessary to focus on nourishing liver yin to improve the internal environment. For patients with phlegm turbidity obstructing the middle jiao, corresponding measures should be taken to regulate the zang-fu organ functions and promote recovery from the disease. Medicines should be taken warm to enhance their efficacy. In summary, by comprehensively analyzing the above symptoms and patterns, this study provides a reference basis for clinical treatment.

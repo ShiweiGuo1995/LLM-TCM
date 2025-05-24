@@ -1,0 +1,8 @@
+Original Text
+在治疗积聚类病时，我们常采用八不传的原则，以确保患者在接受汗法或平旦服等治疗方法时，能够有效清除体内的气分热证。对于一些较为严重的病症如乳发，我们则需要结合清气凉血的方法，并辅以豁痰开窍来达到更好的疗效。这一系列的治疗方法不仅体现了中医辨证施治的精髓，也展示了中医在处理复杂疾病时的独特优势。
+Matched Terms
+['八不传', '汗法', '平旦服', '清气凉血', '积聚类病', '气分🗎热证', '乳发', '豁痰开窍']
+Matched Terms Translation
+[['Eight types of people should be declined to learn Taiji'], ['Sweating method'], ['Take before breakfast'], ['Clear heat and cool blood', 'Clear qi and cool blood'], ['Abdominal masses'], ['Damp heat in the qi phase', 'Qi phase dampness and heat pattern'], ['Acute septic mastitis', 'Shell-bursting pyogenic abscess'], ['Transform phlegm and open the orifices']]
+Translation
+In treating diseases of abdominal masses, we often adopt the principle of "Eight types of people should be declined to learn Taiji" to ensure that patients can effectively clear the heat pattern in the qi level when receiving sweating methods or taking before breakfast. For more severe conditions such as acute septic mastitis, we need to combine the method of clearing qi and cooling blood, supplemented by transforming phlegm and opening the orifices to achieve better therapeutic effects. This series of treatment methods not only embodies the essence of syndrome differentiation in TCM but also demonstrates the unique advantages of TCM in dealing with complex diseases.

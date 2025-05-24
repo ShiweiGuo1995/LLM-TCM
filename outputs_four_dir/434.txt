@@ -1,0 +1,8 @@
+Original Text
+本文通过对临床病例的分析探讨了肾气亏虚证与产后恶血冲心的关系，并结合润燥化痰法对干脚气及风痰入络证进行了治疗研究，结果显示该方法能有效改善症状。同时，在补益脾肾的基础上加入叹息等情志调节措施，进一步提高了疗效，为临床治疗提供了新思路。
+Matched Terms
+['肾气亏虚证', '润燥化痰', '产后恶血冲心', '干脚气', '风痰入络证', '伤筋病', '补益脾肾', '叹息']
+Matched Terms Translation
+[['Kidney qi deficiency pattern', 'Kidney qi depletion pattern', ' Kidney qi insufficiency', 'Kidney essence deficiency pattern', 'Kidney qi/essence deficiency'], ['Moisten dryness and transform phlegm', 'Moisten the lung and transform phlegm', ' Moisten and transform dry phlegm'], ['Lochia disturbing the heart mind'], ['Dry beriberi'], ['Wind phlegm entering the meridians pattern', 'Wind phlegm obstructing the meridians pattern'], ['Tendon injuries'], ['Tonify the spleen and kidney', 'Reinforce the spleen and benefit the kidney'], ['Sighing']]
+Translation
+This article analyzes the clinical cases to explore the relationship between kidney qi deficiency pattern and lochia disturbing the heart mind, and combined with moisten dryness and transform phlegm method to conduct a treatment study on dry beriberi and wind phlegm entering the meridians pattern. The results show that this method can effectively improve symptoms. Meanwhile, based on tonifying the spleen and kidney, adding sighing and other emotional regulation measures further enhances the therapeutic effect, providing new ideas for clinical treatment.

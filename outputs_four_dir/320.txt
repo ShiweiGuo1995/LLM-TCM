@@ -1,0 +1,8 @@
+Original Text
+中医认为阳痿与肾虚有关，滋补心肺之法亦有裨益。上焦如雾，需清热祛痰剂以调理。含腮疮虽常见，亦不可忽视，封腰法可缓解其症状。子冒非孕妇特有，颈痈亦需辨证施治。此皆为临床常见病症，宜早诊治。
+Matched Terms
+['阳痿', '滋补心肺', '上焦如雾', '清热祛🗎剂', '含腮疮', '封腰法', '子冒', '颈痈']
+Matched Terms Translation
+[['Impotence', 'Impotence disorder', 'Impotence', 'Impotence disorder'], ['Nourish and supplement the heart and lung', 'Nourish the heart and lung'], ['Upper jiao resembles mist'], ['Formulas that clear heat and eliminate dampness'], ['Mumps', 'Parotitis'], ['Low back-closing manipulation'], ['Eclampsia of pregnancy', 'Eclampsia disorder'], ['Cervical abscess']]
+Translation
+Impotence is related to kidney deficiency, and nourishing the heart and lung also benefits. Upper jiao resembles mist, it requires formulas that eliminate phlegm to regulate. Although mumps is common, it should not be ignored; low back-closing manipulation can alleviate its symptoms. Eclampsia disorder is not exclusive to pregnant women, cervical abscess also needs pattern differentiation and treatment. These are all common clinical diseases, early diagnosis and treatment are recommended.

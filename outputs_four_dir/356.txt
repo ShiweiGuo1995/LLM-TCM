@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨拔罐法与摸法结合治疗肝气虚证及八面阻病的临床疗效，通过分析温下剂在五软病症中的应用效果，并观察其对患者气微状态的影响。实验结果显示，此综合疗法能够显著改善患者症状，提高生活质量。
+Matched Terms
+['拔罐法', '摸法', '温下剂', '五软', '气微', '肝气虚证', '八面', '🗎阻病']
+Matched Terms Translation
+[['Cupping'], ['Touching manipulation'], ['Warm purgative formulas'], ['Five flaccidities'], ['Shallow breathing'], ['Liver qi deficiency pattern', 'Liver yang insufficiency pattern'], ['Eight directions'], ['Dampness obstruction']]
+Translation
+This study aims to investigate the clinical efficacy of combining Cupping and Touching manipulation in treating Liver qi deficiency pattern and Eight directions obstruction disease, by analyzing the application effect of Warm purgative formulas in Five flaccidities and observing their impact on patients' Shallow breathing status. The experimental results show that this comprehensive therapy can significantly improve patients' symptoms and enhance their quality of life.

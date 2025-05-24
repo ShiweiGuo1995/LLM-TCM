@@ -1,0 +1,8 @@
+Original Text
+在治疗肺虫病时，我们常用清法和沉降药来清除体内邪气，使炎症得以缓解，同时通过清泄里热来调整体内环境，防止邪气炎上。在这一过程中，药物的升降浮沉属性尤为重要，需根据病情选择合适的药物，以达到调和中土常守的目的，从而改善鼓胀症状，恢复机体健康。
+Matched Terms
+['清法', '肺虫病', '鼓胀', '炎上', '沉降药', '升降浮沉', '清泄里热', '中土常守']
+Matched Terms Translation
+[['Clearing method'], ['Paragonimiasis'], ['Tympanites', 'Tympanites disorder'], ['Fire is characterized by flaming upward'], ['Sinking and descending medicines'], ['Ascending, descending, floating and sinking'], ['Clear and reduce interior heat', 'Clear the zang–fu organs'], ['Keep the central equilibrium']]
+Translation
+In the treatment of Paragonimiasis, we commonly use the Clearing method and Sinking and descending medicines to eliminate the Pathogenic qi within the body, alleviating inflammation. At the same time, by clearing the zang-fu organs to reduce interior heat, we adjust the internal environment to prevent Fire from flaring upward. In this process, the properties of Ascending, descending, floating, and sinking of the herbs are particularly important, and suitable drugs should be selected based on the condition to achieve the purpose of maintaining central equilibrium, thereby improving symptoms of Tympanites and restoring the health of the body.

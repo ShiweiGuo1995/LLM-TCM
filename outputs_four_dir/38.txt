@@ -1,0 +1,8 @@
+Original Text
+最近天气变化无常，不少朋友出现了虚痉的症状，特别是那些长期肺阴亏虚的朋友，更应该注意调养。在日常生活中，我们可以通过食疗来补肾益髓，增强体质。如果遇到皮肤问题如疥疮，也要及时治疗，以免病情加重。同时，保持良好的生活习惯，避免过度劳累，对于预防疾病也非常重要。当然，如果有特殊情况，比如孕妇出现不适，可以考虑通过化瘀催产等方法辅助调理，但一定要在医生指导下进行。记住，健康的生活方式是预防疾病的关键。
+Matched Terms
+['囟填', '主色', '补肾益髓', '清泻肠热', '疥疮', '化瘀催产', '虚痉', '肺阴亏虚证']
+Matched Terms Translation
+[['Bulging fontanels'], ['Host colour'], ['Supplement qi and nourish yin', 'Nourish yin and supplement qi', ' Tonify essence and benefit marrow', ' Tonify the kidney and benefit marrow'], ['Clear and reduce intestine heat'], ['Scabies'], ['Transform stasis and induce labour'], ['Convulsions due to deficiency'], ['Lung yin deficiency pattern', 'Lung yin deficiency pattern', ' Insufficiency of lung yin pattern']]
+Translation
+Recently, with the unpredictable weather changes, many friends have experienced symptoms of convulsions due to deficiency, especially those who have long-term Lung yin deficiency should pay more attention to nourishing and regulating. In daily life, we can use food therapy to tonify essence and benefit marrow, enhancing physical constitution. If skin problems such as scabies occur, they should be treated promptly to prevent aggravation of the condition. At the same time, maintaining good living habits and avoiding overwork is also very important for disease prevention. Of course, in special cases, such as when pregnant women experience discomfort, methods like transforming stasis and inducing labour can be considered to assist in regulation, but it must be done under the guidance of a doctor. Remember, a healthy lifestyle is the key to disease prevention.

@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于身体酸痛的问题，说是因为长时间坐着工作导致气血不畅，出现了气脱的症状。其实可以通过一些开窍通闭的方法来改善，比如适当运动，让气血运行起来。另外，如果发现胸部不适，尤其是女性朋友们，一定要注意是否为乳癌早期信号，及时检查。还有男性朋友要注意男性前阴类病，如前列腺问题，这些都和我们的生活习惯息息相关。对于体表的一些肿块，比如瘿类病，可以采取提脓祛腐的方式治疗，但更重要的是活血消积，从根本上解决问题。
+Matched Terms
+['酸痛', '气脱', '开窍通闭', '活血消积', '提脓祛腐', '乳癌', '瘿类病', '男性前阴类病']
+Matched Terms Translation
+[['Soreness', 'aching pain'], ['Qi collapse', 'Qi exhaustion'], ['Open the orifices and unblock impediments'], ['Circulate blood and resolve masses'], ['Draw pus and eliminate putridity'], ['Rocky mass in the breast', 'Breast cancer'], ['Thyroid disorders'], ['Disorders of the male external genitalia']]
+Translation
+Recently, a friend asked me about the issue of body soreness, saying it was due to prolonged sitting at work leading to poor circulation of Qi and Blood, and resulting in Qi collapse. Actually, this can be improved through methods such as opening the orifices and unblocking impediments, for example, appropriate exercise to promote the flow of Qi and Blood. Additionally, if there is chest discomfort, especially for female friends, one must pay attention to whether it is an early signal of breast cancer and seek timely examination. Male friends should also pay attention to disorders of the male external genitalia, such as prostate issues, which are closely related to our lifestyle habits. For some swellings on the body surface, such as thyroid disorders, treatment can involve drawing pus and eliminating putridity, but more importantly, it involves circulating blood and resolving masses to address the root cause of the problem.

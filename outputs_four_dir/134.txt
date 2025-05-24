@@ -1,0 +1,8 @@
+Original Text
+最近在门诊中遇到不少外感咳嗽的朋友，他们往往因为季节变化而感到不适。对于这些朋友，我通常会采用点脊法配合留针拔罐来调理，效果颇佳。同时，也有些患者因为长期压力大，情绪波动导致的不育类病，治疗时我会用到阳中求阴的方法，帮助他们调节体内阴阳平衡。记得有一位患者，因为过度忧虑导致的恐胜喜，使得血室失和，我通过得神调理，最终使他恢复健康。生活中我们常常会遇到各种各样的健康问题，但只要我们找到合适的治疗方法，保持良好的心态，一切都会好起来的。
+Matched Terms
+['点脊法', '阳中求阴', '不育类病', '外感咳嗽', '血室', '得神', '留针拔罐', '恐胜喜']
+Matched Terms Translation
+[['Spine-pointing manipulation'], ['Seeking yin from yang', 'Formulas that seek yin within yang'], ['Sterility disorders', 'Male Sterility disorder', ' Male sterility'], ['Cough due to external contraction', 'Cough upon exposure to exogenous factors'], ['Blood chamber'], ['Presence of spirit', 'Abundance of spirit'], ['Needle-retention cupping'], ['Fear prevails over excess joy']]
+Translation
+Recently, I have encountered many friends with coughs due to external contraction in the outpatient clinic, who often feel uncomfortable due to seasonal changes. For these friends, I usually adopt spine-pointing manipulation combined with needle-retention cupping for adjustment, which is quite effective. At the same time, there are also some patients suffering from sterility disorders caused by long-term stress and emotional fluctuations; when treating them, I use the method of seeking yin from yang to help regulate the balance of yin and yang inside their body. I remember a patient whose excessive worry led to fear prevailing over excess joy, causing disharmony in the blood chamber; through presence of spirit regulation, I finally helped him recover his health. In life, we often encounter various health problems, but as long as we find suitable treatment methods and maintain a good mindset, everything will get better.

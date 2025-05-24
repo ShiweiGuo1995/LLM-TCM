@@ -1,0 +1,8 @@
+Original Text
+在治疗络穴相关疾病时，我们需注重化和营，通过适当的针灸手法如大泻刺来调整气血平衡，避免病证用药禁忌。对于妊娠转胞等特殊病症，应谨慎使用药物，以免影响胎儿健康。中消患者需注意饮食调理，避免过食辛辣刺激之物。针对小儿惊厥，应结合小儿体质特点，采用温和疗法。而寒痰证患者则需温化寒痰，调和阴阳。
+Matched Terms
+['络穴', '化🗎和营', '大泻刺', '病证用药禁忌', '妊娠转胞', '中消', '小儿惊厥', '寒痰证']
+Matched Terms Translation
+[['Luo-connecting points'], ['Transform dampness and harmonize the Ying nutrients', 'Dry dampness and harmonize the Ying nutrients'], ['Great drainage needling'], ['Medicine contraindications'], ['Urine retention in pregnancy'], ['Wasting of the middle jiao', 'Spleen/stomach wasting'], ['Infantile convulsions'], ['Cold phlegm pattern']]
+Translation
+When treating diseases related to the Luo-connecting points, we should focus on transforming and harmonizing the Ying, adjusting the balance of Qi and Blood through appropriate acupuncture techniques such as Great Drainage Needling, and avoiding medicine contraindications for the disease pattern. For special conditions like Urine Retention in Pregnancy, drugs should be used with caution to avoid affecting fetal health. Patients with Wasting of the Middle Jiao need to pay attention to dietary adjustments and avoid excessive consumption of spicy and stimulating foods. For infantile convulsions, gentle therapies should be adopted in combination with the child's physical characteristics. Patients with Cold Phlegm Pattern should warm and transform the cold phlegm, and harmonize Yin and Yang.

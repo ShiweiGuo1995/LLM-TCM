@@ -1,0 +1,8 @@
+Original Text
+在本次研究中，我们采用问诊方法对胞宫积热证患者进行辨证分析，结合肝主升发理论探讨其病理机制。通过对蛔虫病患者的观察发现，该病症与胞宫积热证存在一定的关联性，提示可能存在异病同治的可能性。在治疗过程中，我们运用和血安胎法以调节冲任失调证，并通过疏通孙络以促进气血运行，进一步验证了上述理论的临床有效性。此研究表明，在妇科疾病的诊治中，深入理解并合理应用中医基础理论对于提高临床疗效具有重要意义。
+Matched Terms
+['胞宫积热证', '肝主升发', '蛔虫病', '问诊', '和血安胎', '孙络', '异病同治', '冲任失调证']
+Matched Terms Translation
+[['Blood heat in the uterus pattern', 'Blood and heat accumulation in the uterus pattern', ' Blood heat build up in the uterus pattern', ' Heat accumulating in the uterus'], ['The liver governs ascending and dispersing'], ['Ascariasis', 'Paediatric ascariasis'], ['Inquiry'], ['Harmonize blood and quiet fetus'], ['Minute collaterals'], ['Same treatment for different diseases'], ['Disharmony between the Chong and Ren pattern']]
+Translation
+In this study, we adopted the inquiry method to conduct syndrome differentiation for patients with the pattern of blood heat in the uterus, and combined with the theory of the liver governing ascending and dispersing to explore its pathological mechanism. Through observation of patients with ascariasis, it was found that this disease has a certain correlation with the pattern of blood heat in the uterus, suggesting the possibility of same treatment for different diseases. In the treatment process, we applied the method of harmonizing blood and calming the fetus to regulate the disharmony between the Chong and Ren, and by dredging the minute collaterals to promote the circulation of qi and blood, further verifying the clinical effectiveness of the above theories. This study indicates that in the diagnosis and treatment of gynecological diseases, a deep understanding and reasonable application of the fundamentals of traditional Chinese medicine are of great significance for improving clinical efficacy.

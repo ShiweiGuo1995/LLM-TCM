@@ -1,0 +1,8 @@
+Original Text
+最近在学习中医的过程中，发现很多有趣的知识。比如石疽这种疾病，虽然听起来很陌生，但了解后发现它其实和我们的生活习惯息息相关。记得有一次遇到一个病例，是下石疽，通过齐刺和提插法的针灸治疗，效果非常显著。另外，如果身体出现斜飞脉这样的症状，可能就是气血不调的表现。生活中我们也要注意预防，比如暴风客热这种因风邪引起的病症，要内外相合，才能更好地预防和治疗。希望这些知识能帮助大家更好地理解中医，享受健康的生活。
+Matched Terms
+['石疽', '下石疽', '齐刺', '斜飞脉', '尸厥', '提插法', '暴风客热', '内外相合']
+Matched Terms Translation
+[['Stony gangrene'], ['Lower hard nodules'], ['Triple needling'], ['Oblique flying pulse', 'Oblique running pulse'], ['Sudden syncope'], ['Lifting-thrusting method'], ['Sudden attack of wind heat on the eye'], ['Internal-external unity']]
+Translation
+Recently in the process of studying Traditional Chinese Medicine, I discovered many interesting pieces of knowledge. For example, Stony gangrene is a disease that may sound unfamiliar, but after understanding it, I realized it actually has close ties with our living habits. I still remember encountering a case of Lower hard nodules once; through the treatment of Triple needling and Lifting-thrusting method, the effect was very significant. Additionally, if the Oblique flying pulse symptom appears in the body, it might be an indication of Qi and Blood disharmony. In life, we should also pay attention to prevention; for instance, Sudden attack of wind heat on the eye, which is caused by Pathogenic wind, requires Internal-external unity to better prevent and treat it. I hope these pieces of knowledge can help everyone better understand Traditional Chinese Medicine and enjoy a healthy life.

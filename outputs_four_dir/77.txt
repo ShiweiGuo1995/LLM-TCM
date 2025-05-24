@@ -1,0 +1,8 @@
+Original Text
+在探讨阴虚肺燥证与脾主运化的关联时，我们发现补脾驱虫疗法不仅能够改善脾胃功能，还能缓解阴虚肺燥的症状。然而，医过也可能导致病情复杂化，如出现亡阳现象。同时，幽门部位的问题亦需关注，它与月经脉的健康密切相关，因为阴脉之海的状态直接影响着全身气血的流通。通过综合调理，可以有效提升患者的整体健康水平。
+Matched Terms
+['阴虚肺燥证', '亡阳', '补脾驱虫', '医过', '幽门', '阴脉之海', '脾主运化', '月经脉']
+Matched Terms Translation
+[['Lung heat and yin deficiency pattern', 'Lung heat damaging fluids pattern', ' lung dryness due to yin/ fluids deficiency pattern'], ['Yang collapse', 'Yang depletion'], ['Strengthen the spleen and repel parasitic worms', 'Fortify the spleen and repel parasitic worms'], ['Medical malpractice', 'Medical errors'], ['Pylorus'], ['The sea of yin meridians'], ['The spleen governs transportation and transformation'], ['Menstruation pulse']]
+Translation
+In exploring the relationship between the pattern of lung dryness due to yin deficiency and the spleen governing transportation and transformation, we find that the therapy of fortifying the spleen and repelling parasitic worms not only improves the function of the spleen but also alleviates symptoms of lung dryness due to yin deficiency. However, medical errors may lead to disease complications, such as yang depletion. At the same time, issues in the pylorus area need attention as it is closely related to the health of the menstruation pulse; the state of the sea of yin meridians directly affects the circulation of qi and blood throughout the body. Through comprehensive regulation, the overall health level of patients can be effectively improved.

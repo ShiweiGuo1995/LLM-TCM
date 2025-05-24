@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨阳维脉与肺阳虚证之间的关联，并通过夹持进针法对胞宫证类进行干预。在临床观察中，我们发现通过使药与焠刺结合使用，能够有效调节足厥阴肝经的功能状态，进而改善天癸不足导致的肺阳虚证。此外，本研究还探讨了夹持进针法在治疗过程中作为使药的作用机制，以期为临床实践提供更为科学的指导。实验结果表明，综合运用上述方法可以显著提升治疗效果，值得进一步推广和应用。
+Matched Terms
+['使药', '焠刺', '胞宫证类', '夹持进针法', '阳维脉', '天癸', '足厥阴肝经', '肺阳虚证']
+Matched Terms Translation
+[['Guide medicines'], ['Cauterized needling'], ['Patterns involving the uterus'], ['Needle-holding insertion with both hands'], ['The Yangwei meridian'], ['Tian Gui', 'Heavenly water'], ['The liver meridian of foot-Jueyin'], ['Lung yang deficiency pattern', 'Lung yang deficiency pattern']]
+Translation
+This study aims to explore the association between the Yangwei meridian and the Lung yang deficiency pattern, and to intervene in patterns involving the uterus through needle-holding insertion with both hands. In clinical observation, we found that the combined use of guide medicines and cauterized needling can effectively regulate the functional state of the liver meridian of foot-Jueyin, thereby improving the Lung yang deficiency pattern caused by insufficient Tian Gui. Additionally, this study also explores the mechanism of action of guide medicines during the treatment process using needle-holding insertion with both hands, in order to provide more scientific guidance for clinical practice. The experimental results show that the comprehensive application of the above methods can significantly enhance the therapeutic effect, which is worthy of further promotion and application.

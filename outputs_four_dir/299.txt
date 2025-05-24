@@ -1,0 +1,8 @@
+Original Text
+无头疖常见于肌肤不仁患者，而手太阳小肠经在此类病症中扮演重要角色。思胜恐有助于缓解病情，但需注意与杨梅结毒区分。对于小儿惊厥，我们应从太阳中风证出发，结合浮脉进行综合诊断，以达到精准治疗的目的。
+Matched Terms
+['无头疖', '手太阳小肠经', '思胜恐', '肌肤不仁', '浮脉', '杨梅结毒', '小儿惊厥', '太阳中风证']
+Matched Terms Translation
+[['Headless boils'], ['The small intestine meridian of\nhand-Taiyang'], ['Thinking prevails over fear'], ['Insensitivity of the skin'], ['Floating pulse', 'Superficial'], ['Advanced syphilis'], ['Infantile convulsions'], ['Taiyang wind attack pattern']]
+Translation
+Headless boils commonly occur in patients with insensitivity of the skin, and the small intestine meridian of hand-Taiyang plays a crucial role in such syndromes. Thinking prevails over fear is beneficial for alleviating the condition, but it is necessary to distinguish from advanced syphilis. For infantile convulsions, we should start from the Taiyang wind attack pattern and combine it with the floating pulse for comprehensive diagnosis to achieve precise treatment.

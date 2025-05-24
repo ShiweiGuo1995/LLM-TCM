@@ -1,0 +1,8 @@
+Original Text
+在治疗心阴虚证时，我们常采用间隔灸与隔物灸相结合的方法以温补心阳，同时应注意四忌，避免辛辣刺激食物及过度劳累，以免加重病情。对于心血瘀滞证患者，除了药物调理外，适当的清炒食疗亦有助于活血化瘀，如黑木耳、山楂等食材，但需注意溏结不调的情况，以免腹泻或便秘。臀痈患者则需特别注意局部护理，避免感染扩散，同时配合中药内服外敷，促进疮疡愈合。总之，在中医治疗过程中，综合运用多种疗法，并注重饮食调养，方能达到最佳疗效。
+Matched Terms
+['四忌', '心阴虚证', '明目', '溏结不调', '心血瘀滞证', '臀痈', '间隔灸，隔物灸', '清炒']
+Matched Terms Translation
+[['Four mistakes'], ['Heart yin deficiency pattern'], ['Brighten the eyes'], ['Irregular bowel movements'], ['Heart vessels stasis pattern', 'Heart blood stagnation pattern', ' heart vessel obstruction pattern'], ['Gluteal abscess'], ['Indirect moxibustion', 'Insulated moxibustion'], ['Plain stir-frying']]
+Translation
+In the treatment of Heart Yin Deficiency Pattern, we often adopt a combined method of intermittent moxibustion and隔物灸 (intermediate substance moxibustion) to warm and tonify Heart Yang. At the same time, one should pay attention to the Four Mistakes, avoiding spicy and stimulating foods and overwork to prevent aggravating the condition. For patients with Heart Blood Stagnation Pattern, in addition to medication adjustment, appropriate plain stir-frying dietary therapy can also help circulate blood and transform stasis, such as black fungus and hawthorn, but one must be aware of irregular bowel movements to avoid diarrhea or constipation. Patients with Gluteal Abscess need to pay special attention to local care to prevent infection from spreading, while simultaneously combining oral and topical administration of Chinese herbal medicines to promote the healing of sores. In summary, in the process of TCM treatment, it is necessary to comprehensively apply various therapies and focus on dietary regulation to achieve the best therapeutic effect.

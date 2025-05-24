@@ -1,0 +1,8 @@
+Original Text
+在探讨中医治疗蝶斑疮的过程中，我们发现风邪侵袭人体，导致气血不畅，从而引发该病症。通过调理脾主升清功能，促进气血运行，结合吐法排出体内毒素，可以有效改善症状。此外，对于伴有失眠多梦等症状的患者，采用重镇安神的方法，辅以固经止血措施，能更好地调节卫气营血证类，达到治疗目的。在处理结石方面，通过上述方法结合利尿通淋的药物，可促使结石排出，提高治疗效果。
+Matched Terms
+['脾主升清', '风邪', '蝶斑疮', '卫气营血证类', '吐法', '重镇安神', '结石', '固经止血']
+Matched Terms Translation
+[['The spleen ascends the nutrients'], ['Pathogenic wind', 'Wind'], ['Red butterfly-like sore', 'Discoid lupus erythematosus'], ['Patterns of Wei- defence, qi, Ying nutrients and blood', 'Four phase patterns', ' Wenbing aspect patterns'], ['Vomiting method'], ['Calm the mind with heavy medicinal minerals'], ['Stone', 'Calculus'], ['Secure menses and stop bleeding']]
+Translation
+In the discussion of TCM treatment for red butterfly-like sores, we found that pathogenic wind invades the body, leading to stagnation of qi and blood, thereby causing the disease. By regulating the spleen's function of ascending the nutrients, promoting the circulation of qi and blood, combined with the vomiting method to expel toxins from the body, symptoms can be effectively improved. Additionally, for patients accompanied by symptoms such as insomnia and dream-disturbed sleep, using the method of calming the mind with heavy medicinal minerals, supplemented by measures to secure menses and stop bleeding, can better regulate the patterns of wei-defense, qi, ying-nutrient blood, achieving the therapeutic goal. In dealing with stones, combining the above methods with drugs that promote diuresis and relieve urinary difficulties can help expel stones, enhancing the therapeutic effect.

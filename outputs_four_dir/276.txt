@@ -1,0 +1,8 @@
+Original Text
+最近在门诊中遇到一位患者，她因经闭问题困扰已久，通过辨证施治发现是由于虚实夹杂证导致的。在治疗过程中，我们采用了活血祛瘀药与行瘀通络的方法，同时根据她的体质选择了相应的腧穴进行针灸调理，效果显著。另外还有一位朋友因为花柳毒淋的问题前来咨询，经过诊断发现是胞衣不下引起的，需要及时调理脾阳虚水泛证，防止病情进一步发展。希望这些经验分享能帮助大家更好地理解中医的治疗方法和原理。
+Matched Terms
+['经闭', '活血祛瘀药', '虚实夹杂证', '腧穴', '花柳毒淋', '胞衣不下', '脾阳虚水泛证', '行瘀通络']
+Matched Terms Translation
+[['Amenorrhoea', 'Amenorrhoea disorder', ' No periods disorder'], ['Blood-circulating and blood stasis-resolving medicines'], ['Combined deficiency and excess pattern'], ['Acupuncture points'], ['Gonorrhea'], ['Retained placenta'], ['Spleen yang deficiency with water retention pattern'], ['Transform stasis and unblock collaterals']]
+Translation
+Recently, I encountered a patient in the clinic who had been suffering from amenorrhea for a long time. Through pattern identification, it was discovered that this was due to a combined deficiency and excess pattern. During the treatment process, we adopted methods of circulating blood and eliminating stasis as well as transforming stasis and unblocking collaterals. Meanwhile, according to her constitution, corresponding acupuncture points were selected for acupuncture adjustment, achieving remarkable results. Another friend consulted me due to gonorrhea. After diagnosis, it was found that this was caused by retained placenta, requiring timely adjustment of spleen yang deficiency with water retention pattern to prevent further development of the condition. It is hoped that these experience shares can help everyone better understand the treatment methods and principles of Traditional Chinese Medicine.

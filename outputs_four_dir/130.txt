@@ -1,0 +1,8 @@
+Original Text
+最近天气炎热，很多朋友出现了泄热生津的情况，我建议大家可以用辛凉解表的方法来缓解头痛的症状，同时也可以煎汤代水饮用，帮助身体恢复。另外，关于五行制化，其实我们日常生活中处处可见其作用，比如饮食上要注意平衡，多吃一些能够宁心定志的食物。至于骨槽风和流浸膏这些比较专业的术语，希望大家在日常保健中也能有所了解，毕竟预防胜于治疗嘛。
+Matched Terms
+['泄热生津', '宁心定志', '骨槽风', '五行制化', '流浸膏', '煎汤代水', '辛凉解表', '头痛']
+Matched Terms Translation
+[['Clear heat and generate fluids', 'Clear heat with sweet-cold'], ['Calm and settle the mind', 'Calm the mind and alleviate palpitations'], ['Dental abscess', 'Osteomyelitis of the maxilla'], ['The five elements mutually control and transform'], ['Fluid extract'], ['Use decoction as water', 'Use decoction instead of water'], ['Release the exterior with pungent-cool', 'Remove wind and clear heat'], ['Headache']]
+Translation
+Recently, due to the hot weather, many friends have experienced symptoms of clearing heat and generating fluids. I suggest using the method of releasing the exterior with pungent-cool to alleviate headache symptoms, while also drinking decoctions instead of water to help the body recover. Additionally, regarding the Five Elements mutually controlling and transforming, we can actually see its effects everywhere in our daily lives. For example, we should pay attention to balancing our diet and eat more foods that can calm the mind and alleviate palpitations. As for professional terms like dental abscess and fluid extract, I hope everyone can also have some understanding in daily health care, after all, prevention is better than treatment.

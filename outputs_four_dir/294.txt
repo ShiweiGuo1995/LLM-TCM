@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨产后类病与喉痨之间的关联，并分析痰阻胞宫证与肺胃阴虚证在临床表现上的异同。通过观察冷凝肩现象，结合阳明经证的理论，进一步阐释暑淫证对上述症状的影响机制。此外，文中还讨论了黑风内障在产后康复中的重要性，以及其与上述证候的相互作用关系，以期为临床治疗提供新的视角和方法。
+Matched Terms
+['产后类病', '喉痨', '痰阻胞宫证', '肺胃阴虚证', '冷凝肩', '阳明经证', '暑淫证', '黑风内障']
+Matched Terms Translation
+[['Postpartum disorders', 'Postpartum diseases'], ['Tuberculosis of the throat'], ['Phlegm retention in the uterus pattern', 'Phlegm obstructing the uterus pattern', ' Phlegm-dampness obstructing the uterus pattern Phlegm congealment in the uterus pattern Phlegm obstructing the uterus'], ['Yin deficiency of the lung and stomach pattern', 'Fluids insufficiency of the lung and stomach pattern'], ['Frozen shoulder', 'Adhesive capsulitis of shoulder'], ['Yangming meridian pattern'], ['Pathogenic summer heat pattern'], ['Black glaucoma']]
+Translation
+This study aims to explore the correlation between postpartum disorders and tuberculosis of the throat, and to analyze the similarities and differences in clinical manifestations between phlegm retention in the uterus pattern and yin deficiency of the lung and stomach pattern. By observing frozen shoulder phenomenon and combining with the theory of Yangming meridian pattern, it further elucidates the mechanism of pathogenic summer heat pattern on the aforementioned symptoms. In addition, the article also discusses the importance of black glaucoma in postpartum rehabilitation and its interactive relationship with the above patterns, in order to provide new perspectives and methods for clinical treatment.

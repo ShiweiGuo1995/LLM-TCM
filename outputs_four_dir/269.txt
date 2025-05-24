@@ -1,0 +1,8 @@
+Original Text
+最近我遇到了一位患者，她常常感到心肺气虚证，尤其在经行失眠时更为严重。她还抱怨有咳嗽和呕吐的症状，这些症状让她非常困扰。此外，她还提到有时会感觉像荡裆一样的不适，脑鸣也时常发生。经过诊断，我发现她可能还有肝胃阴虚证。在治疗上，我想可以采用一些清气分热剂来缓解她的症状，希望她能早日康复。
+Matched Terms
+['心肺气虚证', '经行失眠', '咳嗽', '清气分热剂', '呕吐', '荡裆', '脑鸣', '肝胃阴虚证']
+Matched Terms Translation
+[['Qi deficiency of the heart and lung pattern', 'Heart and lung qi deficiency pattern'], ['Insomnia during menstruation'], ['Cough'], ['Formulas that clear heat in the qi phase'], ['Vomiting'], ['Slack crotch'], ['Ringing in the brain', 'Tinnitus cerebri'], ['Yin deficiency of the liver and stomach pattern']]
+Translation
+Recently, I encountered a patient who often experiences the pattern of heart and lung qi deficiency, especially during insomnia associated with menstruation when it becomes more severe. She also complains of symptoms such as coughing and vomiting, which trouble her greatly. Additionally, she mentions occasional discomfort similar to a slack crotch and frequent ringing in the brain. After diagnosis, I found that she might also have the pattern of yin deficiency of the liver and stomach. In treatment, I intend to use some formulas that clear heat in the qi phase to alleviate her symptoms, hoping for her early recovery.

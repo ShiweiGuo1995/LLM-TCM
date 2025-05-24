@@ -1,0 +1,8 @@
+Original Text
+本研究旨在探讨理气剂在治疗野屎风所致噫酸及发热症状中的应用效果，通过临床观察发现理气剂能有效改善上述症状，尤其在血瘀化热证患者中疗效显著。进一步采用苦寒清热之法治愈患者发热症状，并结合挒法与软坚散结法以期达到标本兼治的目的，结果显示该综合疗法在改善临床症状方面具有明显优势。
+Matched Terms
+['理气剂', '野屎风', '噫酸', '软坚散结', '挒法', '发热', '血瘀化热证', '苦寒清热']
+Matched Terms Translation
+[['Formulas that regulate qi'], ['Ancylostoma dermatitis'], ['Acid regurgitation', 'Acid reflux'], ['Soften hardness and dissipate masses'], ['(Lie) splitting method'], ['Fever'], ['Blood stasis transformed heat pattern', 'Stasis transforming into heat pattern'], ['Clear heat and reduce fire', 'Clear heat with bitter cold']]
+Translation
+This study aims to investigate the application effects of formulas that regulate qi in treating acid regurgitation and fever symptoms caused by Ancylostoma dermatitis. Clinical observations have found that these formulas can effectively improve the aforementioned symptoms, particularly showing significant efficacy in patients with Blood stasis transformed heat pattern. Further treatment using Clear heat and reduce fire method can heal fever symptoms, combined with (Lie) splitting method and soften hardness and dissipate masses techniques aiming to achieve Treat both the tip and root. The results show that this comprehensive therapy has obvious advantages in improving clinical symptoms.

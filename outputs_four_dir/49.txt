@@ -1,0 +1,8 @@
+Original Text
+夏日炎炎，暑热证频发，大家要注意防暑降温，可以适当使用辛凉解表剂，如银翘散等。同时，饮食上也要注意，避免脾胃虚寒证的发生，多吃些温补食物。如果感觉身体不适，可以尝试穴位敷贴，对缓解症状也有帮助。对于热闭心包证，除了药物治疗外，还可以使用栓剂辅助治疗，提高疗效。在日常生活中，我们还要注重肺主宣发的功能，保持呼吸顺畅，预防疾病。
+Matched Terms
+['暑热证', '类剥苔', '肺主宣发', '辛凉解表剂', '脾胃虚寒证', '穴位敷贴', '栓剂', '热闭心包证']
+Matched Terms Translation
+[['Summer heat pattern', 'Internal retention of summer heat pattern'], ['Exfoliated coating'], ['The lung governs upward and outward diffusion'], ['Formulas that release the exterior with pungent cool medicines'], ['Yang deficiency of the spleen and stomach pattern', 'Deficiency cold of the spleen and stomach pattern', ' Yang deficiency/ deficiency cold of the middle jiao pattern'], ['Acupoint application'], ['Suppository/pessary'], ['Heat blocking the pericardium pattern', 'Heat blocking the heart mind pattern']]
+Translation
+In the scorching summer, summer heat patterns frequently occur; everyone should pay attention to preventing heatstroke and cooling down. It is appropriate to use exterior-releasing formulas with pungent-cool properties, such as Yin Qiao San. Meanwhile, in terms of diet, one should also be cautious to avoid the occurrence of yang deficiency of the spleen and stomach pattern; more warming and tonifying foods should be consumed. If you feel unwell, acupoint application can be attempted to help alleviate symptoms. For the heat blocking the pericardium pattern, in addition to drug therapy, suppositories can also be used to enhance therapeutic effects. In daily life, we should also focus on the lung governing upward and outward diffusion function, maintaining smooth breathing to prevent diseases.

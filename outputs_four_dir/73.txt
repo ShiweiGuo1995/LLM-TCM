@@ -1,0 +1,8 @@
+Original Text
+近日，一位朋友因饮食不洁导致肠胃不适，出现了吐舌的症状，这可能是肝肾亏虚证的表现。我建议他采用“虚则补其母”的原则来调理，同时要注意保持良好的生活习惯。此外，他还需注意避免合病，以免病情加重。在治疗过程中，可以适当使用一些回阳救逆剂，并且要注重肝主疏泄的功能，以达到调和气血的目的。希望我的建议对他有所帮助，也提醒大家日常生活中要注重饮食卫生，预防疾病的发生。
+Matched Terms
+['吐舌', '虚则补其母', '饮食不洁', '肝肾亏虚证', '合病', '肠风', '肝主疏泄', '回阳救逆剂']
+Matched Terms Translation
+[['Protruding tongue', 'Protruded agitated'], ['Reinforce the mother (element) for deficiency pattern'], ['Consumption of unclean food'], ['Deficiency of the liver and kidney pattern', 'Deficiency of liver blood and kidney essence', ' Liver and kidney yin deficiency pattern'], ['Concurrent meridian pattern'], ['Intestinal wind (bloody stools)'], ['The liver governs the free flow of qi'], ['Formulas that resuscitate yang and prevent collapse']]
+Translation
+Recently, a friend experienced gastrointestinal discomfort due to the consumption of unclean food, presenting with the symptom of protruding tongue, which could be a manifestation of the deficiency of the liver and kidney pattern. I suggested he adopt the principle of reinforcing the mother (element) for deficiency pattern to regulate his condition, while also emphasizing the importance of maintaining good living habits. Additionally, he should be cautious to avoid concurrent meridian patterns to prevent aggravation of his condition. During treatment, it would be appropriate to use formulas that resuscitate yang and prevent collapse, and emphasize the function of the liver governing the free flow of qi to achieve the purpose of regulating and harmonizing qi and blood. I hope my advice will be beneficial to him, and remind everyone to pay attention to food hygiene in daily life to prevent the occurrence of diseases.

@@ -1,0 +1,8 @@
+Original Text
+中医认为，产后女性因气血两虚，易出现血气冲心之症，需及时调理。同时，阳维脉证亦需关注，以防止寒邪入侵。太阴人体质特殊，更易受外邪侵袭，表现为鼻鼽频发。若饮食不当，劳逸失度，则易致中焦热盛证，引发胆胀不适。此外，霍乱时疫亦不可忽视，需防微杜渐，以维护健康。
+Matched Terms
+['阳维脉证', '产后血气 冲心', '🗎霍乱', '鼻鼽', '中焦热 盛证', '劳逸失度', '胆胀', '太阴人']
+Matched Terms Translation
+[['Yangwei meridian pattern', 'Yang link vessel pattern'], ['Lochia disturbing the heart mind'], ['Wet cholera'], ['Allergic rhinitis', 'Allergic rhinitis disorder'], ['Excess heat in the spleen and stomach pattern', 'Heat accumulating in the spleen and stomach/middle jiao pattern', ' Excess heat in the spleen and stomach/middle jiao pattern'], ['Work–rest imbalance'], ['Gallbladder distention', 'Gallbladder distension disorder'], ['Taiyin personality']]
+Translation
+In TCM, postpartum women often suffer from dual deficiency of qi and blood leading to the syndrome of blood rushing to the heart, which requires timely regulation. Meanwhile, the pattern of the Yangwei meridian should also be taken into account to prevent the invasion of pathogenic cold. Taiyin constitution is particularly susceptible to external pathogens, manifesting as frequent allergic rhinitis. If there is improper diet or work–rest imbalance, it can easily lead to the syndrome of middle jiao heat exuberance, causing discomfort of gallbladder distention. Additionally, seasonal epidemic diseases should not be overlooked, requiring attention to details to maintain health.

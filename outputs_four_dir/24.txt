@@ -1,0 +1,8 @@
+Original Text
+在探讨妇科疾病时，我们常遇到淡紫舌等表现，提示胞宫阳虚证的存在。此类患者常伴有腹水，治疗上需重视补气固脱，调理气郁痰凝证。夜间梦交亦为其常见症状之一，此与体内阴阳失衡有关。此外，燥邪伤肺证亦可能伴随出现，需综合调理后阴，以达到调和阴阳，恢复健康之效。
+Matched Terms
+['淡紫舌', '后阴', '胞宫阳虚证', '腹水', '气郁痰凝证', '梦交', '补气固脱', '燥邪伤肺证']
+Matched Terms Translation
+[['Pale purple tongue'], ['Posterior yin'], ['Deficiency cold in the uterus pattern', 'Uterine deficiency cold pattern', ' Uterine yang deficiency pattern', ' Yang deficiency of the uterus'], ['Ascites'], ['Qi stagnation with phlegm retention pattern'], ['Sleep sex', 'Sexosomnia'], ['Tonify qi to prevent collapse', 'Supplement qi to prevent collapse'], ['Wind dryness damaging the lung pattern', 'Dryness invading the lung pattern', ' Dryness damaging/ attacking the lung']]
+Translation
+In discussing gynecological diseases, we often encounter manifestations such as pale purple tongue, indicating the existence of uterine yang deficiency pattern. Such patients frequently suffer from ascites, and treatment should focus on tonifying qi to prevent collapse and regulating qi stagnation with phlegm retention pattern. Nocturnal sleep sex is also a common symptom, which is related to the imbalance of yin and yang within the body. Additionally, dryness invading the lung pattern may accompany this condition, and it is necessary to comprehensively regulate posterior yin to achieve harmony between yin and yang and restore health.

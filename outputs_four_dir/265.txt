@@ -1,0 +1,8 @@
+Original Text
+最近有朋友问我关于解郁泄热的方法，我推荐了针罐疗法，同时提醒他要注意病证用药禁忌。另外，我还听说有些家长担心孩子的小儿惊风问题，其实这与肺主行水的功能有关。还有，如果突然出现视力下降甚至暴盲的情况，一定要及时就医，避免延误病情。此外，女性朋友们也要关注自己的月经脉情况，保持良好的生活习惯，蓄发也是健康的一个小标志哦。
+Matched Terms
+['解郁泄热', '针罐', '小儿惊风', '病证用药禁忌', '肺主行水', '暴盲', '蓄发', '月经脉']
+Matched Terms Translation
+[['Clear and reduce stagnant heat', 'Clear stagnant fire', ' Clear and disperse fire', ' Clear heat and alleviate vexation'], ['Needle-retention cupping'], ['Infantile convulsions'], ['Medicine contraindications'], ['The lung governs water circulation'], ['Sudden blindness'], ['Store and release'], ['Menstruation pulse']]
+Translation
+Recently, a friend asked me about the method of clearing and reducing stagnant heat, and I recommended needle-retention cupping therapy while reminding him to pay attention to medicine contraindications for his condition. Additionally, I heard that some parents are concerned about infantile convulsions in their children, which is actually related to the lung's function of governing water circulation. Furthermore, if there is a sudden decrease in vision or even sudden blindness, it is essential to seek medical attention promptly to avoid delaying the condition. Moreover, women should also pay attention to their menstruation pulse, maintain good living habits, and storing and releasing hair is also a small sign of health.

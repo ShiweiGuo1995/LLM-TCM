@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨男性生殖病与清热燥湿解毒法之间的关联，通过临床观察发现，此类疾病患者常伴有昏迷及结脉症状，治疗过程中采用腹针疗法配合清气凉血之法，同时结合按跷以促进气血流通，针对病因明确为外所因者，更需注重内外兼治，方能取得满意疗效。
+Matched Terms
+['清气凉血', '昏迷', '按跷', '结脉', '清热燥🗎解毒', '外所因', '腹针疗法', '男性生殖病']
+Matched Terms Translation
+[['Clear heat and cool blood', 'Clear qi and cool blood'], ['Unconsciousness', 'Loss of consciousness'], ['Tuina', 'Anmo, Anqiao, Qiaomo, Anwu, etc.'], ['Knotted pulse', 'Bound'], ['Clear heat, dry dampness and remove toxins'], ['External etiological factors'], ['Abdominal acupuncture'], ['Male genital disorders']]
+Translation
+This article aims to explore the correlation between male genital disorders and the method of clearing heat, drying dampness, and detoxifying. Through clinical observation, it was found that patients with such diseases often exhibit symptoms of unconsciousness and bound pulse. During treatment, abdominal acupuncture therapy is combined with the method of clearing qi and cooling blood. At the same time, Tuina is used to promote the circulation of qi and blood. For cases where the causative factors are clearly identified as external etiological factors, both internal and external treatments must be emphasized to achieve satisfactory therapeutic effects.

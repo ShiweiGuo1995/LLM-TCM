@@ -1,0 +1,8 @@
+Original Text
+本文基于脾阳亏虚证理论，探讨了薄贴与辅料在治疗气淋及内障类病中的应用。研究发现，通过特定的甲子周期，采用明目之法结合荡裆疗法，可以有效改善患者症状，提高临床疗效。此方法不仅丰富了中医外治法的内容，也为临床治疗提供了新的思路。
+Matched Terms
+['辅料', '明目', '荡裆', '甲子', '薄贴', '脾阳亏虚证', '气淋', '内障类病']
+Matched Terms Translation
+[['Adjuvants'], ['Brighten the eyes'], ['Slack crotch'], ['Sixty-year cycle'], ['Plaster', 'Medicated plaster', ' Thin plaster'], ['Spleen yang deficiency pattern', 'Spleen yang insufficiency pattern'], ['Qi strangury'], ['Eye disorders involving the pupil, eyeball, retina or other eye tissues']]
+Translation
+This article is based on the theory of Spleen yang deficiency pattern, exploring the application of thin plasters and adjuvants in the treatment of Qi strangury and eye disorders involving the pupil, eyeball, retina or other eye tissues. The study found that by using a specific Sixty-year cycle, combined with Brighten the eyes method and Slack crotch therapy, it can effectively improve patient symptoms and enhance clinical efficacy. This method not only enriches the content of external treatment methods in Traditional Chinese Medicine but also provides new ideas for clinical treatment.

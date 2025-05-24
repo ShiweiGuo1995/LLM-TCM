@@ -1,0 +1,8 @@
+Original Text
+在研究气血双补剂对风温病的影响时，我们注意到岁会理论在指导临床应用中的重要性。同时，通过观察客运与劳疟患者舌象变化，发现脓腐苔较为常见，提示体内湿热蕴结，需结合化痰消食法以调理。进一步探讨津血同源理论，认为在治疗过程中，调整机体津液与血液平衡至关重要，从而达到标本兼治的目的。
+Matched Terms
+['气血双补剂', '风温', '岁会', '脓腐苔', '客运', '劳疟', '化痰消食', '津血同源']
+Matched Terms Translation
+[['Formulas that tonify qi and blood'], ['Wind pestilence', 'Wind febrile disorders', ' Wind pestilence with lung heat'], ['Annual congruence'], ['Suppurative curdy coating'], ['Guest movement'], ['Chronic malaria'], ['Transform phlegm and promote digestion'], ['Body fluids and blood share the same source']]
+Translation
+In studying the effects of qi and blood tonifying formulas on wind pestilence, we noticed the importance of annual congruence theory in guiding clinical applications. Meanwhile, by observing the tongue manifestations of guest movement and chronic malaria patients, it was found that suppurative curdy coating was relatively common, indicating the accumulation of damp-heat inside the body, which requires the combination of phlegm-transforming and digestion-promoting methods for adjustment. Further exploring the theory that body fluids and blood share the same source, it is believed that adjusting the balance of body fluids and blood in the body is crucial during the treatment process, thereby achieving the goal of treating both the tip and root.

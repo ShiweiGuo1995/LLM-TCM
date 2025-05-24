@@ -1,0 +1,8 @@
+Original Text
+春季是养生的好时节，尤其对于女性来说，月经前后诸证常常困扰着大家。这时候不妨试试腹针疗法，通过刺激腹部穴位来调理身体，缓解不适。平时饮食上可以多吃一些清炒的蔬菜，避免过于油腻的食物。如果出现瘾疹或瘙瘊等皮肤问题，可能是肝主谋虑过度导致的，此时要注意休息，让身肢放长，放松心情。当然，面色黧黑也是需要关注的问题，这可能与体内湿气过重有关，适当的运动和食疗可以帮助改善。
+Matched Terms
+['肝主谋虑', '腹针疗法', '月经前后诸证', '清炒', '面色黧黑', '身肢放长', '瘾疹', '瘙瘊']
+Matched Terms Translation
+[['The liver governs strategic planning', 'The liver controls planning'], ['Abdominal acupuncture'], ['Perimenstrual disorders'], ['Plain stir-frying'], ['Dark complexion'], ['Lengthen the torso and limbs'], ['Urticaria', 'Hives'], ['Condyloma']]
+Translation
+Spring is a good season for health preservation, especially for women, perimenstrual disorders often trouble everyone. At this time, you might as well try abdominal acupuncture, by stimulating abdominal acupoints to regulate the body and alleviate discomfort. In daily diet, you can eat more plain stir-fried vegetables and avoid overly greasy food. If heat rash or condyloma appears, it may be caused by the liver governing strategic planning excessively; at this moment, attention should be paid to rest, lengthen the torso and limbs, and relax the mind. Of course, dark complexion also needs attention, which may be related to excessive internal dampness; appropriate exercise and dietary therapy can help improve it.

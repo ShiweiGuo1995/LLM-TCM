@@ -1,0 +1,8 @@
+Original Text
+在探讨脾主统血与气滞阻证相互作用机制时，我们发现脾虚导致气机不畅，进而引发掣痛症状。针对此类病症，采用燀法处理药材以增强其活血化瘀之效，并结合化瘀利水原则，有效改善痛痹症状。此外，在治疗妊娠偏头痛过程中，通过佐药调节气血平衡，亦能显著缓解患者痛苦。上述研究结果为临床实践提供了新的视角和方法。
+Matched Terms
+['脾主统血', '掣痛', '气滞🗎阻证', '燀', '痛痹', '化瘀利水', '妊娠偏头痛', '佐药']
+Matched Terms Translation
+[['The spleen contains blood', 'The spleen holds blood'], ['Referred pain', 'Pulling pain'], ['Qi stagnation with dampness retention pattern'], ['Blanching'], ['Painful impediment', 'Cold impediment disorder', ' Painful impediment disorder Cold hindrance disorder Cold impediment'], ['Transform stasis and drain water retention'], ['Migraine during pregnancy'], ['Assistant medicines']]
+Translation
+In exploring the interaction mechanism between the spleen holding blood and qi impediment, we found that spleen deficiency leads to unsmooth qi movement, thereby causing referred pain symptoms. For such conditions, using blanching to process herbs can enhance their effect of circulating blood and eliminating stasis, combined with the principle of transforming stasis and draining water retention, effectively improving painful impediment symptoms. Additionally, in treating migraine during pregnancy, by adjusting the balance of qi and blood through assistant medicines, it can significantly alleviate patient's suffering. The above research findings provide new perspectives and methods for clinical practice.

@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友因为气滞血瘀导致了雷头风，症状严重时甚至咳血，真是让人担心。他告诉我平时总感觉胸闷不适，我建议他可以试试化瘀宽胸的方法，同时要注意饮食，避免寒饮伏肺证的发生。另外他的眼睛也有些问题，可能是肝开窍于目功能受到影响，还特别提醒他要多关注乳岩这类疾病，毕竟早期发现对治疗很重要。希望他能早日康复，健康生活。
+Matched Terms
+['气滞血瘀', '喉关痈', '肝开窍于目', '乳岩', '寒饮伏肺证', '化瘀宽胸', '雷头风', '咳血']
+Matched Terms Translation
+[['Blood stasis due to qi stagnation'], ['Epiglottic abscess'], ['The liver opens into the eyes'], ['Rocky mass in the breast', 'Breast cancer'], ['Cold fluids affecting the lung pattern', 'Retention of cold fluids in the lung pattern'], ['Transform stasis and soothe the chest'], ['Thunder head wind'], ['Haemoptysis']]
+Translation
+Recently, a friend suffered from thunder head wind due to blood stasis caused by qi stagnation. The symptoms were so severe that he even experienced haemoptysis, which was really worrying. He told me that he often felt chest discomfort. I suggested that he could try transforming stasis and soothing the chest, while also paying attention to his diet to avoid the pattern of cold fluids affecting the lung. Additionally, he had some eye problems, possibly due to the impact on the function of the liver opening into the eyes. I specially reminded him to pay more attention to diseases like rocky mass in the breast, as early detection is very important for treatment. I hope he can recover soon and live healthily.

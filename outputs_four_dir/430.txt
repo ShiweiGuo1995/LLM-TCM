@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友问我关于肾水病的问题，他说他总是感觉身体乏力，面色苍白，这可能是肾水不足导致的，建议他可以通过刮痧疗法来促进血液循环，增强体质。另外他的胃痞也让我很担心，总是觉得胸闷不适，食欲不振。我告诉他要注重固涩敛乳，同时调理好五脏外华，保持经气畅通。当然，如果情况严重如出现癌症等重大疾病，还是需要及时就医。希望我的建议对他有所帮助。
+Matched Terms
+['肾水病', '刮痧疗法', '五脏外华', '固涩敛乳', '伤🗎', '经气', '癌症', '胃痞']
+Matched Terms Translation
+[['Kidney water', 'Kidney wind'], ['Guasha therapy'], ['Lustres of the five zang organs'], ['Tonify qi and astringe the breast milk'], ['Dampness obstruction'], ['Qi of meridians'], ['Rocky mass', 'Carcinoma Cancer'], ['Gastric stuffiness', 'Gastric fullness']]
+Translation
+Recently, a friend asked me about the problem of kidney water disease. He said he always felt lassitude and had a pale facial complexion, which might be caused by insufficient kidney water. I suggested that he could use guasha therapy to promote blood circulation and enhance his physique. Additionally, his gastric stuffiness worried me a lot; he always felt chest tightness and discomfort, with poor appetite. I told him to focus on tonifying qi and astringing the breast milk, while also regulating the lustres of the five zang organs and maintaining the smooth flow of Qi of meridians. Of course, if the condition is severe, such as the appearance of a rocky mass or carcinoma cancer, it is still necessary to seek medical attention in time. I hope my suggestions will be helpful to him.

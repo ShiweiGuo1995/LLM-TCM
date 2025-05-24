@@ -1,0 +1,8 @@
+Original Text
+在探讨肺热炽盛证与肺实热证之辨析时，我们发现两者虽均表现为发热、咳嗽等症状，但肺热炽盛证常伴有脓疱疮，而肺实热证则以短脉为主要体征。临床观察显示，悲伤肺可导致气机不畅，进一步发展为留饮。此外，在暑温季节，外感暑邪亦可诱发上述诸症，且需注意和合四象理论指导下的综合治疗策略，以期达到调和阴阳、扶正祛邪的目的。
+Matched Terms
+['肺热炽盛证', '脓疱疮', '留饮', '肺实热证', '和合四象', '悲伤肺', '短脉', '暑温']
+Matched Terms Translation
+[['Excess heat in the lung pattern', 'Excess lung heat pattern', '', ' exuberance of lung heat pattern'], ['Pemphigus', 'Pustules'], ['Prolonged fluid retention'], ['Excess heat in the lung pattern', 'Excess lung heat pattern', '', ' exuberance of lung heat pattern'], ['Harmony of the eyes, ears, nose and tongue'], ['Excessive grief damages the lung'], ['Short pulse'], ['Summer heat pestilence', 'Summer heat febrile disorders', ' Summer heat pestilence disorders']]
+Translation
+In discussing the differentiation between Lung Heat Exuberance Pattern and Excess Heat in the Lung Pattern, we find that although both manifest symptoms such as fever and cough, Lung Heat Exuberance Pattern often accompanies pustules, while Excess Heat in the Lung Pattern is primarily characterized by a short pulse. Clinical observations show that excessive grief damaging the lung can lead to Qi movement disorder, further developing into prolonged fluid retention. Additionally, during the season of summer heat febrile disorders, external invasion of pathogenic summer heat can also trigger these symptoms, and it is necessary to pay attention to comprehensive treatment strategies guided by the theory of Harmony of the Four Symbols, with the aim of harmonizing Yin-Yang and reinforcing healthy Qi to eliminate pathogenic factors.

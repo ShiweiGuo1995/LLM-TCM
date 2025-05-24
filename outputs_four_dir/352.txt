@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们经常会遇到各种健康问题，比如热盛伤阴证导致的不适，还有因为痰引起的咳嗽。记得有一次，我遇到了一个患者，他抱怨手足心汗特别多，经过仔细的问诊后，发现他的症状可能与乳悬有关。同时，我还发现他走路时膝盖有些不自然，这可能是鹤膝风的症状。在治疗过程中，我们不仅要关注药物中毒的风险，还要通过了解患者的经络证类来制定更合适的治疗方案。通过这些案例，我们可以看到中医的博大精深，它能帮助我们更好地理解身体的各种信号。
+Matched Terms
+['热盛伤阴证', '痰', '药物中毒', '手足心汗', '问诊', '乳悬', '鹤膝风', '经络证类']
+Matched Terms Translation
+[['Exuberant heat damaging yin pattern', 'Pathogenic heat damaging yin pattern'], ['Phlegm'], ['Drug poisoning'], ['Sweats in the palms/ soles'], ['Inquiry'], ['Sagging breasts'], ['Tuberculosis of the knee joint (crane’s- knee wind)', 'Crane’s-knee phlegm'], ['Patterns involving the meridians', 'Meridian and collateral patterns']]
+Translation
+In daily life, we often encounter various health issues, such as discomfort caused by the exuberant heat damaging yin syndrome and coughs triggered by phlegm. I remember once encountering a patient who complained about excessive sweats in the palms/soles; after thorough inquiry, it was discovered that his symptoms might be related to sagging breasts. At the same time, I noticed that he walked with an unnatural gait in his knees, which could be a symptom of tuberculosis of the knee joint (crane’s-knee wind). During treatment, we not only need to pay attention to the risk of drug poisoning but also develop more appropriate treatment plans by understanding the patterns involving the meridians. Through these cases, we can see the vast depth of traditional Chinese medicine, which helps us better understand the various signals from our bodies.

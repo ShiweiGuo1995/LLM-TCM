@@ -1,0 +1,8 @@
+Original Text
+在探讨风邪致病的过程中，我们常遇到恶风的症状，这在风中经络证患者中尤为常见。同时，对于妊娠期间出现的下肢抽筋现象，需结合燥毒证来综合分析。而在儿科领域，乳疬与含腮疮是较为典型的病症，需要辨证施治。此外，胸痛与脾积痞气亦是临床常见的症状，二者虽表现不同，但皆与体内气血失调密切相关。通过细致入微的观察与辨证，可以为患者提供更为精准的治疗方案。
+Matched Terms
+['恶风', '乳疬', '风中经络证', '脾积痞气', '含腮疮', '妊娠下肢抽筋', '胸痛', '燥毒证']
+Matched Terms Translation
+[['Aversion to wind'], ['Gynecomastia'], ['Wind attacking the meridians pattern'], ['Masses in the spleen'], ['Mumps', 'Parotitis'], ['Leg cramps during pregnancy'], ['Chest pain'], ['Dryness toxin pattern', 'Dryness pattern']]
+Translation
+In the exploration of pathogenic wind causing diseases, we often encounter the symptom of aversion to wind, which is particularly common in patients with the pattern of wind attacking the meridians. At the same time, for the phenomenon of lower limb cramps during pregnancy, it is necessary to analyze it comprehensively by combining it with the dryness toxin pattern. In pediatrics, gynecomastia and mumps are relatively typical conditions that require syndrome differentiation and treatment. Additionally, chest pain and masses in the spleen are also commonly observed clinical symptoms; although they present differently, both are closely related to Qi-blood disharmony within the body. Through meticulous observation and syndrome differentiation, more precise treatment plans can be provided for patients.

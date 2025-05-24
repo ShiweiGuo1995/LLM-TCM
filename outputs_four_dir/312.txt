@@ -1,0 +1,8 @@
+Original Text
+小儿疫毒痢多因外感湿热之邪，内伤饮食，导致脾胃运化失常，病程迁延可致髓亏证，治疗需注重温阳行气，同时调理胃、神、根三者平衡。此外，对于疥疮等皮肤病，亦应注意调和营卫，增强机体抵抗力。若出现膀胱蓄血证，则需及时辨证施治，以避免病情进一步恶化。
+Matched Terms
+['小儿疫毒痢', '髓亏证', '脉', '温阳行气', '疥疮', '胃、神、根', '膀胱蓄血证', '调和营卫']
+Matched Terms Translation
+[['Paediatric bacillary dysentery'], ['Marrow deficiency pattern'], ['Vessel'], ['Warm yang and circulate qi', 'Warm yang and regulate qi'], ['Scabies'], ['Stomach qi, spirit and root'], ['Taiyang blood retention pattern', 'Blood accumulation in the bladder pattern', ' Blood and heat build up in the bladder pattern Blood retention in the urinary bladder'], ['Regulate and harmonize the Ying nutrients and Wei-defence']]
+Translation
+Paediatric epidemic toxin dysentery often results from external invasion of damp-heat pathogenic factors and internal injury due to improper diet, leading to disharmony of spleen and stomach with impaired transformation and transportation. If the condition persists, it may lead to the marrow deficiency pattern; treatment should focus on tonifying Yang and circulating Qi while regulating the balance of Stomach qi, spirit, and root. Additionally, for skin conditions such as Scabies, attention should be paid to regulating and harmonizing Ying nutrients and Wei defence to enhance the body's resistance. If the blood accumulation in the bladder pattern occurs, timely pattern differentiation and treatment should be conducted to prevent the condition from worsening.

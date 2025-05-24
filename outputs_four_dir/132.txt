@@ -1,0 +1,8 @@
+Original Text
+在日常生活中，我们常常会遇到一些小毛病，比如久泄和津液亏虚证，这些都是需要细心调理的。记得调理时要注意体内的升降出入，保持平衡。说到平衡，就不得不提脾主统血，这是维持身体健康的重要原则之一。煎药火候的掌握也至关重要，它直接影响到药物的效果。最近，我注意到一些朋友因为长时间的伏邪导致身体不适，其实这可以通过适当的运动来改善，比如溜臀这样的小动作，就能帮助疏通经络。另外，关于男性健康的话题，宗筋的问题也是不可忽视的，合理的饮食和生活习惯是关键。希望这些分享对大家有所帮助！
+Matched Terms
+['升降出入', '脾主统血', '煎药火候', '久泄', '溜臀', '津液亏虚证', '宗筋', '伏邪']
+Matched Terms Translation
+[['Ascending, descending, entering and exiting'], ['The spleen contains blood', 'The spleen holds blood'], ['Heat control in decoction'], ['Chronic diarrhoea'], ['Drop the buttocks'], ['Fluids deficiency pattern', 'Fluid deficiency pattern'], ['Gathering of muscle around genital region', 'Ancestral muscles'], ['Latent pathogenic qi']]
+Translation
+In daily life, we often encounter some minor ailments, such as chronic diarrhea and fluids deficiency pattern, which all require careful adjustment. Remember to pay attention to the ascending, descending, entering, and exiting within the body when adjusting, and maintain balance. Speaking of balance, it is impossible not to mention that the spleen holds blood, which is one of the important principles for maintaining physical health. Mastering the heat control in decoction is also crucial as it directly affects the efficacy of the medicine. Recently, I noticed that some friends have felt unwell due to latent pathogenic qi for a long time; actually, this can be improved through appropriate exercise, such as the small action of dropping the buttocks, which can help unblock the meridians and collaterals. Additionally, regarding male health, the issue of the gathering of muscle around the genital region should not be ignored; reasonable diet and lifestyle are key points. I hope these shares will be helpful to everyone!

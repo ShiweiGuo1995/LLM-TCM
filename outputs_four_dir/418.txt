@@ -1,0 +1,8 @@
+Original Text
+在探讨女性生理周期中的“经行前后诸证”时，我们需关注体内阴阳平衡，“阴肿”与“阳盛格阴”现象常导致一系列不适症状。通过“按诊”与辨证施治，运用“扶正祛邪”原则调节阴阳消长，以达到治疗目的。面对突发性“心厥”，需迅速应用“惊者平之法”，以防病情恶化。此过程中，综合运用中医理论指导临床实践至关重要。
+Matched Terms
+['阴肿', '阳盛格阴', '经行前后诸证', '心厥', '惊者平之法', '按诊', '扶正祛邪', '阴阳消长']
+Matched Terms Translation
+[['Vulvar ulceration', 'Vulvar swelling Vulvar erosion'], ['Excessive yang rejecting yin', 'Excessive yang repelling yin'], ['Perimenstrual disorders'], ['Cardiac syncope'], ['Panic calming therapy'], ['Palpation diagnosis'], ['Reinforce healthy qi to eliminate pathogenic factors'], ['Yin and yang wax and wane']]
+Translation
+In discussing perimenstrual disorders, we need to focus on the balance of Yin and Yang within the body. Phenomena such as vulvar swelling and excessive Yang repelling Yin often lead to a series of discomfort symptoms. Through palpation diagnosis and pattern differentiation, applying the principle of reinforcing healthy Qi to eliminate pathogenic factors to regulate the waxing and waning of Yin and Yang, the treatment goal can be achieved. In the face of sudden cardiac syncope, panic calming therapy should be quickly applied to prevent the condition from worsening. In this process, it is crucial to integrate the application of traditional Chinese medicine theory to guide clinical practice.

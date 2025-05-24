@@ -1,0 +1,8 @@
+Original Text
+中医认为人体健康与五行胜复密切相关，如在治疗阴虚火旺时，需注重补气解表，调理五脏六腑，尤其重视养血安神，以达到平衡阴阳的目的。同时，在使用药物时，必须考虑其偏性，以免引起新的疾病，例如避免因不当用药导致阴虚火旺或五劳加重，甚至出现诸如臊疣等皮肤问题。通过调整体内气血，可以有效改善由髓不足引起的多种症状。
+Matched Terms
+['髓', '补气解表', '臊疣', '阴虚火旺', '药物偏性', '五行胜复', '养血安神', '五劳']
+Matched Terms Translation
+[['Marrow'], ['Supplement qi and release the exterior'], ['Condyloma'], ['Yin deficiency leading to fire hyperactivity'], ['Medicinal peculiarity'], ['The five elements overcome and retaliate'], ['Nourish blood and calm the mind'], ['Five exhaustions']]
+Translation
+In TCM, the health of the human body is closely related to the mutual overcoming and retaliation of the five elements. For instance, when treating Yin deficiency leading to fire hyperactivity, it is necessary to focus on tonifying Qi and releasing the exterior, regulating the five zang organs and six fu organs, especially emphasizing nourishing blood and calming the mind to achieve the purpose of balancing Yin and Yang. At the same time, when using herbal medicines, one must consider their偏性 (partial nature), to avoid causing new diseases; for example, preventing Yin deficiency leading to fire hyperactivity or aggravating the five exhaustions due to improper medication, or even causing skin problems such as condyloma. By adjusting the Qi and Blood within the body, multiple symptoms caused by marrow deficiency can be effectively improved.

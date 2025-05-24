@@ -1,0 +1,8 @@
+Original Text
+暑伤津气证多见于夏秋之际，因高温导致体内津液亏损，若再感寒邪，则易形成寒凝血瘀证，表现为抽搐等症状。冬季则需防备冬瘟，此病多由外感寒邪引起，治疗时宜散寒化饮。若患者出现过期不产，亦可能与命门之火不足有关，此时需调和气血，以助分娩。怒则气上，情志不畅亦会影响脏腑功能，进而加重病情。
+Matched Terms
+['暑伤津气证', '怒则气上', '抽搐', '冬瘟', '命门之火', '过期不产', '散寒化饮', '寒凝血瘀证']
+Matched Terms Translation
+[['Summer heat consuming qi and yin pattern', 'Summer heat consuming qi and fluids pattern'], ['Anger causes the qi to rise'], ['Convulsion'], ['Winter pestilence', 'Winter febrile disorders', ' Winter pestilence disorders'], ['The fire of the gate of life'], ['Post-term pregnancy'], ['Dissipate cold and transform fluid retention'], ['Cold induced blood stasis pattern']]
+Translation
+The pattern of summer heat consuming body fluids and qi is often seen in late summer and autumn, due to high temperatures leading to depletion of body fluids; if further affected by pathogenic cold, it can easily develop into the cold-induced blood stasis pattern, characterized by symptoms such as convulsions. In winter, one needs to guard against winter pestilence, a disease usually caused by external invasion of cold, and treatment should focus on dissipating cold and transforming retained fluids. If a patient experiences post-term pregnancy, it may also be related to insufficiency of the fire of the gate of life; at this time, regulating and harmonizing qi and blood is needed to assist delivery. Anger causes the qi to rise, and poor emotional flow can also affect the function of zang-fu organs, thereby exacerbating the condition.

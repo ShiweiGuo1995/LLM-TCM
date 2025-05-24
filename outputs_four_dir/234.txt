@@ -1,0 +1,8 @@
+Original Text
+小儿囊虫病在《本草》中有记载，治疗时需重视气能行血的原则，以温补肾气为法。同时，观察司天之气的变化对疾病的影响，对于胞阻症状的调理亦有重要意义。思证清晰，方能精浊得清。
+Matched Terms
+['精浊', '小儿囊虫病', '气能行血', '温补肾气', '司天', '本草', '胞阻', '思证']
+Matched Terms Translation
+[['Turbid semen'], ['Cysticercosis', 'Paediatric cysticercosis'], ['Qi circulates blood', 'Qi moves blood'], ['Warm and tonify kidney yang', 'Warm and tonify kidney qi', ' Warm the kidney and strengthen yang'], ['Celestial controlling'], ['Materia medica'], ['Abdominal pain in pregnancy'], ['Excessive thinking pattern']]
+Translation
+Paediatric cysticercosis is recorded in Materia Medica, and during treatment, the principle of Qi circulating blood should be emphasized, with the method of warming and tonifying kidney qi. At the same time, observing the changes of Celestial controlling qi in the environment has significant implications for the disease, and the regulation of abdominal pain in pregnancy is also of great importance. Only by clearly understanding the pattern can turbid semen be clarified.

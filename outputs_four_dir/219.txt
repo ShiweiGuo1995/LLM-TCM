@@ -1,0 +1,8 @@
+Original Text
+在探讨气阴亏虚证与落枕的关系时，我们发现运用验方结合佐助药治疗可以达到较好的疗效。同时，在日常保健中，通过练习太极拳拳理，不仅可以强身健体，还能预防因气阴不足引发的摇头及落枕等症状。对于已经出现的病症如落枕和摇头，采用标本同治的方法，从根源上解决瘕病的发生，提高患者的生活质量。
+Matched Terms
+['瘕病', '摇头', '佐助药', '太极拳拳理', '落枕', '气阴亏虚证', '验方', '标本同治']
+Matched Terms Translation
+[['Intangible masses', 'Jia masses'], ['Shaking of the head', 'Head shaking'], ['Facilitating assistant medicines'], ['Taijiquan principles'], ['Neck stiffness'], ['Qi and yin deficiency pattern', 'Insufficiency of qi and yin pattern'], ['Empirical formulas'], ['Treat both the tip and root']]
+Translation
+In exploring the relationship between the Qi and Yin deficiency pattern and neck stiffness, we found that using empirical formulas combined with facilitating assistant medicines can achieve good therapeutic effects. Meanwhile, in daily health maintenance, practicing Taijiquan principles not only strengthens the body but also prevents symptoms such as head shaking and neck stiffness caused by insufficient Qi and Yin. For existing diseases like neck stiffness and head shaking, adopting a method to treat both the tip and root can solve the problem of intangible masses at its source, thereby improving the patient's quality of life.

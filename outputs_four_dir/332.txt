@@ -1,0 +1,8 @@
+Original Text
+木形人宜调养以平和为主，对于男性不育症，可通过清泻肠热等方法调理，同时注重尾闾中正之姿。在治疗鼠乳时，亦可参考消法原则，使用缓方以助恢复，对于心系证类病症同样适用。
+Matched Terms
+['木形人', '男性不育', '清泻肠热', '尾闾中正', '鼠乳', '心系证类', '消法', '缓方']
+Matched Terms Translation
+[['Wood personality'], ['Sterility disorders', 'Male Sterility disorder', ' Male sterility'], ['Clear and reduce intestine heat'], ['Keep the coccyx upright'], ['Infectious warts'], ['Patterns of the heart system', 'Heart system patterns'], ['Reducing method'], ['Slow-acting formulas', 'Demulcent formulas']]
+Translation
+People with wood personality should mainly regulate and nourish in a peaceful manner. For male sterility, methods such as clearing and reducing intestine heat can be used for adjustment, while also paying attention to maintaining the posture of keeping the coccyx upright. When treating infectious warts, the principle of the reducing method can also be referred to, using slow-acting formulas to aid recovery, which is also applicable to diseases of the heart system patterns.

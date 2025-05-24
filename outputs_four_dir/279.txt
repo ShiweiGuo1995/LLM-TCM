@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨清肝泻热与化瘀养胃在治疗心痛中的临床应用，并通过分析时邪引发的太阳病证与血虚生风证，进一步阐述颤动舌在诊断中的重要性。研究发现，五行相克理论对于理解疾病发生机制及指导临床治疗具有重要意义。通过对上述理论的综合运用，能够有效提高临床疗效，为心痛患者提供更加科学合理的治疗方案。
+Matched Terms
+['清肝泻热', '化瘀养胃', '太阳病证', '心痛', '时邪', '血虚生风证', '颤动舌', '五行相克']
+Matched Terms Translation
+[['Clear and reduce liver fire', 'Clear the liver and reduce fire'], ['Transform stasis and nourish the stomach'], ['Taiyang pattern', 'Early yang stage pattern', ' Greater yang pattern'], ['Cardiac pain'], ['Seasonal pathogenic factors'], ['Blood deficiency stirring wind pattern', 'Blood deficiency generating wind pattern'], ['Trembling tongue'], ['The five elements mutually restrain', 'Mutual controlling among the five elements']]
+Translation
+This article aims to explore the clinical application of clearing and reducing liver fire and transforming stasis and nourishing the stomach in the treatment of cardiac pain, and further elaborates on the importance of the trembling tongue in diagnosis by analyzing the Taiyang pattern and blood deficiency generating wind pattern caused by seasonal pathogenic factors. The study found that the theory of mutual restraining among the five elements is of great significance for understanding the mechanism of disease occurrence and guiding clinical treatment. By comprehensively applying the above theories, it can effectively improve clinical efficacy and provide more scientific and reasonable treatment plans for patients with cardiac pain.

@@ -1,0 +1,8 @@
+Original Text
+在探讨“苦寒直折”与“带下病类”的关联时，我们发现通过“隔姜灸”治疗手厥阴心包经证能够有效缓解症状，此法基于“宁心定悸”，并通过“贯法”深入脏腑，以达到调和气血的目的。此外，“风轮”之疾亦需关注，其与上述诸症之间可能存在内在联系，值得进一步研究。对于“蜣螂蛀”现象，我们认为其可能影响药物疗效，因此在临床应用中应予以重视。综上所述，本研究旨在探索以上诸法在中医治疗中的综合运用，以期为临床实践提供参考。
+Matched Terms
+['苦寒直折', '蜣螂蛀', '宁心定悸', '带下病类', '贯法', '手厥阴心包经证', '隔姜灸', '风轮']
+Matched Terms Translation
+[['Formulas that clear exuberant heat with bitter and cold medicines'], ['Dung beetle-shaped joints'], ['Calm and settle the mind', 'Calm the mind and alleviate palpitations'], ['Leucorrhoea'], ['Percussing manipulation'], ['Pericardium meridian pattern', 'Heart governor meridian pattern', ' Heart ruler meridian pattern'], ['Ginger-insulated moxibustion', 'Ginger moxibustion'], ['Wind wheel']]
+Translation
+In exploring the correlation between "bitter-cold direct suppression" and "leucorrhea disease category," we found that treating the pattern of the Pericardium Meridian of Hand-Jueyin with ginger-insulated moxibustion can effectively alleviate symptoms. This method is based on "calming the mind and alleviating palpitations" and uses percussing manipulation to deeply affect the Zang-fu organs, aiming to regulate and harmonize qi and blood. Additionally, "wind wheel" diseases also need attention; there may be intrinsic connections among these symptoms worth further investigation. Regarding the "dung beetle-shaped joints" phenomenon, we believe it might affect drug efficacy, thus requiring emphasis in clinical applications. In summary, this study aims to explore the comprehensive application of these methods in TCM treatment, hoping to provide reference for clinical practice.

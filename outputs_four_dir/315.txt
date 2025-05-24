@@ -1,0 +1,8 @@
+Original Text
+在探讨舍症从脉的重要性时，我们注意到寒热错杂证与内伤病因之间的复杂关系，这些因素可能导致悬癖的发生。治疗过程中，采用清泄胆热的方法是必要的，同时需关注筋出槽现象。对于胃寒气逆证患者，我们发现水火共制技术的应用能够有效调节体内阴阳平衡，从而达到治疗目的。此研究进一步证实了上述方法的有效性，并为临床实践提供了新的思路。
+Matched Terms
+['舍症从脉', '寒热错杂证', '内伤病因', '悬癖', '清泄胆热', '筋出槽', '胃寒气逆证', '水火共制']
+Matched Terms Translation
+[['Precedence of the pulse over symptoms'], ['Combined cold and heat pattern'], ['Endogenous etiological factors'], ['Masses in the sub- costal region'], ['Clear and reduce gallbladder heat', 'Clear gallbladder fire'], ['Tendon dislocation/ subluxation'], ['Cold-induced ascending of stomach qi pattern'], ['Processing with both water and fire']]
+Translation
+In exploring the importance of precedence of the pulse over symptoms, we noticed the complex relationship between combined cold and heat pattern and endogenous etiological factors, which may lead to masses in the sub-costal region. During treatment, it is necessary to clear and reduce gallbladder heat while paying attention to tendon dislocation/subluxation. For patients with cold-induced ascending of stomach qi pattern, we found that processing with both water and fire can effectively regulate the body's Yin-Yang balance, thus achieving the therapeutic goal. This study further confirms the effectiveness of the above methods and provides new ideas for clinical practice.

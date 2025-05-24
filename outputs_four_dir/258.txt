@@ -1,0 +1,8 @@
+Original Text
+在探讨病证结合的临床实践中，我们发现对于某些真实假虚证患者，采用六经辨证方法能够更精准地定位病情。特别是在处理由思虑过度导致的脾虚（思伤脾）情况时，结合十干理论，可以更好地理解病因病机。对于产科类病中的瘿肿问题，通过复方治疗不仅能够改善症状，还能从根本上调整机体状态。这些方法的应用，为复杂疾病的诊治提供了新的思路和方向。
+Matched Terms
+['病证结合', '真实假虚证', '思伤脾', '瘿肿', '十干', '产科类病', '六经辨证', '复方']
+Matched Terms Translation
+[['Differentiation of disease and pattern'], ['True excess with false deficiency pattern'], ['Excessive overthinking damages the spleen'], ['Goiter'], ['Heavenly stems'], ['Obstetric disorders'], ['Pattern differentiation of six meridians'], ['Compound formulas']]
+Translation
+In exploring the clinical practice of combining disease and syndrome differentiation, we have found that for certain patients with true excess with false deficiency patterns, using the method of six meridians differentiation can more accurately locate the condition. Especially when dealing with spleen deficiency caused by excessive overthinking (Excessive overthinking damages the spleen), integrating the theory of heavenly stems can better elucidate the causative factors and pathogenesis. For goiter problems in obstetric disorders, through compound formula treatment, not only can symptoms be improved, but the overall state of the body can also be fundamentally adjusted. The application of these methods provides new ideas and directions for the diagnosis and treatment of complex diseases.

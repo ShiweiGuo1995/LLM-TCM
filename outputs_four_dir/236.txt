@@ -1,0 +1,8 @@
+Original Text
+在探讨中医辨证施治的过程中，我们经常遇到痰气阻膈证与肝郁血虚证这两种症状。前者常见于胸闷、咳喘等症状，后者则表现为情绪抑郁、面色苍白等。在治疗上，需重视肝积与穿腮毒的处理，前者多因情志不遂而发，后者则常见于口腔疾病。同时，对于阴虚潮热及小便不禁等症状，亦需结合患者具体情况进行综合调理，以熄风定痉，达到标本兼治的效果。
+Matched Terms
+['痰气阻膈证', '阴虚潮热', '症状', '肝郁血虚证', '小便不禁', '穿腮毒', '熄风定痉', '肝积']
+Matched Terms Translation
+[['Phlegm qi obstructing the diaphragm pattern'], ['Tidal fever due to yin deficiency'], ['Symptom'], ['Liver qi stagnation with blood deficiency pattern', 'Liver stagnation pattern'], ['Urinary incontinence'], ['Dental abscess', 'Osteomyelitis of the maxilla'], ['Stop wind and relieve convulsions'], ['Masses in the liver']]
+Translation
+In the discussion of TCM syndrome differentiation and treatment, we often encounter two syndromes: Phlegm Qi Obstructing the Diaphragm Pattern and Liver Qi Stagnation with Blood Deficiency Pattern. The former is commonly manifested by symptoms such as chest stuffiness and dyspnea, while the latter is characterized by depression, emotional distress, and pale facial complexion. In treatment, it is necessary to pay attention to the management of Masses in the Liver and Dental Abscess, the former often caused by unsmooth emotions, and the latter frequently seen in oral diseases. At the same time, for symptoms like Tidal Fever due to Yin Deficiency and Urinary Incontinence, a comprehensive adjustment should also be made based on the patient's specific condition to achieve the effect of stopping wind and relieving convulsions, treating both the tip and root.

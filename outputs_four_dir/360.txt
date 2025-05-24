@@ -1,0 +1,8 @@
+Original Text
+本文探讨了精气亏损在产后身痛中的作用机制，并通过临床观察发现，针对此类病症，应用含有泻下药与泄剂的方剂，能有效改善患者症状。同时，对于伴有燥性干涩表现的患者，采用滋阴疗法亦显示出良好效果。此外，在治疗过程中，使用七星针刺激发际疮区域，可显著缓解局部疼痛及炎症。研究表明，综合运用上述方法能够提高治疗效果，为临床提供新的思路。
+Matched Terms
+['精气', '泻下药', '泄剂', '滋阴', '燥性干涩', '发际疮', '产后身痛', '七星针']
+Matched Terms Translation
+[['Essence qi'], ['Purgative medicines'], ['Purging formula'], ['Nourish yin', 'Nourish and supplement yin fluids'], ['Dryness tends to desiccate'], ['Hairline sore'], ['Postpartum body ache'], ['The seven-star needle', 'The seven-star hammer']]
+Translation
+This article explores the mechanism of essence qi deficiency in postpartum body ache, and through clinical observation, it is found that for such diseases, the application of prescriptions containing purgative medicines and purging formulas can effectively alleviate patient symptoms. At the same time, for patients with symptoms of dryness tending to desiccate, the nourish yin therapy also shows good results. Additionally, during the treatment process, using the seven-star needle to stimulate the hairline sore area can significantly relieve local pain and inflammation. Research indicates that the comprehensive use of the aforementioned methods can improve therapeutic outcomes, providing new ideas for clinical practice.

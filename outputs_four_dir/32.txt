@@ -1,0 +1,8 @@
+Original Text
+近来有朋友问我关于肾系疾病的问题，比如足跟疽这种病症，常因血热妄行导致，症状表现为流火一般的感觉。另外，如果出现尿崩的情况，可能是肝胃不调证，此时芤脉会显现出来。饮食上需要注意，避免中焦热盛证的发生，保持良好的生活习惯，才能更好地维护身体健康。
+Matched Terms
+['肾系', '足跟疽', '血热妄行', '流火', '尿崩', '肝胃不调证', '芤脉', '中焦热 盛证']
+Matched Terms Translation
+[['Kidney system', 'Kidney connections'], ['Carbuncle of the heel'], ['Reckless flow of blood due to heat'], ['Erysipelas of the leg'], ['Profuse urination (diabetes insipidus)'], ['Disharmony between the liver and stomach pattern', 'Disharmony of liver and stomach systems pattern', ' Liver qi invading the stomach pattern Liver–stomach disharmony pattern Incoordination between the liver and stomach'], ['Hollow pulse', 'Scallion-like pulse'], ['Excess heat in the spleen and stomach pattern', 'Heat accumulating in the spleen and stomach/middle jiao pattern', ' Excess heat in the spleen and stomach/middle jiao pattern']]
+Translation
+Recently, a friend asked me about kidney system diseases, such as carbuncle of the heel, which is often caused by reckless flow of blood due to heat, manifesting as a sensation like erysipelas of the leg. Additionally, if there is profuse urination, it might be due to disharmony between the liver and stomach pattern, at which time a hollow pulse will appear. Dietarily, one should be cautious to avoid the occurrence of middle jiao heat exuberance pattern, maintain good living habits, in order to better maintain physical health.

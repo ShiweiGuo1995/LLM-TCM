@@ -1,0 +1,8 @@
+Original Text
+最近在学习太极中的掤劲，发现它不仅是一种武术技巧，还能帮助调理身体，特别是对于阳虚阴盛的朋友来说，练习掤劲能起到很好的调节作用。同时，在日常生活中，我们也要注意饮食，避免寒湿之气侵袭，以免形成石瘕或导致血瘀化热证。如果出现这些问题，可以适当使用弹（柄）法来促进血液循环，同时配合一些养心安神药，帮助身体恢复平衡。当然，每个人的身体状况不同，调理的过程也有快慢之分，重要的是找到适合自己的方法，保持良好的生活习惯。
+Matched Terms
+['阳虚阴盛', '石瘕', '散寒化饮', '快慢', '养心安神药', '血瘀化热证', '掤劲', '弹（柄）法']
+Matched Terms Translation
+[['Yang deficiency with yin excess'], ['Stony masses', 'Uterine fibroids'], ['Dissipate cold and transform fluid retention'], ['Fast and slow'], ['Heart-nourishing and mind-calming medicines'], ['Blood stasis transformed heat pattern', 'Stasis transforming into heat pattern'], ['(Peng) ward off'], ['Handle-plucking method', 'Handle-flicking method']]
+Translation
+Recently, while studying the (Peng) ward off in Tai Chi, I discovered that it is not only a martial arts skill but also helps to regulate the body. It is especially beneficial for those with Yang deficiency with yin excess; practicing (Peng) ward off can play a significant regulatory role. At the same time, in daily life, we should also pay attention to our diet to avoid the invasion of cold-dampness, preventing the formation of stony masses or leading to blood stasis transformed heat pattern. If these issues occur, one can appropriately use the handle-plucking method to promote blood circulation, while simultaneously combining heart-nourishing and mind-calming medicines to help the body regain balance. Of course, each person's physical condition varies, and the process of regulation also differs in speed; the key is to find a suitable method and maintain good living habits.

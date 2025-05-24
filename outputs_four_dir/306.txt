@@ -1,0 +1,8 @@
+Original Text
+在探讨痿软舌与不寐之间的关系时，我们注意到格阳关阴现象可能会影响六经证类中的多个环节，进而导致金破不鸣等症状。同时，在临床观察中，子隐和鼓腕亦是常见症状，这些症状往往与骨蚀密切相关，提示我们在治疗过程中需全面考虑患者的整体状况。通过深入研究这些复杂而微妙的症状表现，我们可以更准确地把握疾病的本质，为临床治疗提供更为精准的指导。
+Matched Terms
+['格阳关阴', '痿软舌', '金破不鸣', '不寐', '子隐', '鼓腕', '六经证类', '骨蚀']
+Matched Terms Translation
+[['Rejected yang and blocked yin'], ['Flaccid tongue'], ['Broken metal failing to sound'], ['Insomnia', 'Insomnia disorder Sleeplessness'], ['Undescended testis'], ['Pumping wrist'], ['Six meridians patterns'], ['Bone lesion']]
+Translation
+When exploring the relationship between flaccid tongue and insomnia, we noticed that the phenomenon of rejected yang and blocked yin may affect multiple links in the six meridians patterns, leading to symptoms such as broken metal failing to sound. At the same time, in clinical observations, undescended testis and pumping wrist are also common symptoms, which are often closely related to bone lesions, indicating that during the treatment process, we need to comprehensively consider the patient's overall condition. By deeply studying these complex and subtle symptom manifestations, we can more accurately grasp the nature of the disease and provide more precise guidance for clinical treatment.

@@ -1,0 +1,8 @@
+Original Text
+在探讨情志郁结证时，我们常发现其与五味偏嗜有关，这可能导致体内精气失衡，进而引发痟中等病症。在诊断过程中，观察到囟填现象和检测到死脉都是重要线索，而留饮的存在也提示了里邪出表的可能性。通过综合分析这些症状，我们可以更准确地判断病情并制定治疗方案。
+Matched Terms
+['情志郁结证', '囟填', '死脉', '五味偏嗜', '痟中', '里邪出表', '精气', '留饮']
+Matched Terms Translation
+[['Emotional stagnation pattern', 'Excessive worry damaging spirit qi pattern'], ['Bulging fontanels'], ['Strange pulse', 'True visceral pulse', ' exhaustion pulse', ' failure pulse', ' critical pulse'], ['Flavour preference', 'Flavour predilections'], ['Wasting of the middle jiao', 'Spleen/stomach wasting'], ['Interior pathogen moving out to the exterior'], ['Essence qi'], ['Prolonged fluid retention']]
+Translation
+In discussing the pattern of emotional stagnation, we often find its association with flavour predilections, which may lead to an imbalance of essence qi within the body, potentially causing diseases such as wasting of the middle jiao. During diagnosis, the observation of bulging fontanels and the detection of strange pulse are important clues, while the presence of prolonged fluid retention also indicates the possibility of interior pathogen moving out to the exterior. By comprehensively analyzing these symptoms, we can more accurately judge the condition and formulate a treatment plan.

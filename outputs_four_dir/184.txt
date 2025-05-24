@@ -1,0 +1,8 @@
+Original Text
+妊娠小便不通常因气机不畅所致，治疗时需配合解表药以调和气血，使气至病所。若遇伏暑，体内实热证明显，可用啄法刺激相应穴位以泻热通淋。热入血分证患者亦可见尿闭症状，治疗上需注重清热凉血，同时关注注车等外界因素对病情的影响。在临床实践中，综合运用多种治疗方法是关键。
+Matched Terms
+['妊娠小便不通', '伏暑', '注车', '实热证', '啄法', '热入血分证', '解表药', '气至病所']
+Matched Terms Translation
+[['Urine retention in pregnancy'], ['Latent summer heat pestilence'], ['Motion sickness', 'Car sickness Seasickness'], ['Interior heat pattern', 'Excess heat pattern'], ['Pecking manipulation'], ['Heat entering the blood phase pattern', 'Excess heat in the blood aspect pattern', ' Blood and heat pattern'], ['Exterior-releasing medicines'], ['Qi reaches the affected area']]
+Translation
+Pregnancy urinary retention is usually caused by obstructed Qi movement. During treatment, exterior-releasing medicines should be used to regulate and harmonize qi and blood, allowing Qi to reach the affected area. If latent summer heat pestilence occurs, with evident interior heat pattern, pecking manipulation can be applied to stimulate corresponding acupoints to clear heat and promote urination. Patients with heat entering the blood phase pattern may also present symptoms of urinary retention; treatment should focus on clearing heat and cooling blood while also considering the impact of external factors such as motion sickness on the condition. In clinical practice, it is crucial to comprehensively apply various treatment methods.

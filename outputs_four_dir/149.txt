@@ -1,0 +1,8 @@
+Original Text
+最近在学习太极推手时，发现自己的齿痕舌情况似乎有所改善，这让我想起中医理论中关于心阴和脾脏的关系。有时候过度劳累会引发身体不适，甚至出现类似疫黄的症状，这时候就需要通过辨证来判断病情了。我尝试用化瘀理脾的方法调理，感觉确实好了很多。不过，家中小孩偶尔会有蛲虫病的小困扰，这也提醒我们日常生活中要注意卫生习惯。内障类病虽然不是常见病症，但也需要我们关注眼睛健康，毕竟眼睛是心灵的窗户。
+Matched Terms
+['蛲虫病', '辨证', '太极推手', '齿痕舌', '内障类病', '心阴', '疫黄', '化瘀理脾']
+Matched Terms Translation
+[['Enterobiasis', 'Paediatric pinworm infection'], ['Pattern identification', 'pattern differentiation'], ['Taiji pushing hands'], ['Tongue with teeth marks', 'Teeth-marked Tongue with dental impressions', ' Scalloped tongue'], ['Eye disorders involving the pupil, eyeball, retina or other eye tissues'], ['Heart yin'], ['Liver pestilence', 'Jaundice disorder', ' Pestilential jaundice', ' Acute jaundice'], ['Transform stasis and regulate the spleen']]
+Translation
+Recently while studying Taiji pushing hands, I found that my teeth-marked tongue seemed to have improved, which reminded me of the relationship between Heart Yin and the Spleen in Traditional Chinese Medicine. Sometimes overwork can lead to physical discomfort, even symptoms similar to Pestilential Jaundice, at which point pattern differentiation is needed to diagnose the condition. I tried using the method of Transforming Stasis and Regulating the Spleen for adjustment, and indeed felt much better. However, the occasional issue of Enterobiasis in children in my family also reminds us to pay attention to hygiene habits in daily life. Although Eye disorders involving the pupil, eyeball, retina or other eye tissues are not common diseases, we still need to focus on eye health, after all, the eyes are the windows to the soul.

@@ -1,0 +1,8 @@
+Original Text
+在探讨产后血晕这一病症时，我们发现其病机与阴虚肺燥证密切相关，治疗时需注重固护阴液和滋养肾阴，采用提肛等方法以改善症状。同时，对于出现老黄苔的患者，应考虑其可能存在的肾阴不足问题，通过滋补肾阴的方法来调整体内阴阳平衡。此外，在手法治疗方面，挒法也是值得推荐的一种辅助疗法。在整体治疗过程中，我们不仅需要关注表面的症状，更要深入探究其内在病因，从而达到标本兼治的目的。
+Matched Terms
+['阴虚肺燥证', '老黄苔', '提肛', '固护阴液', '滋补肾阴', '挒法', '产后血晕', '滋养肾阴']
+Matched Terms Translation
+[['Lung heat and yin deficiency pattern', 'Lung heat damaging fluids pattern', ' lung dryness due to yin/ fluids deficiency pattern'], ['Brown–yellow coating'], ['Lifting the anus', 'Suspending the crotch'], ['Secure and astringe yin fluids', 'Astringe yin and prevent collapse'], ['Nourish and supplement kidney yin', 'Nourish kidney yin'], ['(Lie) splitting method'], ['Postpartum fainting'], ['Nourish and supplement kidney yin', 'Nourish kidney yin']]
+Translation
+In exploring postpartum fainting, we find its pathogenesis closely related to the pattern of lung heat and yin deficiency, treatment should focus on securing and astringing yin fluids and nourishing kidney yin, using methods such as lifting the anus to improve symptoms. At the same time, for patients with brown-yellow coating, consideration should be given to their possible kidney yin insufficiency issue, adjusting the balance between yin and yang within the body through methods of nourishing kidney yin. Additionally, in terms of manual therapy, the (Lie) splitting method is also a recommended auxiliary therapy. Throughout the entire treatment process, we not only need to pay attention to surface symptoms but also delve deeply into investigating the root cause, thereby achieving the goal of treating both the tip and root.

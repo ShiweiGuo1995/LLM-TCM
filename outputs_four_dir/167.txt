@@ -1,0 +1,8 @@
+Original Text
+最近在门诊中遇到一位患者，他的舌苔呈现燥苔状态，同时伴有吐血的症状，通过问诊类了解后发现他可能患有消中。我建议他采用活血祛风的方法，并适当使用一些攻下药来调理身体。同时，为了增强体质，我为他开了些膏滋，希望他在日常生活中能够注重饮食，避免辛辣刺激，以防唇癌的发生。
+Matched Terms
+['燥苔', '吐血', '问诊类', '唇癌', '消中', '活血祛风', '攻下药', '膏滋']
+Matched Terms Translation
+[['Dry coating'], ['Vomiting blood', 'Hematemesis', 'Vomiting of blood', 'haematemesis'], ['The category of inquiry'], ['Lip ulcer'], ['Wasting of the middle jiao', 'Spleen/stomach wasting'], ['Circulate blood and eliminate wind'], ['Draining purgative medicines', 'Attacking purgative medicines'], ['Condensed decoction', 'Oral thick paste']]
+Translation
+Recently, I encountered a patient in the outpatient clinic whose tongue coating was in a state of dry coating, accompanied by symptoms of vomiting blood. Through inquiry, it was discovered that he might be suffering from wasting of the middle jiao. I suggested that he adopt the method of circulating blood and eliminating wind, and appropriately use some attacking purgative medicines to regulate his body. At the same time, to strengthen his physique, I prescribed him some condensed decoctions, hoping that in his daily life he could pay attention to his diet, avoid spicy and stimulating foods, to prevent the occurrence of lip ulcer.

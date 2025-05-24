@@ -1,0 +1,8 @@
+Original Text
+最近在研究中医的三因学说，发现生活中很多常见病症都和这些理论息息相关。比如我最近遇到一个患者，他经常感到阴虚肺燥证，咳嗽不止，喉咙不适，甚至有时会出现喉癣的症状。还有一位患者，由于饮食不当导致气臌，腹部胀满。另外，我发现小孩子容易患走马牙疳，这需要我们特别注意口腔卫生。治疗上，我会用一些止血剂来缓解症状，同时也会用到背法来调理身体。当然，如果是在阳明经证的情况下，治疗方式又会有所不同。希望我的分享能帮助大家更好地理解和预防这些疾病。
+Matched Terms
+['阴虚肺燥证', '背法', '喉癣', '气臌', '走马牙疳', '三因学说', '止血剂', '阳明经证']
+Matched Terms Translation
+[['Lung heat and yin deficiency pattern', 'Lung heat damaging fluids pattern', ' lung dryness due to yin/ fluids deficiency pattern'], ['Back-carrying manipulation'], ['Tuberculosis of the throat'], ['Qi tympanites'], ['Acute ulcerative gingivitis'], ['Theory of three etiological categories'], ['Formulas that stop bleeding'], ['Yangming meridian pattern']]
+Translation
+Recently, while studying the Theory of three etiological categories in Traditional Chinese Medicine, I found that many common diseases in life are closely related to these theories. For instance, I recently encountered a patient who often experienced the Lung heat and yin deficiency pattern, with persistent cough, sore throat, and sometimes even symptoms of Tuberculosis of the throat. Another patient suffered from Qi tympanites due to improper diet, leading to abdominal distension. Additionally, I discovered that children are prone to Acute ulcerative gingivitis, which requires us to pay special attention to oral hygiene. In treatment, I use some Formulas that stop bleeding to alleviate symptoms, and also apply Back-carrying manipulation for body regulation. Of course, if it is under the Yangming meridian pattern, the treatment method would be different. I hope my sharing can help everyone better understand and prevent these diseases.

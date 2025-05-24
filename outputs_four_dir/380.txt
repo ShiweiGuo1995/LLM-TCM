@@ -1,0 +1,8 @@
+Original Text
+交肠病与皮肤瘙痒困扰着许多人，其中交肠病常常伴随牙疳出现。治疗时，我们常采用扶正解表剂来疏风透疹，同时使用具有散寒开窍作用的药物以缓解症状。在某些情况下，肝气犯胃证也会并发，此时需结合膏肓穴进行针灸治疗以调和气血，达到散寒开窍的效果。通过综合治疗，可以有效改善这些复杂的病症。
+Matched Terms
+['交肠病', '疏风透疹', '膏肓', '皮肤瘙痒', '牙疳', '扶正解表剂', '散寒开窍', '肝气犯胃证']
+Matched Terms Translation
+[['Obstetric (rectovaginal) fistula'], ['Remove wind and promote skin eruption', 'Release the exterior and promote skin eruption'], ['Gaohuang'], ['Pruritus', 'Skin itch'], ['Ulcerative gingivitis'], ['Formulas that reinforce healthy qi and release the exterior'], ['Dissipate cold and open the orifices', 'Open the orifices with pungent warm'], ['Liver qi affecting the stomach pattern', 'Qi stagnation  of the liver and stomach pattern']]
+Translation
+Obstetric (rectovaginal) fistula and skin itch affect many people, often accompanied by ulcerative gingivitis. In treatment, we commonly use formulas that reinforce healthy qi and release the exterior to remove wind and promote skin eruption, while using drugs with actions to dissipate cold and open the orifices to alleviate symptoms. In some cases, the pattern of Qi stagnation of the liver and stomach may also occur, requiring combined needling manipulation at the Gaohuang point to regulate and harmonize qi and blood, achieving the effect of dissipating cold and opening the orifices. Through comprehensive treatment, these complex conditions can be effectively improved.

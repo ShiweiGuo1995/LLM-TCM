@@ -1,0 +1,8 @@
+Original Text
+最近有位朋友跟我抱怨，说他总是感觉身体不适，经常吐酸水，还有点肠郁的感觉，整个人都提不起精神来。我建议他可以试试清肝泄火的方法，同时调理一下自己的饮食习惯，避免辛辣刺激的食物。他还提到最近情绪波动比较大，总觉得心里不痛快，这可能是神不宁的表现。我告诉他，保持心情舒畅对健康非常重要。另外，他的症状听起来有点像是半表半里证的表现，如果情况没有好转，最好去医院检查一下，看看是不是饮溢胸胁证或者天花等病症。当然，如果是皮肤瘙痒的问题，通经止痒的疗法可能也会有所帮助。希望我的建议对他有所帮助。
+Matched Terms
+['清肝泄火', '神', '通经止痒', '半表半里证', '吐酸', '天花', '肠郁', '饮溢胸胁证']
+Matched Terms Translation
+[['Clear and reduce liver fire', 'Clear the liver and reduce fire'], ['Spirit'], ['Unblock meridians and relieve itch'], ['Neither exterior nor interior pattern', 'Half exterior and half interior (commonly used but wrong in meaning)'], ['Acid regurgitation', 'Acid reflux'], ['Smallpox'], ['Irritable bowel pattern'], ['Chest/subcostal fluid retention pattern']]
+Translation
+Recently, a friend complained to me that he always felt unwell, often had acid regurgitation, and experienced some symptoms of irritable bowel pattern, feeling lethargic overall. I suggested that he could try the method of clearing and reducing liver fire and at the same time adjust his dietary habits, avoiding spicy and stimulating foods. He also mentioned that his emotions have been fluctuating significantly lately, always feeling uncomfortable mentally, which might be a manifestation of spirit not being tranquil. I told him that maintaining a pleasant mood is very important for health. Additionally, his symptoms sounded somewhat like the presentation of a half exterior and half interior pattern; if there's no improvement, it would be best to go to the hospital for a check-up to see if it's a chest/subcostal fluid retention pattern or smallpox disease. Of course, if it's a problem with skin pruritus, the therapy of unblocking meridians and relieving itch may also be helpful. I hope my suggestions will be beneficial to him.

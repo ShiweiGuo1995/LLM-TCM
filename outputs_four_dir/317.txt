@@ -1,0 +1,8 @@
+Original Text
+在本次研究中，我们探讨了寸关尺与背俞穴在治疗妊娠消渴中的应用。通过临床观察，采用具有升浮属性的药物配伍泻剂，能有效缓解妊娠期患者风疹症状，并改善其体内钩脉的状态。同时，对于小儿麻疹的治疗，结合寸关尺与背俞穴的针灸干预，亦显示出良好的疗效。本研究表明，合理运用中医理论指导临床实践，能够为妊娠期疾病提供更为安全有效的治疗策略。
+Matched Terms
+['寸关尺', '泻剂', '风疹', '钩脉', '妊娠消渴', '小儿麻疹', '背俞穴', '升浮药']
+Matched Terms Translation
+[['Cun, Guan and Chi'], ['Purging formula'], ['Wind rashes'], ['Hooked pulse'], ['Diabetes during pregnancy'], ['Measles'], ['Back-Shu points'], ['Ascending and floating medicines']]
+Translation
+In this study, we explored the application of Cun, Guan and Chi and Back-Shu points in the treatment of wasting and thirst disorders during pregnancy. Through clinical observation, the use of drugs with rising and floating properties combined with purging formulas can effectively alleviate wind rashes symptoms and improve the state of the Hooked pulse in pregnant patients. At the same time, for the treatment of measles in children, the acupuncture intervention combining Cun, Guan and Chi and Back-Shu points also shows good efficacy. This study demonstrates that the rational use of TCM theory to guide clinical practice can provide safer and more effective treatment strategies for diseases during pregnancy.

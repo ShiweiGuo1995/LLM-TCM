@@ -1,0 +1,8 @@
+Original Text
+中医认为，卫营同病常表现为多种症状，如黄水疮和大头瘟等，这些病症往往需要通过活血止痛、化毒消肿的方法来治疗。在妇科疾病中，乳癌患者亦可见类似表现，治疗时需辨证施治，采用相应疗法。此外，情绪波动引起的喜证也可能伴随上述症状出现，治疗时需兼顾调理情志。对于喉岩这类咽喉疾病，同样需要运用化毒消肿的原则进行处理。在临床实践中，综合运用以上方法对症下药，才能取得较好的疗效。
+Matched Terms
+['卫营同病', '黄水疮', '乳癌', '喜证', '活血止痛', '喉岩', '化毒消肿', '大头瘟']
+Matched Terms Translation
+[['Pattern involving both the Wei-defence and Ying nutrients'], ['Yellow-water sore', 'Impetigo disorder'], ['Rocky mass in the breast', 'Breast cancer'], ['Excessive joy pattern'], ['Circulate blood and alleviate pain', 'Circulate blood, unblock meridians and alleviate pain'], ['Throat cancer'], ['Remove toxins and resolve swelling', 'Remove toxins and resolve masses'], ['Swollen face']]
+Translation
+In TCM, the disease involving both the Wei-defense and Ying-nutrients often presents with various symptoms such as Yellow-water sore and Swollen face. These conditions usually require treatment through methods like circulating blood to alleviate pain and remove toxins to resolve swelling. In gynecological diseases, patients with Breast cancer may also exhibit similar manifestations; during treatment, it is necessary to identify the pattern and apply corresponding therapies accordingly. Additionally, Excessive joy pattern caused by emotional fluctuations may accompany the aforementioned symptoms, hence during treatment, it is essential to regulate emotions. For throat diseases such as Throat cancer, similar principles of removing toxins and resolving swelling must be applied. In clinical practice, a comprehensive application of the above methods to address the symptoms is crucial for achieving better therapeutic outcomes.

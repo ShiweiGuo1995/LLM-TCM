@@ -1,0 +1,8 @@
+Original Text
+在探讨足跟痹的病因病机时，我们发现其病程往往体现为阳微阴弦，临床表现为下肢沉重、疼痛，结合四诊合参，可见患者心肺气虚证，伴有表里同病之象，渴不欲饮，此乃阴液不足所致。治疗上，宜采用滋阴润燥剂，辅以调和经络之气，方能取得良好疗效。
+Matched Terms
+['足跟痹', '阳微阴弦', '滋阴润燥剂', '表里同病', '渴不欲饮', '心肺气虚证', '四诊合参', '经络之气']
+Matched Terms Translation
+[['Heel pain'], ['Feeble yang and wiry yin'], ['Formulas that nourish yin and moisten dryness'], ['Concurrent exterior and interior pattern'], ['Thirst with no desire to drink'], ['Qi deficiency of the heart and lung pattern', 'Heart and lung qi deficiency pattern'], ['Combination of the four diagnostic methods'], ['Qi of meridians']]
+Translation
+In exploring the pathogenesis of heel pain, we find that it often manifests as feeble yang and wiry yin. Clinically, it is characterized by heavy and painful lower limbs. Combining the four diagnostic methods, we can observe a pattern of qi deficiency of the heart and lung, accompanied by concurrent exterior and interior patterns, with thirst but no desire to drink, which is due to insufficient yin fluids. In treatment, it is advisable to use formulas that nourish yin and moisten dryness, supplemented by regulating the qi of meridians, in order to achieve good therapeutic effects.

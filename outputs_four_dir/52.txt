@@ -1,0 +1,8 @@
+Original Text
+本文旨在探讨岁运变化对心系疾病的影响，特别是通过分析子烦与冲任不调证的临床表现，结合补血药及引经药的应用，以期达到既病防变的目的。研究发现，针刺类疗法在调整冲任不调证方面具有显著效果，同时指出合理应用补血药对于改善子烦症状至关重要。进一步研究表明，岁运变化不仅影响人体生理机能，还可能诱发或加重上述病症，因此，在治疗过程中应充分考虑岁运因素，灵活运用针刺类疗法及引经药，以实现最佳疗效。
+Matched Terms
+['心系', '引经药', '子烦', '冲任不调证', '既病防变', '针刺类', '补血药', '岁运']
+Matched Terms Translation
+[['Heart system', 'Heart connections', 'The heart connections'], ['Meridian guide', 'Channel guide'], ['Vexation during pregnancy'], ['Disharmony between the Chong and Ren pattern'], ['Preventing transmission of a disease after its onset'], ['Acupuncture'], ['Blood-tonifying medicines'], ['Movement of the year']]
+Translation
+This article aims to explore the impact of the movement of the year on heart system diseases, particularly by analyzing the clinical manifestations of vexation during pregnancy and disharmony between the Chong and Ren pattern, combined with the application of blood-tonifying medicines and channel guide drugs, in order to achieve the purpose of preventing transmission of a disease after its onset. The study found that acupuncture therapies have significant effects in adjusting the disharmony between the Chong and Ren pattern, while also pointing out that the rational application of blood-tonifying medicines is crucial for improving symptoms of vexation during pregnancy. Further research indicates that the movement of the year not only affects human physiological functions but may also induce or exacerbate the aforementioned conditions; therefore, age movement factors should be fully considered in the treatment process, and acupuncture therapies and channel guide drugs should be flexibly applied to achieve optimal therapeutic effects.

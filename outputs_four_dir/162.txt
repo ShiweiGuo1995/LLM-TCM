@@ -1,0 +1,8 @@
+Original Text
+本文通过对“发表攻里”、“淋证”、“肺瘅”等病症的分析，结合临床实践探讨了“面瘫”与“飞扬喉”的诊断和治疗方法，并对“筋伤”患者的康复训练提出建议。同时，对于“八不传”理论在治疗过程中的应用进行了深入研究，进一步探讨了其在“产后类病”患者治疗中的指导意义。研究表明，“发表攻里”法与“八不传”理论相结合，在治疗上述病症方面具有显著疗效。
+Matched Terms
+['发表攻里', '淋证', '肺瘅', '面瘫', '飞扬喉', '筋伤', '八不传', '产后类病']
+Matched Terms Translation
+[['Release the exterior and purge the interior'], ['Strangury', 'Strangury disorders'], ['Lung heat', 'Lung heat disorder'], ['Deviation of the mouth corner', 'Facial palsy'], ['Uvula haematoma'], ['Tendon injuries'], ['Eight types of people should be declined to learn Taiji'], ['Postpartum disorders', 'Postpartum diseases']]
+Translation
+This article analyzes "release the exterior and purge the interior," "strangury," and "lung heat" conditions, combining clinical practice to explore the diagnosis and treatment of "facial palsy" and "uvula hematoma," and provides suggestions for rehabilitation training for patients with "tendon injuries." Meanwhile, it conducts an in-depth study on the application of the "eight types of people should be declined to learn Taiji" theory during the treatment process, further exploring its guiding significance in the treatment of "postpartum disorders." The research shows that the combination of the "release the exterior and purge the interior" method and the "eight types of people should be declined to learn Taiji" theory has significant therapeutic effects on the above-mentioned conditions.
